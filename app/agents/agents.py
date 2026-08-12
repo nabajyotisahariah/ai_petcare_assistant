@@ -10,10 +10,12 @@ from app.config import settings, BASE_DIR
 
 def load_prompt(filename: str) -> str:
     path = Path(BASE_DIR) / "app" / "prompts" / filename
+    print("load_prompt... filename ",filename)
     with open(path, "r", encoding="utf-8") as f:
         return f.read()
 
 def create_orchestrator_agent() -> Agent:
+    print("create_orchestrator_agent...")
     return Agent(
         role="AI PetCare Assistant Orchestrator",
         goal="Understand user intent, manage context, and coordinate other agents to fulfill pet care requests.",
@@ -23,6 +25,7 @@ def create_orchestrator_agent() -> Agent:
     )
 
 def create_clinic_agent() -> Agent:
+    print("create_clinic_agent...")
     return Agent(
         role="Clinic Agent",
         goal="Provide accurate information about clinics, their hours, and doctors.",
@@ -33,6 +36,7 @@ def create_clinic_agent() -> Agent:
     )
 
 def create_appointment_agent() -> Agent:
+    print("create_appointment_agent...")
     return Agent(
         role="Appointment Agent",
         goal="Find available appointment slots for users.",
@@ -43,6 +47,7 @@ def create_appointment_agent() -> Agent:
     )
 
 def create_pet_agent() -> Agent:
+    print("create_pet_agent...",load_prompt("pet_agent.txt"))
     return Agent(
         role="Pet Agent",
         goal="Retrieve accurate profile and context information about the user's pet.",
@@ -53,6 +58,7 @@ def create_pet_agent() -> Agent:
     )
 
 def create_prescription_agent() -> Agent:
+    print("create_prescription_agent...")
     return Agent(
         role="Prescription Agent",
         goal="Retrieve prescription history and check refill eligibility.",
@@ -63,6 +69,7 @@ def create_prescription_agent() -> Agent:
     )
 
 def create_commerce_agent() -> Agent:
+    print("create_commerce_agent...")
     return Agent(
         role="Commerce Agent",
         goal="Find and recommend pet products based on constraints.",

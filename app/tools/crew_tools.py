@@ -13,6 +13,7 @@ product_svc = ProductService()
 def find_nearby_clinics() -> str:
     """Finds and returns a list of nearby clinics."""
     clinics = clinic_svc.find_nearby_clinics()
+    print("create_clinic_agent.find_nearby_clinics ",clinics)
     if not clinics:
         return "No nearby clinics found."
     return str([{"id": c["id"], "name": c["name"], "address": c["address"], "phone": c["phone"], "is_open_now": c["is_open_now"]} for c in clinics])
@@ -21,6 +22,8 @@ def find_nearby_clinics() -> str:
 def is_clinic_open(clinic_id: str) -> str:
     """Checks if a specific clinic is open right now."""
     clinic = clinic_svc.get_clinic(clinic_id)
+    print("create_clinic_agent.is_clinic_open ",clinic)
+
     if not clinic:
         return f"Clinic {clinic_id} not found."
     return f"Clinic {clinic['name']} is {'open' if clinic['is_open_now'] else 'closed'} right now."
@@ -29,6 +32,8 @@ def is_clinic_open(clinic_id: str) -> str:
 def get_clinic_doctors(clinic_id: str) -> str:
     """Gets a list of doctors for a specific clinic."""
     doctors = clinic_svc.get_clinic_doctors(clinic_id)
+    print("create_clinic_agent.is_clinic_open ",doctors)
+
     if not doctors:
         return f"No doctors found for clinic {clinic_id}."
     return str([{"id": d["id"], "name": d["name"], "specialties": d["specialties"]} for d in doctors])

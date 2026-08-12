@@ -2,7 +2,7 @@
     {
         "id": "CLINIC-1001",
         "name": "PetCare Clinic 1",
-        "address": "799 Main St, Cityville",
+        "address": "Noida",
         "phone": "555-0101",
         "is_open_now": true,
         "hours": {
@@ -24,7 +24,7 @@
     {
         "id": "CLINIC-1002",
         "name": "PetCare Clinic 2",
-        "address": "763 Main St, Cityville",
+        "address": "Delhi",
         "phone": "555-0102",
         "is_open_now": true,
         "hours": {
