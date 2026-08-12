@@ -18,7 +18,13 @@ def simple_intent_parser(message: str) -> str:
         return "RX_REFILL"
     return "GENERAL"
 
-@router.post("/chat", response_model=ChatResponse)
+@router.post(
+    "/chat",
+    response_model=ChatResponse,
+    summary="Chat with the PetCare AI Assistant",
+    description="Send a message to the AI pet care assistant to retrieve pet profiles, search clinics, check available appointment slots, or ask for product recommendations.",
+    response_description="The AI's generated response to the user query, alongside metadata such as intent and required confirmations."
+)
 async def chat_endpoint(request: ChatRequest):
     # Session handling (simple for MVP)
     session_id = request.user_id # In real app, separate user_id and conversation_id

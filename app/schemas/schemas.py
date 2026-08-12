@@ -1,20 +1,29 @@
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, ConfigDict
 from typing import Optional, List, Dict, Any
 from datetime import datetime
 
 # --- Chat Request / Response ---
 class ChatRequest(BaseModel):
-    user_id: str
-    message: str
+    user_id: str = Field(..., description="The unique identifier for the user.")
+    message: str = Field(..., description="The message or query from the user.")
+
+    model_config = ConfigDict(
+        json_schema_extra={
+            "example": {
+                "user_id": "USER-1001",
+                "message": "Find a vet near me for Max and what are the available slots?"
+            }
+        }
+    )
 
 class ChatResponse(BaseModel):
-    conversation_id: str
-    message: str
-    intent: Optional[str] = None
-    agents_used: List[str] = []
-    requires_confirmation: bool = False
-    pending_action: Optional[str] = None
-    action_parameters: Optional[Dict[str, Any]] = None
+    conversation_id: str = Field(..., description="The ID of the current conversation/session.")
+    message: str = Field(..., description="The response message from the AI assistant.")
+    intent: Optional[str] = Field(None, description="The detected intent of the user's message.")
+    agents_used: List[str] = Field([], description="A list of specialized AI agents utilized to fulfill the request.")
+    requires_confirmation: bool = Field(False, description="Whether the system needs user confirmation to proceed with a pending action.")
+    pending_action: Optional[str] = Field(None, description="The type of action waiting for confirmation (e.g., 'BOOK_APPOINTMENT').")
+    action_parameters: Optional[Dict[str, Any]] = Field(None, description="Parameters related to the pending action.")
 
 # --- Pet Schemas ---
 class PetBase(BaseModel):
