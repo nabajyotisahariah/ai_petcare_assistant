@@ -1,302 +1,5002 @@
 [
     {
         "id": "RX-1001",
-        "pet_id": "PET-1009",
-        "doctor_id": "DOC-1004",
-        "medication": "Amoxicillin",
-        "dosage": "1 tablet(s) daily",
+        "pet_id": "PET-1033",
+        "doctor_id": "DOC-1062",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
         "instructions": "Give with food",
         "refills_remaining": 2,
-        "issue_date": "2026-07-20T00:19:12.488196"
+        "issue_date": "2025-09-18T17:21:00"
     },
     {
         "id": "RX-1002",
-        "pet_id": "PET-1010",
-        "doctor_id": "DOC-1020",
+        "pet_id": "PET-1248",
+        "doctor_id": "DOC-1131",
         "medication": "Amoxicillin",
-        "dosage": "2 tablet(s) daily",
+        "dosage": "1 tablet(s) daily",
         "instructions": "Give with food",
-        "refills_remaining": 1,
-        "issue_date": "2026-07-07T00:19:12.488196"
+        "refills_remaining": 3,
+        "issue_date": "2025-12-08T05:42:17"
     },
     {
         "id": "RX-1003",
-        "pet_id": "PET-1009",
-        "doctor_id": "DOC-1017",
-        "medication": "Heartgard Plus",
+        "pet_id": "PET-1468",
+        "doctor_id": "DOC-1207",
+        "medication": "Frontline",
         "dosage": "1 tablet(s) daily",
         "instructions": "Give with food",
-        "refills_remaining": 0,
-        "issue_date": "2026-06-01T00:19:12.488196"
+        "refills_remaining": 3,
+        "issue_date": "2026-05-27T00:10:21"
     },
     {
         "id": "RX-1004",
-        "pet_id": "PET-1014",
-        "doctor_id": "DOC-1009",
-        "medication": "Apoquel 16mg",
-        "dosage": "2 tablet(s) daily",
+        "pet_id": "PET-1224",
+        "doctor_id": "DOC-1266",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
         "instructions": "Give with food",
-        "refills_remaining": 1,
-        "issue_date": "2026-07-28T00:19:12.488196"
+        "refills_remaining": 2,
+        "issue_date": "2026-06-09T06:25:15"
     },
     {
         "id": "RX-1005",
-        "pet_id": "PET-1009",
-        "doctor_id": "DOC-1006",
-        "medication": "Carprofen",
+        "pet_id": "PET-1215",
+        "doctor_id": "DOC-1434",
+        "medication": "Rimadyl",
         "dosage": "2 tablet(s) daily",
         "instructions": "Give with food",
         "refills_remaining": 0,
-        "issue_date": "2026-06-07T00:19:12.488196"
+        "issue_date": "2025-11-22T09:45:46"
     },
     {
         "id": "RX-1006",
-        "pet_id": "PET-1004",
-        "doctor_id": "DOC-1003",
-        "medication": "Bravecto 16mg",
+        "pet_id": "PET-1414",
+        "doctor_id": "DOC-1053",
+        "medication": "Rimadyl",
         "dosage": "1 tablet(s) daily",
         "instructions": "Give with food",
-        "refills_remaining": 2,
-        "issue_date": "2026-05-06T00:19:12.488196"
+        "refills_remaining": 1,
+        "issue_date": "2025-02-26T09:36:37"
     },
     {
         "id": "RX-1007",
-        "pet_id": "PET-1019",
-        "doctor_id": "DOC-1018",
-        "medication": "NexGard",
+        "pet_id": "PET-1291",
+        "doctor_id": "DOC-1494",
+        "medication": "Frontline",
         "dosage": "1 tablet(s) daily",
         "instructions": "Give with food",
-        "refills_remaining": 0,
-        "issue_date": "2026-07-15T00:19:12.488196"
+        "refills_remaining": 1,
+        "issue_date": "2026-07-04T15:35:43"
     },
     {
         "id": "RX-1008",
-        "pet_id": "PET-1010",
-        "doctor_id": "DOC-1012",
-        "medication": "Heartgard Plus",
-        "dosage": "1 tablet(s) daily",
+        "pet_id": "PET-1421",
+        "doctor_id": "DOC-1296",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
         "instructions": "Give with food",
-        "refills_remaining": 1,
-        "issue_date": "2026-07-28T00:19:12.488196"
+        "refills_remaining": 3,
+        "issue_date": "2026-03-23T23:37:12"
     },
     {
         "id": "RX-1009",
-        "pet_id": "PET-1004",
-        "doctor_id": "DOC-1012",
-        "medication": "Metacam",
-        "dosage": "2 tablet(s) daily",
+        "pet_id": "PET-1480",
+        "doctor_id": "DOC-1463",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
         "instructions": "Give with food",
-        "refills_remaining": 1,
-        "issue_date": "2026-05-23T00:19:12.488196"
+        "refills_remaining": 2,
+        "issue_date": "2025-10-14T18:43:13"
     },
     {
         "id": "RX-1010",
-        "pet_id": "PET-1008",
-        "doctor_id": "DOC-1006",
-        "medication": "NexGard",
+        "pet_id": "PET-1202",
+        "doctor_id": "DOC-1167",
+        "medication": "Amoxicillin",
         "dosage": "1 tablet(s) daily",
         "instructions": "Give with food",
-        "refills_remaining": 1,
-        "issue_date": "2026-07-11T00:19:12.488196"
+        "refills_remaining": 2,
+        "issue_date": "2024-09-19T01:43:44"
     },
     {
         "id": "RX-1011",
-        "pet_id": "PET-1011",
-        "doctor_id": "DOC-1014",
-        "medication": "Metacam",
+        "pet_id": "PET-1358",
+        "doctor_id": "DOC-1251",
+        "medication": "Heartgard",
         "dosage": "1 tablet(s) daily",
         "instructions": "Give with food",
-        "refills_remaining": 2,
-        "issue_date": "2026-05-09T00:19:12.488196"
+        "refills_remaining": 0,
+        "issue_date": "2024-10-13T03:06:49"
     },
     {
         "id": "RX-1012",
-        "pet_id": "PET-1006",
-        "doctor_id": "DOC-1004",
-        "medication": "Metacam",
-        "dosage": "1 tablet(s) daily",
+        "pet_id": "PET-1155",
+        "doctor_id": "DOC-1488",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
         "instructions": "Give with food",
-        "refills_remaining": 3,
-        "issue_date": "2026-06-15T00:19:12.488196"
+        "refills_remaining": 2,
+        "issue_date": "2026-08-02T21:25:51"
     },
     {
         "id": "RX-1013",
-        "pet_id": "PET-1008",
-        "doctor_id": "DOC-1007",
-        "medication": "Heartgard Plus",
-        "dosage": "2 tablet(s) daily",
+        "pet_id": "PET-1225",
+        "doctor_id": "DOC-1410",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
         "instructions": "Give with food",
         "refills_remaining": 1,
-        "issue_date": "2026-06-05T00:19:12.488196"
+        "issue_date": "2025-07-15T20:46:00"
     },
     {
         "id": "RX-1014",
-        "pet_id": "PET-1008",
-        "doctor_id": "DOC-1001",
-        "medication": "Bravecto 16mg",
-        "dosage": "2 tablet(s) daily",
+        "pet_id": "PET-1048",
+        "doctor_id": "DOC-1493",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
         "instructions": "Give with food",
-        "refills_remaining": 2,
-        "issue_date": "2026-05-10T00:19:12.488196"
+        "refills_remaining": 3,
+        "issue_date": "2024-12-06T09:08:01"
     },
     {
         "id": "RX-1015",
-        "pet_id": "PET-1009",
-        "doctor_id": "DOC-1003",
-        "medication": "Heartgard Plus",
-        "dosage": "2 tablet(s) daily",
+        "pet_id": "PET-1218",
+        "doctor_id": "DOC-1302",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
         "instructions": "Give with food",
-        "refills_remaining": 2,
-        "issue_date": "2026-06-28T00:19:12.488196"
+        "refills_remaining": 0,
+        "issue_date": "2024-09-23T11:51:26"
     },
     {
         "id": "RX-1016",
-        "pet_id": "PET-1001",
-        "doctor_id": "DOC-1004",
-        "medication": "Bravecto 16mg",
+        "pet_id": "PET-1324",
+        "doctor_id": "DOC-1009",
+        "medication": "Amoxicillin",
         "dosage": "2 tablet(s) daily",
         "instructions": "Give with food",
-        "refills_remaining": 0,
-        "issue_date": "2026-06-30T00:19:12.488196"
+        "refills_remaining": 3,
+        "issue_date": "2025-11-14T02:36:21"
     },
     {
         "id": "RX-1017",
-        "pet_id": "PET-1004",
-        "doctor_id": "DOC-1020",
-        "medication": "Heartgard Plus",
+        "pet_id": "PET-1184",
+        "doctor_id": "DOC-1291",
+        "medication": "Heartgard",
         "dosage": "2 tablet(s) daily",
         "instructions": "Give with food",
         "refills_remaining": 3,
-        "issue_date": "2026-06-08T00:19:12.488196"
+        "issue_date": "2025-04-27T11:21:15"
     },
     {
         "id": "RX-1018",
-        "pet_id": "PET-1020",
-        "doctor_id": "DOC-1017",
-        "medication": "NexGard",
-        "dosage": "1 tablet(s) daily",
+        "pet_id": "PET-1043",
+        "doctor_id": "DOC-1370",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
         "instructions": "Give with food",
-        "refills_remaining": 2,
-        "issue_date": "2026-07-19T00:19:12.488196"
+        "refills_remaining": 3,
+        "issue_date": "2026-05-28T22:19:00"
     },
     {
         "id": "RX-1019",
-        "pet_id": "PET-1002",
-        "doctor_id": "DOC-1014",
-        "medication": "Carprofen",
-        "dosage": "1 tablet(s) daily",
+        "pet_id": "PET-1402",
+        "doctor_id": "DOC-1188",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
         "instructions": "Give with food",
-        "refills_remaining": 2,
-        "issue_date": "2026-08-02T00:19:12.488196"
+        "refills_remaining": 1,
+        "issue_date": "2025-08-06T15:42:49"
     },
     {
         "id": "RX-1020",
-        "pet_id": "PET-1014",
-        "doctor_id": "DOC-1003",
-        "medication": "Heartgard Plus",
-        "dosage": "2 tablet(s) daily",
+        "pet_id": "PET-1162",
+        "doctor_id": "DOC-1077",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
         "instructions": "Give with food",
-        "refills_remaining": 0,
-        "issue_date": "2026-05-09T00:19:12.488196"
+        "refills_remaining": 3,
+        "issue_date": "2026-07-17T00:31:24"
     },
     {
         "id": "RX-1021",
-        "pet_id": "PET-1010",
-        "doctor_id": "DOC-1017",
+        "pet_id": "PET-1425",
+        "doctor_id": "DOC-1382",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-12-23T15:09:06"
+    },
+    {
+        "id": "RX-1022",
+        "pet_id": "PET-1235",
+        "doctor_id": "DOC-1329",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-12-25T06:15:10"
+    },
+    {
+        "id": "RX-1023",
+        "pet_id": "PET-1446",
+        "doctor_id": "DOC-1214",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-07-01T20:21:35"
+    },
+    {
+        "id": "RX-1024",
+        "pet_id": "PET-1220",
+        "doctor_id": "DOC-1013",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-12-22T02:09:55"
+    },
+    {
+        "id": "RX-1025",
+        "pet_id": "PET-1366",
+        "doctor_id": "DOC-1041",
         "medication": "Amoxicillin",
         "dosage": "2 tablet(s) daily",
         "instructions": "Give with food",
         "refills_remaining": 2,
-        "issue_date": "2026-06-24T00:19:12.488196"
-    },
-    {
-        "id": "RX-1022",
-        "pet_id": "PET-1013",
-        "doctor_id": "DOC-1010",
-        "medication": "Bravecto 16mg",
-        "dosage": "1 tablet(s) daily",
-        "instructions": "Give with food",
-        "refills_remaining": 3,
-        "issue_date": "2026-05-24T00:19:12.488196"
-    },
-    {
-        "id": "RX-1023",
-        "pet_id": "PET-1013",
-        "doctor_id": "DOC-1006",
-        "medication": "Carprofen",
-        "dosage": "2 tablet(s) daily",
-        "instructions": "Give with food",
-        "refills_remaining": 3,
-        "issue_date": "2026-05-16T00:19:12.488196"
-    },
-    {
-        "id": "RX-1024",
-        "pet_id": "PET-1018",
-        "doctor_id": "DOC-1001",
-        "medication": "Heartgard Plus",
-        "dosage": "1 tablet(s) daily",
-        "instructions": "Give with food",
-        "refills_remaining": 3,
-        "issue_date": "2026-06-25T00:19:12.488196"
-    },
-    {
-        "id": "RX-1025",
-        "pet_id": "PET-1019",
-        "doctor_id": "DOC-1020",
-        "medication": "Heartgard Plus",
-        "dosage": "2 tablet(s) daily",
-        "instructions": "Give with food",
-        "refills_remaining": 3,
-        "issue_date": "2026-05-11T00:19:12.488196"
+        "issue_date": "2024-12-19T04:25:07"
     },
     {
         "id": "RX-1026",
-        "pet_id": "PET-1015",
-        "doctor_id": "DOC-1007",
-        "medication": "NexGard",
+        "pet_id": "PET-1101",
+        "doctor_id": "DOC-1139",
+        "medication": "Heartgard",
         "dosage": "1 tablet(s) daily",
         "instructions": "Give with food",
-        "refills_remaining": 0,
-        "issue_date": "2026-05-29T00:19:12.488196"
+        "refills_remaining": 3,
+        "issue_date": "2024-09-27T15:02:26"
     },
     {
         "id": "RX-1027",
-        "pet_id": "PET-1010",
-        "doctor_id": "DOC-1017",
+        "pet_id": "PET-1191",
+        "doctor_id": "DOC-1133",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-01-29T07:42:24"
+    },
+    {
+        "id": "RX-1028",
+        "pet_id": "PET-1001",
+        "doctor_id": "DOC-1099",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-11-27T10:07:02"
+    },
+    {
+        "id": "RX-1029",
+        "pet_id": "PET-1354",
+        "doctor_id": "DOC-1432",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-06-21T12:38:11"
+    },
+    {
+        "id": "RX-1030",
+        "pet_id": "PET-1312",
+        "doctor_id": "DOC-1396",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-03-03T17:49:59"
+    },
+    {
+        "id": "RX-1031",
+        "pet_id": "PET-1349",
+        "doctor_id": "DOC-1252",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-10-29T18:03:02"
+    },
+    {
+        "id": "RX-1032",
+        "pet_id": "PET-1312",
+        "doctor_id": "DOC-1396",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-03-03T17:49:59"
+    },
+    {
+        "id": "RX-1033",
+        "pet_id": "PET-1340",
+        "doctor_id": "DOC-1357",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-08-11T21:06:14"
+    },
+    {
+        "id": "RX-1034",
+        "pet_id": "PET-1198",
+        "doctor_id": "DOC-1409",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-11-12T00:19:23"
+    },
+    {
+        "id": "RX-1035",
+        "pet_id": "PET-1254",
+        "doctor_id": "DOC-1444",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-02-03T12:57:11"
+    },
+    {
+        "id": "RX-1036",
+        "pet_id": "PET-1276",
+        "doctor_id": "DOC-1370",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-02-11T23:58:32"
+    },
+    {
+        "id": "RX-1037",
+        "pet_id": "PET-1406",
+        "doctor_id": "DOC-1036",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-10-18T03:40:47"
+    },
+    {
+        "id": "RX-1038",
+        "pet_id": "PET-1492",
+        "doctor_id": "DOC-1119",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-09-12T08:01:21"
+    },
+    {
+        "id": "RX-1039",
+        "pet_id": "PET-1178",
+        "doctor_id": "DOC-1218",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-04-07T13:46:45"
+    },
+    {
+        "id": "RX-1040",
+        "pet_id": "PET-1187",
+        "doctor_id": "DOC-1079",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-04-11T02:10:44"
+    },
+    {
+        "id": "RX-1041",
+        "pet_id": "PET-1496",
+        "doctor_id": "DOC-1069",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-09-29T15:49:48"
+    },
+    {
+        "id": "RX-1042",
+        "pet_id": "PET-1050",
+        "doctor_id": "DOC-1415",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-07-06T07:58:31"
+    },
+    {
+        "id": "RX-1043",
+        "pet_id": "PET-1136",
+        "doctor_id": "DOC-1036",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-11-12T20:01:45"
+    },
+    {
+        "id": "RX-1044",
+        "pet_id": "PET-1482",
+        "doctor_id": "DOC-1373",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-04-04T12:11:47"
+    },
+    {
+        "id": "RX-1045",
+        "pet_id": "PET-1021",
+        "doctor_id": "DOC-1388",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-08-29T00:47:42"
+    },
+    {
+        "id": "RX-1046",
+        "pet_id": "PET-1068",
+        "doctor_id": "DOC-1085",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2024-10-04T00:14:07"
+    },
+    {
+        "id": "RX-1047",
+        "pet_id": "PET-1066",
+        "doctor_id": "DOC-1077",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2024-11-27T18:48:41"
+    },
+    {
+        "id": "RX-1048",
+        "pet_id": "PET-1031",
+        "doctor_id": "DOC-1234",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-07-06T09:44:51"
+    },
+    {
+        "id": "RX-1049",
+        "pet_id": "PET-1494",
+        "doctor_id": "DOC-1191",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2024-09-10T03:27:38"
+    },
+    {
+        "id": "RX-1050",
+        "pet_id": "PET-1424",
+        "doctor_id": "DOC-1265",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-01-16T18:23:58"
+    },
+    {
+        "id": "RX-1051",
+        "pet_id": "PET-1468",
+        "doctor_id": "DOC-1135",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-12-06T23:28:05"
+    },
+    {
+        "id": "RX-1052",
+        "pet_id": "PET-1492",
+        "doctor_id": "DOC-1119",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-09-12T08:01:21"
+    },
+    {
+        "id": "RX-1053",
+        "pet_id": "PET-1089",
+        "doctor_id": "DOC-1206",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-08-06T20:44:23"
+    },
+    {
+        "id": "RX-1054",
+        "pet_id": "PET-1136",
+        "doctor_id": "DOC-1036",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2024-11-12T20:01:45"
+    },
+    {
+        "id": "RX-1055",
+        "pet_id": "PET-1079",
+        "doctor_id": "DOC-1144",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-02-12T00:08:31"
+    },
+    {
+        "id": "RX-1056",
+        "pet_id": "PET-1176",
+        "doctor_id": "DOC-1363",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-11-10T23:38:03"
+    },
+    {
+        "id": "RX-1057",
+        "pet_id": "PET-1178",
+        "doctor_id": "DOC-1116",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-07-29T03:52:54"
+    },
+    {
+        "id": "RX-1058",
+        "pet_id": "PET-1197",
+        "doctor_id": "DOC-1392",
         "medication": "Amoxicillin",
         "dosage": "2 tablet(s) daily",
         "instructions": "Give with food",
         "refills_remaining": 0,
-        "issue_date": "2026-05-10T00:19:12.488196"
+        "issue_date": "2025-12-15T09:26:26"
     },
     {
-        "id": "RX-1028",
-        "pet_id": "PET-1008",
-        "doctor_id": "DOC-1010",
-        "medication": "Metacam",
-        "dosage": "1 tablet(s) daily",
+        "id": "RX-1059",
+        "pet_id": "PET-1309",
+        "doctor_id": "DOC-1188",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
         "instructions": "Give with food",
         "refills_remaining": 1,
-        "issue_date": "2026-07-05T00:19:12.488196"
+        "issue_date": "2024-09-03T15:35:10"
     },
     {
-        "id": "RX-1029",
-        "pet_id": "PET-1001",
-        "doctor_id": "DOC-1002",
-        "medication": "NexGard",
+        "id": "RX-1060",
+        "pet_id": "PET-1212",
+        "doctor_id": "DOC-1049",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-01-29T07:14:08"
+    },
+    {
+        "id": "RX-1061",
+        "pet_id": "PET-1016",
+        "doctor_id": "DOC-1253",
+        "medication": "Amoxicillin",
         "dosage": "1 tablet(s) daily",
         "instructions": "Give with food",
         "refills_remaining": 3,
-        "issue_date": "2026-07-02T00:19:12.488196"
+        "issue_date": "2025-04-09T14:57:03"
     },
     {
-        "id": "RX-1030",
-        "pet_id": "PET-1014",
-        "doctor_id": "DOC-1019",
+        "id": "RX-1062",
+        "pet_id": "PET-1178",
+        "doctor_id": "DOC-1288",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-07-18T00:59:06"
+    },
+    {
+        "id": "RX-1063",
+        "pet_id": "PET-1249",
+        "doctor_id": "DOC-1115",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-04-25T16:07:29"
+    },
+    {
+        "id": "RX-1064",
+        "pet_id": "PET-1046",
+        "doctor_id": "DOC-1082",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-09-23T13:38:39"
+    },
+    {
+        "id": "RX-1065",
+        "pet_id": "PET-1248",
+        "doctor_id": "DOC-1178",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-10-29T10:48:35"
+    },
+    {
+        "id": "RX-1066",
+        "pet_id": "PET-1298",
+        "doctor_id": "DOC-1327",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-05-13T09:59:22"
+    },
+    {
+        "id": "RX-1067",
+        "pet_id": "PET-1184",
+        "doctor_id": "DOC-1291",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-04-27T11:21:15"
+    },
+    {
+        "id": "RX-1068",
+        "pet_id": "PET-1061",
+        "doctor_id": "DOC-1051",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-05-14T01:08:09"
+    },
+    {
+        "id": "RX-1069",
+        "pet_id": "PET-1045",
+        "doctor_id": "DOC-1168",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2024-12-15T16:28:40"
+    },
+    {
+        "id": "RX-1070",
+        "pet_id": "PET-1321",
+        "doctor_id": "DOC-1162",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-03-19T22:00:30"
+    },
+    {
+        "id": "RX-1071",
+        "pet_id": "PET-1319",
+        "doctor_id": "DOC-1261",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-01-30T18:21:20"
+    },
+    {
+        "id": "RX-1072",
+        "pet_id": "PET-1224",
+        "doctor_id": "DOC-1266",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-06-09T06:25:15"
+    },
+    {
+        "id": "RX-1073",
+        "pet_id": "PET-1129",
+        "doctor_id": "DOC-1093",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-10-07T23:41:05"
+    },
+    {
+        "id": "RX-1074",
+        "pet_id": "PET-1476",
+        "doctor_id": "DOC-1138",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-01-16T01:25:50"
+    },
+    {
+        "id": "RX-1075",
+        "pet_id": "PET-1108",
+        "doctor_id": "DOC-1193",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-05-05T19:44:56"
+    },
+    {
+        "id": "RX-1076",
+        "pet_id": "PET-1497",
+        "doctor_id": "DOC-1061",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-01-22T09:34:02"
+    },
+    {
+        "id": "RX-1077",
+        "pet_id": "PET-1416",
+        "doctor_id": "DOC-1031",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-01-13T18:48:12"
+    },
+    {
+        "id": "RX-1078",
+        "pet_id": "PET-1225",
+        "doctor_id": "DOC-1251",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-08-24T05:29:46"
+    },
+    {
+        "id": "RX-1079",
+        "pet_id": "PET-1224",
+        "doctor_id": "DOC-1266",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-06-09T06:25:15"
+    },
+    {
+        "id": "RX-1080",
+        "pet_id": "PET-1327",
+        "doctor_id": "DOC-1053",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-07-12T18:27:57"
+    },
+    {
+        "id": "RX-1081",
+        "pet_id": "PET-1063",
+        "doctor_id": "DOC-1168",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-05-16T20:37:02"
+    },
+    {
+        "id": "RX-1082",
+        "pet_id": "PET-1089",
+        "doctor_id": "DOC-1206",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-08-06T20:44:23"
+    },
+    {
+        "id": "RX-1083",
+        "pet_id": "PET-1493",
+        "doctor_id": "DOC-1159",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-07-27T07:41:18"
+    },
+    {
+        "id": "RX-1084",
+        "pet_id": "PET-1171",
+        "doctor_id": "DOC-1053",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-06-09T23:08:33"
+    },
+    {
+        "id": "RX-1085",
+        "pet_id": "PET-1133",
+        "doctor_id": "DOC-1203",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-02-19T12:08:40"
+    },
+    {
+        "id": "RX-1086",
+        "pet_id": "PET-1090",
+        "doctor_id": "DOC-1220",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-09-11T07:38:48"
+    },
+    {
+        "id": "RX-1087",
+        "pet_id": "PET-1311",
+        "doctor_id": "DOC-1137",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-01-27T10:48:03"
+    },
+    {
+        "id": "RX-1088",
+        "pet_id": "PET-1477",
+        "doctor_id": "DOC-1156",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-10-02T15:01:38"
+    },
+    {
+        "id": "RX-1089",
+        "pet_id": "PET-1281",
+        "doctor_id": "DOC-1074",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-02-20T11:47:32"
+    },
+    {
+        "id": "RX-1090",
+        "pet_id": "PET-1123",
+        "doctor_id": "DOC-1097",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2024-11-23T16:49:40"
+    },
+    {
+        "id": "RX-1091",
+        "pet_id": "PET-1185",
+        "doctor_id": "DOC-1001",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-05-20T20:28:08"
+    },
+    {
+        "id": "RX-1092",
+        "pet_id": "PET-1421",
+        "doctor_id": "DOC-1397",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-07-31T21:02:25"
+    },
+    {
+        "id": "RX-1093",
+        "pet_id": "PET-1224",
+        "doctor_id": "DOC-1412",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-04-01T19:03:07"
+    },
+    {
+        "id": "RX-1094",
+        "pet_id": "PET-1043",
+        "doctor_id": "DOC-1106",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-02-26T13:40:36"
+    },
+    {
+        "id": "RX-1095",
+        "pet_id": "PET-1015",
+        "doctor_id": "DOC-1179",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-07-29T02:45:35"
+    },
+    {
+        "id": "RX-1096",
+        "pet_id": "PET-1081",
+        "doctor_id": "DOC-1267",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-04-27T10:33:37"
+    },
+    {
+        "id": "RX-1097",
+        "pet_id": "PET-1123",
+        "doctor_id": "DOC-1097",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-11-23T16:49:40"
+    },
+    {
+        "id": "RX-1098",
+        "pet_id": "PET-1212",
+        "doctor_id": "DOC-1049",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-01-29T07:14:08"
+    },
+    {
+        "id": "RX-1099",
+        "pet_id": "PET-1317",
+        "doctor_id": "DOC-1500",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-01-13T21:57:09"
+    },
+    {
+        "id": "RX-1100",
+        "pet_id": "PET-1446",
+        "doctor_id": "DOC-1211",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-01-29T00:35:04"
+    },
+    {
+        "id": "RX-1101",
+        "pet_id": "PET-1192",
+        "doctor_id": "DOC-1279",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-05-01T18:08:02"
+    },
+    {
+        "id": "RX-1102",
+        "pet_id": "PET-1106",
+        "doctor_id": "DOC-1027",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-04-07T22:32:19"
+    },
+    {
+        "id": "RX-1103",
+        "pet_id": "PET-1260",
+        "doctor_id": "DOC-1024",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-06-11T14:41:44"
+    },
+    {
+        "id": "RX-1104",
+        "pet_id": "PET-1135",
+        "doctor_id": "DOC-1075",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-04-12T12:22:46"
+    },
+    {
+        "id": "RX-1105",
+        "pet_id": "PET-1482",
+        "doctor_id": "DOC-1187",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-01-28T18:32:52"
+    },
+    {
+        "id": "RX-1106",
+        "pet_id": "PET-1280",
+        "doctor_id": "DOC-1061",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-04-03T12:52:58"
+    },
+    {
+        "id": "RX-1107",
+        "pet_id": "PET-1114",
+        "doctor_id": "DOC-1174",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2024-12-12T05:49:48"
+    },
+    {
+        "id": "RX-1108",
+        "pet_id": "PET-1236",
+        "doctor_id": "DOC-1026",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-07-20T20:07:43"
+    },
+    {
+        "id": "RX-1109",
+        "pet_id": "PET-1334",
+        "doctor_id": "DOC-1329",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-05-06T09:15:45"
+    },
+    {
+        "id": "RX-1110",
+        "pet_id": "PET-1493",
+        "doctor_id": "DOC-1159",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-07-27T07:41:18"
+    },
+    {
+        "id": "RX-1111",
+        "pet_id": "PET-1052",
+        "doctor_id": "DOC-1219",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-10-19T04:34:49"
+    },
+    {
+        "id": "RX-1112",
+        "pet_id": "PET-1286",
+        "doctor_id": "DOC-1361",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-03-11T01:29:05"
+    },
+    {
+        "id": "RX-1113",
+        "pet_id": "PET-1468",
+        "doctor_id": "DOC-1135",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-12-06T23:28:05"
+    },
+    {
+        "id": "RX-1114",
+        "pet_id": "PET-1321",
+        "doctor_id": "DOC-1162",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-03-19T22:00:30"
+    },
+    {
+        "id": "RX-1115",
+        "pet_id": "PET-1016",
+        "doctor_id": "DOC-1253",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-04-09T14:57:03"
+    },
+    {
+        "id": "RX-1116",
+        "pet_id": "PET-1209",
+        "doctor_id": "DOC-1496",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-10-08T22:05:16"
+    },
+    {
+        "id": "RX-1117",
+        "pet_id": "PET-1487",
+        "doctor_id": "DOC-1037",
         "medication": "Amoxicillin",
         "dosage": "2 tablet(s) daily",
         "instructions": "Give with food",
         "refills_remaining": 3,
-        "issue_date": "2026-07-09T00:19:12.488196"
+        "issue_date": "2024-12-22T01:43:36"
+    },
+    {
+        "id": "RX-1118",
+        "pet_id": "PET-1115",
+        "doctor_id": "DOC-1033",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-02-17T08:51:52"
+    },
+    {
+        "id": "RX-1119",
+        "pet_id": "PET-1067",
+        "doctor_id": "DOC-1181",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-04-21T02:08:29"
+    },
+    {
+        "id": "RX-1120",
+        "pet_id": "PET-1368",
+        "doctor_id": "DOC-1053",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-02-13T03:37:01"
+    },
+    {
+        "id": "RX-1121",
+        "pet_id": "PET-1123",
+        "doctor_id": "DOC-1097",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2024-11-23T16:49:40"
+    },
+    {
+        "id": "RX-1122",
+        "pet_id": "PET-1464",
+        "doctor_id": "DOC-1392",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-05-28T13:13:41"
+    },
+    {
+        "id": "RX-1123",
+        "pet_id": "PET-1045",
+        "doctor_id": "DOC-1168",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-12-15T16:28:40"
+    },
+    {
+        "id": "RX-1124",
+        "pet_id": "PET-1016",
+        "doctor_id": "DOC-1191",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-06-21T12:02:20"
+    },
+    {
+        "id": "RX-1125",
+        "pet_id": "PET-1340",
+        "doctor_id": "DOC-1357",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-08-11T21:06:14"
+    },
+    {
+        "id": "RX-1126",
+        "pet_id": "PET-1478",
+        "doctor_id": "DOC-1139",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-07-29T04:17:48"
+    },
+    {
+        "id": "RX-1127",
+        "pet_id": "PET-1366",
+        "doctor_id": "DOC-1041",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-12-19T04:25:07"
+    },
+    {
+        "id": "RX-1128",
+        "pet_id": "PET-1410",
+        "doctor_id": "DOC-1424",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-09-10T09:26:46"
+    },
+    {
+        "id": "RX-1129",
+        "pet_id": "PET-1212",
+        "doctor_id": "DOC-1325",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-04-05T05:20:16"
+    },
+    {
+        "id": "RX-1130",
+        "pet_id": "PET-1309",
+        "doctor_id": "DOC-1305",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-08-26T04:15:59"
+    },
+    {
+        "id": "RX-1131",
+        "pet_id": "PET-1494",
+        "doctor_id": "DOC-1191",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-09-10T03:27:38"
+    },
+    {
+        "id": "RX-1132",
+        "pet_id": "PET-1097",
+        "doctor_id": "DOC-1221",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-09-09T07:30:07"
+    },
+    {
+        "id": "RX-1133",
+        "pet_id": "PET-1098",
+        "doctor_id": "DOC-1103",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-09-23T06:22:46"
+    },
+    {
+        "id": "RX-1134",
+        "pet_id": "PET-1103",
+        "doctor_id": "DOC-1311",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-01-24T03:28:32"
+    },
+    {
+        "id": "RX-1135",
+        "pet_id": "PET-1225",
+        "doctor_id": "DOC-1410",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-07-15T20:46:00"
+    },
+    {
+        "id": "RX-1136",
+        "pet_id": "PET-1267",
+        "doctor_id": "DOC-1113",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-12-05T00:05:37"
+    },
+    {
+        "id": "RX-1137",
+        "pet_id": "PET-1300",
+        "doctor_id": "DOC-1219",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-07-06T02:57:38"
+    },
+    {
+        "id": "RX-1138",
+        "pet_id": "PET-1329",
+        "doctor_id": "DOC-1065",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-03-04T03:45:18"
+    },
+    {
+        "id": "RX-1139",
+        "pet_id": "PET-1184",
+        "doctor_id": "DOC-1291",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-04-27T11:21:15"
+    },
+    {
+        "id": "RX-1140",
+        "pet_id": "PET-1137",
+        "doctor_id": "DOC-1115",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-05-07T01:34:49"
+    },
+    {
+        "id": "RX-1141",
+        "pet_id": "PET-1235",
+        "doctor_id": "DOC-1223",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-01-04T05:13:51"
+    },
+    {
+        "id": "RX-1142",
+        "pet_id": "PET-1167",
+        "doctor_id": "DOC-1021",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-11-16T13:12:21"
+    },
+    {
+        "id": "RX-1143",
+        "pet_id": "PET-1147",
+        "doctor_id": "DOC-1103",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-11-05T19:10:21"
+    },
+    {
+        "id": "RX-1144",
+        "pet_id": "PET-1166",
+        "doctor_id": "DOC-1233",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-09-04T22:26:39"
+    },
+    {
+        "id": "RX-1145",
+        "pet_id": "PET-1328",
+        "doctor_id": "DOC-1353",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-03-18T17:26:46"
+    },
+    {
+        "id": "RX-1146",
+        "pet_id": "PET-1190",
+        "doctor_id": "DOC-1083",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-06-14T20:55:32"
+    },
+    {
+        "id": "RX-1147",
+        "pet_id": "PET-1427",
+        "doctor_id": "DOC-1433",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-08-18T03:49:03"
+    },
+    {
+        "id": "RX-1148",
+        "pet_id": "PET-1290",
+        "doctor_id": "DOC-1132",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-01-09T19:13:07"
+    },
+    {
+        "id": "RX-1149",
+        "pet_id": "PET-1370",
+        "doctor_id": "DOC-1470",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-02-21T17:08:34"
+    },
+    {
+        "id": "RX-1150",
+        "pet_id": "PET-1235",
+        "doctor_id": "DOC-1361",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-05-07T21:26:49"
+    },
+    {
+        "id": "RX-1151",
+        "pet_id": "PET-1136",
+        "doctor_id": "DOC-1036",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-11-12T20:01:45"
+    },
+    {
+        "id": "RX-1152",
+        "pet_id": "PET-1301",
+        "doctor_id": "DOC-1047",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-03-20T15:55:15"
+    },
+    {
+        "id": "RX-1153",
+        "pet_id": "PET-1248",
+        "doctor_id": "DOC-1178",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-10-29T10:48:35"
+    },
+    {
+        "id": "RX-1154",
+        "pet_id": "PET-1416",
+        "doctor_id": "DOC-1408",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-01-26T02:58:49"
+    },
+    {
+        "id": "RX-1155",
+        "pet_id": "PET-1311",
+        "doctor_id": "DOC-1142",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-02-14T03:41:16"
+    },
+    {
+        "id": "RX-1156",
+        "pet_id": "PET-1250",
+        "doctor_id": "DOC-1239",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-04-10T21:14:15"
+    },
+    {
+        "id": "RX-1157",
+        "pet_id": "PET-1215",
+        "doctor_id": "DOC-1050",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-02-15T22:18:20"
+    },
+    {
+        "id": "RX-1158",
+        "pet_id": "PET-1415",
+        "doctor_id": "DOC-1189",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-08-04T02:48:42"
+    },
+    {
+        "id": "RX-1159",
+        "pet_id": "PET-1076",
+        "doctor_id": "DOC-1081",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-04-01T01:04:42"
+    },
+    {
+        "id": "RX-1160",
+        "pet_id": "PET-1122",
+        "doctor_id": "DOC-1443",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-08-09T03:57:03"
+    },
+    {
+        "id": "RX-1161",
+        "pet_id": "PET-1371",
+        "doctor_id": "DOC-1116",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-10-31T21:49:38"
+    },
+    {
+        "id": "RX-1162",
+        "pet_id": "PET-1296",
+        "doctor_id": "DOC-1462",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2024-08-13T14:51:05"
+    },
+    {
+        "id": "RX-1163",
+        "pet_id": "PET-1162",
+        "doctor_id": "DOC-1037",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-06-24T09:39:57"
+    },
+    {
+        "id": "RX-1164",
+        "pet_id": "PET-1448",
+        "doctor_id": "DOC-1297",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-03-21T12:56:23"
+    },
+    {
+        "id": "RX-1165",
+        "pet_id": "PET-1321",
+        "doctor_id": "DOC-1081",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-03-11T20:18:10"
+    },
+    {
+        "id": "RX-1166",
+        "pet_id": "PET-1214",
+        "doctor_id": "DOC-1303",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-09-20T22:01:10"
+    },
+    {
+        "id": "RX-1167",
+        "pet_id": "PET-1382",
+        "doctor_id": "DOC-1187",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-09-21T20:37:53"
+    },
+    {
+        "id": "RX-1168",
+        "pet_id": "PET-1414",
+        "doctor_id": "DOC-1450",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-02-06T22:01:04"
+    },
+    {
+        "id": "RX-1169",
+        "pet_id": "PET-1320",
+        "doctor_id": "DOC-1364",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-01-07T07:50:43"
+    },
+    {
+        "id": "RX-1170",
+        "pet_id": "PET-1276",
+        "doctor_id": "DOC-1370",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-02-11T23:58:32"
+    },
+    {
+        "id": "RX-1171",
+        "pet_id": "PET-1368",
+        "doctor_id": "DOC-1083",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-04-24T22:08:43"
+    },
+    {
+        "id": "RX-1172",
+        "pet_id": "PET-1328",
+        "doctor_id": "DOC-1353",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-03-18T17:26:46"
+    },
+    {
+        "id": "RX-1173",
+        "pet_id": "PET-1218",
+        "doctor_id": "DOC-1302",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2024-09-23T11:51:26"
+    },
+    {
+        "id": "RX-1174",
+        "pet_id": "PET-1085",
+        "doctor_id": "DOC-1466",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-12-14T08:39:28"
+    },
+    {
+        "id": "RX-1175",
+        "pet_id": "PET-1255",
+        "doctor_id": "DOC-1389",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-10-06T07:02:32"
+    },
+    {
+        "id": "RX-1176",
+        "pet_id": "PET-1043",
+        "doctor_id": "DOC-1106",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-02-26T13:40:36"
+    },
+    {
+        "id": "RX-1177",
+        "pet_id": "PET-1051",
+        "doctor_id": "DOC-1438",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-09-01T19:07:57"
+    },
+    {
+        "id": "RX-1178",
+        "pet_id": "PET-1114",
+        "doctor_id": "DOC-1174",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-12-12T05:49:48"
+    },
+    {
+        "id": "RX-1179",
+        "pet_id": "PET-1203",
+        "doctor_id": "DOC-1044",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2024-09-30T08:17:27"
+    },
+    {
+        "id": "RX-1180",
+        "pet_id": "PET-1234",
+        "doctor_id": "DOC-1002",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-03-11T15:08:59"
+    },
+    {
+        "id": "RX-1181",
+        "pet_id": "PET-1493",
+        "doctor_id": "DOC-1159",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-07-27T07:41:18"
+    },
+    {
+        "id": "RX-1182",
+        "pet_id": "PET-1382",
+        "doctor_id": "DOC-1187",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-09-21T20:37:53"
+    },
+    {
+        "id": "RX-1183",
+        "pet_id": "PET-1178",
+        "doctor_id": "DOC-1488",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-11-15T03:15:23"
+    },
+    {
+        "id": "RX-1184",
+        "pet_id": "PET-1271",
+        "doctor_id": "DOC-1306",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2024-09-14T11:22:10"
+    },
+    {
+        "id": "RX-1185",
+        "pet_id": "PET-1117",
+        "doctor_id": "DOC-1381",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-01-27T16:44:35"
+    },
+    {
+        "id": "RX-1186",
+        "pet_id": "PET-1350",
+        "doctor_id": "DOC-1051",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-05-31T04:09:45"
+    },
+    {
+        "id": "RX-1187",
+        "pet_id": "PET-1446",
+        "doctor_id": "DOC-1214",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-07-01T20:21:35"
+    },
+    {
+        "id": "RX-1188",
+        "pet_id": "PET-1396",
+        "doctor_id": "DOC-1066",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-11-28T06:47:36"
+    },
+    {
+        "id": "RX-1189",
+        "pet_id": "PET-1482",
+        "doctor_id": "DOC-1187",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-01-28T18:32:52"
+    },
+    {
+        "id": "RX-1190",
+        "pet_id": "PET-1468",
+        "doctor_id": "DOC-1207",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-05-27T00:10:21"
+    },
+    {
+        "id": "RX-1191",
+        "pet_id": "PET-1219",
+        "doctor_id": "DOC-1040",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-04-10T14:00:35"
+    },
+    {
+        "id": "RX-1192",
+        "pet_id": "PET-1115",
+        "doctor_id": "DOC-1287",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-07-28T05:54:41"
+    },
+    {
+        "id": "RX-1193",
+        "pet_id": "PET-1190",
+        "doctor_id": "DOC-1083",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-06-14T20:55:32"
+    },
+    {
+        "id": "RX-1194",
+        "pet_id": "PET-1178",
+        "doctor_id": "DOC-1218",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-04-07T13:46:45"
+    },
+    {
+        "id": "RX-1195",
+        "pet_id": "PET-1478",
+        "doctor_id": "DOC-1139",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-07-29T04:17:48"
+    },
+    {
+        "id": "RX-1196",
+        "pet_id": "PET-1049",
+        "doctor_id": "DOC-1314",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-02-10T03:19:27"
+    },
+    {
+        "id": "RX-1197",
+        "pet_id": "PET-1106",
+        "doctor_id": "DOC-1128",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-03-02T09:52:50"
+    },
+    {
+        "id": "RX-1198",
+        "pet_id": "PET-1088",
+        "doctor_id": "DOC-1392",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-05-10T23:22:16"
+    },
+    {
+        "id": "RX-1199",
+        "pet_id": "PET-1493",
+        "doctor_id": "DOC-1159",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-07-27T07:41:18"
+    },
+    {
+        "id": "RX-1200",
+        "pet_id": "PET-1293",
+        "doctor_id": "DOC-1407",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-07-08T19:57:08"
+    },
+    {
+        "id": "RX-1201",
+        "pet_id": "PET-1129",
+        "doctor_id": "DOC-1093",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-10-07T23:41:05"
+    },
+    {
+        "id": "RX-1202",
+        "pet_id": "PET-1414",
+        "doctor_id": "DOC-1450",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-02-06T22:01:04"
+    },
+    {
+        "id": "RX-1203",
+        "pet_id": "PET-1311",
+        "doctor_id": "DOC-1306",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-09-03T21:19:05"
+    },
+    {
+        "id": "RX-1204",
+        "pet_id": "PET-1180",
+        "doctor_id": "DOC-1297",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-03-26T11:31:59"
+    },
+    {
+        "id": "RX-1205",
+        "pet_id": "PET-1021",
+        "doctor_id": "DOC-1128",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-11-18T20:51:16"
+    },
+    {
+        "id": "RX-1206",
+        "pet_id": "PET-1038",
+        "doctor_id": "DOC-1329",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-12-17T07:52:40"
+    },
+    {
+        "id": "RX-1207",
+        "pet_id": "PET-1136",
+        "doctor_id": "DOC-1036",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-11-12T20:01:45"
+    },
+    {
+        "id": "RX-1208",
+        "pet_id": "PET-1137",
+        "doctor_id": "DOC-1115",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-05-07T01:34:49"
+    },
+    {
+        "id": "RX-1209",
+        "pet_id": "PET-1250",
+        "doctor_id": "DOC-1239",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-04-10T21:14:15"
+    },
+    {
+        "id": "RX-1210",
+        "pet_id": "PET-1415",
+        "doctor_id": "DOC-1127",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-03-24T23:17:44"
+    },
+    {
+        "id": "RX-1211",
+        "pet_id": "PET-1286",
+        "doctor_id": "DOC-1361",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-03-11T01:29:05"
+    },
+    {
+        "id": "RX-1212",
+        "pet_id": "PET-1056",
+        "doctor_id": "DOC-1030",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-03-11T10:04:33"
+    },
+    {
+        "id": "RX-1213",
+        "pet_id": "PET-1414",
+        "doctor_id": "DOC-1450",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-02-06T22:01:04"
+    },
+    {
+        "id": "RX-1214",
+        "pet_id": "PET-1319",
+        "doctor_id": "DOC-1310",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-11-04T06:33:43"
+    },
+    {
+        "id": "RX-1215",
+        "pet_id": "PET-1218",
+        "doctor_id": "DOC-1216",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-08-04T08:34:57"
+    },
+    {
+        "id": "RX-1216",
+        "pet_id": "PET-1465",
+        "doctor_id": "DOC-1027",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-01-24T09:49:56"
+    },
+    {
+        "id": "RX-1217",
+        "pet_id": "PET-1494",
+        "doctor_id": "DOC-1191",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-09-10T03:27:38"
+    },
+    {
+        "id": "RX-1218",
+        "pet_id": "PET-1320",
+        "doctor_id": "DOC-1286",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-11-21T19:08:00"
+    },
+    {
+        "id": "RX-1219",
+        "pet_id": "PET-1349",
+        "doctor_id": "DOC-1252",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2024-10-29T18:03:02"
+    },
+    {
+        "id": "RX-1220",
+        "pet_id": "PET-1215",
+        "doctor_id": "DOC-1434",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-11-22T09:45:46"
+    },
+    {
+        "id": "RX-1221",
+        "pet_id": "PET-1432",
+        "doctor_id": "DOC-1086",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2024-11-28T05:35:32"
+    },
+    {
+        "id": "RX-1222",
+        "pet_id": "PET-1199",
+        "doctor_id": "DOC-1057",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-03-14T01:08:47"
+    },
+    {
+        "id": "RX-1223",
+        "pet_id": "PET-1312",
+        "doctor_id": "DOC-1396",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-03-03T17:49:59"
+    },
+    {
+        "id": "RX-1224",
+        "pet_id": "PET-1218",
+        "doctor_id": "DOC-1302",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2024-09-23T11:51:26"
+    },
+    {
+        "id": "RX-1225",
+        "pet_id": "PET-1135",
+        "doctor_id": "DOC-1294",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-05-02T00:41:23"
+    },
+    {
+        "id": "RX-1226",
+        "pet_id": "PET-1248",
+        "doctor_id": "DOC-1199",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-03-06T18:36:30"
+    },
+    {
+        "id": "RX-1227",
+        "pet_id": "PET-1248",
+        "doctor_id": "DOC-1362",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-10-24T01:07:43"
+    },
+    {
+        "id": "RX-1228",
+        "pet_id": "PET-1421",
+        "doctor_id": "DOC-1397",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-07-31T21:02:25"
+    },
+    {
+        "id": "RX-1229",
+        "pet_id": "PET-1368",
+        "doctor_id": "DOC-1053",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-02-13T03:37:01"
+    },
+    {
+        "id": "RX-1230",
+        "pet_id": "PET-1392",
+        "doctor_id": "DOC-1106",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-01-11T08:48:30"
+    },
+    {
+        "id": "RX-1231",
+        "pet_id": "PET-1267",
+        "doctor_id": "DOC-1370",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-07-31T00:15:02"
+    },
+    {
+        "id": "RX-1232",
+        "pet_id": "PET-1101",
+        "doctor_id": "DOC-1139",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-09-27T15:02:26"
+    },
+    {
+        "id": "RX-1233",
+        "pet_id": "PET-1106",
+        "doctor_id": "DOC-1027",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-04-07T22:32:19"
+    },
+    {
+        "id": "RX-1234",
+        "pet_id": "PET-1071",
+        "doctor_id": "DOC-1169",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-07-23T21:18:36"
+    },
+    {
+        "id": "RX-1235",
+        "pet_id": "PET-1327",
+        "doctor_id": "DOC-1053",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-07-12T18:27:57"
+    },
+    {
+        "id": "RX-1236",
+        "pet_id": "PET-1212",
+        "doctor_id": "DOC-1049",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-01-29T07:14:08"
+    },
+    {
+        "id": "RX-1237",
+        "pet_id": "PET-1348",
+        "doctor_id": "DOC-1269",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-04-25T02:23:45"
+    },
+    {
+        "id": "RX-1238",
+        "pet_id": "PET-1500",
+        "doctor_id": "DOC-1456",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-11-18T07:46:38"
+    },
+    {
+        "id": "RX-1239",
+        "pet_id": "PET-1244",
+        "doctor_id": "DOC-1280",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-08-29T21:35:28"
+    },
+    {
+        "id": "RX-1240",
+        "pet_id": "PET-1421",
+        "doctor_id": "DOC-1397",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-07-31T21:02:25"
+    },
+    {
+        "id": "RX-1241",
+        "pet_id": "PET-1050",
+        "doctor_id": "DOC-1415",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-07-06T07:58:31"
+    },
+    {
+        "id": "RX-1242",
+        "pet_id": "PET-1391",
+        "doctor_id": "DOC-1450",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-12-05T15:39:54"
+    },
+    {
+        "id": "RX-1243",
+        "pet_id": "PET-1476",
+        "doctor_id": "DOC-1138",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-01-16T01:25:50"
+    },
+    {
+        "id": "RX-1244",
+        "pet_id": "PET-1493",
+        "doctor_id": "DOC-1159",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-07-27T07:41:18"
+    },
+    {
+        "id": "RX-1245",
+        "pet_id": "PET-1036",
+        "doctor_id": "DOC-1263",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-03-04T21:26:25"
+    },
+    {
+        "id": "RX-1246",
+        "pet_id": "PET-1104",
+        "doctor_id": "DOC-1311",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2024-12-03T19:00:03"
+    },
+    {
+        "id": "RX-1247",
+        "pet_id": "PET-1478",
+        "doctor_id": "DOC-1139",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-07-29T04:17:48"
+    },
+    {
+        "id": "RX-1248",
+        "pet_id": "PET-1497",
+        "doctor_id": "DOC-1061",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-01-22T09:34:02"
+    },
+    {
+        "id": "RX-1249",
+        "pet_id": "PET-1487",
+        "doctor_id": "DOC-1037",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2024-12-22T01:43:36"
+    },
+    {
+        "id": "RX-1250",
+        "pet_id": "PET-1327",
+        "doctor_id": "DOC-1053",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-07-12T18:27:57"
+    },
+    {
+        "id": "RX-1251",
+        "pet_id": "PET-1452",
+        "doctor_id": "DOC-1267",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-06-17T12:09:07"
+    },
+    {
+        "id": "RX-1252",
+        "pet_id": "PET-1275",
+        "doctor_id": "DOC-1463",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-12-03T23:36:40"
+    },
+    {
+        "id": "RX-1253",
+        "pet_id": "PET-1001",
+        "doctor_id": "DOC-1099",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-11-27T10:07:02"
+    },
+    {
+        "id": "RX-1254",
+        "pet_id": "PET-1068",
+        "doctor_id": "DOC-1083",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2024-09-09T00:00:07"
+    },
+    {
+        "id": "RX-1255",
+        "pet_id": "PET-1049",
+        "doctor_id": "DOC-1314",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-02-10T03:19:27"
+    },
+    {
+        "id": "RX-1256",
+        "pet_id": "PET-1396",
+        "doctor_id": "DOC-1066",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-11-28T06:47:36"
+    },
+    {
+        "id": "RX-1257",
+        "pet_id": "PET-1166",
+        "doctor_id": "DOC-1372",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-01-24T08:25:10"
+    },
+    {
+        "id": "RX-1258",
+        "pet_id": "PET-1188",
+        "doctor_id": "DOC-1137",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-11-03T13:18:11"
+    },
+    {
+        "id": "RX-1259",
+        "pet_id": "PET-1212",
+        "doctor_id": "DOC-1325",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-04-05T05:20:16"
+    },
+    {
+        "id": "RX-1260",
+        "pet_id": "PET-1027",
+        "doctor_id": "DOC-1206",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-12-02T08:26:01"
+    },
+    {
+        "id": "RX-1261",
+        "pet_id": "PET-1368",
+        "doctor_id": "DOC-1108",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-02-19T01:26:02"
+    },
+    {
+        "id": "RX-1262",
+        "pet_id": "PET-1137",
+        "doctor_id": "DOC-1115",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-05-07T01:34:49"
+    },
+    {
+        "id": "RX-1263",
+        "pet_id": "PET-1487",
+        "doctor_id": "DOC-1332",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2024-12-11T07:11:41"
+    },
+    {
+        "id": "RX-1264",
+        "pet_id": "PET-1015",
+        "doctor_id": "DOC-1274",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-04-30T01:44:18"
+    },
+    {
+        "id": "RX-1265",
+        "pet_id": "PET-1392",
+        "doctor_id": "DOC-1165",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-11-21T13:29:52"
+    },
+    {
+        "id": "RX-1266",
+        "pet_id": "PET-1214",
+        "doctor_id": "DOC-1303",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-09-20T22:01:10"
+    },
+    {
+        "id": "RX-1267",
+        "pet_id": "PET-1368",
+        "doctor_id": "DOC-1308",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-08-01T17:09:54"
+    },
+    {
+        "id": "RX-1268",
+        "pet_id": "PET-1288",
+        "doctor_id": "DOC-1410",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2024-09-25T08:38:03"
+    },
+    {
+        "id": "RX-1269",
+        "pet_id": "PET-1106",
+        "doctor_id": "DOC-1033",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-05-13T20:18:38"
+    },
+    {
+        "id": "RX-1270",
+        "pet_id": "PET-1460",
+        "doctor_id": "DOC-1333",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-02-15T22:42:53"
+    },
+    {
+        "id": "RX-1271",
+        "pet_id": "PET-1219",
+        "doctor_id": "DOC-1277",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2024-08-23T18:42:46"
+    },
+    {
+        "id": "RX-1272",
+        "pet_id": "PET-1238",
+        "doctor_id": "DOC-1122",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-04-18T05:54:10"
+    },
+    {
+        "id": "RX-1273",
+        "pet_id": "PET-1321",
+        "doctor_id": "DOC-1162",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-03-19T22:00:30"
+    },
+    {
+        "id": "RX-1274",
+        "pet_id": "PET-1376",
+        "doctor_id": "DOC-1325",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-09-05T13:08:15"
+    },
+    {
+        "id": "RX-1275",
+        "pet_id": "PET-1416",
+        "doctor_id": "DOC-1408",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-01-26T02:58:49"
+    },
+    {
+        "id": "RX-1276",
+        "pet_id": "PET-1019",
+        "doctor_id": "DOC-1310",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-04-06T16:34:46"
+    },
+    {
+        "id": "RX-1277",
+        "pet_id": "PET-1041",
+        "doctor_id": "DOC-1417",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2024-11-18T03:42:59"
+    },
+    {
+        "id": "RX-1278",
+        "pet_id": "PET-1291",
+        "doctor_id": "DOC-1494",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-07-04T15:35:43"
+    },
+    {
+        "id": "RX-1279",
+        "pet_id": "PET-1061",
+        "doctor_id": "DOC-1494",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-04-08T21:36:28"
+    },
+    {
+        "id": "RX-1280",
+        "pet_id": "PET-1446",
+        "doctor_id": "DOC-1214",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-07-01T20:21:35"
+    },
+    {
+        "id": "RX-1281",
+        "pet_id": "PET-1403",
+        "doctor_id": "DOC-1299",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-04-27T19:54:12"
+    },
+    {
+        "id": "RX-1282",
+        "pet_id": "PET-1401",
+        "doctor_id": "DOC-1154",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-11-08T07:31:05"
+    },
+    {
+        "id": "RX-1283",
+        "pet_id": "PET-1238",
+        "doctor_id": "DOC-1122",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-04-18T05:54:10"
+    },
+    {
+        "id": "RX-1284",
+        "pet_id": "PET-1216",
+        "doctor_id": "DOC-1307",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-08-04T19:28:18"
+    },
+    {
+        "id": "RX-1285",
+        "pet_id": "PET-1307",
+        "doctor_id": "DOC-1309",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-07-05T11:37:30"
+    },
+    {
+        "id": "RX-1286",
+        "pet_id": "PET-1350",
+        "doctor_id": "DOC-1466",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-04-30T09:11:46"
+    },
+    {
+        "id": "RX-1287",
+        "pet_id": "PET-1432",
+        "doctor_id": "DOC-1343",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2024-12-19T05:05:07"
+    },
+    {
+        "id": "RX-1288",
+        "pet_id": "PET-1248",
+        "doctor_id": "DOC-1178",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-10-29T10:48:35"
+    },
+    {
+        "id": "RX-1289",
+        "pet_id": "PET-1383",
+        "doctor_id": "DOC-1389",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2024-12-30T11:12:08"
+    },
+    {
+        "id": "RX-1290",
+        "pet_id": "PET-1390",
+        "doctor_id": "DOC-1098",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-01-20T13:11:01"
+    },
+    {
+        "id": "RX-1291",
+        "pet_id": "PET-1216",
+        "doctor_id": "DOC-1307",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-08-04T19:28:18"
+    },
+    {
+        "id": "RX-1292",
+        "pet_id": "PET-1031",
+        "doctor_id": "DOC-1234",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-07-06T09:44:51"
+    },
+    {
+        "id": "RX-1293",
+        "pet_id": "PET-1321",
+        "doctor_id": "DOC-1027",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-05-10T03:24:03"
+    },
+    {
+        "id": "RX-1294",
+        "pet_id": "PET-1046",
+        "doctor_id": "DOC-1082",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2024-09-23T13:38:39"
+    },
+    {
+        "id": "RX-1295",
+        "pet_id": "PET-1067",
+        "doctor_id": "DOC-1048",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-05-07T10:35:38"
+    },
+    {
+        "id": "RX-1296",
+        "pet_id": "PET-1414",
+        "doctor_id": "DOC-1053",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-02-26T09:36:37"
+    },
+    {
+        "id": "RX-1297",
+        "pet_id": "PET-1325",
+        "doctor_id": "DOC-1238",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-03-22T11:03:48"
+    },
+    {
+        "id": "RX-1298",
+        "pet_id": "PET-1307",
+        "doctor_id": "DOC-1481",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-11-12T17:28:29"
+    },
+    {
+        "id": "RX-1299",
+        "pet_id": "PET-1166",
+        "doctor_id": "DOC-1372",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-01-24T08:25:10"
+    },
+    {
+        "id": "RX-1300",
+        "pet_id": "PET-1112",
+        "doctor_id": "DOC-1077",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-05-25T10:21:31"
+    },
+    {
+        "id": "RX-1301",
+        "pet_id": "PET-1024",
+        "doctor_id": "DOC-1403",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-08-06T03:51:19"
+    },
+    {
+        "id": "RX-1302",
+        "pet_id": "PET-1182",
+        "doctor_id": "DOC-1466",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-12-09T17:34:06"
+    },
+    {
+        "id": "RX-1303",
+        "pet_id": "PET-1236",
+        "doctor_id": "DOC-1026",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-07-20T20:07:43"
+    },
+    {
+        "id": "RX-1304",
+        "pet_id": "PET-1190",
+        "doctor_id": "DOC-1083",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-06-14T20:55:32"
+    },
+    {
+        "id": "RX-1305",
+        "pet_id": "PET-1324",
+        "doctor_id": "DOC-1296",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-09-01T23:58:04"
+    },
+    {
+        "id": "RX-1306",
+        "pet_id": "PET-1113",
+        "doctor_id": "DOC-1046",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-08-07T11:57:39"
+    },
+    {
+        "id": "RX-1307",
+        "pet_id": "PET-1323",
+        "doctor_id": "DOC-1052",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-09-17T19:53:30"
+    },
+    {
+        "id": "RX-1308",
+        "pet_id": "PET-1328",
+        "doctor_id": "DOC-1353",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-03-18T17:26:46"
+    },
+    {
+        "id": "RX-1309",
+        "pet_id": "PET-1160",
+        "doctor_id": "DOC-1406",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-04-29T09:21:59"
+    },
+    {
+        "id": "RX-1310",
+        "pet_id": "PET-1416",
+        "doctor_id": "DOC-1408",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-01-26T02:58:49"
+    },
+    {
+        "id": "RX-1311",
+        "pet_id": "PET-1494",
+        "doctor_id": "DOC-1191",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2024-09-10T03:27:38"
+    },
+    {
+        "id": "RX-1312",
+        "pet_id": "PET-1166",
+        "doctor_id": "DOC-1372",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-01-24T08:25:10"
+    },
+    {
+        "id": "RX-1313",
+        "pet_id": "PET-1432",
+        "doctor_id": "DOC-1086",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-11-28T05:35:32"
+    },
+    {
+        "id": "RX-1314",
+        "pet_id": "PET-1301",
+        "doctor_id": "DOC-1047",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-03-20T15:55:15"
+    },
+    {
+        "id": "RX-1315",
+        "pet_id": "PET-1346",
+        "doctor_id": "DOC-1291",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-06-29T05:34:08"
+    },
+    {
+        "id": "RX-1316",
+        "pet_id": "PET-1135",
+        "doctor_id": "DOC-1294",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-05-02T00:41:23"
+    },
+    {
+        "id": "RX-1317",
+        "pet_id": "PET-1343",
+        "doctor_id": "DOC-1359",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-03-13T19:53:42"
+    },
+    {
+        "id": "RX-1318",
+        "pet_id": "PET-1059",
+        "doctor_id": "DOC-1315",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-07-22T01:11:34"
+    },
+    {
+        "id": "RX-1319",
+        "pet_id": "PET-1372",
+        "doctor_id": "DOC-1481",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-04-24T06:38:24"
+    },
+    {
+        "id": "RX-1320",
+        "pet_id": "PET-1185",
+        "doctor_id": "DOC-1470",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-12-27T16:36:05"
+    },
+    {
+        "id": "RX-1321",
+        "pet_id": "PET-1095",
+        "doctor_id": "DOC-1247",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-03-14T13:22:57"
+    },
+    {
+        "id": "RX-1322",
+        "pet_id": "PET-1340",
+        "doctor_id": "DOC-1357",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-08-11T21:06:14"
+    },
+    {
+        "id": "RX-1323",
+        "pet_id": "PET-1166",
+        "doctor_id": "DOC-1372",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-01-24T08:25:10"
+    },
+    {
+        "id": "RX-1324",
+        "pet_id": "PET-1432",
+        "doctor_id": "DOC-1343",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-12-19T05:05:07"
+    },
+    {
+        "id": "RX-1325",
+        "pet_id": "PET-1311",
+        "doctor_id": "DOC-1137",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-01-27T10:48:03"
+    },
+    {
+        "id": "RX-1326",
+        "pet_id": "PET-1100",
+        "doctor_id": "DOC-1309",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-10-14T15:05:58"
+    },
+    {
+        "id": "RX-1327",
+        "pet_id": "PET-1155",
+        "doctor_id": "DOC-1343",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-06-06T19:17:22"
+    },
+    {
+        "id": "RX-1328",
+        "pet_id": "PET-1300",
+        "doctor_id": "DOC-1219",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-07-06T02:57:38"
+    },
+    {
+        "id": "RX-1329",
+        "pet_id": "PET-1060",
+        "doctor_id": "DOC-1173",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-06-25T08:36:25"
+    },
+    {
+        "id": "RX-1330",
+        "pet_id": "PET-1162",
+        "doctor_id": "DOC-1037",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-06-24T09:39:57"
+    },
+    {
+        "id": "RX-1331",
+        "pet_id": "PET-1136",
+        "doctor_id": "DOC-1127",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-08-06T18:25:30"
+    },
+    {
+        "id": "RX-1332",
+        "pet_id": "PET-1095",
+        "doctor_id": "DOC-1131",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-04-13T01:44:46"
+    },
+    {
+        "id": "RX-1333",
+        "pet_id": "PET-1162",
+        "doctor_id": "DOC-1077",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-07-17T00:31:24"
+    },
+    {
+        "id": "RX-1334",
+        "pet_id": "PET-1202",
+        "doctor_id": "DOC-1167",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-09-19T01:43:44"
+    },
+    {
+        "id": "RX-1335",
+        "pet_id": "PET-1394",
+        "doctor_id": "DOC-1277",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-08-06T23:56:18"
+    },
+    {
+        "id": "RX-1336",
+        "pet_id": "PET-1042",
+        "doctor_id": "DOC-1065",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-08-07T11:38:35"
+    },
+    {
+        "id": "RX-1337",
+        "pet_id": "PET-1296",
+        "doctor_id": "DOC-1190",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-08-20T21:41:27"
+    },
+    {
+        "id": "RX-1338",
+        "pet_id": "PET-1054",
+        "doctor_id": "DOC-1007",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-12-15T00:00:15"
+    },
+    {
+        "id": "RX-1339",
+        "pet_id": "PET-1178",
+        "doctor_id": "DOC-1218",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-04-07T13:46:45"
+    },
+    {
+        "id": "RX-1340",
+        "pet_id": "PET-1415",
+        "doctor_id": "DOC-1127",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-03-24T23:17:44"
+    },
+    {
+        "id": "RX-1341",
+        "pet_id": "PET-1175",
+        "doctor_id": "DOC-1471",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-03-24T10:45:30"
+    },
+    {
+        "id": "RX-1342",
+        "pet_id": "PET-1043",
+        "doctor_id": "DOC-1196",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-12-28T12:47:59"
+    },
+    {
+        "id": "RX-1343",
+        "pet_id": "PET-1399",
+        "doctor_id": "DOC-1164",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-02-14T14:16:18"
+    },
+    {
+        "id": "RX-1344",
+        "pet_id": "PET-1471",
+        "doctor_id": "DOC-1421",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-04-12T08:06:18"
+    },
+    {
+        "id": "RX-1345",
+        "pet_id": "PET-1121",
+        "doctor_id": "DOC-1499",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-10-26T19:48:30"
+    },
+    {
+        "id": "RX-1346",
+        "pet_id": "PET-1278",
+        "doctor_id": "DOC-1327",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-10-12T18:57:50"
+    },
+    {
+        "id": "RX-1347",
+        "pet_id": "PET-1068",
+        "doctor_id": "DOC-1085",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2024-10-04T00:14:07"
+    },
+    {
+        "id": "RX-1348",
+        "pet_id": "PET-1471",
+        "doctor_id": "DOC-1421",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-04-12T08:06:18"
+    },
+    {
+        "id": "RX-1349",
+        "pet_id": "PET-1190",
+        "doctor_id": "DOC-1401",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-01-16T19:48:39"
+    },
+    {
+        "id": "RX-1350",
+        "pet_id": "PET-1162",
+        "doctor_id": "DOC-1077",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-07-17T00:31:24"
+    },
+    {
+        "id": "RX-1351",
+        "pet_id": "PET-1021",
+        "doctor_id": "DOC-1128",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2024-11-18T20:51:16"
+    },
+    {
+        "id": "RX-1352",
+        "pet_id": "PET-1320",
+        "doctor_id": "DOC-1286",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-11-21T19:08:00"
+    },
+    {
+        "id": "RX-1353",
+        "pet_id": "PET-1370",
+        "doctor_id": "DOC-1470",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-02-21T17:08:34"
+    },
+    {
+        "id": "RX-1354",
+        "pet_id": "PET-1059",
+        "doctor_id": "DOC-1315",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-07-22T01:11:34"
+    },
+    {
+        "id": "RX-1355",
+        "pet_id": "PET-1216",
+        "doctor_id": "DOC-1478",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-01-27T15:26:31"
+    },
+    {
+        "id": "RX-1356",
+        "pet_id": "PET-1383",
+        "doctor_id": "DOC-1389",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-12-30T11:12:08"
+    },
+    {
+        "id": "RX-1357",
+        "pet_id": "PET-1234",
+        "doctor_id": "DOC-1311",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-08-26T09:40:32"
+    },
+    {
+        "id": "RX-1358",
+        "pet_id": "PET-1203",
+        "doctor_id": "DOC-1044",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-09-30T08:17:27"
+    },
+    {
+        "id": "RX-1359",
+        "pet_id": "PET-1050",
+        "doctor_id": "DOC-1415",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-07-06T07:58:31"
+    },
+    {
+        "id": "RX-1360",
+        "pet_id": "PET-1260",
+        "doctor_id": "DOC-1024",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-06-11T14:41:44"
+    },
+    {
+        "id": "RX-1361",
+        "pet_id": "PET-1024",
+        "doctor_id": "DOC-1403",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-08-06T03:51:19"
+    },
+    {
+        "id": "RX-1362",
+        "pet_id": "PET-1368",
+        "doctor_id": "DOC-1308",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-08-01T17:09:54"
+    },
+    {
+        "id": "RX-1363",
+        "pet_id": "PET-1114",
+        "doctor_id": "DOC-1484",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2024-09-12T13:05:10"
+    },
+    {
+        "id": "RX-1364",
+        "pet_id": "PET-1427",
+        "doctor_id": "DOC-1433",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-08-18T03:49:03"
+    },
+    {
+        "id": "RX-1365",
+        "pet_id": "PET-1415",
+        "doctor_id": "DOC-1127",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-03-24T23:17:44"
+    },
+    {
+        "id": "RX-1366",
+        "pet_id": "PET-1415",
+        "doctor_id": "DOC-1189",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-08-04T02:48:42"
+    },
+    {
+        "id": "RX-1367",
+        "pet_id": "PET-1101",
+        "doctor_id": "DOC-1139",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-09-27T15:02:26"
+    },
+    {
+        "id": "RX-1368",
+        "pet_id": "PET-1234",
+        "doctor_id": "DOC-1451",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-10-17T19:27:54"
+    },
+    {
+        "id": "RX-1369",
+        "pet_id": "PET-1190",
+        "doctor_id": "DOC-1138",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-10-17T02:12:43"
+    },
+    {
+        "id": "RX-1370",
+        "pet_id": "PET-1043",
+        "doctor_id": "DOC-1106",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-02-26T13:40:36"
+    },
+    {
+        "id": "RX-1371",
+        "pet_id": "PET-1072",
+        "doctor_id": "DOC-1397",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-03-06T21:16:49"
+    },
+    {
+        "id": "RX-1372",
+        "pet_id": "PET-1327",
+        "doctor_id": "DOC-1474",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-02-24T03:15:48"
+    },
+    {
+        "id": "RX-1373",
+        "pet_id": "PET-1323",
+        "doctor_id": "DOC-1052",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-09-17T19:53:30"
+    },
+    {
+        "id": "RX-1374",
+        "pet_id": "PET-1041",
+        "doctor_id": "DOC-1152",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-03-27T21:20:02"
+    },
+    {
+        "id": "RX-1375",
+        "pet_id": "PET-1228",
+        "doctor_id": "DOC-1087",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-06-17T16:40:44"
+    },
+    {
+        "id": "RX-1376",
+        "pet_id": "PET-1443",
+        "doctor_id": "DOC-1039",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-08-27T10:09:30"
+    },
+    {
+        "id": "RX-1377",
+        "pet_id": "PET-1050",
+        "doctor_id": "DOC-1028",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-05-09T19:08:01"
+    },
+    {
+        "id": "RX-1378",
+        "pet_id": "PET-1333",
+        "doctor_id": "DOC-1271",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-12-24T23:57:57"
+    },
+    {
+        "id": "RX-1379",
+        "pet_id": "PET-1378",
+        "doctor_id": "DOC-1306",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2024-10-22T01:57:30"
+    },
+    {
+        "id": "RX-1380",
+        "pet_id": "PET-1234",
+        "doctor_id": "DOC-1451",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-10-17T19:27:54"
+    },
+    {
+        "id": "RX-1381",
+        "pet_id": "PET-1158",
+        "doctor_id": "DOC-1294",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-01-01T02:22:42"
+    },
+    {
+        "id": "RX-1382",
+        "pet_id": "PET-1001",
+        "doctor_id": "DOC-1099",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-11-27T10:07:02"
+    },
+    {
+        "id": "RX-1383",
+        "pet_id": "PET-1446",
+        "doctor_id": "DOC-1335",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-07-09T08:22:46"
+    },
+    {
+        "id": "RX-1384",
+        "pet_id": "PET-1446",
+        "doctor_id": "DOC-1335",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-07-09T08:22:46"
+    },
+    {
+        "id": "RX-1385",
+        "pet_id": "PET-1307",
+        "doctor_id": "DOC-1481",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-11-12T17:28:29"
+    },
+    {
+        "id": "RX-1386",
+        "pet_id": "PET-1208",
+        "doctor_id": "DOC-1064",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-02-04T07:11:33"
+    },
+    {
+        "id": "RX-1387",
+        "pet_id": "PET-1068",
+        "doctor_id": "DOC-1083",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-09-09T00:00:07"
+    },
+    {
+        "id": "RX-1388",
+        "pet_id": "PET-1424",
+        "doctor_id": "DOC-1265",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-01-16T18:23:58"
+    },
+    {
+        "id": "RX-1389",
+        "pet_id": "PET-1354",
+        "doctor_id": "DOC-1432",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-06-21T12:38:11"
+    },
+    {
+        "id": "RX-1390",
+        "pet_id": "PET-1159",
+        "doctor_id": "DOC-1367",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-04-12T01:13:51"
+    },
+    {
+        "id": "RX-1391",
+        "pet_id": "PET-1159",
+        "doctor_id": "DOC-1367",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-04-12T01:13:51"
+    },
+    {
+        "id": "RX-1392",
+        "pet_id": "PET-1055",
+        "doctor_id": "DOC-1132",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-09-03T20:56:22"
+    },
+    {
+        "id": "RX-1393",
+        "pet_id": "PET-1314",
+        "doctor_id": "DOC-1069",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-07-23T13:38:46"
+    },
+    {
+        "id": "RX-1394",
+        "pet_id": "PET-1101",
+        "doctor_id": "DOC-1139",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-09-27T15:02:26"
+    },
+    {
+        "id": "RX-1395",
+        "pet_id": "PET-1187",
+        "doctor_id": "DOC-1079",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-04-11T02:10:44"
+    },
+    {
+        "id": "RX-1396",
+        "pet_id": "PET-1067",
+        "doctor_id": "DOC-1236",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-10-10T21:12:50"
+    },
+    {
+        "id": "RX-1397",
+        "pet_id": "PET-1319",
+        "doctor_id": "DOC-1310",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-11-04T06:33:43"
+    },
+    {
+        "id": "RX-1398",
+        "pet_id": "PET-1288",
+        "doctor_id": "DOC-1211",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-08-04T11:27:20"
+    },
+    {
+        "id": "RX-1399",
+        "pet_id": "PET-1321",
+        "doctor_id": "DOC-1081",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-03-11T20:18:10"
+    },
+    {
+        "id": "RX-1400",
+        "pet_id": "PET-1390",
+        "doctor_id": "DOC-1439",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-04-24T04:07:07"
+    },
+    {
+        "id": "RX-1401",
+        "pet_id": "PET-1106",
+        "doctor_id": "DOC-1027",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-04-07T22:32:19"
+    },
+    {
+        "id": "RX-1402",
+        "pet_id": "PET-1399",
+        "doctor_id": "DOC-1164",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-02-14T14:16:18"
+    },
+    {
+        "id": "RX-1403",
+        "pet_id": "PET-1307",
+        "doctor_id": "DOC-1309",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-07-05T11:37:30"
+    },
+    {
+        "id": "RX-1404",
+        "pet_id": "PET-1270",
+        "doctor_id": "DOC-1090",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-04-05T18:14:42"
+    },
+    {
+        "id": "RX-1405",
+        "pet_id": "PET-1307",
+        "doctor_id": "DOC-1309",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-07-05T11:37:30"
+    },
+    {
+        "id": "RX-1406",
+        "pet_id": "PET-1260",
+        "doctor_id": "DOC-1024",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-06-11T14:41:44"
+    },
+    {
+        "id": "RX-1407",
+        "pet_id": "PET-1192",
+        "doctor_id": "DOC-1279",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-05-01T18:08:02"
+    },
+    {
+        "id": "RX-1408",
+        "pet_id": "PET-1260",
+        "doctor_id": "DOC-1184",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-12-15T23:34:39"
+    },
+    {
+        "id": "RX-1409",
+        "pet_id": "PET-1094",
+        "doctor_id": "DOC-1360",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-09-19T09:59:35"
+    },
+    {
+        "id": "RX-1410",
+        "pet_id": "PET-1236",
+        "doctor_id": "DOC-1026",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-07-20T20:07:43"
+    },
+    {
+        "id": "RX-1411",
+        "pet_id": "PET-1238",
+        "doctor_id": "DOC-1122",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-04-18T05:54:10"
+    },
+    {
+        "id": "RX-1412",
+        "pet_id": "PET-1327",
+        "doctor_id": "DOC-1053",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-07-12T18:27:57"
+    },
+    {
+        "id": "RX-1413",
+        "pet_id": "PET-1171",
+        "doctor_id": "DOC-1001",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-09-21T20:20:37"
+    },
+    {
+        "id": "RX-1414",
+        "pet_id": "PET-1219",
+        "doctor_id": "DOC-1473",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-10-04T06:26:13"
+    },
+    {
+        "id": "RX-1415",
+        "pet_id": "PET-1247",
+        "doctor_id": "DOC-1245",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-03-19T08:02:24"
+    },
+    {
+        "id": "RX-1416",
+        "pet_id": "PET-1218",
+        "doctor_id": "DOC-1127",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-10-05T07:24:37"
+    },
+    {
+        "id": "RX-1417",
+        "pet_id": "PET-1290",
+        "doctor_id": "DOC-1132",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-01-09T19:13:07"
+    },
+    {
+        "id": "RX-1418",
+        "pet_id": "PET-1474",
+        "doctor_id": "DOC-1120",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-03-01T03:38:51"
+    },
+    {
+        "id": "RX-1419",
+        "pet_id": "PET-1121",
+        "doctor_id": "DOC-1499",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-10-26T19:48:30"
+    },
+    {
+        "id": "RX-1420",
+        "pet_id": "PET-1191",
+        "doctor_id": "DOC-1133",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-01-29T07:42:24"
+    },
+    {
+        "id": "RX-1421",
+        "pet_id": "PET-1296",
+        "doctor_id": "DOC-1462",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-08-13T14:51:05"
+    },
+    {
+        "id": "RX-1422",
+        "pet_id": "PET-1250",
+        "doctor_id": "DOC-1239",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-04-10T21:14:15"
+    },
+    {
+        "id": "RX-1423",
+        "pet_id": "PET-1162",
+        "doctor_id": "DOC-1037",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-06-24T09:39:57"
+    },
+    {
+        "id": "RX-1424",
+        "pet_id": "PET-1338",
+        "doctor_id": "DOC-1496",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2024-09-24T04:50:15"
+    },
+    {
+        "id": "RX-1425",
+        "pet_id": "PET-1061",
+        "doctor_id": "DOC-1494",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-04-08T21:36:28"
+    },
+    {
+        "id": "RX-1426",
+        "pet_id": "PET-1175",
+        "doctor_id": "DOC-1471",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-03-24T10:45:30"
+    },
+    {
+        "id": "RX-1427",
+        "pet_id": "PET-1368",
+        "doctor_id": "DOC-1108",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-02-19T01:26:02"
+    },
+    {
+        "id": "RX-1428",
+        "pet_id": "PET-1228",
+        "doctor_id": "DOC-1341",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-05-11T00:06:23"
+    },
+    {
+        "id": "RX-1429",
+        "pet_id": "PET-1346",
+        "doctor_id": "DOC-1291",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-06-29T05:34:08"
+    },
+    {
+        "id": "RX-1430",
+        "pet_id": "PET-1415",
+        "doctor_id": "DOC-1127",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-03-24T23:17:44"
+    },
+    {
+        "id": "RX-1431",
+        "pet_id": "PET-1146",
+        "doctor_id": "DOC-1158",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-04-06T12:38:56"
+    },
+    {
+        "id": "RX-1432",
+        "pet_id": "PET-1378",
+        "doctor_id": "DOC-1306",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2024-10-22T01:57:30"
+    },
+    {
+        "id": "RX-1433",
+        "pet_id": "PET-1399",
+        "doctor_id": "DOC-1191",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-11-25T18:48:44"
+    },
+    {
+        "id": "RX-1434",
+        "pet_id": "PET-1260",
+        "doctor_id": "DOC-1395",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-06-23T16:58:23"
+    },
+    {
+        "id": "RX-1435",
+        "pet_id": "PET-1354",
+        "doctor_id": "DOC-1432",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-06-21T12:38:11"
+    },
+    {
+        "id": "RX-1436",
+        "pet_id": "PET-1085",
+        "doctor_id": "DOC-1198",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2024-10-29T01:41:05"
+    },
+    {
+        "id": "RX-1437",
+        "pet_id": "PET-1146",
+        "doctor_id": "DOC-1158",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-04-06T12:38:56"
+    },
+    {
+        "id": "RX-1438",
+        "pet_id": "PET-1415",
+        "doctor_id": "DOC-1127",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-03-24T23:17:44"
+    },
+    {
+        "id": "RX-1439",
+        "pet_id": "PET-1276",
+        "doctor_id": "DOC-1131",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-11-04T03:46:02"
+    },
+    {
+        "id": "RX-1440",
+        "pet_id": "PET-1462",
+        "doctor_id": "DOC-1081",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-04-26T01:05:10"
+    },
+    {
+        "id": "RX-1441",
+        "pet_id": "PET-1296",
+        "doctor_id": "DOC-1190",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2024-08-20T21:41:27"
+    },
+    {
+        "id": "RX-1442",
+        "pet_id": "PET-1452",
+        "doctor_id": "DOC-1267",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-06-17T12:09:07"
+    },
+    {
+        "id": "RX-1443",
+        "pet_id": "PET-1139",
+        "doctor_id": "DOC-1033",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-10-23T08:35:31"
+    },
+    {
+        "id": "RX-1444",
+        "pet_id": "PET-1432",
+        "doctor_id": "DOC-1343",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2024-12-19T05:05:07"
+    },
+    {
+        "id": "RX-1445",
+        "pet_id": "PET-1322",
+        "doctor_id": "DOC-1363",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-03-05T23:16:50"
+    },
+    {
+        "id": "RX-1446",
+        "pet_id": "PET-1331",
+        "doctor_id": "DOC-1003",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-01-28T03:49:05"
+    },
+    {
+        "id": "RX-1447",
+        "pet_id": "PET-1415",
+        "doctor_id": "DOC-1189",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-08-04T02:48:42"
+    },
+    {
+        "id": "RX-1448",
+        "pet_id": "PET-1089",
+        "doctor_id": "DOC-1206",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-08-06T20:44:23"
+    },
+    {
+        "id": "RX-1449",
+        "pet_id": "PET-1150",
+        "doctor_id": "DOC-1350",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-10-18T10:55:10"
+    },
+    {
+        "id": "RX-1450",
+        "pet_id": "PET-1171",
+        "doctor_id": "DOC-1001",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-09-21T20:20:37"
+    },
+    {
+        "id": "RX-1451",
+        "pet_id": "PET-1417",
+        "doctor_id": "DOC-1196",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-05-16T09:25:56"
+    },
+    {
+        "id": "RX-1452",
+        "pet_id": "PET-1311",
+        "doctor_id": "DOC-1280",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-07-18T16:02:42"
+    },
+    {
+        "id": "RX-1453",
+        "pet_id": "PET-1254",
+        "doctor_id": "DOC-1241",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-08-03T18:17:49"
+    },
+    {
+        "id": "RX-1454",
+        "pet_id": "PET-1482",
+        "doctor_id": "DOC-1187",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-01-28T18:32:52"
+    },
+    {
+        "id": "RX-1455",
+        "pet_id": "PET-1234",
+        "doctor_id": "DOC-1311",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-08-26T09:40:32"
+    },
+    {
+        "id": "RX-1456",
+        "pet_id": "PET-1094",
+        "doctor_id": "DOC-1428",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-08-03T17:39:16"
+    },
+    {
+        "id": "RX-1457",
+        "pet_id": "PET-1080",
+        "doctor_id": "DOC-1007",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-04-08T23:37:28"
+    },
+    {
+        "id": "RX-1458",
+        "pet_id": "PET-1015",
+        "doctor_id": "DOC-1274",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-04-30T01:44:18"
+    },
+    {
+        "id": "RX-1459",
+        "pet_id": "PET-1108",
+        "doctor_id": "DOC-1193",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-05-05T19:44:56"
+    },
+    {
+        "id": "RX-1460",
+        "pet_id": "PET-1182",
+        "doctor_id": "DOC-1466",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-12-09T17:34:06"
+    },
+    {
+        "id": "RX-1461",
+        "pet_id": "PET-1432",
+        "doctor_id": "DOC-1086",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-11-28T05:35:32"
+    },
+    {
+        "id": "RX-1462",
+        "pet_id": "PET-1234",
+        "doctor_id": "DOC-1240",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-03-01T15:32:53"
+    },
+    {
+        "id": "RX-1463",
+        "pet_id": "PET-1054",
+        "doctor_id": "DOC-1007",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2024-12-15T00:00:15"
+    },
+    {
+        "id": "RX-1464",
+        "pet_id": "PET-1402",
+        "doctor_id": "DOC-1188",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-08-06T15:42:49"
+    },
+    {
+        "id": "RX-1465",
+        "pet_id": "PET-1242",
+        "doctor_id": "DOC-1117",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-04-21T20:34:47"
+    },
+    {
+        "id": "RX-1466",
+        "pet_id": "PET-1139",
+        "doctor_id": "DOC-1033",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-10-23T08:35:31"
+    },
+    {
+        "id": "RX-1467",
+        "pet_id": "PET-1254",
+        "doctor_id": "DOC-1241",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-08-03T18:17:49"
+    },
+    {
+        "id": "RX-1468",
+        "pet_id": "PET-1290",
+        "doctor_id": "DOC-1132",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-01-09T19:13:07"
+    },
+    {
+        "id": "RX-1469",
+        "pet_id": "PET-1025",
+        "doctor_id": "DOC-1380",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-08-22T17:57:51"
+    },
+    {
+        "id": "RX-1470",
+        "pet_id": "PET-1218",
+        "doctor_id": "DOC-1127",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-10-05T07:24:37"
+    },
+    {
+        "id": "RX-1471",
+        "pet_id": "PET-1224",
+        "doctor_id": "DOC-1469",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-05-02T21:28:38"
+    },
+    {
+        "id": "RX-1472",
+        "pet_id": "PET-1417",
+        "doctor_id": "DOC-1263",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-10-09T00:15:07"
+    },
+    {
+        "id": "RX-1473",
+        "pet_id": "PET-1101",
+        "doctor_id": "DOC-1312",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-06-24T17:45:41"
+    },
+    {
+        "id": "RX-1474",
+        "pet_id": "PET-1013",
+        "doctor_id": "DOC-1125",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2025-12-04T20:06:03"
+    },
+    {
+        "id": "RX-1475",
+        "pet_id": "PET-1493",
+        "doctor_id": "DOC-1159",
+        "medication": "Frontline",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-07-27T07:41:18"
+    },
+    {
+        "id": "RX-1476",
+        "pet_id": "PET-1199",
+        "doctor_id": "DOC-1057",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-03-14T01:08:47"
+    },
+    {
+        "id": "RX-1477",
+        "pet_id": "PET-1461",
+        "doctor_id": "DOC-1492",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2024-10-27T19:51:55"
+    },
+    {
+        "id": "RX-1478",
+        "pet_id": "PET-1162",
+        "doctor_id": "DOC-1077",
+        "medication": "Heartgard",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-07-17T00:31:24"
+    },
+    {
+        "id": "RX-1479",
+        "pet_id": "PET-1182",
+        "doctor_id": "DOC-1158",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-03-24T16:23:21"
+    },
+    {
+        "id": "RX-1480",
+        "pet_id": "PET-1225",
+        "doctor_id": "DOC-1410",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-07-15T20:46:00"
+    },
+    {
+        "id": "RX-1481",
+        "pet_id": "PET-1124",
+        "doctor_id": "DOC-1310",
+        "medication": "Heartgard",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-07-14T06:38:49"
+    },
+    {
+        "id": "RX-1482",
+        "pet_id": "PET-1402",
+        "doctor_id": "DOC-1188",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-08-06T15:42:49"
+    },
+    {
+        "id": "RX-1483",
+        "pet_id": "PET-1224",
+        "doctor_id": "DOC-1469",
+        "medication": "Rimadyl",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-05-02T21:28:38"
+    },
+    {
+        "id": "RX-1484",
+        "pet_id": "PET-1421",
+        "doctor_id": "DOC-1397",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-07-31T21:02:25"
+    },
+    {
+        "id": "RX-1485",
+        "pet_id": "PET-1043",
+        "doctor_id": "DOC-1196",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2024-12-28T12:47:59"
+    },
+    {
+        "id": "RX-1486",
+        "pet_id": "PET-1215",
+        "doctor_id": "DOC-1429",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2024-12-27T13:45:50"
+    },
+    {
+        "id": "RX-1487",
+        "pet_id": "PET-1399",
+        "doctor_id": "DOC-1164",
+        "medication": "Rimadyl",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-02-14T14:16:18"
+    },
+    {
+        "id": "RX-1488",
+        "pet_id": "PET-1496",
+        "doctor_id": "DOC-1069",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-09-29T15:49:48"
+    },
+    {
+        "id": "RX-1489",
+        "pet_id": "PET-1210",
+        "doctor_id": "DOC-1450",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-11-23T19:16:33"
+    },
+    {
+        "id": "RX-1490",
+        "pet_id": "PET-1006",
+        "doctor_id": "DOC-1199",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-06-27T20:18:35"
+    },
+    {
+        "id": "RX-1491",
+        "pet_id": "PET-1120",
+        "doctor_id": "DOC-1405",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-06-14T03:39:36"
+    },
+    {
+        "id": "RX-1492",
+        "pet_id": "PET-1260",
+        "doctor_id": "DOC-1184",
+        "medication": "Amoxicillin",
+        "dosage": "3 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2025-12-15T23:34:39"
+    },
+    {
+        "id": "RX-1493",
+        "pet_id": "PET-1055",
+        "doctor_id": "DOC-1264",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-04-16T01:15:53"
+    },
+    {
+        "id": "RX-1494",
+        "pet_id": "PET-1240",
+        "doctor_id": "DOC-1493",
+        "medication": "Rimadyl",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-03-24T02:26:48"
+    },
+    {
+        "id": "RX-1495",
+        "pet_id": "PET-1094",
+        "doctor_id": "DOC-1360",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2025-09-19T09:59:35"
+    },
+    {
+        "id": "RX-1496",
+        "pet_id": "PET-1278",
+        "doctor_id": "DOC-1327",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-10-12T18:57:50"
+    },
+    {
+        "id": "RX-1497",
+        "pet_id": "PET-1465",
+        "doctor_id": "DOC-1027",
+        "medication": "Frontline",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-01-24T09:49:56"
+    },
+    {
+        "id": "RX-1498",
+        "pet_id": "PET-1112",
+        "doctor_id": "DOC-1077",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-05-25T10:21:31"
+    },
+    {
+        "id": "RX-1499",
+        "pet_id": "PET-1056",
+        "doctor_id": "DOC-1161",
+        "medication": "Heartgard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2025-07-04T17:04:07"
+    },
+    {
+        "id": "RX-1500",
+        "pet_id": "PET-1110",
+        "doctor_id": "DOC-1436",
+        "medication": "Frontline",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2024-12-29T22:49:31"
     }
 ]

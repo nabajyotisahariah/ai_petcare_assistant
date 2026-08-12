@@ -26,6 +26,7 @@ def create_orchestrator_agent() -> Agent:
             check_refill_eligibility, search_products
         ],
         allow_delegation=False,
+        max_iter=4,
         verbose=True
     )
 
@@ -37,6 +38,7 @@ def create_clinic_agent() -> Agent:
         backstory=load_prompt("clinic_agent.txt"),
         tools=[find_nearby_clinics, is_clinic_open, get_clinic_doctors],
         allow_delegation=False,
+        max_iter=4,
         verbose=True
     )
 
@@ -48,6 +50,7 @@ def create_appointment_agent() -> Agent:
         backstory=load_prompt("appointment_agent.txt"),
         tools=[get_available_slots],
         allow_delegation=False,
+        max_iter=2,
         verbose=True
     )
 
@@ -59,6 +62,7 @@ def create_pet_agent() -> Agent:
         backstory=load_prompt("pet_agent.txt"),
         tools=[get_pet_profile],
         allow_delegation=False,
+        max_iter=2,
         verbose=True
     )
 
@@ -70,6 +74,7 @@ def create_prescription_agent() -> Agent:
         backstory=load_prompt("prescription_agent.txt"),
         tools=[get_latest_prescription, check_refill_eligibility],
         allow_delegation=False,
+        max_iter=4,
         verbose=True
     )
 
@@ -81,5 +86,6 @@ def create_commerce_agent() -> Agent:
         backstory=load_prompt("commerce_agent.txt"),
         tools=[search_products],
         allow_delegation=False,
+        max_iter=2,
         verbose=True
     )

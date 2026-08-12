@@ -1,802 +1,4002 @@
 [
     {
         "id": "PROD-1001",
-        "name": "Premium Pet Supplements 1",
-        "category": "supplements",
-        "price": 23.3,
-        "inventory_count": 83,
-        "description": "High quality supplements for your pet."
+        "name": "Book Chow",
+        "category": "Anthelmintics",
+        "price": 94.42,
+        "inventory_count": 111,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
     },
     {
         "id": "PROD-1002",
-        "name": "Premium Pet Dental Treats 2",
-        "category": "dental treats",
-        "price": 71.95,
-        "inventory_count": 98,
-        "description": "High quality dental treats for your pet."
+        "name": "History Treats",
+        "category": "Anthelmintics",
+        "price": 91.85,
+        "inventory_count": 76,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
     },
     {
         "id": "PROD-1003",
-        "name": "Premium Pet Dental Treats 3",
-        "category": "dental treats",
-        "price": 63.38,
-        "inventory_count": 28,
-        "description": "High quality dental treats for your pet."
+        "name": "Inside Treats",
+        "category": "Nutritional Supplements",
+        "price": 94.64,
+        "inventory_count": 35,
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
     },
     {
         "id": "PROD-1004",
-        "name": "Premium Pet Food 4",
-        "category": "food",
-        "price": 65.31,
-        "inventory_count": 89,
-        "description": "High quality food for your pet."
+        "name": "Wind Treats",
+        "category": "Anthelmintics",
+        "price": 43.43,
+        "inventory_count": 44,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
     },
     {
         "id": "PROD-1005",
-        "name": "Premium Pet Grooming 5",
-        "category": "grooming",
-        "price": 39.84,
-        "inventory_count": 71,
-        "description": "High quality grooming for your pet."
+        "name": "Agree Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 11.11,
+        "inventory_count": 65,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
     },
     {
         "id": "PROD-1006",
-        "name": "Premium Pet Food 6",
-        "category": "food",
-        "price": 73.81,
-        "inventory_count": 15,
-        "description": "High quality food for your pet."
+        "name": "Number Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 57.22,
+        "inventory_count": 171,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
     },
     {
         "id": "PROD-1007",
-        "name": "Premium Pet Supplements 7",
-        "category": "supplements",
-        "price": 15.0,
-        "inventory_count": 59,
-        "description": "High quality supplements for your pet."
+        "name": "Participant Vitamins",
+        "category": "Anthelmintics",
+        "price": 19.34,
+        "inventory_count": 4,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
     },
     {
         "id": "PROD-1008",
-        "name": "Premium Pet Grooming 8",
-        "category": "grooming",
-        "price": 79.09,
-        "inventory_count": 76,
-        "description": "High quality grooming for your pet."
+        "name": "Cultural Chow",
+        "category": "Dental Prophylactics",
+        "price": 38.54,
+        "inventory_count": 135,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
     },
     {
         "id": "PROD-1009",
-        "name": "Premium Pet Toys 9",
-        "category": "toys",
-        "price": 76.25,
-        "inventory_count": 56,
-        "description": "High quality toys for your pet."
+        "name": "Read Treats",
+        "category": "Nutritional Supplements",
+        "price": 15.45,
+        "inventory_count": 118,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
     },
     {
         "id": "PROD-1010",
-        "name": "Premium Pet Grooming 10",
-        "category": "grooming",
-        "price": 66.13,
-        "inventory_count": 64,
-        "description": "High quality grooming for your pet."
+        "name": "Data Treats",
+        "category": "Anthelmintics",
+        "price": 82.84,
+        "inventory_count": 165,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
     },
     {
         "id": "PROD-1011",
-        "name": "Premium Pet Supplements 11",
-        "category": "supplements",
-        "price": 67.29,
-        "inventory_count": 70,
-        "description": "High quality supplements for your pet."
+        "name": "Suffer Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 66.35,
+        "inventory_count": 68,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
     },
     {
         "id": "PROD-1012",
-        "name": "Premium Pet Supplements 12",
-        "category": "supplements",
-        "price": 72.29,
-        "inventory_count": 95,
-        "description": "High quality supplements for your pet."
+        "name": "Firm Vitamins",
+        "category": "Anthelmintics",
+        "price": 32.76,
+        "inventory_count": 124,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
     },
     {
         "id": "PROD-1013",
-        "name": "Premium Pet Supplements 13",
-        "category": "supplements",
-        "price": 38.76,
-        "inventory_count": 96,
-        "description": "High quality supplements for your pet."
+        "name": "Themselves Treats",
+        "category": "Nutritional Supplements",
+        "price": 82.36,
+        "inventory_count": 147,
+        "description": "Omega-3 fatty acid formulation derived from marine lipids to modulate inflammatory cascades and improve coat luster."
     },
     {
         "id": "PROD-1014",
-        "name": "Premium Pet Food 14",
-        "category": "food",
-        "price": 67.99,
-        "inventory_count": 35,
-        "description": "High quality food for your pet."
+        "name": "Hear Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 60.06,
+        "inventory_count": 18,
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
     },
     {
         "id": "PROD-1015",
-        "name": "Premium Pet Grooming 15",
-        "category": "grooming",
-        "price": 41.34,
-        "inventory_count": 30,
-        "description": "High quality grooming for your pet."
+        "name": "Oil Chow",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 87.36,
+        "inventory_count": 47,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
     },
     {
         "id": "PROD-1016",
-        "name": "Premium Pet Toys 16",
-        "category": "toys",
-        "price": 37.99,
-        "inventory_count": 91,
-        "description": "High quality toys for your pet."
+        "name": "Authority Chow",
+        "category": "Ophthalmic Preparations",
+        "price": 83.9,
+        "inventory_count": 100,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
     },
     {
         "id": "PROD-1017",
-        "name": "Premium Pet Toys 17",
-        "category": "toys",
-        "price": 22.59,
-        "inventory_count": 42,
-        "description": "High quality toys for your pet."
+        "name": "Describe Chow",
+        "category": "Dental Prophylactics",
+        "price": 21.32,
+        "inventory_count": 76,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
     },
     {
         "id": "PROD-1018",
-        "name": "Premium Pet Toys 18",
-        "category": "toys",
-        "price": 71.98,
-        "inventory_count": 10,
-        "description": "High quality toys for your pet."
+        "name": "Walk Chow",
+        "category": "Ophthalmic Preparations",
+        "price": 87.56,
+        "inventory_count": 68,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
     },
     {
         "id": "PROD-1019",
-        "name": "Premium Pet Food 19",
-        "category": "food",
-        "price": 16.31,
-        "inventory_count": 49,
-        "description": "High quality food for your pet."
+        "name": "Analysis Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 14.62,
+        "inventory_count": 7,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
     },
     {
         "id": "PROD-1020",
-        "name": "Premium Pet Food 20",
-        "category": "food",
-        "price": 57.98,
-        "inventory_count": 8,
-        "description": "High quality food for your pet."
+        "name": "Occur Chow",
+        "category": "Nutritional Supplements",
+        "price": 64.61,
+        "inventory_count": 93,
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
     },
     {
         "id": "PROD-1021",
-        "name": "Premium Pet Supplements 21",
-        "category": "supplements",
-        "price": 35.57,
-        "inventory_count": 69,
-        "description": "High quality supplements for your pet."
+        "name": "Happy Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 98.14,
+        "inventory_count": 32,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
     },
     {
         "id": "PROD-1022",
-        "name": "Premium Pet Supplements 22",
-        "category": "supplements",
-        "price": 36.18,
-        "inventory_count": 26,
-        "description": "High quality supplements for your pet."
+        "name": "Benefit Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 51.72,
+        "inventory_count": 58,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
     },
     {
         "id": "PROD-1023",
-        "name": "Premium Pet Supplements 23",
-        "category": "supplements",
-        "price": 34.21,
-        "inventory_count": 98,
-        "description": "High quality supplements for your pet."
+        "name": "Technology Chow",
+        "category": "Gastrointestinal Protectants",
+        "price": 40.7,
+        "inventory_count": 37,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
     },
     {
         "id": "PROD-1024",
-        "name": "Premium Pet Grooming 24",
-        "category": "grooming",
-        "price": 75.95,
-        "inventory_count": 2,
-        "description": "High quality grooming for your pet."
+        "name": "System Vitamins",
+        "category": "Gastrointestinal Protectants",
+        "price": 31.55,
+        "inventory_count": 23,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
     },
     {
         "id": "PROD-1025",
-        "name": "Premium Pet Grooming 25",
-        "category": "grooming",
-        "price": 33.53,
-        "inventory_count": 0,
-        "description": "High quality grooming for your pet."
+        "name": "World Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 89.87,
+        "inventory_count": 122,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
     },
     {
         "id": "PROD-1026",
-        "name": "Premium Pet Toys 26",
-        "category": "toys",
-        "price": 27.4,
-        "inventory_count": 49,
-        "description": "High quality toys for your pet."
+        "name": "Compare Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 59.97,
+        "inventory_count": 82,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
     },
     {
         "id": "PROD-1027",
-        "name": "Premium Pet Supplements 27",
-        "category": "supplements",
-        "price": 45.37,
-        "inventory_count": 94,
-        "description": "High quality supplements for your pet."
+        "name": "Capital Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 30.1,
+        "inventory_count": 190,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
     },
     {
         "id": "PROD-1028",
-        "name": "Premium Pet Grooming 28",
-        "category": "grooming",
-        "price": 64.99,
-        "inventory_count": 28,
-        "description": "High quality grooming for your pet."
+        "name": "Might Vitamins",
+        "category": "Anthelmintics",
+        "price": 36.43,
+        "inventory_count": 72,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
     },
     {
         "id": "PROD-1029",
-        "name": "Premium Pet Supplements 29",
-        "category": "supplements",
-        "price": 21.46,
-        "inventory_count": 55,
-        "description": "High quality supplements for your pet."
+        "name": "Culture Vitamins",
+        "category": "Anthelmintics",
+        "price": 80.54,
+        "inventory_count": 41,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
     },
     {
         "id": "PROD-1030",
-        "name": "Premium Pet Supplements 30",
-        "category": "supplements",
-        "price": 7.18,
-        "inventory_count": 43,
-        "description": "High quality supplements for your pet."
+        "name": "Doctor Chow",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 74.07,
+        "inventory_count": 129,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
     },
     {
         "id": "PROD-1031",
-        "name": "Premium Pet Supplements 31",
-        "category": "supplements",
-        "price": 59.31,
-        "inventory_count": 59,
-        "description": "High quality supplements for your pet."
+        "name": "Support Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 11.54,
+        "inventory_count": 121,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
     },
     {
         "id": "PROD-1032",
-        "name": "Premium Pet Food 32",
-        "category": "food",
-        "price": 78.55,
-        "inventory_count": 68,
-        "description": "High quality food for your pet."
+        "name": "Less Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 45.84,
+        "inventory_count": 154,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
     },
     {
         "id": "PROD-1033",
-        "name": "Premium Pet Dental Treats 33",
-        "category": "dental treats",
-        "price": 73.02,
-        "inventory_count": 75,
-        "description": "High quality dental treats for your pet."
+        "name": "Seek Treats",
+        "category": "Nutritional Supplements",
+        "price": 17.9,
+        "inventory_count": 56,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
     },
     {
         "id": "PROD-1034",
-        "name": "Premium Pet Grooming 34",
-        "category": "grooming",
-        "price": 54.72,
-        "inventory_count": 10,
-        "description": "High quality grooming for your pet."
+        "name": "Herself Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 20.52,
+        "inventory_count": 135,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
     },
     {
         "id": "PROD-1035",
-        "name": "Premium Pet Supplements 35",
-        "category": "supplements",
-        "price": 15.18,
-        "inventory_count": 59,
-        "description": "High quality supplements for your pet."
+        "name": "Bed Treats",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 61.67,
+        "inventory_count": 100,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
     },
     {
         "id": "PROD-1036",
-        "name": "Premium Pet Food 36",
-        "category": "food",
-        "price": 8.77,
-        "inventory_count": 48,
-        "description": "High quality food for your pet."
+        "name": "Writer Chow",
+        "category": "Ophthalmic Preparations",
+        "price": 27.47,
+        "inventory_count": 161,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
     },
     {
         "id": "PROD-1037",
-        "name": "Premium Pet Toys 37",
-        "category": "toys",
-        "price": 20.87,
-        "inventory_count": 41,
-        "description": "High quality toys for your pet."
+        "name": "Culture Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 74.31,
+        "inventory_count": 26,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
     },
     {
         "id": "PROD-1038",
-        "name": "Premium Pet Toys 38",
-        "category": "toys",
-        "price": 62.09,
-        "inventory_count": 48,
-        "description": "High quality toys for your pet."
+        "name": "Learn Treats",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 48.83,
+        "inventory_count": 5,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
     },
     {
         "id": "PROD-1039",
-        "name": "Premium Pet Toys 39",
-        "category": "toys",
-        "price": 61.4,
-        "inventory_count": 53,
-        "description": "High quality toys for your pet."
+        "name": "Face Chow",
+        "category": "Nutritional Supplements",
+        "price": 63.82,
+        "inventory_count": 157,
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
     },
     {
         "id": "PROD-1040",
-        "name": "Premium Pet Toys 40",
-        "category": "toys",
-        "price": 67.62,
-        "inventory_count": 60,
-        "description": "High quality toys for your pet."
+        "name": "Development Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 64.8,
+        "inventory_count": 161,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
     },
     {
         "id": "PROD-1041",
-        "name": "Premium Pet Dental Treats 41",
-        "category": "dental treats",
-        "price": 61.18,
-        "inventory_count": 6,
-        "description": "High quality dental treats for your pet."
+        "name": "To Treats",
+        "category": "Nutritional Supplements",
+        "price": 85.69,
+        "inventory_count": 88,
+        "description": "Omega-3 fatty acid formulation derived from marine lipids to modulate inflammatory cascades and improve coat luster."
     },
     {
         "id": "PROD-1042",
-        "name": "Premium Pet Toys 42",
-        "category": "toys",
-        "price": 21.82,
-        "inventory_count": 8,
-        "description": "High quality toys for your pet."
+        "name": "Indeed Vitamins",
+        "category": "Gastrointestinal Protectants",
+        "price": 32.85,
+        "inventory_count": 200,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
     },
     {
         "id": "PROD-1043",
-        "name": "Premium Pet Dental Treats 43",
-        "category": "dental treats",
-        "price": 61.57,
-        "inventory_count": 31,
-        "description": "High quality dental treats for your pet."
+        "name": "Which Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 59.13,
+        "inventory_count": 25,
+        "description": "Corticosteroid spray formulated to alleviate localized pruritus and erythema associated with allergic dermatitis."
     },
     {
         "id": "PROD-1044",
-        "name": "Premium Pet Food 44",
-        "category": "food",
-        "price": 67.94,
-        "inventory_count": 79,
-        "description": "High quality food for your pet."
+        "name": "Themselves Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 48.04,
+        "inventory_count": 129,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
     },
     {
         "id": "PROD-1045",
-        "name": "Premium Pet Food 45",
-        "category": "food",
-        "price": 22.89,
-        "inventory_count": 60,
-        "description": "High quality food for your pet."
+        "name": "Series Chow",
+        "category": "Nutritional Supplements",
+        "price": 50.69,
+        "inventory_count": 14,
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
     },
     {
         "id": "PROD-1046",
-        "name": "Premium Pet Dental Treats 46",
-        "category": "dental treats",
-        "price": 47.3,
-        "inventory_count": 27,
-        "description": "High quality dental treats for your pet."
+        "name": "If Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 23.64,
+        "inventory_count": 180,
+        "description": "Corticosteroid spray formulated to alleviate localized pruritus and erythema associated with allergic dermatitis."
     },
     {
         "id": "PROD-1047",
-        "name": "Premium Pet Supplements 47",
-        "category": "supplements",
-        "price": 57.46,
-        "inventory_count": 98,
-        "description": "High quality supplements for your pet."
+        "name": "Democrat Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 52.57,
+        "inventory_count": 121,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
     },
     {
         "id": "PROD-1048",
-        "name": "Premium Pet Toys 48",
-        "category": "toys",
-        "price": 17.58,
-        "inventory_count": 77,
-        "description": "High quality toys for your pet."
+        "name": "At Vitamins",
+        "category": "Gastrointestinal Protectants",
+        "price": 91.85,
+        "inventory_count": 118,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
     },
     {
         "id": "PROD-1049",
-        "name": "Premium Pet Dental Treats 49",
-        "category": "dental treats",
-        "price": 63.33,
-        "inventory_count": 20,
-        "description": "High quality dental treats for your pet."
+        "name": "Nearly Treats",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 64.83,
+        "inventory_count": 140,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
     },
     {
         "id": "PROD-1050",
-        "name": "Premium Pet Toys 50",
-        "category": "toys",
-        "price": 13.11,
-        "inventory_count": 3,
-        "description": "High quality toys for your pet."
+        "name": "Rather Chow",
+        "category": "Dental Prophylactics",
+        "price": 52.66,
+        "inventory_count": 128,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
     },
     {
         "id": "PROD-1051",
-        "name": "Premium Pet Toys 51",
-        "category": "toys",
-        "price": 48.18,
-        "inventory_count": 48,
-        "description": "High quality toys for your pet."
+        "name": "Writer Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 94.19,
+        "inventory_count": 49,
+        "description": "Corticosteroid spray formulated to alleviate localized pruritus and erythema associated with allergic dermatitis."
     },
     {
         "id": "PROD-1052",
-        "name": "Premium Pet Supplements 52",
-        "category": "supplements",
-        "price": 75.61,
-        "inventory_count": 25,
-        "description": "High quality supplements for your pet."
+        "name": "Under Chow",
+        "category": "Dermatological Therapeutics",
+        "price": 68.33,
+        "inventory_count": 3,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
     },
     {
         "id": "PROD-1053",
-        "name": "Premium Pet Dental Treats 53",
-        "category": "dental treats",
-        "price": 49.41,
-        "inventory_count": 80,
-        "description": "High quality dental treats for your pet."
+        "name": "Animal Chow",
+        "category": "Anthelmintics",
+        "price": 80.9,
+        "inventory_count": 33,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
     },
     {
         "id": "PROD-1054",
-        "name": "Premium Pet Food 54",
-        "category": "food",
-        "price": 12.64,
-        "inventory_count": 98,
-        "description": "High quality food for your pet."
+        "name": "Southern Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 36.95,
+        "inventory_count": 96,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
     },
     {
         "id": "PROD-1055",
-        "name": "Premium Pet Toys 55",
-        "category": "toys",
-        "price": 68.77,
-        "inventory_count": 76,
-        "description": "High quality toys for your pet."
+        "name": "So Chow",
+        "category": "Gastrointestinal Protectants",
+        "price": 77.71,
+        "inventory_count": 80,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
     },
     {
         "id": "PROD-1056",
-        "name": "Premium Pet Dental Treats 56",
-        "category": "dental treats",
-        "price": 64.72,
-        "inventory_count": 72,
-        "description": "High quality dental treats for your pet."
+        "name": "Miss Chow",
+        "category": "Dental Prophylactics",
+        "price": 66.68,
+        "inventory_count": 10,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
     },
     {
         "id": "PROD-1057",
-        "name": "Premium Pet Dental Treats 57",
-        "category": "dental treats",
-        "price": 31.04,
-        "inventory_count": 54,
-        "description": "High quality dental treats for your pet."
+        "name": "Professional Vitamins",
+        "category": "Dental Prophylactics",
+        "price": 20.47,
+        "inventory_count": 164,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
     },
     {
         "id": "PROD-1058",
-        "name": "Premium Pet Toys 58",
-        "category": "toys",
-        "price": 10.17,
-        "inventory_count": 82,
-        "description": "High quality toys for your pet."
+        "name": "Section Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 25.95,
+        "inventory_count": 77,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
     },
     {
         "id": "PROD-1059",
-        "name": "Premium Pet Toys 59",
-        "category": "toys",
-        "price": 5.95,
-        "inventory_count": 53,
-        "description": "High quality toys for your pet."
+        "name": "Customer Chow",
+        "category": "Anthelmintics",
+        "price": 27.53,
+        "inventory_count": 152,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
     },
     {
         "id": "PROD-1060",
-        "name": "Premium Pet Supplements 60",
-        "category": "supplements",
-        "price": 12.92,
-        "inventory_count": 46,
-        "description": "High quality supplements for your pet."
+        "name": "East Chow",
+        "category": "Anthelmintics",
+        "price": 85.4,
+        "inventory_count": 143,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
     },
     {
         "id": "PROD-1061",
-        "name": "Premium Pet Supplements 61",
-        "category": "supplements",
-        "price": 58.05,
+        "name": "Series Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 51.07,
         "inventory_count": 55,
-        "description": "High quality supplements for your pet."
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
     },
     {
         "id": "PROD-1062",
-        "name": "Premium Pet Food 62",
-        "category": "food",
-        "price": 60.03,
-        "inventory_count": 83,
-        "description": "High quality food for your pet."
+        "name": "Human Vitamins",
+        "category": "Anthelmintics",
+        "price": 52.03,
+        "inventory_count": 62,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
     },
     {
         "id": "PROD-1063",
-        "name": "Premium Pet Toys 63",
-        "category": "toys",
-        "price": 51.19,
-        "inventory_count": 68,
-        "description": "High quality toys for your pet."
+        "name": "Agree Chow",
+        "category": "Anthelmintics",
+        "price": 85.94,
+        "inventory_count": 15,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
     },
     {
         "id": "PROD-1064",
-        "name": "Premium Pet Supplements 64",
-        "category": "supplements",
-        "price": 39.87,
-        "inventory_count": 93,
-        "description": "High quality supplements for your pet."
+        "name": "Red Treats",
+        "category": "Anthelmintics",
+        "price": 52.42,
+        "inventory_count": 94,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
     },
     {
         "id": "PROD-1065",
-        "name": "Premium Pet Grooming 65",
-        "category": "grooming",
-        "price": 25.13,
-        "inventory_count": 31,
-        "description": "High quality grooming for your pet."
+        "name": "Technology Chow",
+        "category": "Dental Prophylactics",
+        "price": 95.06,
+        "inventory_count": 86,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
     },
     {
         "id": "PROD-1066",
-        "name": "Premium Pet Dental Treats 66",
-        "category": "dental treats",
-        "price": 25.92,
-        "inventory_count": 57,
-        "description": "High quality dental treats for your pet."
+        "name": "Enjoy Vitamins",
+        "category": "Anthelmintics",
+        "price": 88.06,
+        "inventory_count": 19,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
     },
     {
         "id": "PROD-1067",
-        "name": "Premium Pet Food 67",
-        "category": "food",
-        "price": 61.29,
-        "inventory_count": 72,
-        "description": "High quality food for your pet."
+        "name": "Behind Treats",
+        "category": "Dental Prophylactics",
+        "price": 25.99,
+        "inventory_count": 102,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
     },
     {
         "id": "PROD-1068",
-        "name": "Premium Pet Grooming 68",
-        "category": "grooming",
-        "price": 55.11,
-        "inventory_count": 43,
-        "description": "High quality grooming for your pet."
+        "name": "Owner Treats",
+        "category": "Nutritional Supplements",
+        "price": 34.62,
+        "inventory_count": 145,
+        "description": "Omega-3 fatty acid formulation derived from marine lipids to modulate inflammatory cascades and improve coat luster."
     },
     {
         "id": "PROD-1069",
-        "name": "Premium Pet Dental Treats 69",
-        "category": "dental treats",
-        "price": 42.07,
-        "inventory_count": 41,
-        "description": "High quality dental treats for your pet."
+        "name": "Instead Chow",
+        "category": "Anthelmintics",
+        "price": 51.87,
+        "inventory_count": 57,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
     },
     {
         "id": "PROD-1070",
-        "name": "Premium Pet Food 70",
-        "category": "food",
-        "price": 41.57,
-        "inventory_count": 45,
-        "description": "High quality food for your pet."
+        "name": "Professor Vitamins",
+        "category": "Dental Prophylactics",
+        "price": 74.89,
+        "inventory_count": 181,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
     },
     {
         "id": "PROD-1071",
-        "name": "Premium Pet Toys 71",
-        "category": "toys",
-        "price": 30.53,
-        "inventory_count": 76,
-        "description": "High quality toys for your pet."
+        "name": "Third Treats",
+        "category": "Dental Prophylactics",
+        "price": 46.04,
+        "inventory_count": 137,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
     },
     {
         "id": "PROD-1072",
-        "name": "Premium Pet Toys 72",
-        "category": "toys",
-        "price": 46.68,
-        "inventory_count": 66,
-        "description": "High quality toys for your pet."
+        "name": "Know Chow",
+        "category": "Ophthalmic Preparations",
+        "price": 82.43,
+        "inventory_count": 14,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
     },
     {
         "id": "PROD-1073",
-        "name": "Premium Pet Food 73",
-        "category": "food",
-        "price": 11.42,
-        "inventory_count": 92,
-        "description": "High quality food for your pet."
+        "name": "Less Treats",
+        "category": "Dental Prophylactics",
+        "price": 21.5,
+        "inventory_count": 192,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
     },
     {
         "id": "PROD-1074",
-        "name": "Premium Pet Supplements 74",
-        "category": "supplements",
-        "price": 41.64,
-        "inventory_count": 97,
-        "description": "High quality supplements for your pet."
+        "name": "Community Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 91.62,
+        "inventory_count": 30,
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
     },
     {
         "id": "PROD-1075",
-        "name": "Premium Pet Food 75",
-        "category": "food",
-        "price": 56.8,
-        "inventory_count": 82,
-        "description": "High quality food for your pet."
+        "name": "Player Chow",
+        "category": "Dermatological Therapeutics",
+        "price": 49.21,
+        "inventory_count": 121,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
     },
     {
         "id": "PROD-1076",
-        "name": "Premium Pet Supplements 76",
-        "category": "supplements",
-        "price": 38.61,
-        "inventory_count": 2,
-        "description": "High quality supplements for your pet."
+        "name": "Thus Treats",
+        "category": "Dental Prophylactics",
+        "price": 65.8,
+        "inventory_count": 171,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
     },
     {
         "id": "PROD-1077",
-        "name": "Premium Pet Dental Treats 77",
-        "category": "dental treats",
-        "price": 27.07,
-        "inventory_count": 51,
-        "description": "High quality dental treats for your pet."
+        "name": "Near Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 79.97,
+        "inventory_count": 96,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
     },
     {
         "id": "PROD-1078",
-        "name": "Premium Pet Food 78",
-        "category": "food",
-        "price": 27.97,
-        "inventory_count": 74,
-        "description": "High quality food for your pet."
+        "name": "Talk Chow",
+        "category": "Ophthalmic Preparations",
+        "price": 73.18,
+        "inventory_count": 85,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
     },
     {
         "id": "PROD-1079",
-        "name": "Premium Pet Toys 79",
-        "category": "toys",
-        "price": 40.49,
-        "inventory_count": 67,
-        "description": "High quality toys for your pet."
+        "name": "Heavy Chow",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 14.19,
+        "inventory_count": 170,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
     },
     {
         "id": "PROD-1080",
-        "name": "Premium Pet Toys 80",
-        "category": "toys",
-        "price": 36.91,
-        "inventory_count": 95,
-        "description": "High quality toys for your pet."
+        "name": "Throw Treats",
+        "category": "Nutritional Supplements",
+        "price": 12.7,
+        "inventory_count": 131,
+        "description": "Omega-3 fatty acid formulation derived from marine lipids to modulate inflammatory cascades and improve coat luster."
     },
     {
         "id": "PROD-1081",
-        "name": "Premium Pet Grooming 81",
-        "category": "grooming",
-        "price": 29.81,
-        "inventory_count": 89,
-        "description": "High quality grooming for your pet."
+        "name": "City Chow",
+        "category": "Gastrointestinal Protectants",
+        "price": 34.14,
+        "inventory_count": 188,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
     },
     {
         "id": "PROD-1082",
-        "name": "Premium Pet Supplements 82",
-        "category": "supplements",
-        "price": 25.32,
-        "inventory_count": 32,
-        "description": "High quality supplements for your pet."
+        "name": "Southern Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 35.99,
+        "inventory_count": 77,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
     },
     {
         "id": "PROD-1083",
-        "name": "Premium Pet Food 83",
-        "category": "food",
-        "price": 14.05,
-        "inventory_count": 24,
-        "description": "High quality food for your pet."
+        "name": "Total Chow",
+        "category": "Dental Prophylactics",
+        "price": 24.61,
+        "inventory_count": 184,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
     },
     {
         "id": "PROD-1084",
-        "name": "Premium Pet Toys 84",
-        "category": "toys",
-        "price": 13.97,
-        "inventory_count": 68,
-        "description": "High quality toys for your pet."
+        "name": "Card Treats",
+        "category": "Anthelmintics",
+        "price": 83.64,
+        "inventory_count": 128,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
     },
     {
         "id": "PROD-1085",
-        "name": "Premium Pet Food 85",
-        "category": "food",
-        "price": 19.37,
-        "inventory_count": 94,
-        "description": "High quality food for your pet."
+        "name": "Price Vitamins",
+        "category": "Dental Prophylactics",
+        "price": 88.79,
+        "inventory_count": 42,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
     },
     {
         "id": "PROD-1086",
-        "name": "Premium Pet Supplements 86",
-        "category": "supplements",
-        "price": 25.74,
-        "inventory_count": 75,
-        "description": "High quality supplements for your pet."
+        "name": "Measure Chow",
+        "category": "Dental Prophylactics",
+        "price": 21.52,
+        "inventory_count": 90,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
     },
     {
         "id": "PROD-1087",
-        "name": "Premium Pet Grooming 87",
-        "category": "grooming",
-        "price": 49.76,
-        "inventory_count": 12,
-        "description": "High quality grooming for your pet."
+        "name": "Analysis Treats",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 33.05,
+        "inventory_count": 106,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
     },
     {
         "id": "PROD-1088",
-        "name": "Premium Pet Food 88",
-        "category": "food",
-        "price": 27.22,
-        "inventory_count": 46,
-        "description": "High quality food for your pet."
+        "name": "Clear Chow",
+        "category": "Gastrointestinal Protectants",
+        "price": 93.34,
+        "inventory_count": 56,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
     },
     {
         "id": "PROD-1089",
-        "name": "Premium Pet Food 89",
-        "category": "food",
-        "price": 27.67,
-        "inventory_count": 90,
-        "description": "High quality food for your pet."
+        "name": "Republican Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 91.62,
+        "inventory_count": 143,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
     },
     {
         "id": "PROD-1090",
-        "name": "Premium Pet Grooming 90",
-        "category": "grooming",
-        "price": 14.49,
-        "inventory_count": 5,
-        "description": "High quality grooming for your pet."
+        "name": "Everyone Treats",
+        "category": "Anthelmintics",
+        "price": 81.97,
+        "inventory_count": 81,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
     },
     {
         "id": "PROD-1091",
-        "name": "Premium Pet Dental Treats 91",
-        "category": "dental treats",
-        "price": 46.5,
-        "inventory_count": 89,
-        "description": "High quality dental treats for your pet."
+        "name": "Practice Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 48.57,
+        "inventory_count": 129,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
     },
     {
         "id": "PROD-1092",
-        "name": "Premium Pet Food 92",
-        "category": "food",
-        "price": 52.84,
-        "inventory_count": 96,
-        "description": "High quality food for your pet."
+        "name": "Eight Treats",
+        "category": "Nutritional Supplements",
+        "price": 65.74,
+        "inventory_count": 97,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
     },
     {
         "id": "PROD-1093",
-        "name": "Premium Pet Supplements 93",
-        "category": "supplements",
-        "price": 12.69,
-        "inventory_count": 1,
-        "description": "High quality supplements for your pet."
+        "name": "Movement Chow",
+        "category": "Anthelmintics",
+        "price": 43.0,
+        "inventory_count": 148,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
     },
     {
         "id": "PROD-1094",
-        "name": "Premium Pet Grooming 94",
-        "category": "grooming",
-        "price": 26.33,
-        "inventory_count": 61,
-        "description": "High quality grooming for your pet."
+        "name": "Direction Chow",
+        "category": "Dental Prophylactics",
+        "price": 16.73,
+        "inventory_count": 123,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
     },
     {
         "id": "PROD-1095",
-        "name": "Premium Pet Supplements 95",
-        "category": "supplements",
-        "price": 30.55,
-        "inventory_count": 6,
-        "description": "High quality supplements for your pet."
+        "name": "Final Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 51.26,
+        "inventory_count": 197,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
     },
     {
         "id": "PROD-1096",
-        "name": "Premium Pet Toys 96",
-        "category": "toys",
-        "price": 75.58,
+        "name": "Radio Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 24.33,
         "inventory_count": 61,
-        "description": "High quality toys for your pet."
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
     },
     {
         "id": "PROD-1097",
-        "name": "Premium Pet Dental Treats 97",
-        "category": "dental treats",
-        "price": 66.66,
-        "inventory_count": 51,
-        "description": "High quality dental treats for your pet."
+        "name": "Say Chow",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 89.17,
+        "inventory_count": 53,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
     },
     {
         "id": "PROD-1098",
-        "name": "Premium Pet Supplements 98",
-        "category": "supplements",
-        "price": 10.56,
-        "inventory_count": 80,
-        "description": "High quality supplements for your pet."
+        "name": "System Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 34.89,
+        "inventory_count": 195,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
     },
     {
         "id": "PROD-1099",
-        "name": "Premium Pet Dental Treats 99",
-        "category": "dental treats",
-        "price": 16.38,
-        "inventory_count": 72,
-        "description": "High quality dental treats for your pet."
+        "name": "Sometimes Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 27.64,
+        "inventory_count": 193,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
     },
     {
         "id": "PROD-1100",
-        "name": "Premium Pet Toys 100",
-        "category": "toys",
-        "price": 11.39,
+        "name": "Its Vitamins",
+        "category": "Gastrointestinal Protectants",
+        "price": 65.55,
+        "inventory_count": 159,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
+    },
+    {
+        "id": "PROD-1101",
+        "name": "Fast Treats",
+        "category": "Nutritional Supplements",
+        "price": 67.16,
+        "inventory_count": 33,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1102",
+        "name": "Among Chow",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 18.45,
+        "inventory_count": 176,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1103",
+        "name": "Call Treats",
+        "category": "Nutritional Supplements",
+        "price": 57.42,
+        "inventory_count": 200,
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
+    },
+    {
+        "id": "PROD-1104",
+        "name": "Worry Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 89.8,
+        "inventory_count": 188,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1105",
+        "name": "Might Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 19.85,
+        "inventory_count": 79,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
+    },
+    {
+        "id": "PROD-1106",
+        "name": "System Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 21.65,
+        "inventory_count": 134,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1107",
+        "name": "Avoid Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 45.53,
+        "inventory_count": 12,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1108",
+        "name": "Group Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 93.04,
+        "inventory_count": 132,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1109",
+        "name": "Few Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 57.31,
+        "inventory_count": 42,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1110",
+        "name": "Wonder Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 59.12,
+        "inventory_count": 166,
+        "description": "Corticosteroid spray formulated to alleviate localized pruritus and erythema associated with allergic dermatitis."
+    },
+    {
+        "id": "PROD-1111",
+        "name": "Student Vitamins",
+        "category": "Dental Prophylactics",
+        "price": 89.86,
+        "inventory_count": 55,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1112",
+        "name": "Letter Treats",
+        "category": "Dental Prophylactics",
+        "price": 41.31,
+        "inventory_count": 180,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1113",
+        "name": "Once Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 57.33,
+        "inventory_count": 37,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
+    },
+    {
+        "id": "PROD-1114",
+        "name": "Others Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 36.19,
+        "inventory_count": 145,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
+    },
+    {
+        "id": "PROD-1115",
+        "name": "Yeah Chow",
+        "category": "Dental Prophylactics",
+        "price": 33.52,
+        "inventory_count": 39,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1116",
+        "name": "Blue Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 34.61,
+        "inventory_count": 99,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1117",
+        "name": "Current Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 17.1,
+        "inventory_count": 4,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1118",
+        "name": "Try Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 17.32,
+        "inventory_count": 72,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1119",
+        "name": "Card Chow",
+        "category": "Gastrointestinal Protectants",
+        "price": 70.21,
+        "inventory_count": 42,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1120",
+        "name": "Possible Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 36.25,
+        "inventory_count": 30,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1121",
+        "name": "Another Chow",
+        "category": "Ophthalmic Preparations",
+        "price": 97.65,
+        "inventory_count": 51,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1122",
+        "name": "Chair Chow",
+        "category": "Dermatological Therapeutics",
+        "price": 69.29,
+        "inventory_count": 111,
+        "description": "Corticosteroid spray formulated to alleviate localized pruritus and erythema associated with allergic dermatitis."
+    },
+    {
+        "id": "PROD-1123",
+        "name": "Off Treats",
+        "category": "Dental Prophylactics",
+        "price": 79.89,
+        "inventory_count": 18,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1124",
+        "name": "Boy Vitamins",
+        "category": "Gastrointestinal Protectants",
+        "price": 27.9,
+        "inventory_count": 178,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1125",
+        "name": "Relationship Treats",
+        "category": "Anthelmintics",
+        "price": 18.33,
+        "inventory_count": 86,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1126",
+        "name": "Suffer Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 37.89,
+        "inventory_count": 162,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1127",
+        "name": "Eight Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 92.18,
+        "inventory_count": 18,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
+    },
+    {
+        "id": "PROD-1128",
+        "name": "Debate Treats",
+        "category": "Anthelmintics",
+        "price": 50.94,
+        "inventory_count": 187,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1129",
+        "name": "Per Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 46.21,
+        "inventory_count": 133,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1130",
+        "name": "Truth Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 74.94,
+        "inventory_count": 27,
+        "description": "Corticosteroid spray formulated to alleviate localized pruritus and erythema associated with allergic dermatitis."
+    },
+    {
+        "id": "PROD-1131",
+        "name": "Argue Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 14.05,
+        "inventory_count": 47,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1132",
+        "name": "Need Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 79.11,
+        "inventory_count": 119,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1133",
+        "name": "Leader Chow",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 55.99,
+        "inventory_count": 17,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1134",
+        "name": "Couple Vitamins",
+        "category": "Dental Prophylactics",
+        "price": 43.1,
+        "inventory_count": 51,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1135",
+        "name": "Language Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 23.33,
+        "inventory_count": 82,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1136",
+        "name": "Leader Treats",
+        "category": "Dental Prophylactics",
+        "price": 99.72,
+        "inventory_count": 112,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1137",
+        "name": "Recognize Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 99.41,
+        "inventory_count": 102,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1138",
+        "name": "Water Chow",
+        "category": "Anthelmintics",
+        "price": 87.47,
+        "inventory_count": 127,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1139",
+        "name": "Officer Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 83.07,
+        "inventory_count": 96,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1140",
+        "name": "Never Vitamins",
+        "category": "Anthelmintics",
+        "price": 78.9,
+        "inventory_count": 155,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1141",
+        "name": "Result Chow",
+        "category": "Dental Prophylactics",
+        "price": 78.38,
+        "inventory_count": 68,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1142",
+        "name": "Sort Vitamins",
+        "category": "Dental Prophylactics",
+        "price": 22.05,
+        "inventory_count": 53,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1143",
+        "name": "Produce Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 84.13,
+        "inventory_count": 120,
+        "description": "Corticosteroid spray formulated to alleviate localized pruritus and erythema associated with allergic dermatitis."
+    },
+    {
+        "id": "PROD-1144",
+        "name": "Measure Treats",
+        "category": "Dental Prophylactics",
+        "price": 33.36,
+        "inventory_count": 117,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1145",
+        "name": "Main Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 33.62,
+        "inventory_count": 61,
+        "description": "Corticosteroid spray formulated to alleviate localized pruritus and erythema associated with allergic dermatitis."
+    },
+    {
+        "id": "PROD-1146",
+        "name": "Skill Chow",
+        "category": "Gastrointestinal Protectants",
+        "price": 25.32,
+        "inventory_count": 50,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1147",
+        "name": "One Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 60.27,
+        "inventory_count": 168,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1148",
+        "name": "Hot Chow",
+        "category": "Ophthalmic Preparations",
+        "price": 98.6,
+        "inventory_count": 178,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1149",
+        "name": "Land Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 74.98,
+        "inventory_count": 127,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1150",
+        "name": "Sometimes Treats",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 65.22,
+        "inventory_count": 100,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1151",
+        "name": "Language Treats",
+        "category": "Anthelmintics",
+        "price": 77.87,
+        "inventory_count": 19,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1152",
+        "name": "Join Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 80.0,
+        "inventory_count": 132,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
+    },
+    {
+        "id": "PROD-1153",
+        "name": "Money Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 52.52,
+        "inventory_count": 11,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1154",
+        "name": "Continue Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 49.5,
+        "inventory_count": 168,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1155",
+        "name": "No Treats",
+        "category": "Nutritional Supplements",
+        "price": 91.29,
+        "inventory_count": 3,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1156",
+        "name": "Executive Treats",
+        "category": "Anthelmintics",
+        "price": 90.23,
+        "inventory_count": 49,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1157",
+        "name": "System Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 47.35,
+        "inventory_count": 30,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
+    },
+    {
+        "id": "PROD-1158",
+        "name": "Number Chow",
+        "category": "Anthelmintics",
+        "price": 71.7,
+        "inventory_count": 114,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1159",
+        "name": "Through Chow",
+        "category": "Ophthalmic Preparations",
+        "price": 53.71,
+        "inventory_count": 93,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1160",
+        "name": "Its Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 52.26,
+        "inventory_count": 186,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
+    },
+    {
+        "id": "PROD-1161",
+        "name": "Firm Treats",
+        "category": "Nutritional Supplements",
+        "price": 42.22,
+        "inventory_count": 40,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1162",
+        "name": "Possible Vitamins",
+        "category": "Anthelmintics",
+        "price": 80.28,
+        "inventory_count": 190,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1163",
+        "name": "Read Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 27.69,
+        "inventory_count": 10,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
+    },
+    {
+        "id": "PROD-1164",
+        "name": "Husband Chow",
+        "category": "Ophthalmic Preparations",
+        "price": 70.91,
+        "inventory_count": 20,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1165",
+        "name": "Its Treats",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 21.97,
+        "inventory_count": 155,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1166",
+        "name": "Suggest Treats",
+        "category": "Nutritional Supplements",
+        "price": 54.98,
+        "inventory_count": 149,
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
+    },
+    {
+        "id": "PROD-1167",
+        "name": "Mind Vitamins",
+        "category": "Gastrointestinal Protectants",
+        "price": 52.64,
+        "inventory_count": 185,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
+    },
+    {
+        "id": "PROD-1168",
+        "name": "Late Vitamins",
+        "category": "Dental Prophylactics",
+        "price": 86.17,
+        "inventory_count": 133,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1169",
+        "name": "Factor Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 82.69,
+        "inventory_count": 5,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1170",
+        "name": "Could Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 94.26,
+        "inventory_count": 108,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1171",
+        "name": "Without Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 86.32,
+        "inventory_count": 4,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1172",
+        "name": "One Chow",
+        "category": "Dental Prophylactics",
+        "price": 30.75,
+        "inventory_count": 11,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1173",
+        "name": "Challenge Vitamins",
+        "category": "Gastrointestinal Protectants",
+        "price": 40.91,
+        "inventory_count": 131,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
+    },
+    {
+        "id": "PROD-1174",
+        "name": "Control Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 19.82,
+        "inventory_count": 174,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1175",
+        "name": "Gun Treats",
+        "category": "Anthelmintics",
+        "price": 18.48,
+        "inventory_count": 29,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1176",
+        "name": "Power Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 69.5,
+        "inventory_count": 26,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1177",
+        "name": "Direction Vitamins",
+        "category": "Anthelmintics",
+        "price": 66.78,
+        "inventory_count": 0,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1178",
+        "name": "Present Chow",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 87.16,
+        "inventory_count": 111,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1179",
+        "name": "Administration Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 15.84,
+        "inventory_count": 94,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1180",
+        "name": "Sort Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 68.09,
+        "inventory_count": 191,
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
+    },
+    {
+        "id": "PROD-1181",
+        "name": "Control Chow",
+        "category": "Anthelmintics",
+        "price": 33.38,
+        "inventory_count": 68,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1182",
+        "name": "Father Vitamins",
+        "category": "Gastrointestinal Protectants",
+        "price": 49.64,
+        "inventory_count": 73,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1183",
+        "name": "Account Treats",
+        "category": "Anthelmintics",
+        "price": 41.42,
+        "inventory_count": 21,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1184",
+        "name": "Business Chow",
+        "category": "Ophthalmic Preparations",
+        "price": 80.84,
+        "inventory_count": 21,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1185",
+        "name": "If Chow",
+        "category": "Dermatological Therapeutics",
+        "price": 59.17,
+        "inventory_count": 107,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
+    },
+    {
+        "id": "PROD-1186",
+        "name": "Eight Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 28.84,
+        "inventory_count": 26,
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
+    },
+    {
+        "id": "PROD-1187",
+        "name": "Truth Chow",
+        "category": "Dental Prophylactics",
+        "price": 12.12,
+        "inventory_count": 176,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1188",
+        "name": "Employee Chow",
+        "category": "Ophthalmic Preparations",
+        "price": 63.3,
+        "inventory_count": 89,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1189",
+        "name": "Meeting Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 60.19,
+        "inventory_count": 66,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1190",
+        "name": "Congress Treats",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 75.76,
+        "inventory_count": 63,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1191",
+        "name": "Rather Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 19.6,
+        "inventory_count": 147,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1192",
+        "name": "Stage Treats",
+        "category": "Anthelmintics",
+        "price": 11.78,
+        "inventory_count": 169,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1193",
+        "name": "Possible Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 82.28,
+        "inventory_count": 177,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1194",
+        "name": "Human Chow",
+        "category": "Gastrointestinal Protectants",
+        "price": 90.26,
+        "inventory_count": 164,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
+    },
+    {
+        "id": "PROD-1195",
+        "name": "Entire Vitamins",
+        "category": "Anthelmintics",
+        "price": 98.85,
+        "inventory_count": 56,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1196",
+        "name": "Season Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 30.76,
+        "inventory_count": 29,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1197",
+        "name": "However Vitamins",
+        "category": "Anthelmintics",
+        "price": 65.38,
+        "inventory_count": 7,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1198",
+        "name": "Color Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 98.63,
+        "inventory_count": 142,
+        "description": "Corticosteroid spray formulated to alleviate localized pruritus and erythema associated with allergic dermatitis."
+    },
+    {
+        "id": "PROD-1199",
+        "name": "Account Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 71.01,
+        "inventory_count": 117,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
+    },
+    {
+        "id": "PROD-1200",
+        "name": "Street Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 32.72,
+        "inventory_count": 89,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1201",
+        "name": "Building Vitamins",
+        "category": "Gastrointestinal Protectants",
+        "price": 85.09,
+        "inventory_count": 128,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
+    },
+    {
+        "id": "PROD-1202",
+        "name": "Either Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 12.41,
+        "inventory_count": 36,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1203",
+        "name": "Size Chow",
+        "category": "Anthelmintics",
+        "price": 50.56,
+        "inventory_count": 147,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1204",
+        "name": "Work Vitamins",
+        "category": "Anthelmintics",
+        "price": 41.31,
+        "inventory_count": 133,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1205",
+        "name": "Control Chow",
+        "category": "Gastrointestinal Protectants",
+        "price": 24.36,
+        "inventory_count": 150,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
+    },
+    {
+        "id": "PROD-1206",
+        "name": "Security Chow",
+        "category": "Nutritional Supplements",
+        "price": 72.76,
+        "inventory_count": 150,
+        "description": "Omega-3 fatty acid formulation derived from marine lipids to modulate inflammatory cascades and improve coat luster."
+    },
+    {
+        "id": "PROD-1207",
+        "name": "Unit Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 17.2,
+        "inventory_count": 64,
+        "description": "Corticosteroid spray formulated to alleviate localized pruritus and erythema associated with allergic dermatitis."
+    },
+    {
+        "id": "PROD-1208",
+        "name": "Minute Chow",
+        "category": "Gastrointestinal Protectants",
+        "price": 86.51,
+        "inventory_count": 71,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1209",
+        "name": "Last Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 44.83,
+        "inventory_count": 195,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
+    },
+    {
+        "id": "PROD-1210",
+        "name": "Cost Treats",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 29.42,
+        "inventory_count": 149,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1211",
+        "name": "Late Chow",
+        "category": "Gastrointestinal Protectants",
+        "price": 99.27,
+        "inventory_count": 97,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1212",
+        "name": "Traditional Vitamins",
+        "category": "Gastrointestinal Protectants",
+        "price": 16.92,
+        "inventory_count": 79,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
+    },
+    {
+        "id": "PROD-1213",
+        "name": "Military Vitamins",
+        "category": "Anthelmintics",
+        "price": 97.64,
+        "inventory_count": 148,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1214",
+        "name": "Never Chow",
+        "category": "Gastrointestinal Protectants",
+        "price": 17.54,
+        "inventory_count": 39,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1215",
+        "name": "Kind Chow",
+        "category": "Dental Prophylactics",
+        "price": 24.07,
+        "inventory_count": 143,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1216",
+        "name": "Behavior Chow",
+        "category": "Anthelmintics",
+        "price": 36.93,
+        "inventory_count": 71,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1217",
+        "name": "Create Chow",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 35.37,
+        "inventory_count": 110,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1218",
+        "name": "Guess Treats",
+        "category": "Anthelmintics",
+        "price": 69.98,
+        "inventory_count": 71,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1219",
+        "name": "Seat Vitamins",
+        "category": "Dental Prophylactics",
+        "price": 73.68,
+        "inventory_count": 44,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1220",
+        "name": "Step Treats",
+        "category": "Anthelmintics",
+        "price": 65.8,
+        "inventory_count": 76,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1221",
+        "name": "Factor Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 58.42,
+        "inventory_count": 152,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1222",
+        "name": "Event Chow",
+        "category": "Nutritional Supplements",
+        "price": 85.58,
+        "inventory_count": 137,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1223",
+        "name": "Writer Treats",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 70.94,
+        "inventory_count": 105,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1224",
+        "name": "Form Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 75.39,
+        "inventory_count": 82,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1225",
+        "name": "Can Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 72.59,
+        "inventory_count": 111,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
+    },
+    {
+        "id": "PROD-1226",
+        "name": "Push Chow",
+        "category": "Dermatological Therapeutics",
+        "price": 49.4,
+        "inventory_count": 4,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
+    },
+    {
+        "id": "PROD-1227",
+        "name": "Front Vitamins",
+        "category": "Dental Prophylactics",
+        "price": 46.17,
+        "inventory_count": 114,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1228",
+        "name": "Successful Treats",
+        "category": "Dental Prophylactics",
+        "price": 23.79,
+        "inventory_count": 50,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1229",
+        "name": "Through Vitamins",
+        "category": "Anthelmintics",
+        "price": 22.87,
+        "inventory_count": 38,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1230",
+        "name": "May Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 77.48,
+        "inventory_count": 22,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
+    },
+    {
+        "id": "PROD-1231",
+        "name": "True Chow",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 83.25,
+        "inventory_count": 181,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1232",
+        "name": "Including Treats",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 53.58,
+        "inventory_count": 54,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1233",
+        "name": "New Treats",
+        "category": "Anthelmintics",
+        "price": 47.04,
+        "inventory_count": 180,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1234",
+        "name": "Suffer Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 17.95,
+        "inventory_count": 131,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
+    },
+    {
+        "id": "PROD-1235",
+        "name": "Whatever Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 49.3,
+        "inventory_count": 94,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1236",
+        "name": "Operation Chow",
+        "category": "Dental Prophylactics",
+        "price": 10.33,
+        "inventory_count": 56,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1237",
+        "name": "Maybe Chow",
+        "category": "Gastrointestinal Protectants",
+        "price": 41.1,
+        "inventory_count": 79,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1238",
+        "name": "Station Treats",
+        "category": "Dental Prophylactics",
+        "price": 64.73,
+        "inventory_count": 149,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1239",
+        "name": "Own Chow",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 31.95,
+        "inventory_count": 151,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1240",
+        "name": "Parent Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 31.13,
+        "inventory_count": 26,
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
+    },
+    {
+        "id": "PROD-1241",
+        "name": "Establish Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 63.3,
+        "inventory_count": 1,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
+    },
+    {
+        "id": "PROD-1242",
+        "name": "Born Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 83.02,
+        "inventory_count": 137,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1243",
+        "name": "Nor Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 45.58,
+        "inventory_count": 77,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1244",
+        "name": "Town Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 99.85,
+        "inventory_count": 47,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
+    },
+    {
+        "id": "PROD-1245",
+        "name": "Again Treats",
+        "category": "Anthelmintics",
+        "price": 99.21,
+        "inventory_count": 7,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1246",
+        "name": "Bring Chow",
+        "category": "Ophthalmic Preparations",
+        "price": 70.04,
+        "inventory_count": 122,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1247",
+        "name": "Method Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 82.38,
+        "inventory_count": 49,
+        "description": "Corticosteroid spray formulated to alleviate localized pruritus and erythema associated with allergic dermatitis."
+    },
+    {
+        "id": "PROD-1248",
+        "name": "Wide Vitamins",
+        "category": "Gastrointestinal Protectants",
+        "price": 65.64,
+        "inventory_count": 125,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1249",
+        "name": "Audience Vitamins",
+        "category": "Dental Prophylactics",
+        "price": 27.98,
+        "inventory_count": 152,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1250",
+        "name": "Among Chow",
+        "category": "Dermatological Therapeutics",
+        "price": 89.58,
+        "inventory_count": 190,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
+    },
+    {
+        "id": "PROD-1251",
+        "name": "House Treats",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 80.19,
+        "inventory_count": 173,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1252",
+        "name": "Feeling Vitamins",
+        "category": "Anthelmintics",
+        "price": 24.94,
+        "inventory_count": 68,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1253",
+        "name": "Authority Chow",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 89.44,
+        "inventory_count": 189,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1254",
+        "name": "Decision Chow",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 10.42,
+        "inventory_count": 107,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1255",
+        "name": "Understand Vitamins",
+        "category": "Anthelmintics",
+        "price": 34.52,
+        "inventory_count": 177,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1256",
+        "name": "Strategy Chow",
+        "category": "Nutritional Supplements",
+        "price": 36.21,
+        "inventory_count": 45,
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
+    },
+    {
+        "id": "PROD-1257",
+        "name": "Degree Chow",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 27.96,
+        "inventory_count": 81,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1258",
+        "name": "Nothing Vitamins",
+        "category": "Anthelmintics",
+        "price": 69.42,
+        "inventory_count": 106,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1259",
+        "name": "True Chow",
+        "category": "Nutritional Supplements",
+        "price": 91.74,
+        "inventory_count": 58,
+        "description": "Omega-3 fatty acid formulation derived from marine lipids to modulate inflammatory cascades and improve coat luster."
+    },
+    {
+        "id": "PROD-1260",
+        "name": "Cup Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 80.53,
+        "inventory_count": 53,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1261",
+        "name": "World Vitamins",
+        "category": "Anthelmintics",
+        "price": 79.8,
+        "inventory_count": 47,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1262",
+        "name": "Around Vitamins",
+        "category": "Dental Prophylactics",
+        "price": 65.02,
+        "inventory_count": 24,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1263",
+        "name": "Will Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 90.57,
+        "inventory_count": 32,
+        "description": "Corticosteroid spray formulated to alleviate localized pruritus and erythema associated with allergic dermatitis."
+    },
+    {
+        "id": "PROD-1264",
+        "name": "Animal Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 28.49,
+        "inventory_count": 179,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1265",
+        "name": "Personal Treats",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 27.77,
+        "inventory_count": 78,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1266",
+        "name": "Campaign Vitamins",
+        "category": "Gastrointestinal Protectants",
+        "price": 13.63,
+        "inventory_count": 113,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
+    },
+    {
+        "id": "PROD-1267",
+        "name": "Check Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 75.33,
+        "inventory_count": 7,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1268",
+        "name": "Nothing Treats",
+        "category": "Nutritional Supplements",
+        "price": 66.08,
+        "inventory_count": 25,
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
+    },
+    {
+        "id": "PROD-1269",
+        "name": "Recently Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 39.41,
+        "inventory_count": 169,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
+    },
+    {
+        "id": "PROD-1270",
+        "name": "Show Chow",
+        "category": "Dental Prophylactics",
+        "price": 75.58,
+        "inventory_count": 102,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1271",
+        "name": "Single Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 40.94,
+        "inventory_count": 181,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1272",
+        "name": "However Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 62.64,
+        "inventory_count": 195,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
+    },
+    {
+        "id": "PROD-1273",
+        "name": "Candidate Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 78.28,
+        "inventory_count": 14,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1274",
+        "name": "Few Chow",
+        "category": "Dermatological Therapeutics",
+        "price": 14.46,
+        "inventory_count": 83,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
+    },
+    {
+        "id": "PROD-1275",
+        "name": "Federal Chow",
+        "category": "Dermatological Therapeutics",
+        "price": 72.59,
+        "inventory_count": 109,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
+    },
+    {
+        "id": "PROD-1276",
+        "name": "Amount Vitamins",
+        "category": "Dental Prophylactics",
+        "price": 14.53,
+        "inventory_count": 10,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1277",
+        "name": "Special Treats",
+        "category": "Nutritional Supplements",
+        "price": 12.82,
+        "inventory_count": 18,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1278",
+        "name": "Surface Treats",
+        "category": "Nutritional Supplements",
+        "price": 40.97,
+        "inventory_count": 131,
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
+    },
+    {
+        "id": "PROD-1279",
+        "name": "Clearly Treats",
+        "category": "Dental Prophylactics",
+        "price": 76.45,
+        "inventory_count": 94,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1280",
+        "name": "Traditional Vitamins",
+        "category": "Gastrointestinal Protectants",
+        "price": 84.48,
+        "inventory_count": 101,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
+    },
+    {
+        "id": "PROD-1281",
+        "name": "Mission Chow",
+        "category": "Ophthalmic Preparations",
+        "price": 46.07,
+        "inventory_count": 159,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1282",
+        "name": "Produce Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 44.88,
+        "inventory_count": 24,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
+    },
+    {
+        "id": "PROD-1283",
+        "name": "Science Chow",
+        "category": "Dental Prophylactics",
+        "price": 53.49,
+        "inventory_count": 181,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1284",
+        "name": "Camera Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 82.86,
+        "inventory_count": 53,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1285",
+        "name": "Statement Chow",
+        "category": "Nutritional Supplements",
+        "price": 55.57,
+        "inventory_count": 138,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1286",
+        "name": "Structure Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 65.34,
+        "inventory_count": 66,
+        "description": "Corticosteroid spray formulated to alleviate localized pruritus and erythema associated with allergic dermatitis."
+    },
+    {
+        "id": "PROD-1287",
+        "name": "Social Chow",
+        "category": "Nutritional Supplements",
+        "price": 59.8,
+        "inventory_count": 58,
+        "description": "Omega-3 fatty acid formulation derived from marine lipids to modulate inflammatory cascades and improve coat luster."
+    },
+    {
+        "id": "PROD-1288",
+        "name": "Ago Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 23.99,
+        "inventory_count": 196,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1289",
+        "name": "City Treats",
+        "category": "Dental Prophylactics",
+        "price": 92.74,
+        "inventory_count": 161,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1290",
+        "name": "Those Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 49.8,
+        "inventory_count": 161,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1291",
+        "name": "Final Vitamins",
+        "category": "Gastrointestinal Protectants",
+        "price": 54.05,
+        "inventory_count": 61,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1292",
+        "name": "Computer Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 37.4,
+        "inventory_count": 149,
+        "description": "Corticosteroid spray formulated to alleviate localized pruritus and erythema associated with allergic dermatitis."
+    },
+    {
+        "id": "PROD-1293",
+        "name": "Or Chow",
+        "category": "Gastrointestinal Protectants",
+        "price": 29.09,
+        "inventory_count": 23,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
+    },
+    {
+        "id": "PROD-1294",
+        "name": "Soldier Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 68.63,
+        "inventory_count": 95,
+        "description": "Omega-3 fatty acid formulation derived from marine lipids to modulate inflammatory cascades and improve coat luster."
+    },
+    {
+        "id": "PROD-1295",
+        "name": "Indicate Treats",
+        "category": "Nutritional Supplements",
+        "price": 99.43,
+        "inventory_count": 183,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1296",
+        "name": "Film Treats",
+        "category": "Dental Prophylactics",
+        "price": 72.84,
+        "inventory_count": 20,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1297",
+        "name": "Imagine Vitamins",
+        "category": "Dental Prophylactics",
+        "price": 33.48,
+        "inventory_count": 149,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1298",
+        "name": "Century Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 72.88,
+        "inventory_count": 197,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
+    },
+    {
+        "id": "PROD-1299",
+        "name": "Customer Chow",
+        "category": "Gastrointestinal Protectants",
+        "price": 45.07,
+        "inventory_count": 65,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1300",
+        "name": "Event Chow",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 21.47,
+        "inventory_count": 69,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1301",
+        "name": "Sister Chow",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 77.36,
+        "inventory_count": 89,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1302",
+        "name": "Perform Chow",
+        "category": "Anthelmintics",
+        "price": 99.83,
+        "inventory_count": 172,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1303",
+        "name": "Future Treats",
+        "category": "Nutritional Supplements",
+        "price": 19.2,
+        "inventory_count": 102,
+        "description": "Omega-3 fatty acid formulation derived from marine lipids to modulate inflammatory cascades and improve coat luster."
+    },
+    {
+        "id": "PROD-1304",
+        "name": "Decision Treats",
+        "category": "Dental Prophylactics",
+        "price": 78.54,
+        "inventory_count": 130,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1305",
+        "name": "Investment Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 49.41,
+        "inventory_count": 26,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1306",
+        "name": "Computer Vitamins",
+        "category": "Anthelmintics",
+        "price": 88.34,
+        "inventory_count": 175,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1307",
+        "name": "Project Vitamins",
+        "category": "Dental Prophylactics",
+        "price": 73.43,
+        "inventory_count": 112,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1308",
+        "name": "Grow Treats",
+        "category": "Dental Prophylactics",
+        "price": 18.0,
+        "inventory_count": 103,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1309",
+        "name": "Area Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 86.09,
+        "inventory_count": 120,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1310",
+        "name": "Realize Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 47.17,
+        "inventory_count": 30,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1311",
+        "name": "Bring Treats",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 22.22,
+        "inventory_count": 101,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1312",
+        "name": "Win Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 23.1,
+        "inventory_count": 129,
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
+    },
+    {
+        "id": "PROD-1313",
+        "name": "Bad Chow",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 46.87,
+        "inventory_count": 98,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1314",
+        "name": "Act Treats",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 91.36,
+        "inventory_count": 6,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1315",
+        "name": "Cause Chow",
+        "category": "Dental Prophylactics",
+        "price": 55.36,
+        "inventory_count": 67,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1316",
+        "name": "Instead Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 30.29,
+        "inventory_count": 15,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
+    },
+    {
+        "id": "PROD-1317",
+        "name": "Short Chow",
+        "category": "Anthelmintics",
+        "price": 70.12,
+        "inventory_count": 132,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1318",
+        "name": "Magazine Treats",
+        "category": "Anthelmintics",
+        "price": 34.17,
+        "inventory_count": 80,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1319",
+        "name": "Former Chow",
+        "category": "Dermatological Therapeutics",
+        "price": 25.13,
+        "inventory_count": 91,
+        "description": "Corticosteroid spray formulated to alleviate localized pruritus and erythema associated with allergic dermatitis."
+    },
+    {
+        "id": "PROD-1320",
+        "name": "Effort Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 35.14,
+        "inventory_count": 174,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1321",
+        "name": "Box Chow",
+        "category": "Ophthalmic Preparations",
+        "price": 18.98,
+        "inventory_count": 155,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1322",
+        "name": "On Chow",
+        "category": "Dermatological Therapeutics",
+        "price": 67.12,
+        "inventory_count": 79,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
+    },
+    {
+        "id": "PROD-1323",
+        "name": "Friend Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 15.76,
+        "inventory_count": 182,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1324",
+        "name": "Alone Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 89.89,
+        "inventory_count": 53,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
+    },
+    {
+        "id": "PROD-1325",
+        "name": "How Chow",
+        "category": "Nutritional Supplements",
+        "price": 61.42,
+        "inventory_count": 142,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1326",
+        "name": "Little Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 66.35,
+        "inventory_count": 160,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1327",
+        "name": "List Treats",
+        "category": "Anthelmintics",
+        "price": 35.2,
+        "inventory_count": 161,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1328",
+        "name": "Car Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 64.77,
+        "inventory_count": 3,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
+    },
+    {
+        "id": "PROD-1329",
+        "name": "Break Chow",
+        "category": "Dermatological Therapeutics",
+        "price": 67.45,
+        "inventory_count": 120,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
+    },
+    {
+        "id": "PROD-1330",
+        "name": "Culture Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 27.49,
+        "inventory_count": 183,
+        "description": "Corticosteroid spray formulated to alleviate localized pruritus and erythema associated with allergic dermatitis."
+    },
+    {
+        "id": "PROD-1331",
+        "name": "Contain Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 73.27,
+        "inventory_count": 27,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1332",
+        "name": "Executive Treats",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 69.56,
+        "inventory_count": 183,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1333",
+        "name": "Maintain Treats",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 48.77,
+        "inventory_count": 37,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1334",
+        "name": "Money Treats",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 61.42,
+        "inventory_count": 75,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1335",
+        "name": "Agency Treats",
+        "category": "Dental Prophylactics",
+        "price": 78.68,
+        "inventory_count": 118,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1336",
+        "name": "Mission Chow",
+        "category": "Nutritional Supplements",
+        "price": 83.11,
+        "inventory_count": 97,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1337",
+        "name": "Book Treats",
+        "category": "Nutritional Supplements",
+        "price": 40.69,
+        "inventory_count": 128,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1338",
+        "name": "Expert Chow",
+        "category": "Gastrointestinal Protectants",
+        "price": 64.39,
+        "inventory_count": 9,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
+    },
+    {
+        "id": "PROD-1339",
+        "name": "Class Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 16.08,
+        "inventory_count": 55,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
+    },
+    {
+        "id": "PROD-1340",
+        "name": "Out Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 53.68,
+        "inventory_count": 69,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1341",
+        "name": "Democratic Chow",
+        "category": "Dental Prophylactics",
+        "price": 86.09,
+        "inventory_count": 153,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1342",
+        "name": "Drug Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 50.74,
+        "inventory_count": 79,
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
+    },
+    {
+        "id": "PROD-1343",
+        "name": "Morning Treats",
+        "category": "Anthelmintics",
+        "price": 34.72,
+        "inventory_count": 125,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1344",
+        "name": "Well Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 17.75,
+        "inventory_count": 82,
+        "description": "Corticosteroid spray formulated to alleviate localized pruritus and erythema associated with allergic dermatitis."
+    },
+    {
+        "id": "PROD-1345",
+        "name": "Simply Chow",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 98.82,
+        "inventory_count": 122,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1346",
+        "name": "Art Chow",
+        "category": "Gastrointestinal Protectants",
+        "price": 30.94,
+        "inventory_count": 160,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1347",
+        "name": "Small Chow",
+        "category": "Dermatological Therapeutics",
+        "price": 23.16,
+        "inventory_count": 81,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
+    },
+    {
+        "id": "PROD-1348",
+        "name": "Think Vitamins",
+        "category": "Gastrointestinal Protectants",
+        "price": 78.21,
+        "inventory_count": 49,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1349",
+        "name": "Model Chow",
+        "category": "Ophthalmic Preparations",
+        "price": 38.77,
+        "inventory_count": 56,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1350",
+        "name": "Give Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 43.8,
+        "inventory_count": 169,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1351",
+        "name": "Pay Treats",
+        "category": "Dental Prophylactics",
+        "price": 75.27,
+        "inventory_count": 192,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1352",
+        "name": "Treatment Chow",
+        "category": "Dermatological Therapeutics",
+        "price": 33.05,
+        "inventory_count": 108,
+        "description": "Corticosteroid spray formulated to alleviate localized pruritus and erythema associated with allergic dermatitis."
+    },
+    {
+        "id": "PROD-1353",
+        "name": "Police Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 68.69,
+        "inventory_count": 83,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1354",
+        "name": "Leg Chow",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 57.02,
+        "inventory_count": 110,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1355",
+        "name": "Particular Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 91.37,
+        "inventory_count": 24,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
+    },
+    {
+        "id": "PROD-1356",
+        "name": "Tell Treats",
+        "category": "Dental Prophylactics",
+        "price": 53.51,
+        "inventory_count": 160,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1357",
+        "name": "Ball Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 17.9,
+        "inventory_count": 186,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
+    },
+    {
+        "id": "PROD-1358",
+        "name": "Fact Chow",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 38.9,
+        "inventory_count": 79,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1359",
+        "name": "Peace Chow",
+        "category": "Dental Prophylactics",
+        "price": 28.48,
+        "inventory_count": 165,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1360",
+        "name": "Perhaps Chow",
+        "category": "Dermatological Therapeutics",
+        "price": 53.92,
+        "inventory_count": 50,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
+    },
+    {
+        "id": "PROD-1361",
+        "name": "Animal Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 42.98,
+        "inventory_count": 178,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1362",
+        "name": "Television Chow",
+        "category": "Nutritional Supplements",
+        "price": 80.58,
+        "inventory_count": 66,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1363",
+        "name": "Son Vitamins",
+        "category": "Anthelmintics",
+        "price": 40.63,
+        "inventory_count": 92,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1364",
+        "name": "There Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 30.47,
+        "inventory_count": 17,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
+    },
+    {
+        "id": "PROD-1365",
+        "name": "Anyone Chow",
+        "category": "Dental Prophylactics",
+        "price": 26.71,
+        "inventory_count": 130,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1366",
+        "name": "Somebody Chow",
+        "category": "Anthelmintics",
+        "price": 88.23,
+        "inventory_count": 36,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1367",
+        "name": "Customer Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 39.89,
+        "inventory_count": 101,
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
+    },
+    {
+        "id": "PROD-1368",
+        "name": "Care Vitamins",
+        "category": "Dental Prophylactics",
+        "price": 38.57,
+        "inventory_count": 68,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1369",
+        "name": "Leave Treats",
+        "category": "Anthelmintics",
+        "price": 74.4,
+        "inventory_count": 173,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1370",
+        "name": "Visit Chow",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 77.84,
+        "inventory_count": 93,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1371",
+        "name": "Mrs Chow",
+        "category": "Ophthalmic Preparations",
+        "price": 53.02,
+        "inventory_count": 159,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1372",
+        "name": "Dark Chow",
+        "category": "Dental Prophylactics",
+        "price": 77.81,
+        "inventory_count": 200,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1373",
+        "name": "Until Treats",
+        "category": "Nutritional Supplements",
+        "price": 93.88,
+        "inventory_count": 181,
+        "description": "Omega-3 fatty acid formulation derived from marine lipids to modulate inflammatory cascades and improve coat luster."
+    },
+    {
+        "id": "PROD-1374",
+        "name": "Indeed Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 38.02,
+        "inventory_count": 103,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1375",
+        "name": "Assume Vitamins",
+        "category": "Anthelmintics",
+        "price": 70.27,
+        "inventory_count": 134,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1376",
+        "name": "Week Treats",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 94.58,
+        "inventory_count": 101,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1377",
+        "name": "Consider Vitamins",
+        "category": "Dental Prophylactics",
+        "price": 94.65,
+        "inventory_count": 110,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1378",
+        "name": "Final Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 40.96,
+        "inventory_count": 42,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1379",
+        "name": "Tell Treats",
+        "category": "Dental Prophylactics",
+        "price": 36.29,
+        "inventory_count": 94,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1380",
+        "name": "Member Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 10.69,
+        "inventory_count": 102,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
+    },
+    {
+        "id": "PROD-1381",
+        "name": "Foot Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 15.65,
+        "inventory_count": 76,
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
+    },
+    {
+        "id": "PROD-1382",
+        "name": "Bar Chow",
+        "category": "Dermatological Therapeutics",
+        "price": 72.78,
+        "inventory_count": 10,
+        "description": "Corticosteroid spray formulated to alleviate localized pruritus and erythema associated with allergic dermatitis."
+    },
+    {
+        "id": "PROD-1383",
+        "name": "Entire Chow",
+        "category": "Nutritional Supplements",
+        "price": 75.68,
+        "inventory_count": 60,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1384",
+        "name": "Subject Vitamins",
+        "category": "Gastrointestinal Protectants",
+        "price": 85.65,
+        "inventory_count": 101,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
+    },
+    {
+        "id": "PROD-1385",
+        "name": "Growth Vitamins",
+        "category": "Gastrointestinal Protectants",
+        "price": 72.07,
+        "inventory_count": 16,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
+    },
+    {
+        "id": "PROD-1386",
+        "name": "Eat Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 19.97,
+        "inventory_count": 168,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1387",
+        "name": "Natural Treats",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 43.85,
+        "inventory_count": 130,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1388",
+        "name": "Growth Treats",
+        "category": "Dental Prophylactics",
+        "price": 49.28,
+        "inventory_count": 184,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1389",
+        "name": "Behind Treats",
+        "category": "Nutritional Supplements",
+        "price": 86.29,
+        "inventory_count": 46,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1390",
+        "name": "Popular Chow",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 59.62,
+        "inventory_count": 67,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1391",
+        "name": "Along Chow",
+        "category": "Dermatological Therapeutics",
+        "price": 51.7,
+        "inventory_count": 129,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
+    },
+    {
+        "id": "PROD-1392",
+        "name": "Blood Treats",
+        "category": "Dental Prophylactics",
+        "price": 74.77,
+        "inventory_count": 105,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1393",
+        "name": "Turn Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 82.48,
+        "inventory_count": 126,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1394",
+        "name": "Can Treats",
+        "category": "Anthelmintics",
+        "price": 82.71,
+        "inventory_count": 168,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1395",
+        "name": "Cut Chow",
+        "category": "Ophthalmic Preparations",
+        "price": 73.71,
+        "inventory_count": 42,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1396",
+        "name": "System Vitamins",
+        "category": "Anthelmintics",
+        "price": 97.45,
+        "inventory_count": 179,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1397",
+        "name": "Enough Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 72.0,
+        "inventory_count": 59,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1398",
+        "name": "On Chow",
+        "category": "Gastrointestinal Protectants",
+        "price": 59.64,
+        "inventory_count": 151,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1399",
+        "name": "Church Treats",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 98.83,
+        "inventory_count": 180,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1400",
+        "name": "Course Chow",
+        "category": "Ophthalmic Preparations",
+        "price": 82.04,
+        "inventory_count": 150,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1401",
+        "name": "Mother Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 24.38,
+        "inventory_count": 195,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1402",
+        "name": "Conference Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 23.98,
+        "inventory_count": 117,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1403",
+        "name": "Later Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 22.41,
+        "inventory_count": 93,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1404",
+        "name": "Various Chow",
+        "category": "Dental Prophylactics",
+        "price": 22.71,
+        "inventory_count": 139,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1405",
+        "name": "Option Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 39.32,
+        "inventory_count": 41,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1406",
+        "name": "That Vitamins",
+        "category": "Anthelmintics",
+        "price": 54.72,
+        "inventory_count": 17,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1407",
+        "name": "Country Vitamins",
+        "category": "Anthelmintics",
+        "price": 23.06,
+        "inventory_count": 20,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1408",
+        "name": "Suggest Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 36.8,
+        "inventory_count": 200,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
+    },
+    {
+        "id": "PROD-1409",
+        "name": "According Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 62.02,
+        "inventory_count": 94,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1410",
+        "name": "Contain Chow",
+        "category": "Nutritional Supplements",
+        "price": 62.58,
+        "inventory_count": 115,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1411",
+        "name": "Do Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 55.28,
+        "inventory_count": 106,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
+    },
+    {
+        "id": "PROD-1412",
+        "name": "Cause Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 45.0,
+        "inventory_count": 137,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1413",
+        "name": "Level Vitamins",
+        "category": "Gastrointestinal Protectants",
+        "price": 40.01,
+        "inventory_count": 71,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1414",
+        "name": "Impact Chow",
+        "category": "Dental Prophylactics",
+        "price": 19.79,
+        "inventory_count": 67,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1415",
+        "name": "Where Vitamins",
+        "category": "Dental Prophylactics",
+        "price": 87.37,
+        "inventory_count": 182,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1416",
+        "name": "Catch Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 84.2,
+        "inventory_count": 20,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1417",
+        "name": "After Vitamins",
+        "category": "Gastrointestinal Protectants",
+        "price": 63.72,
+        "inventory_count": 146,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1418",
+        "name": "Total Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 86.06,
+        "inventory_count": 197,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
+    },
+    {
+        "id": "PROD-1419",
+        "name": "Audience Vitamins",
+        "category": "Gastrointestinal Protectants",
+        "price": 41.59,
+        "inventory_count": 131,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
+    },
+    {
+        "id": "PROD-1420",
+        "name": "Something Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 80.33,
+        "inventory_count": 106,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1421",
+        "name": "Style Chow",
+        "category": "Gastrointestinal Protectants",
+        "price": 24.69,
+        "inventory_count": 58,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1422",
+        "name": "So Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 66.54,
+        "inventory_count": 83,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
+    },
+    {
+        "id": "PROD-1423",
+        "name": "Also Chow",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 85.28,
+        "inventory_count": 197,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1424",
+        "name": "Lead Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 27.9,
+        "inventory_count": 57,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1425",
+        "name": "Fall Vitamins",
+        "category": "Dental Prophylactics",
+        "price": 46.71,
+        "inventory_count": 141,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1426",
+        "name": "Tend Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 41.0,
+        "inventory_count": 183,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
+    },
+    {
+        "id": "PROD-1427",
+        "name": "Available Chow",
+        "category": "Dermatological Therapeutics",
+        "price": 32.31,
+        "inventory_count": 167,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
+    },
+    {
+        "id": "PROD-1428",
+        "name": "Spend Chow",
+        "category": "Anthelmintics",
+        "price": 60.93,
+        "inventory_count": 91,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1429",
+        "name": "Sport Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 82.1,
+        "inventory_count": 2,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1430",
+        "name": "Two Treats",
+        "category": "Dental Prophylactics",
+        "price": 60.8,
+        "inventory_count": 84,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1431",
+        "name": "After Chow",
+        "category": "Nutritional Supplements",
+        "price": 29.15,
+        "inventory_count": 97,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1432",
+        "name": "Figure Chow",
+        "category": "Ophthalmic Preparations",
+        "price": 43.21,
+        "inventory_count": 63,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1433",
+        "name": "Affect Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 35.21,
+        "inventory_count": 120,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
+    },
+    {
+        "id": "PROD-1434",
+        "name": "The Chow",
+        "category": "Ophthalmic Preparations",
+        "price": 81.32,
+        "inventory_count": 104,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1435",
+        "name": "Might Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 36.36,
+        "inventory_count": 33,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1436",
+        "name": "Character Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 33.02,
+        "inventory_count": 93,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1437",
+        "name": "Of Chow",
+        "category": "Dental Prophylactics",
+        "price": 67.04,
+        "inventory_count": 89,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1438",
+        "name": "Room Treats",
+        "category": "Nutritional Supplements",
+        "price": 20.76,
+        "inventory_count": 200,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1439",
+        "name": "Through Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 48.86,
+        "inventory_count": 76,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1440",
+        "name": "Price Chow",
+        "category": "Dental Prophylactics",
+        "price": 68.43,
+        "inventory_count": 150,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1441",
+        "name": "Forward Vitamins",
+        "category": "Gastrointestinal Protectants",
+        "price": 49.79,
+        "inventory_count": 152,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1442",
+        "name": "Knowledge Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 27.58,
+        "inventory_count": 174,
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
+    },
+    {
+        "id": "PROD-1443",
+        "name": "Worker Chow",
+        "category": "Anthelmintics",
+        "price": 86.26,
+        "inventory_count": 98,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1444",
+        "name": "Several Chow",
+        "category": "Dental Prophylactics",
+        "price": 56.5,
+        "inventory_count": 77,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1445",
+        "name": "Moment Vitamins",
+        "category": "Dental Prophylactics",
+        "price": 90.97,
+        "inventory_count": 177,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1446",
+        "name": "Claim Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 74.64,
+        "inventory_count": 200,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1447",
+        "name": "Ball Chow",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 10.15,
+        "inventory_count": 139,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1448",
+        "name": "Evidence Vitamins",
+        "category": "Dental Prophylactics",
+        "price": 64.5,
+        "inventory_count": 123,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1449",
+        "name": "There Chow",
+        "category": "Anthelmintics",
+        "price": 51.3,
+        "inventory_count": 153,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1450",
+        "name": "Discover Treats",
+        "category": "Dental Prophylactics",
+        "price": 51.2,
+        "inventory_count": 142,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1451",
+        "name": "Table Treats",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 13.67,
+        "inventory_count": 54,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1452",
+        "name": "Beat Chow",
+        "category": "Nutritional Supplements",
+        "price": 34.96,
+        "inventory_count": 26,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1453",
+        "name": "Interesting Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 64.53,
+        "inventory_count": 2,
+        "description": "Probiotic complex designed to restore intestinal microflora balance and support gastrointestinal mucosal immunity."
+    },
+    {
+        "id": "PROD-1454",
+        "name": "Feeling Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 74.67,
+        "inventory_count": 89,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1455",
+        "name": "It Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 38.63,
+        "inventory_count": 93,
+        "description": "Corticosteroid spray formulated to alleviate localized pruritus and erythema associated with allergic dermatitis."
+    },
+    {
+        "id": "PROD-1456",
+        "name": "Rule Vitamins",
+        "category": "Dental Prophylactics",
+        "price": 95.89,
+        "inventory_count": 114,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1457",
+        "name": "Rest Vitamins",
+        "category": "Dental Prophylactics",
+        "price": 53.77,
+        "inventory_count": 200,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1458",
+        "name": "Unit Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 42.64,
+        "inventory_count": 199,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1459",
+        "name": "International Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 28.73,
+        "inventory_count": 135,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1460",
+        "name": "Different Treats",
+        "category": "Dental Prophylactics",
+        "price": 87.86,
+        "inventory_count": 178,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1461",
+        "name": "Real Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 15.62,
+        "inventory_count": 108,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1462",
+        "name": "Mission Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 12.73,
+        "inventory_count": 135,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
+    },
+    {
+        "id": "PROD-1463",
+        "name": "Treatment Chow",
+        "category": "Dermatological Therapeutics",
+        "price": 65.74,
+        "inventory_count": 108,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
+    },
+    {
+        "id": "PROD-1464",
+        "name": "Focus Treats",
+        "category": "Anthelmintics",
+        "price": 75.86,
+        "inventory_count": 188,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1465",
+        "name": "Offer Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 28.72,
+        "inventory_count": 144,
+        "description": "Omega-3 fatty acid formulation derived from marine lipids to modulate inflammatory cascades and improve coat luster."
+    },
+    {
+        "id": "PROD-1466",
+        "name": "Accept Treats",
+        "category": "Dermatological Therapeutics",
+        "price": 46.13,
+        "inventory_count": 36,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
+    },
+    {
+        "id": "PROD-1467",
+        "name": "Until Treats",
+        "category": "Dental Prophylactics",
+        "price": 58.64,
+        "inventory_count": 67,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1468",
+        "name": "Offer Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 44.76,
+        "inventory_count": 149,
+        "description": "Omega-3 fatty acid formulation derived from marine lipids to modulate inflammatory cascades and improve coat luster."
+    },
+    {
+        "id": "PROD-1469",
+        "name": "Occur Vitamins",
+        "category": "Anthelmintics",
+        "price": 17.83,
+        "inventory_count": 8,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1470",
+        "name": "Education Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 38.67,
+        "inventory_count": 140,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1471",
+        "name": "Fast Chow",
+        "category": "Nutritional Supplements",
+        "price": 47.34,
+        "inventory_count": 59,
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
+    },
+    {
+        "id": "PROD-1472",
+        "name": "Almost Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 12.15,
+        "inventory_count": 107,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
+    },
+    {
+        "id": "PROD-1473",
+        "name": "Plant Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 41.32,
+        "inventory_count": 28,
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
+    },
+    {
+        "id": "PROD-1474",
+        "name": "Court Treats",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 69.01,
+        "inventory_count": 170,
+        "description": "Selective COX-2 inhibitor formulation for post-operative analgesia and reduction of tissue inflammation."
+    },
+    {
+        "id": "PROD-1475",
+        "name": "Mouth Treats",
+        "category": "Gastrointestinal Protectants",
+        "price": 41.01,
+        "inventory_count": 152,
+        "description": "Oral suspension acting as a mucosal protectant and adsorbent for the symptomatic treatment of acute diarrhea."
+    },
+    {
+        "id": "PROD-1476",
+        "name": "Success Treats",
+        "category": "Nutritional Supplements",
+        "price": 11.29,
+        "inventory_count": 62,
+        "description": "Omega-3 fatty acid formulation derived from marine lipids to modulate inflammatory cascades and improve coat luster."
+    },
+    {
+        "id": "PROD-1477",
+        "name": "Grow Treats",
+        "category": "Ophthalmic Preparations",
+        "price": 93.02,
+        "inventory_count": 188,
+        "description": "Tear substitute drops formulated with hyaluronic acid to manage keratoconjunctivitis sicca (dry eye) symptoms."
+    },
+    {
+        "id": "PROD-1478",
+        "name": "More Chow",
+        "category": "Nutritional Supplements",
+        "price": 30.82,
+        "inventory_count": 113,
+        "description": "Omega-3 fatty acid formulation derived from marine lipids to modulate inflammatory cascades and improve coat luster."
+    },
+    {
+        "id": "PROD-1479",
+        "name": "As Vitamins",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 23.21,
+        "inventory_count": 5,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1480",
+        "name": "Blood Chow",
+        "category": "Dermatological Therapeutics",
+        "price": 30.04,
+        "inventory_count": 176,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
+    },
+    {
+        "id": "PROD-1481",
+        "name": "Thing Chow",
+        "category": "Gastrointestinal Protectants",
+        "price": 14.66,
+        "inventory_count": 117,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1482",
+        "name": "Movement Treats",
+        "category": "Anthelmintics",
+        "price": 76.75,
+        "inventory_count": 174,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1483",
+        "name": "Edge Treats",
+        "category": "Dental Prophylactics",
+        "price": 15.71,
+        "inventory_count": 66,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1484",
+        "name": "Purpose Chow",
+        "category": "Ophthalmic Preparations",
+        "price": 29.78,
+        "inventory_count": 30,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
+    },
+    {
+        "id": "PROD-1485",
+        "name": "Consumer Treats",
+        "category": "Anthelmintics",
+        "price": 61.14,
+        "inventory_count": 143,
+        "description": "Monthly oral preventative disrupting the lifecycle of Dirofilaria immitis and controlling intestinal helminths."
+    },
+    {
+        "id": "PROD-1486",
+        "name": "Per Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 18.51,
+        "inventory_count": 82,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
+    },
+    {
+        "id": "PROD-1487",
+        "name": "Present Treats",
+        "category": "Anthelmintics",
+        "price": 44.49,
+        "inventory_count": 16,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1488",
+        "name": "Less Treats",
+        "category": "Anthelmintics",
+        "price": 63.89,
+        "inventory_count": 124,
+        "description": "Broad-spectrum parasiticide effective against nematodes and cestodes, indicated for routine deworming."
+    },
+    {
+        "id": "PROD-1489",
+        "name": "Back Treats",
+        "category": "Nutritional Supplements",
+        "price": 53.76,
+        "inventory_count": 134,
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
+    },
+    {
+        "id": "PROD-1490",
+        "name": "Every Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 15.53,
         "inventory_count": 31,
-        "description": "High quality toys for your pet."
+        "description": "Corticosteroid spray formulated to alleviate localized pruritus and erythema associated with allergic dermatitis."
+    },
+    {
+        "id": "PROD-1491",
+        "name": "Free Vitamins",
+        "category": "Dental Prophylactics",
+        "price": 13.02,
+        "inventory_count": 166,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1492",
+        "name": "Order Vitamins",
+        "category": "Dermatological Therapeutics",
+        "price": 81.45,
+        "inventory_count": 102,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
+    },
+    {
+        "id": "PROD-1493",
+        "name": "Only Chow",
+        "category": "Dental Prophylactics",
+        "price": 63.07,
+        "inventory_count": 82,
+        "description": "Enzymatic dentifrice formulated to reduce plaque accumulation and calculus formation through abrasive action."
+    },
+    {
+        "id": "PROD-1494",
+        "name": "Assume Chow",
+        "category": "Dermatological Therapeutics",
+        "price": 95.45,
+        "inventory_count": 178,
+        "description": "Antimicrobial and antifungal ear flush indicated for the treatment of Malassezia pachydermatis otitis externa."
+    },
+    {
+        "id": "PROD-1495",
+        "name": "Itself Chow",
+        "category": "Gastrointestinal Protectants",
+        "price": 23.55,
+        "inventory_count": 29,
+        "description": "Proton pump inhibitor used to decrease gastric acid secretion and facilitate the healing of gastric ulcerations."
+    },
+    {
+        "id": "PROD-1496",
+        "name": "Seat Treats",
+        "category": "Analgesics and Anti-inflammatories",
+        "price": 14.89,
+        "inventory_count": 138,
+        "description": "Non-steroidal anti-inflammatory drug (NSAID) indicated for the alleviation of pain and inflammation in osteoarthritis."
+    },
+    {
+        "id": "PROD-1497",
+        "name": "Along Chow",
+        "category": "Dermatological Therapeutics",
+        "price": 35.44,
+        "inventory_count": 56,
+        "description": "A topical medicated shampoo containing chlorhexidine gluconate for the management of superficial pyoderma."
+    },
+    {
+        "id": "PROD-1498",
+        "name": "Name Vitamins",
+        "category": "Nutritional Supplements",
+        "price": 45.83,
+        "inventory_count": 41,
+        "description": "Chondroprotective supplement containing glucosamine and chondroitin sulfate to support articular cartilage health."
+    },
+    {
+        "id": "PROD-1499",
+        "name": "Perform Treats",
+        "category": "Dental Prophylactics",
+        "price": 81.01,
+        "inventory_count": 113,
+        "description": "Oral rinse containing chlorhexidine to decrease supragingival plaque and manage severe periodontal disease."
+    },
+    {
+        "id": "PROD-1500",
+        "name": "Life Vitamins",
+        "category": "Ophthalmic Preparations",
+        "price": 96.94,
+        "inventory_count": 148,
+        "description": "Sterile ophthalmic suspension containing a topical corticosteroid and broad-spectrum antibiotic for conjunctivitis."
     }
 ]

@@ -1,452 +1,4502 @@
 [
     {
         "id": "VISIT-1001",
-        "pet_id": "PET-1004",
-        "clinic_id": "CLINIC-1008",
-        "doctor_id": "DOC-1018",
-        "date": "2026-01-28T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 39.1
+        "pet_id": "PET-1439",
+        "clinic_id": "CLINIC-1103",
+        "doctor_id": "DOC-1223",
+        "date": "2025-07-05T14:43:38",
+        "notes": "Routine wellness exam. Auscultation reveals a grade 2/6 systolic heart murmur. Advise echocardiogram.",
+        "weight_lbs": 11.1
     },
     {
         "id": "VISIT-1002",
-        "pet_id": "PET-1020",
-        "clinic_id": "CLINIC-1010",
-        "doctor_id": "DOC-1020",
-        "date": "2026-06-15T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 64.3
-    },
-    {
-        "id": "VISIT-1003",
-        "pet_id": "PET-1013",
-        "clinic_id": "CLINIC-1005",
-        "doctor_id": "DOC-1015",
-        "date": "2026-04-20T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 30.8
-    },
-    {
-        "id": "VISIT-1004",
-        "pet_id": "PET-1019",
-        "clinic_id": "CLINIC-1004",
-        "doctor_id": "DOC-1014",
-        "date": "2026-05-25T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
+        "pet_id": "PET-1199",
+        "clinic_id": "CLINIC-1385",
+        "doctor_id": "DOC-1057",
+        "date": "2026-03-14T01:08:47",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
         "weight_lbs": 49.8
     },
     {
+        "id": "VISIT-1003",
+        "pet_id": "PET-1139",
+        "clinic_id": "CLINIC-1059",
+        "doctor_id": "DOC-1033",
+        "date": "2025-10-23T08:35:31",
+        "notes": "Patient exhibits tenesmus and hematochezia. Rectal exam reveals enlarged, symmetrical prostate. Advised castration.",
+        "weight_lbs": 37.0
+    },
+    {
+        "id": "VISIT-1004",
+        "pet_id": "PET-1171",
+        "clinic_id": "CLINIC-1210",
+        "doctor_id": "DOC-1053",
+        "date": "2025-06-09T23:08:33",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 78.4
+    },
+    {
         "id": "VISIT-1005",
-        "pet_id": "PET-1002",
-        "clinic_id": "CLINIC-1010",
-        "doctor_id": "DOC-1020",
-        "date": "2026-02-03T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 16.9
+        "pet_id": "PET-1185",
+        "clinic_id": "CLINIC-1013",
+        "doctor_id": "DOC-1470",
+        "date": "2024-12-27T16:36:05",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 33.2
     },
     {
         "id": "VISIT-1006",
-        "pet_id": "PET-1007",
-        "clinic_id": "CLINIC-1007",
-        "doctor_id": "DOC-1007",
-        "date": "2026-06-05T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 56.2
+        "pet_id": "PET-1425",
+        "clinic_id": "CLINIC-1436",
+        "doctor_id": "DOC-1416",
+        "date": "2025-01-29T12:40:05",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 69.9
     },
     {
         "id": "VISIT-1007",
-        "pet_id": "PET-1006",
-        "clinic_id": "CLINIC-1008",
-        "doctor_id": "DOC-1008",
-        "date": "2026-06-28T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 48.6
+        "pet_id": "PET-1410",
+        "clinic_id": "CLINIC-1219",
+        "doctor_id": "DOC-1424",
+        "date": "2025-09-10T09:26:46",
+        "notes": "Patient presents with tachypnea and exercise intolerance. Thoracic radiographs show mild cardiomegaly and pulmonary edema.",
+        "weight_lbs": 65.8
     },
     {
         "id": "VISIT-1008",
-        "pet_id": "PET-1006",
-        "clinic_id": "CLINIC-1001",
-        "doctor_id": "DOC-1001",
-        "date": "2026-04-29T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 41.5
+        "pet_id": "PET-1319",
+        "clinic_id": "CLINIC-1284",
+        "doctor_id": "DOC-1310",
+        "date": "2025-11-04T06:33:43",
+        "notes": "Patient exhibits tenesmus and hematochezia. Rectal exam reveals enlarged, symmetrical prostate. Advised castration.",
+        "weight_lbs": 61.5
     },
     {
         "id": "VISIT-1009",
-        "pet_id": "PET-1020",
-        "clinic_id": "CLINIC-1006",
-        "doctor_id": "DOC-1016",
-        "date": "2026-05-29T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 12.3
+        "pet_id": "PET-1391",
+        "clinic_id": "CLINIC-1454",
+        "doctor_id": "DOC-1450",
+        "date": "2025-12-05T15:39:54",
+        "notes": "Routine wellness exam. Auscultation reveals a grade 2/6 systolic heart murmur. Advise echocardiogram.",
+        "weight_lbs": 79.4
     },
     {
         "id": "VISIT-1010",
-        "pet_id": "PET-1010",
-        "clinic_id": "CLINIC-1010",
-        "doctor_id": "DOC-1010",
-        "date": "2026-02-13T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 70.2
+        "pet_id": "PET-1145",
+        "clinic_id": "CLINIC-1369",
+        "doctor_id": "DOC-1160",
+        "date": "2024-12-11T23:50:29",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 21.3
     },
     {
         "id": "VISIT-1011",
-        "pet_id": "PET-1003",
-        "clinic_id": "CLINIC-1008",
-        "doctor_id": "DOC-1008",
-        "date": "2026-06-05T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 65.1
+        "pet_id": "PET-1019",
+        "clinic_id": "CLINIC-1149",
+        "doctor_id": "DOC-1179",
+        "date": "2025-03-28T15:44:11",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 34.7
     },
     {
         "id": "VISIT-1012",
-        "pet_id": "PET-1019",
-        "clinic_id": "CLINIC-1007",
-        "doctor_id": "DOC-1007",
-        "date": "2026-04-25T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 18.0
+        "pet_id": "PET-1155",
+        "clinic_id": "CLINIC-1192",
+        "doctor_id": "DOC-1343",
+        "date": "2025-06-06T19:17:22",
+        "notes": "Ocular discharge and blepharospasm noted. Fluorescein stain positive for superficial corneal ulcer OS. Prescribed topical ophthalmic antibiotics.",
+        "weight_lbs": 64.5
     },
     {
         "id": "VISIT-1013",
-        "pet_id": "PET-1008",
-        "clinic_id": "CLINIC-1005",
-        "doctor_id": "DOC-1005",
-        "date": "2026-06-04T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 67.9
+        "pet_id": "PET-1328",
+        "clinic_id": "CLINIC-1453",
+        "doctor_id": "DOC-1353",
+        "date": "2026-03-18T17:26:46",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 60.8
     },
     {
         "id": "VISIT-1014",
-        "pet_id": "PET-1003",
-        "clinic_id": "CLINIC-1002",
-        "doctor_id": "DOC-1002",
-        "date": "2026-06-30T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 65.5
+        "pet_id": "PET-1374",
+        "clinic_id": "CLINIC-1457",
+        "doctor_id": "DOC-1291",
+        "date": "2025-06-11T22:18:00",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 29.6
     },
     {
         "id": "VISIT-1015",
-        "pet_id": "PET-1020",
-        "clinic_id": "CLINIC-1009",
-        "doctor_id": "DOC-1019",
-        "date": "2026-05-30T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 40.7
-    },
-    {
-        "id": "VISIT-1016",
-        "pet_id": "PET-1015",
-        "clinic_id": "CLINIC-1010",
-        "doctor_id": "DOC-1010",
-        "date": "2026-02-13T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 38.2
-    },
-    {
-        "id": "VISIT-1017",
-        "pet_id": "PET-1009",
-        "clinic_id": "CLINIC-1007",
-        "doctor_id": "DOC-1017",
-        "date": "2026-03-26T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 44.6
-    },
-    {
-        "id": "VISIT-1018",
-        "pet_id": "PET-1003",
-        "clinic_id": "CLINIC-1010",
-        "doctor_id": "DOC-1020",
-        "date": "2026-08-01T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 72.3
-    },
-    {
-        "id": "VISIT-1019",
-        "pet_id": "PET-1011",
-        "clinic_id": "CLINIC-1010",
-        "doctor_id": "DOC-1020",
-        "date": "2026-06-08T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 11.8
-    },
-    {
-        "id": "VISIT-1020",
-        "pet_id": "PET-1008",
-        "clinic_id": "CLINIC-1009",
-        "doctor_id": "DOC-1019",
-        "date": "2026-03-14T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 76.6
-    },
-    {
-        "id": "VISIT-1021",
-        "pet_id": "PET-1009",
-        "clinic_id": "CLINIC-1009",
-        "doctor_id": "DOC-1019",
-        "date": "2026-08-01T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 63.4
-    },
-    {
-        "id": "VISIT-1022",
-        "pet_id": "PET-1006",
-        "clinic_id": "CLINIC-1006",
-        "doctor_id": "DOC-1016",
-        "date": "2026-04-01T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 55.6
-    },
-    {
-        "id": "VISIT-1023",
-        "pet_id": "PET-1009",
-        "clinic_id": "CLINIC-1006",
-        "doctor_id": "DOC-1006",
-        "date": "2026-03-15T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 40.5
-    },
-    {
-        "id": "VISIT-1024",
-        "pet_id": "PET-1016",
-        "clinic_id": "CLINIC-1003",
-        "doctor_id": "DOC-1003",
-        "date": "2026-04-13T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 34.4
-    },
-    {
-        "id": "VISIT-1025",
-        "pet_id": "PET-1011",
-        "clinic_id": "CLINIC-1001",
-        "doctor_id": "DOC-1011",
-        "date": "2026-02-21T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
+        "pet_id": "PET-1021",
+        "clinic_id": "CLINIC-1173",
+        "doctor_id": "DOC-1110",
+        "date": "2025-01-26T15:39:00",
+        "notes": "Ocular discharge and blepharospasm noted. Fluorescein stain positive for superficial corneal ulcer OS. Prescribed topical ophthalmic antibiotics.",
         "weight_lbs": 17.3
     },
     {
+        "id": "VISIT-1016",
+        "pet_id": "PET-1415",
+        "clinic_id": "CLINIC-1428",
+        "doctor_id": "DOC-1127",
+        "date": "2026-03-24T23:17:44",
+        "notes": "Routine wellness exam. Auscultation reveals a grade 2/6 systolic heart murmur. Advise echocardiogram.",
+        "weight_lbs": 55.2
+    },
+    {
+        "id": "VISIT-1017",
+        "pet_id": "PET-1235",
+        "clinic_id": "CLINIC-1089",
+        "doctor_id": "DOC-1361",
+        "date": "2025-05-07T21:26:49",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 42.9
+    },
+    {
+        "id": "VISIT-1018",
+        "pet_id": "PET-1372",
+        "clinic_id": "CLINIC-1109",
+        "doctor_id": "DOC-1481",
+        "date": "2025-04-24T06:38:24",
+        "notes": "Patient exhibits tenesmus and hematochezia. Rectal exam reveals enlarged, symmetrical prostate. Advised castration.",
+        "weight_lbs": 64.3
+    },
+    {
+        "id": "VISIT-1019",
+        "pet_id": "PET-1376",
+        "clinic_id": "CLINIC-1326",
+        "doctor_id": "DOC-1325",
+        "date": "2025-09-05T13:08:15",
+        "notes": "Patient presents with lethargy and anorexia. CBC/Chem panel shows elevated ALT and ALP. Recommended abdominal ultrasound.",
+        "weight_lbs": 14.0
+    },
+    {
+        "id": "VISIT-1020",
+        "pet_id": "PET-1331",
+        "clinic_id": "CLINIC-1199",
+        "doctor_id": "DOC-1003",
+        "date": "2025-01-28T03:49:05",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 9.5
+    },
+    {
+        "id": "VISIT-1021",
+        "pet_id": "PET-1112",
+        "clinic_id": "CLINIC-1385",
+        "doctor_id": "DOC-1077",
+        "date": "2026-05-25T10:21:31",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 10.3
+    },
+    {
+        "id": "VISIT-1022",
+        "pet_id": "PET-1238",
+        "clinic_id": "CLINIC-1016",
+        "doctor_id": "DOC-1478",
+        "date": "2024-09-20T14:35:02",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 47.1
+    },
+    {
+        "id": "VISIT-1023",
+        "pet_id": "PET-1416",
+        "clinic_id": "CLINIC-1032",
+        "doctor_id": "DOC-1207",
+        "date": "2024-08-24T20:11:46",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 39.7
+    },
+    {
+        "id": "VISIT-1024",
+        "pet_id": "PET-1260",
+        "clinic_id": "CLINIC-1007",
+        "doctor_id": "DOC-1395",
+        "date": "2025-06-23T16:58:23",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 34.1
+    },
+    {
+        "id": "VISIT-1025",
+        "pet_id": "PET-1460",
+        "clinic_id": "CLINIC-1039",
+        "doctor_id": "DOC-1215",
+        "date": "2024-12-31T16:54:29",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 43.5
+    },
+    {
         "id": "VISIT-1026",
-        "pet_id": "PET-1006",
-        "clinic_id": "CLINIC-1001",
-        "doctor_id": "DOC-1011",
-        "date": "2026-04-28T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 58.6
+        "pet_id": "PET-1482",
+        "clinic_id": "CLINIC-1198",
+        "doctor_id": "DOC-1187",
+        "date": "2025-01-28T18:32:52",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 20.5
     },
     {
         "id": "VISIT-1027",
-        "pet_id": "PET-1010",
-        "clinic_id": "CLINIC-1003",
-        "doctor_id": "DOC-1013",
-        "date": "2026-01-29T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 48.5
+        "pet_id": "PET-1474",
+        "clinic_id": "CLINIC-1403",
+        "doctor_id": "DOC-1120",
+        "date": "2026-03-01T03:38:51",
+        "notes": "Dental prophylaxis performed under general anesthesia. Extracted two fractured premolars. Post-op recovery uneventful.",
+        "weight_lbs": 49.1
     },
     {
         "id": "VISIT-1028",
-        "pet_id": "PET-1015",
-        "clinic_id": "CLINIC-1003",
-        "doctor_id": "DOC-1003",
-        "date": "2026-05-23T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 27.7
+        "pet_id": "PET-1182",
+        "clinic_id": "CLINIC-1395",
+        "doctor_id": "DOC-1158",
+        "date": "2026-03-24T16:23:21",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 6.7
     },
     {
         "id": "VISIT-1029",
-        "pet_id": "PET-1004",
-        "clinic_id": "CLINIC-1003",
-        "doctor_id": "DOC-1013",
-        "date": "2026-04-02T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 67.7
+        "pet_id": "PET-1056",
+        "clinic_id": "CLINIC-1121",
+        "doctor_id": "DOC-1078",
+        "date": "2025-09-08T02:34:45",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 9.0
     },
     {
         "id": "VISIT-1030",
-        "pet_id": "PET-1001",
-        "clinic_id": "CLINIC-1008",
-        "doctor_id": "DOC-1018",
-        "date": "2026-04-15T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 38.9
+        "pet_id": "PET-1254",
+        "clinic_id": "CLINIC-1369",
+        "doctor_id": "DOC-1372",
+        "date": "2025-09-13T07:41:16",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 10.3
     },
     {
         "id": "VISIT-1031",
-        "pet_id": "PET-1007",
-        "clinic_id": "CLINIC-1007",
-        "doctor_id": "DOC-1017",
-        "date": "2026-05-11T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 53.6
+        "pet_id": "PET-1296",
+        "clinic_id": "CLINIC-1249",
+        "doctor_id": "DOC-1190",
+        "date": "2024-08-20T21:41:27",
+        "notes": "Orthopedic exam reveals crepitus and decreased range of motion in bilateral coxofemoral joints. Radiographs confirm osteoarthritis.",
+        "weight_lbs": 8.6
     },
     {
         "id": "VISIT-1032",
-        "pet_id": "PET-1016",
-        "clinic_id": "CLINIC-1005",
-        "doctor_id": "DOC-1015",
-        "date": "2026-01-29T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 13.6
+        "pet_id": "PET-1392",
+        "clinic_id": "CLINIC-1302",
+        "doctor_id": "DOC-1106",
+        "date": "2025-01-11T08:48:30",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 42.8
     },
     {
         "id": "VISIT-1033",
-        "pet_id": "PET-1009",
-        "clinic_id": "CLINIC-1008",
-        "doctor_id": "DOC-1018",
-        "date": "2026-07-09T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 74.9
+        "pet_id": "PET-1185",
+        "clinic_id": "CLINIC-1276",
+        "doctor_id": "DOC-1095",
+        "date": "2025-01-25T19:39:35",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 28.3
     },
     {
         "id": "VISIT-1034",
-        "pet_id": "PET-1015",
-        "clinic_id": "CLINIC-1006",
-        "doctor_id": "DOC-1016",
-        "date": "2026-07-11T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 12.0
+        "pet_id": "PET-1321",
+        "clinic_id": "CLINIC-1216",
+        "doctor_id": "DOC-1081",
+        "date": "2026-03-11T20:18:10",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 43.5
     },
     {
         "id": "VISIT-1035",
-        "pet_id": "PET-1020",
-        "clinic_id": "CLINIC-1008",
-        "doctor_id": "DOC-1008",
-        "date": "2026-02-11T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 21.1
+        "pet_id": "PET-1449",
+        "clinic_id": "CLINIC-1418",
+        "doctor_id": "DOC-1359",
+        "date": "2025-01-21T23:07:52",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 50.6
     },
     {
         "id": "VISIT-1036",
-        "pet_id": "PET-1018",
-        "clinic_id": "CLINIC-1001",
-        "doctor_id": "DOC-1001",
-        "date": "2026-03-23T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 38.6
+        "pet_id": "PET-1048",
+        "clinic_id": "CLINIC-1124",
+        "doctor_id": "DOC-1493",
+        "date": "2024-12-06T09:08:01",
+        "notes": "Patient presents with lethargy and anorexia. CBC/Chem panel shows elevated ALT and ALP. Recommended abdominal ultrasound.",
+        "weight_lbs": 41.3
     },
     {
         "id": "VISIT-1037",
-        "pet_id": "PET-1008",
-        "clinic_id": "CLINIC-1004",
-        "doctor_id": "DOC-1004",
-        "date": "2026-04-15T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 76.3
+        "pet_id": "PET-1106",
+        "clinic_id": "CLINIC-1209",
+        "doctor_id": "DOC-1128",
+        "date": "2025-03-02T09:52:50",
+        "notes": "Patient presents with lethargy and anorexia. CBC/Chem panel shows elevated ALT and ALP. Recommended abdominal ultrasound.",
+        "weight_lbs": 27.5
     },
     {
         "id": "VISIT-1038",
-        "pet_id": "PET-1005",
-        "clinic_id": "CLINIC-1006",
-        "doctor_id": "DOC-1016",
-        "date": "2026-02-09T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 30.4
+        "pet_id": "PET-1067",
+        "clinic_id": "CLINIC-1157",
+        "doctor_id": "DOC-1181",
+        "date": "2025-04-21T02:08:29",
+        "notes": "Patient exhibits tenesmus and hematochezia. Rectal exam reveals enlarged, symmetrical prostate. Advised castration.",
+        "weight_lbs": 29.5
     },
     {
         "id": "VISIT-1039",
-        "pet_id": "PET-1009",
-        "clinic_id": "CLINIC-1004",
-        "doctor_id": "DOC-1014",
-        "date": "2026-04-10T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 78.6
+        "pet_id": "PET-1129",
+        "clinic_id": "CLINIC-1109",
+        "doctor_id": "DOC-1481",
+        "date": "2026-03-25T06:16:06",
+        "notes": "Patient presents with tachypnea and exercise intolerance. Thoracic radiographs show mild cardiomegaly and pulmonary edema.",
+        "weight_lbs": 35.3
     },
     {
         "id": "VISIT-1040",
-        "pet_id": "PET-1008",
-        "clinic_id": "CLINIC-1005",
-        "doctor_id": "DOC-1015",
-        "date": "2026-03-23T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 20.1
+        "pet_id": "PET-1323",
+        "clinic_id": "CLINIC-1303",
+        "doctor_id": "DOC-1052",
+        "date": "2025-09-17T19:53:30",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 69.1
     },
     {
         "id": "VISIT-1041",
-        "pet_id": "PET-1007",
-        "clinic_id": "CLINIC-1010",
-        "doctor_id": "DOC-1020",
-        "date": "2026-04-03T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 62.2
+        "pet_id": "PET-1045",
+        "clinic_id": "CLINIC-1433",
+        "doctor_id": "DOC-1168",
+        "date": "2024-12-15T16:28:40",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 79.4
     },
     {
         "id": "VISIT-1042",
-        "pet_id": "PET-1005",
-        "clinic_id": "CLINIC-1003",
-        "doctor_id": "DOC-1003",
-        "date": "2026-06-02T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 64.1
+        "pet_id": "PET-1187",
+        "clinic_id": "CLINIC-1025",
+        "doctor_id": "DOC-1385",
+        "date": "2026-05-27T06:35:22",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 17.4
     },
     {
         "id": "VISIT-1043",
-        "pet_id": "PET-1014",
-        "clinic_id": "CLINIC-1001",
-        "doctor_id": "DOC-1011",
-        "date": "2026-04-04T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 28.7
+        "pet_id": "PET-1290",
+        "clinic_id": "CLINIC-1210",
+        "doctor_id": "DOC-1053",
+        "date": "2024-10-31T18:08:44",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 45.4
     },
     {
         "id": "VISIT-1044",
-        "pet_id": "PET-1001",
-        "clinic_id": "CLINIC-1010",
-        "doctor_id": "DOC-1010",
-        "date": "2026-02-07T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 30.9
+        "pet_id": "PET-1361",
+        "clinic_id": "CLINIC-1398",
+        "doctor_id": "DOC-1405",
+        "date": "2025-07-17T16:10:44",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 60.2
     },
     {
         "id": "VISIT-1045",
-        "pet_id": "PET-1019",
-        "clinic_id": "CLINIC-1009",
-        "doctor_id": "DOC-1019",
-        "date": "2026-02-24T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 44.3
+        "pet_id": "PET-1372",
+        "clinic_id": "CLINIC-1378",
+        "doctor_id": "DOC-1412",
+        "date": "2025-01-15T03:39:19",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 34.1
     },
     {
         "id": "VISIT-1046",
-        "pet_id": "PET-1005",
-        "clinic_id": "CLINIC-1005",
-        "doctor_id": "DOC-1015",
-        "date": "2026-03-27T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 43.9
+        "pet_id": "PET-1254",
+        "clinic_id": "CLINIC-1327",
+        "doctor_id": "DOC-1302",
+        "date": "2025-04-21T16:46:56",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 31.8
     },
     {
         "id": "VISIT-1047",
-        "pet_id": "PET-1011",
-        "clinic_id": "CLINIC-1008",
-        "doctor_id": "DOC-1018",
-        "date": "2026-01-28T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 48.0
+        "pet_id": "PET-1178",
+        "clinic_id": "CLINIC-1072",
+        "doctor_id": "DOC-1116",
+        "date": "2025-07-29T03:52:54",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 48.6
     },
     {
         "id": "VISIT-1048",
-        "pet_id": "PET-1015",
-        "clinic_id": "CLINIC-1001",
-        "doctor_id": "DOC-1011",
-        "date": "2026-06-24T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 78.7
+        "pet_id": "PET-1430",
+        "clinic_id": "CLINIC-1029",
+        "doctor_id": "DOC-1150",
+        "date": "2024-10-10T02:54:02",
+        "notes": "Patient exhibits tenesmus and hematochezia. Rectal exam reveals enlarged, symmetrical prostate. Advised castration.",
+        "weight_lbs": 55.7
     },
     {
         "id": "VISIT-1049",
         "pet_id": "PET-1008",
-        "clinic_id": "CLINIC-1009",
-        "doctor_id": "DOC-1019",
-        "date": "2026-05-05T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
-        "weight_lbs": 26.3
+        "clinic_id": "CLINIC-1284",
+        "doctor_id": "DOC-1310",
+        "date": "2025-03-22T19:12:46",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 65.1
     },
     {
         "id": "VISIT-1050",
-        "pet_id": "PET-1014",
+        "pet_id": "PET-1395",
+        "clinic_id": "CLINIC-1043",
+        "doctor_id": "DOC-1059",
+        "date": "2026-05-27T22:41:21",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 14.9
+    },
+    {
+        "id": "VISIT-1051",
+        "pet_id": "PET-1311",
+        "clinic_id": "CLINIC-1382",
+        "doctor_id": "DOC-1137",
+        "date": "2026-01-27T10:48:03",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 47.5
+    },
+    {
+        "id": "VISIT-1052",
+        "pet_id": "PET-1312",
+        "clinic_id": "CLINIC-1266",
+        "doctor_id": "DOC-1396",
+        "date": "2026-03-03T17:49:59",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 24.1
+    },
+    {
+        "id": "VISIT-1053",
+        "pet_id": "PET-1021",
+        "clinic_id": "CLINIC-1209",
+        "doctor_id": "DOC-1128",
+        "date": "2024-11-18T20:51:16",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 74.0
+    },
+    {
+        "id": "VISIT-1054",
+        "pet_id": "PET-1175",
+        "clinic_id": "CLINIC-1422",
+        "doctor_id": "DOC-1041",
+        "date": "2025-09-08T15:23:42",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 57.0
+    },
+    {
+        "id": "VISIT-1055",
+        "pet_id": "PET-1414",
+        "clinic_id": "CLINIC-1210",
+        "doctor_id": "DOC-1053",
+        "date": "2025-02-26T09:36:37",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 59.3
+    },
+    {
+        "id": "VISIT-1056",
+        "pet_id": "PET-1373",
+        "clinic_id": "CLINIC-1449",
+        "doctor_id": "DOC-1117",
+        "date": "2025-07-04T19:11:49",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 62.7
+    },
+    {
+        "id": "VISIT-1057",
+        "pet_id": "PET-1323",
+        "clinic_id": "CLINIC-1140",
+        "doctor_id": "DOC-1220",
+        "date": "2024-11-16T11:07:41",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 44.1
+    },
+    {
+        "id": "VISIT-1058",
+        "pet_id": "PET-1404",
+        "clinic_id": "CLINIC-1433",
+        "doctor_id": "DOC-1168",
+        "date": "2025-01-02T01:19:43",
+        "notes": "Dental prophylaxis performed under general anesthesia. Extracted two fractured premolars. Post-op recovery uneventful.",
+        "weight_lbs": 28.7
+    },
+    {
+        "id": "VISIT-1059",
+        "pet_id": "PET-1297",
+        "clinic_id": "CLINIC-1155",
+        "doctor_id": "DOC-1461",
+        "date": "2025-10-02T04:21:47",
+        "notes": "Generalized lymphadenopathy noted on physical exam. Fine needle aspirate of popliteal lymph node submitted for cytology.",
+        "weight_lbs": 37.1
+    },
+    {
+        "id": "VISIT-1060",
+        "pet_id": "PET-1300",
+        "clinic_id": "CLINIC-1376",
+        "doctor_id": "DOC-1219",
+        "date": "2026-07-06T02:57:38",
+        "notes": "Patient exhibits tenesmus and hematochezia. Rectal exam reveals enlarged, symmetrical prostate. Advised castration.",
+        "weight_lbs": 59.5
+    },
+    {
+        "id": "VISIT-1061",
+        "pet_id": "PET-1072",
+        "clinic_id": "CLINIC-1241",
+        "doctor_id": "DOC-1104",
+        "date": "2025-10-24T17:12:47",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 56.5
+    },
+    {
+        "id": "VISIT-1062",
+        "pet_id": "PET-1142",
+        "clinic_id": "CLINIC-1436",
+        "doctor_id": "DOC-1485",
+        "date": "2024-12-20T07:35:08",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 73.2
+    },
+    {
+        "id": "VISIT-1063",
+        "pet_id": "PET-1334",
+        "clinic_id": "CLINIC-1151",
+        "doctor_id": "DOC-1329",
+        "date": "2025-05-06T09:15:45",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 8.6
+    },
+    {
+        "id": "VISIT-1064",
+        "pet_id": "PET-1218",
+        "clinic_id": "CLINIC-1428",
+        "doctor_id": "DOC-1127",
+        "date": "2025-10-05T07:24:37",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 53.4
+    },
+    {
+        "id": "VISIT-1065",
+        "pet_id": "PET-1248",
+        "clinic_id": "CLINIC-1238",
+        "doctor_id": "DOC-1362",
+        "date": "2025-10-24T01:07:43",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 72.4
+    },
+    {
+        "id": "VISIT-1066",
+        "pet_id": "PET-1424",
+        "clinic_id": "CLINIC-1298",
+        "doctor_id": "DOC-1265",
+        "date": "2025-01-16T18:23:58",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 53.5
+    },
+    {
+        "id": "VISIT-1067",
+        "pet_id": "PET-1482",
+        "clinic_id": "CLINIC-1351",
+        "doctor_id": "DOC-1373",
+        "date": "2025-04-04T12:11:47",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 22.8
+    },
+    {
+        "id": "VISIT-1068",
+        "pet_id": "PET-1304",
+        "clinic_id": "CLINIC-1203",
+        "doctor_id": "DOC-1093",
+        "date": "2024-11-02T19:50:52",
+        "notes": "Generalized lymphadenopathy noted on physical exam. Fine needle aspirate of popliteal lymph node submitted for cytology.",
+        "weight_lbs": 78.5
+    },
+    {
+        "id": "VISIT-1069",
+        "pet_id": "PET-1378",
+        "clinic_id": "CLINIC-1403",
+        "doctor_id": "DOC-1306",
+        "date": "2024-10-22T01:57:30",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 43.4
+    },
+    {
+        "id": "VISIT-1070",
+        "pet_id": "PET-1357",
+        "clinic_id": "CLINIC-1353",
+        "doctor_id": "DOC-1234",
+        "date": "2025-01-22T02:25:25",
+        "notes": "Dental prophylaxis performed under general anesthesia. Extracted two fractured premolars. Post-op recovery uneventful.",
+        "weight_lbs": 49.6
+    },
+    {
+        "id": "VISIT-1071",
+        "pet_id": "PET-1215",
+        "clinic_id": "CLINIC-1024",
+        "doctor_id": "DOC-1434",
+        "date": "2025-11-22T09:45:46",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 20.2
+    },
+    {
+        "id": "VISIT-1072",
+        "pet_id": "PET-1399",
+        "clinic_id": "CLINIC-1109",
+        "doctor_id": "DOC-1481",
+        "date": "2025-02-16T07:40:42",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 40.5
+    },
+    {
+        "id": "VISIT-1073",
+        "pet_id": "PET-1240",
+        "clinic_id": "CLINIC-1124",
+        "doctor_id": "DOC-1493",
+        "date": "2026-03-24T02:26:48",
+        "notes": "Routine wellness exam. Auscultation reveals a grade 2/6 systolic heart murmur. Advise echocardiogram.",
+        "weight_lbs": 71.7
+    },
+    {
+        "id": "VISIT-1074",
+        "pet_id": "PET-1399",
+        "clinic_id": "CLINIC-1242",
+        "doctor_id": "DOC-1164",
+        "date": "2025-02-14T14:16:18",
+        "notes": "Orthopedic exam reveals crepitus and decreased range of motion in bilateral coxofemoral joints. Radiographs confirm osteoarthritis.",
+        "weight_lbs": 28.3
+    },
+    {
+        "id": "VISIT-1075",
+        "pet_id": "PET-1015",
+        "clinic_id": "CLINIC-1149",
+        "doctor_id": "DOC-1179",
+        "date": "2025-07-29T02:45:35",
+        "notes": "Generalized lymphadenopathy noted on physical exam. Fine needle aspirate of popliteal lymph node submitted for cytology.",
+        "weight_lbs": 37.9
+    },
+    {
+        "id": "VISIT-1076",
+        "pet_id": "PET-1414",
+        "clinic_id": "CLINIC-1454",
+        "doctor_id": "DOC-1450",
+        "date": "2026-02-06T22:01:04",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 60.6
+    },
+    {
+        "id": "VISIT-1077",
+        "pet_id": "PET-1467",
+        "clinic_id": "CLINIC-1377",
+        "doctor_id": "DOC-1108",
+        "date": "2026-06-29T17:07:33",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 53.9
+    },
+    {
+        "id": "VISIT-1078",
+        "pet_id": "PET-1417",
+        "clinic_id": "CLINIC-1317",
+        "doctor_id": "DOC-1196",
+        "date": "2026-05-16T09:25:56",
+        "notes": "Generalized lymphadenopathy noted on physical exam. Fine needle aspirate of popliteal lymph node submitted for cytology.",
+        "weight_lbs": 35.1
+    },
+    {
+        "id": "VISIT-1079",
+        "pet_id": "PET-1094",
+        "clinic_id": "CLINIC-1263",
+        "doctor_id": "DOC-1040",
+        "date": "2025-03-13T08:08:22",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 33.4
+    },
+    {
+        "id": "VISIT-1080",
+        "pet_id": "PET-1018",
+        "clinic_id": "CLINIC-1275",
+        "doctor_id": "DOC-1333",
+        "date": "2025-01-07T10:11:09",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 57.1
+    },
+    {
+        "id": "VISIT-1081",
+        "pet_id": "PET-1492",
+        "clinic_id": "CLINIC-1233",
+        "doctor_id": "DOC-1119",
+        "date": "2024-09-12T08:01:21",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 11.0
+    },
+    {
+        "id": "VISIT-1082",
+        "pet_id": "PET-1275",
+        "clinic_id": "CLINIC-1334",
+        "doctor_id": "DOC-1463",
+        "date": "2025-12-03T23:36:40",
+        "notes": "Ocular discharge and blepharospasm noted. Fluorescein stain positive for superficial corneal ulcer OS. Prescribed topical ophthalmic antibiotics.",
+        "weight_lbs": 55.9
+    },
+    {
+        "id": "VISIT-1083",
+        "pet_id": "PET-1349",
+        "clinic_id": "CLINIC-1384",
+        "doctor_id": "DOC-1076",
+        "date": "2025-01-11T20:03:21",
+        "notes": "Dental prophylaxis performed under general anesthesia. Extracted two fractured premolars. Post-op recovery uneventful.",
+        "weight_lbs": 21.7
+    },
+    {
+        "id": "VISIT-1084",
+        "pet_id": "PET-1495",
+        "clinic_id": "CLINIC-1438",
+        "doctor_id": "DOC-1028",
+        "date": "2025-04-29T20:30:15",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 15.7
+    },
+    {
+        "id": "VISIT-1085",
+        "pet_id": "PET-1244",
+        "clinic_id": "CLINIC-1480",
+        "doctor_id": "DOC-1489",
+        "date": "2025-07-14T14:40:09",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 78.9
+    },
+    {
+        "id": "VISIT-1086",
+        "pet_id": "PET-1396",
+        "clinic_id": "CLINIC-1212",
+        "doctor_id": "DOC-1354",
+        "date": "2026-04-01T05:33:23",
+        "notes": "Orthopedic exam reveals crepitus and decreased range of motion in bilateral coxofemoral joints. Radiographs confirm osteoarthritis.",
+        "weight_lbs": 47.0
+    },
+    {
+        "id": "VISIT-1087",
+        "pet_id": "PET-1409",
+        "clinic_id": "CLINIC-1313",
+        "doctor_id": "DOC-1008",
+        "date": "2026-03-10T02:20:32",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 26.4
+    },
+    {
+        "id": "VISIT-1088",
+        "pet_id": "PET-1403",
+        "clinic_id": "CLINIC-1092",
+        "doctor_id": "DOC-1299",
+        "date": "2025-04-27T19:54:12",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 31.2
+    },
+    {
+        "id": "VISIT-1089",
+        "pet_id": "PET-1431",
+        "clinic_id": "CLINIC-1364",
+        "doctor_id": "DOC-1438",
+        "date": "2025-02-25T03:00:33",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 14.5
+    },
+    {
+        "id": "VISIT-1090",
+        "pet_id": "PET-1234",
+        "clinic_id": "CLINIC-1206",
+        "doctor_id": "DOC-1451",
+        "date": "2024-10-17T19:27:54",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 67.3
+    },
+    {
+        "id": "VISIT-1091",
+        "pet_id": "PET-1054",
+        "clinic_id": "CLINIC-1457",
+        "doctor_id": "DOC-1477",
+        "date": "2025-05-10T00:30:41",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 24.6
+    },
+    {
+        "id": "VISIT-1092",
+        "pet_id": "PET-1140",
+        "clinic_id": "CLINIC-1081",
+        "doctor_id": "DOC-1423",
+        "date": "2026-01-15T17:52:50",
+        "notes": "Generalized lymphadenopathy noted on physical exam. Fine needle aspirate of popliteal lymph node submitted for cytology.",
+        "weight_lbs": 62.5
+    },
+    {
+        "id": "VISIT-1093",
+        "pet_id": "PET-1456",
+        "clinic_id": "CLINIC-1313",
+        "doctor_id": "DOC-1008",
+        "date": "2025-07-03T02:41:54",
+        "notes": "Ocular discharge and blepharospasm noted. Fluorescein stain positive for superficial corneal ulcer OS. Prescribed topical ophthalmic antibiotics.",
+        "weight_lbs": 51.9
+    },
+    {
+        "id": "VISIT-1094",
+        "pet_id": "PET-1247",
+        "clinic_id": "CLINIC-1293",
+        "doctor_id": "DOC-1245",
+        "date": "2025-03-19T08:02:24",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 22.3
+    },
+    {
+        "id": "VISIT-1095",
+        "pet_id": "PET-1103",
+        "clinic_id": "CLINIC-1153",
+        "doctor_id": "DOC-1311",
+        "date": "2026-01-24T03:28:32",
+        "notes": "Generalized lymphadenopathy noted on physical exam. Fine needle aspirate of popliteal lymph node submitted for cytology.",
+        "weight_lbs": 59.9
+    },
+    {
+        "id": "VISIT-1096",
+        "pet_id": "PET-1366",
+        "clinic_id": "CLINIC-1422",
+        "doctor_id": "DOC-1041",
+        "date": "2024-12-19T04:25:07",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 17.6
+    },
+    {
+        "id": "VISIT-1097",
+        "pet_id": "PET-1399",
+        "clinic_id": "CLINIC-1066",
+        "doctor_id": "DOC-1468",
+        "date": "2025-08-27T05:37:32",
+        "notes": "Orthopedic exam reveals crepitus and decreased range of motion in bilateral coxofemoral joints. Radiographs confirm osteoarthritis.",
+        "weight_lbs": 58.7
+    },
+    {
+        "id": "VISIT-1098",
+        "pet_id": "PET-1320",
+        "clinic_id": "CLINIC-1406",
+        "doctor_id": "DOC-1286",
+        "date": "2025-11-21T19:08:00",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 66.1
+    },
+    {
+        "id": "VISIT-1099",
+        "pet_id": "PET-1059",
+        "clinic_id": "CLINIC-1100",
+        "doctor_id": "DOC-1315",
+        "date": "2025-07-22T01:11:34",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 63.7
+    },
+    {
+        "id": "VISIT-1100",
+        "pet_id": "PET-1267",
+        "clinic_id": "CLINIC-1219",
+        "doctor_id": "DOC-1370",
+        "date": "2026-07-31T00:15:02",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 5.2
+    },
+    {
+        "id": "VISIT-1101",
+        "pet_id": "PET-1019",
+        "clinic_id": "CLINIC-1284",
+        "doctor_id": "DOC-1310",
+        "date": "2025-04-06T16:34:46",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 66.3
+    },
+    {
+        "id": "VISIT-1102",
+        "pet_id": "PET-1314",
+        "clinic_id": "CLINIC-1404",
+        "doctor_id": "DOC-1069",
+        "date": "2025-07-23T13:38:46",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 25.2
+    },
+    {
+        "id": "VISIT-1103",
+        "pet_id": "PET-1354",
+        "clinic_id": "CLINIC-1403",
+        "doctor_id": "DOC-1432",
+        "date": "2026-06-21T12:38:11",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 48.0
+    },
+    {
+        "id": "VISIT-1104",
+        "pet_id": "PET-1106",
+        "clinic_id": "CLINIC-1059",
+        "doctor_id": "DOC-1033",
+        "date": "2025-05-13T20:18:38",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 54.0
+    },
+    {
+        "id": "VISIT-1105",
+        "pet_id": "PET-1477",
+        "clinic_id": "CLINIC-1261",
+        "doctor_id": "DOC-1050",
+        "date": "2026-07-12T22:41:20",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 48.9
+    },
+    {
+        "id": "VISIT-1106",
+        "pet_id": "PET-1166",
+        "clinic_id": "CLINIC-1369",
+        "doctor_id": "DOC-1372",
+        "date": "2025-01-24T08:25:10",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 20.6
+    },
+    {
+        "id": "VISIT-1107",
+        "pet_id": "PET-1097",
+        "clinic_id": "CLINIC-1316",
+        "doctor_id": "DOC-1221",
+        "date": "2025-09-09T07:30:07",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 35.0
+    },
+    {
+        "id": "VISIT-1108",
+        "pet_id": "PET-1015",
+        "clinic_id": "CLINIC-1378",
+        "doctor_id": "DOC-1412",
+        "date": "2024-08-14T12:52:11",
+        "notes": "Ocular discharge and blepharospasm noted. Fluorescein stain positive for superficial corneal ulcer OS. Prescribed topical ophthalmic antibiotics.",
+        "weight_lbs": 29.9
+    },
+    {
+        "id": "VISIT-1109",
+        "pet_id": "PET-1026",
+        "clinic_id": "CLINIC-1296",
+        "doctor_id": "DOC-1490",
+        "date": "2025-03-05T15:43:19",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 35.8
+    },
+    {
+        "id": "VISIT-1110",
+        "pet_id": "PET-1071",
+        "clinic_id": "CLINIC-1149",
+        "doctor_id": "DOC-1169",
+        "date": "2026-07-23T21:18:36",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 35.5
+    },
+    {
+        "id": "VISIT-1111",
+        "pet_id": "PET-1218",
+        "clinic_id": "CLINIC-1327",
+        "doctor_id": "DOC-1302",
+        "date": "2024-09-23T11:51:26",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 44.6
+    },
+    {
+        "id": "VISIT-1112",
+        "pet_id": "PET-1446",
+        "clinic_id": "CLINIC-1025",
+        "doctor_id": "DOC-1214",
+        "date": "2025-07-01T20:21:35",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 56.3
+    },
+    {
+        "id": "VISIT-1113",
+        "pet_id": "PET-1133",
+        "clinic_id": "CLINIC-1138",
+        "doctor_id": "DOC-1203",
+        "date": "2025-02-19T12:08:40",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 69.7
+    },
+    {
+        "id": "VISIT-1114",
+        "pet_id": "PET-1317",
+        "clinic_id": "CLINIC-1281",
+        "doctor_id": "DOC-1230",
+        "date": "2026-07-17T11:14:39",
+        "notes": "Patient presents with tachypnea and exercise intolerance. Thoracic radiographs show mild cardiomegaly and pulmonary edema.",
+        "weight_lbs": 14.6
+    },
+    {
+        "id": "VISIT-1115",
+        "pet_id": "PET-1216",
+        "clinic_id": "CLINIC-1016",
+        "doctor_id": "DOC-1478",
+        "date": "2025-01-27T15:26:31",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 25.4
+    },
+    {
+        "id": "VISIT-1116",
+        "pet_id": "PET-1493",
+        "clinic_id": "CLINIC-1143",
+        "doctor_id": "DOC-1159",
+        "date": "2025-07-27T07:41:18",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 12.6
+    },
+    {
+        "id": "VISIT-1117",
+        "pet_id": "PET-1425",
+        "clinic_id": "CLINIC-1143",
+        "doctor_id": "DOC-1382",
+        "date": "2025-12-23T15:09:06",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 71.0
+    },
+    {
+        "id": "VISIT-1118",
+        "pet_id": "PET-1180",
+        "clinic_id": "CLINIC-1144",
+        "doctor_id": "DOC-1244",
+        "date": "2025-10-12T19:18:25",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 13.4
+    },
+    {
+        "id": "VISIT-1119",
+        "pet_id": "PET-1461",
+        "clinic_id": "CLINIC-1289",
+        "doctor_id": "DOC-1492",
+        "date": "2024-10-27T19:51:55",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 46.3
+    },
+    {
+        "id": "VISIT-1120",
+        "pet_id": "PET-1322",
+        "clinic_id": "CLINIC-1394",
+        "doctor_id": "DOC-1363",
+        "date": "2026-03-05T23:16:50",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 32.9
+    },
+    {
+        "id": "VISIT-1121",
+        "pet_id": "PET-1042",
+        "clinic_id": "CLINIC-1177",
+        "doctor_id": "DOC-1065",
+        "date": "2025-08-07T11:38:35",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 57.1
+    },
+    {
+        "id": "VISIT-1122",
+        "pet_id": "PET-1162",
+        "clinic_id": "CLINIC-1362",
+        "doctor_id": "DOC-1037",
+        "date": "2026-06-24T09:39:57",
+        "notes": "Orthopedic exam reveals crepitus and decreased range of motion in bilateral coxofemoral joints. Radiographs confirm osteoarthritis.",
+        "weight_lbs": 24.0
+    },
+    {
+        "id": "VISIT-1123",
+        "pet_id": "PET-1379",
+        "clinic_id": "CLINIC-1284",
+        "doctor_id": "DOC-1310",
+        "date": "2026-07-31T08:51:37",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 16.3
+    },
+    {
+        "id": "VISIT-1124",
+        "pet_id": "PET-1478",
+        "clinic_id": "CLINIC-1229",
+        "doctor_id": "DOC-1139",
+        "date": "2026-07-29T04:17:48",
+        "notes": "Orthopedic exam reveals crepitus and decreased range of motion in bilateral coxofemoral joints. Radiographs confirm osteoarthritis.",
+        "weight_lbs": 73.5
+    },
+    {
+        "id": "VISIT-1125",
+        "pet_id": "PET-1115",
+        "clinic_id": "CLINIC-1314",
+        "doctor_id": "DOC-1287",
+        "date": "2026-07-28T05:54:41",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 71.4
+    },
+    {
+        "id": "VISIT-1126",
+        "pet_id": "PET-1255",
+        "clinic_id": "CLINIC-1244",
+        "doctor_id": "DOC-1389",
+        "date": "2025-10-06T07:02:32",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 40.9
+    },
+    {
+        "id": "VISIT-1127",
+        "pet_id": "PET-1477",
+        "clinic_id": "CLINIC-1337",
+        "doctor_id": "DOC-1156",
+        "date": "2025-10-02T15:01:38",
+        "notes": "Patient presents with lethargy and anorexia. CBC/Chem panel shows elevated ALT and ALP. Recommended abdominal ultrasound.",
+        "weight_lbs": 56.9
+    },
+    {
+        "id": "VISIT-1128",
+        "pet_id": "PET-1115",
+        "clinic_id": "CLINIC-1316",
+        "doctor_id": "DOC-1401",
+        "date": "2026-04-09T11:44:53",
+        "notes": "Patient presents with lethargy and anorexia. CBC/Chem panel shows elevated ALT and ALP. Recommended abdominal ultrasound.",
+        "weight_lbs": 77.2
+    },
+    {
+        "id": "VISIT-1129",
+        "pet_id": "PET-1276",
+        "clinic_id": "CLINIC-1101",
+        "doctor_id": "DOC-1131",
+        "date": "2024-11-04T03:46:02",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 55.3
+    },
+    {
+        "id": "VISIT-1130",
+        "pet_id": "PET-1062",
+        "clinic_id": "CLINIC-1332",
+        "doctor_id": "DOC-1071",
+        "date": "2026-07-01T12:38:18",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 36.3
+    },
+    {
+        "id": "VISIT-1131",
+        "pet_id": "PET-1248",
+        "clinic_id": "CLINIC-1053",
+        "doctor_id": "DOC-1178",
+        "date": "2025-10-29T10:48:35",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 31.7
+    },
+    {
+        "id": "VISIT-1132",
+        "pet_id": "PET-1136",
+        "clinic_id": "CLINIC-1428",
+        "doctor_id": "DOC-1127",
+        "date": "2025-08-06T18:25:30",
+        "notes": "Patient presents with tachypnea and exercise intolerance. Thoracic radiographs show mild cardiomegaly and pulmonary edema.",
+        "weight_lbs": 55.2
+    },
+    {
+        "id": "VISIT-1133",
+        "pet_id": "PET-1214",
+        "clinic_id": "CLINIC-1111",
+        "doctor_id": "DOC-1303",
+        "date": "2025-09-20T22:01:10",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 62.2
+    },
+    {
+        "id": "VISIT-1134",
+        "pet_id": "PET-1027",
+        "clinic_id": "CLINIC-1279",
+        "doctor_id": "DOC-1263",
+        "date": "2025-01-22T23:00:06",
+        "notes": "Orthopedic exam reveals crepitus and decreased range of motion in bilateral coxofemoral joints. Radiographs confirm osteoarthritis.",
+        "weight_lbs": 7.9
+    },
+    {
+        "id": "VISIT-1135",
+        "pet_id": "PET-1060",
+        "clinic_id": "CLINIC-1276",
+        "doctor_id": "DOC-1276",
+        "date": "2024-12-16T07:26:50",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 38.0
+    },
+    {
+        "id": "VISIT-1136",
+        "pet_id": "PET-1006",
+        "clinic_id": "CLINIC-1156",
+        "doctor_id": "DOC-1199",
+        "date": "2025-06-27T20:18:35",
+        "notes": "Dental prophylaxis performed under general anesthesia. Extracted two fractured premolars. Post-op recovery uneventful.",
+        "weight_lbs": 5.7
+    },
+    {
+        "id": "VISIT-1137",
+        "pet_id": "PET-1136",
+        "clinic_id": "CLINIC-1183",
+        "doctor_id": "DOC-1036",
+        "date": "2024-11-12T20:01:45",
+        "notes": "Ocular discharge and blepharospasm noted. Fluorescein stain positive for superficial corneal ulcer OS. Prescribed topical ophthalmic antibiotics.",
+        "weight_lbs": 15.5
+    },
+    {
+        "id": "VISIT-1138",
+        "pet_id": "PET-1209",
+        "clinic_id": "CLINIC-1084",
+        "doctor_id": "DOC-1496",
+        "date": "2024-10-08T22:05:16",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 8.4
+    },
+    {
+        "id": "VISIT-1139",
+        "pet_id": "PET-1496",
+        "clinic_id": "CLINIC-1404",
+        "doctor_id": "DOC-1069",
+        "date": "2025-09-29T15:49:48",
+        "notes": "Orthopedic exam reveals crepitus and decreased range of motion in bilateral coxofemoral joints. Radiographs confirm osteoarthritis.",
+        "weight_lbs": 68.7
+    },
+    {
+        "id": "VISIT-1140",
+        "pet_id": "PET-1487",
+        "clinic_id": "CLINIC-1499",
+        "doctor_id": "DOC-1185",
+        "date": "2025-09-09T15:31:36",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 44.3
+    },
+    {
+        "id": "VISIT-1141",
+        "pet_id": "PET-1046",
+        "clinic_id": "CLINIC-1492",
+        "doctor_id": "DOC-1082",
+        "date": "2024-09-23T13:38:39",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 33.4
+    },
+    {
+        "id": "VISIT-1142",
+        "pet_id": "PET-1104",
+        "clinic_id": "CLINIC-1153",
+        "doctor_id": "DOC-1311",
+        "date": "2024-12-03T19:00:03",
+        "notes": "Routine wellness exam. Auscultation reveals a grade 2/6 systolic heart murmur. Advise echocardiogram.",
+        "weight_lbs": 63.7
+    },
+    {
+        "id": "VISIT-1143",
+        "pet_id": "PET-1390",
+        "clinic_id": "CLINIC-1108",
+        "doctor_id": "DOC-1098",
+        "date": "2025-01-20T13:11:01",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 56.4
+    },
+    {
+        "id": "VISIT-1144",
+        "pet_id": "PET-1406",
+        "clinic_id": "CLINIC-1183",
+        "doctor_id": "DOC-1036",
+        "date": "2024-10-18T03:40:47",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 51.3
+    },
+    {
+        "id": "VISIT-1145",
+        "pet_id": "PET-1122",
+        "clinic_id": "CLINIC-1482",
+        "doctor_id": "DOC-1443",
+        "date": "2026-08-09T03:57:03",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 59.8
+    },
+    {
+        "id": "VISIT-1146",
+        "pet_id": "PET-1385",
+        "clinic_id": "CLINIC-1492",
+        "doctor_id": "DOC-1082",
+        "date": "2026-04-08T03:15:51",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 58.7
+    },
+    {
+        "id": "VISIT-1147",
+        "pet_id": "PET-1260",
+        "clinic_id": "CLINIC-1392",
+        "doctor_id": "DOC-1184",
+        "date": "2025-12-15T23:34:39",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 58.6
+    },
+    {
+        "id": "VISIT-1148",
+        "pet_id": "PET-1224",
+        "clinic_id": "CLINIC-1378",
+        "doctor_id": "DOC-1412",
+        "date": "2025-04-01T19:03:07",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 55.5
+    },
+    {
+        "id": "VISIT-1149",
+        "pet_id": "PET-1452",
+        "clinic_id": "CLINIC-1325",
+        "doctor_id": "DOC-1267",
+        "date": "2026-06-17T12:09:07",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 58.5
+    },
+    {
+        "id": "VISIT-1150",
+        "pet_id": "PET-1271",
+        "clinic_id": "CLINIC-1403",
+        "doctor_id": "DOC-1306",
+        "date": "2024-09-14T11:22:10",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 40.9
+    },
+    {
+        "id": "VISIT-1151",
+        "pet_id": "PET-1198",
+        "clinic_id": "CLINIC-1163",
+        "doctor_id": "DOC-1409",
+        "date": "2024-11-12T00:19:23",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 14.5
+    },
+    {
+        "id": "VISIT-1152",
+        "pet_id": "PET-1432",
+        "clinic_id": "CLINIC-1097",
+        "doctor_id": "DOC-1086",
+        "date": "2024-11-28T05:35:32",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 79.5
+    },
+    {
+        "id": "VISIT-1153",
+        "pet_id": "PET-1016",
+        "clinic_id": "CLINIC-1092",
+        "doctor_id": "DOC-1231",
+        "date": "2025-06-17T08:23:56",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 63.7
+    },
+    {
+        "id": "VISIT-1154",
+        "pet_id": "PET-1487",
+        "clinic_id": "CLINIC-1362",
+        "doctor_id": "DOC-1037",
+        "date": "2024-12-22T01:43:36",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 27.9
+    },
+    {
+        "id": "VISIT-1155",
+        "pet_id": "PET-1147",
+        "clinic_id": "CLINIC-1364",
+        "doctor_id": "DOC-1103",
+        "date": "2025-11-05T19:10:21",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 58.8
+    },
+    {
+        "id": "VISIT-1156",
+        "pet_id": "PET-1276",
+        "clinic_id": "CLINIC-1219",
+        "doctor_id": "DOC-1370",
+        "date": "2025-02-11T23:58:32",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 50.0
+    },
+    {
+        "id": "VISIT-1157",
+        "pet_id": "PET-1154",
+        "clinic_id": "CLINIC-1480",
+        "doctor_id": "DOC-1489",
+        "date": "2026-04-01T21:31:12",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 33.7
+    },
+    {
+        "id": "VISIT-1158",
+        "pet_id": "PET-1139",
+        "clinic_id": "CLINIC-1345",
+        "doctor_id": "DOC-1322",
+        "date": "2026-06-19T03:33:35",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 20.7
+    },
+    {
+        "id": "VISIT-1159",
+        "pet_id": "PET-1175",
+        "clinic_id": "CLINIC-1044",
+        "doctor_id": "DOC-1471",
+        "date": "2025-03-24T10:45:30",
+        "notes": "Patient exhibits tenesmus and hematochezia. Rectal exam reveals enlarged, symmetrical prostate. Advised castration.",
+        "weight_lbs": 35.0
+    },
+    {
+        "id": "VISIT-1160",
+        "pet_id": "PET-1024",
+        "clinic_id": "CLINIC-1229",
+        "doctor_id": "DOC-1403",
+        "date": "2025-08-06T03:51:19",
+        "notes": "Patient exhibits tenesmus and hematochezia. Rectal exam reveals enlarged, symmetrical prostate. Advised castration.",
+        "weight_lbs": 6.1
+    },
+    {
+        "id": "VISIT-1161",
+        "pet_id": "PET-1270",
+        "clinic_id": "CLINIC-1161",
+        "doctor_id": "DOC-1090",
+        "date": "2025-04-05T18:14:42",
+        "notes": "Ocular discharge and blepharospasm noted. Fluorescein stain positive for superficial corneal ulcer OS. Prescribed topical ophthalmic antibiotics.",
+        "weight_lbs": 57.6
+    },
+    {
+        "id": "VISIT-1162",
+        "pet_id": "PET-1013",
+        "clinic_id": "CLINIC-1069",
+        "doctor_id": "DOC-1125",
+        "date": "2025-12-04T20:06:03",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 52.4
+    },
+    {
+        "id": "VISIT-1163",
+        "pet_id": "PET-1301",
+        "clinic_id": "CLINIC-1033",
+        "doctor_id": "DOC-1047",
+        "date": "2025-03-20T15:55:15",
+        "notes": "Ocular discharge and blepharospasm noted. Fluorescein stain positive for superficial corneal ulcer OS. Prescribed topical ophthalmic antibiotics.",
+        "weight_lbs": 21.9
+    },
+    {
+        "id": "VISIT-1164",
+        "pet_id": "PET-1271",
+        "clinic_id": "CLINIC-1436",
+        "doctor_id": "DOC-1250",
+        "date": "2025-08-05T00:28:19",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 76.1
+    },
+    {
+        "id": "VISIT-1165",
+        "pet_id": "PET-1336",
+        "clinic_id": "CLINIC-1030",
+        "doctor_id": "DOC-1163",
+        "date": "2024-11-03T17:02:10",
+        "notes": "Ocular discharge and blepharospasm noted. Fluorescein stain positive for superficial corneal ulcer OS. Prescribed topical ophthalmic antibiotics.",
+        "weight_lbs": 55.2
+    },
+    {
+        "id": "VISIT-1166",
+        "pet_id": "PET-1245",
+        "clinic_id": "CLINIC-1463",
+        "doctor_id": "DOC-1379",
+        "date": "2025-08-12T16:49:20",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 68.8
+    },
+    {
+        "id": "VISIT-1167",
+        "pet_id": "PET-1321",
+        "clinic_id": "CLINIC-1341",
+        "doctor_id": "DOC-1162",
+        "date": "2026-03-19T22:00:30",
+        "notes": "Patient exhibits tenesmus and hematochezia. Rectal exam reveals enlarged, symmetrical prostate. Advised castration.",
+        "weight_lbs": 67.4
+    },
+    {
+        "id": "VISIT-1168",
+        "pet_id": "PET-1066",
+        "clinic_id": "CLINIC-1385",
+        "doctor_id": "DOC-1077",
+        "date": "2024-11-27T18:48:41",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 37.4
+    },
+    {
+        "id": "VISIT-1169",
+        "pet_id": "PET-1301",
+        "clinic_id": "CLINIC-1490",
+        "doctor_id": "DOC-1482",
+        "date": "2025-10-23T23:40:11",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 55.2
+    },
+    {
+        "id": "VISIT-1170",
+        "pet_id": "PET-1202",
+        "clinic_id": "CLINIC-1021",
+        "doctor_id": "DOC-1167",
+        "date": "2024-09-19T01:43:44",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 76.6
+    },
+    {
+        "id": "VISIT-1171",
+        "pet_id": "PET-1244",
+        "clinic_id": "CLINIC-1411",
+        "doctor_id": "DOC-1280",
+        "date": "2024-08-29T21:35:28",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 25.5
+    },
+    {
+        "id": "VISIT-1172",
+        "pet_id": "PET-1429",
+        "clinic_id": "CLINIC-1145",
+        "doctor_id": "DOC-1296",
+        "date": "2026-07-23T22:58:47",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 9.2
+    },
+    {
+        "id": "VISIT-1173",
+        "pet_id": "PET-1134",
+        "clinic_id": "CLINIC-1116",
+        "doctor_id": "DOC-1292",
+        "date": "2024-12-22T19:31:23",
+        "notes": "Patient exhibits tenesmus and hematochezia. Rectal exam reveals enlarged, symmetrical prostate. Advised castration.",
+        "weight_lbs": 24.2
+    },
+    {
+        "id": "VISIT-1174",
+        "pet_id": "PET-1321",
+        "clinic_id": "CLINIC-1080",
+        "doctor_id": "DOC-1027",
+        "date": "2026-05-10T03:24:03",
+        "notes": "Patient presents with lethargy and anorexia. CBC/Chem panel shows elevated ALT and ALP. Recommended abdominal ultrasound.",
+        "weight_lbs": 42.9
+    },
+    {
+        "id": "VISIT-1175",
+        "pet_id": "PET-1038",
+        "clinic_id": "CLINIC-1151",
+        "doctor_id": "DOC-1329",
+        "date": "2025-12-17T07:52:40",
+        "notes": "Ocular discharge and blepharospasm noted. Fluorescein stain positive for superficial corneal ulcer OS. Prescribed topical ophthalmic antibiotics.",
+        "weight_lbs": 72.0
+    },
+    {
+        "id": "VISIT-1176",
+        "pet_id": "PET-1346",
+        "clinic_id": "CLINIC-1457",
+        "doctor_id": "DOC-1291",
+        "date": "2025-06-29T05:34:08",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 18.6
+    },
+    {
+        "id": "VISIT-1177",
+        "pet_id": "PET-1203",
+        "clinic_id": "CLINIC-1474",
+        "doctor_id": "DOC-1044",
+        "date": "2024-09-30T08:17:27",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 63.3
+    },
+    {
+        "id": "VISIT-1178",
+        "pet_id": "PET-1197",
+        "clinic_id": "CLINIC-1279",
+        "doctor_id": "DOC-1263",
+        "date": "2024-11-30T15:23:04",
+        "notes": "Patient presents with tachypnea and exercise intolerance. Thoracic radiographs show mild cardiomegaly and pulmonary edema.",
+        "weight_lbs": 74.0
+    },
+    {
+        "id": "VISIT-1179",
+        "pet_id": "PET-1188",
+        "clinic_id": "CLINIC-1382",
+        "doctor_id": "DOC-1137",
+        "date": "2024-11-03T13:18:11",
+        "notes": "Orthopedic exam reveals crepitus and decreased range of motion in bilateral coxofemoral joints. Radiographs confirm osteoarthritis.",
+        "weight_lbs": 60.4
+    },
+    {
+        "id": "VISIT-1180",
+        "pet_id": "PET-1124",
+        "clinic_id": "CLINIC-1284",
+        "doctor_id": "DOC-1310",
+        "date": "2025-07-14T06:38:49",
+        "notes": "Patient presents with lethargy and anorexia. CBC/Chem panel shows elevated ALT and ALP. Recommended abdominal ultrasound.",
+        "weight_lbs": 35.0
+    },
+    {
+        "id": "VISIT-1181",
+        "pet_id": "PET-1367",
+        "clinic_id": "CLINIC-1371",
+        "doctor_id": "DOC-1206",
+        "date": "2026-08-04T14:47:03",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 70.2
+    },
+    {
+        "id": "VISIT-1182",
+        "pet_id": "PET-1261",
+        "clinic_id": "CLINIC-1188",
+        "doctor_id": "DOC-1398",
+        "date": "2026-05-04T13:33:44",
+        "notes": "Generalized lymphadenopathy noted on physical exam. Fine needle aspirate of popliteal lymph node submitted for cytology.",
+        "weight_lbs": 75.7
+    },
+    {
+        "id": "VISIT-1183",
+        "pet_id": "PET-1417",
+        "clinic_id": "CLINIC-1279",
+        "doctor_id": "DOC-1263",
+        "date": "2025-10-09T00:15:07",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 19.8
+    },
+    {
+        "id": "VISIT-1184",
+        "pet_id": "PET-1491",
+        "clinic_id": "CLINIC-1134",
+        "doctor_id": "DOC-1446",
+        "date": "2025-07-22T14:13:42",
+        "notes": "Patient exhibits tenesmus and hematochezia. Rectal exam reveals enlarged, symmetrical prostate. Advised castration.",
+        "weight_lbs": 63.2
+    },
+    {
+        "id": "VISIT-1185",
+        "pet_id": "PET-1081",
+        "clinic_id": "CLINIC-1325",
+        "doctor_id": "DOC-1267",
+        "date": "2025-04-27T10:33:37",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 55.1
+    },
+    {
+        "id": "VISIT-1186",
+        "pet_id": "PET-1182",
+        "clinic_id": "CLINIC-1010",
+        "doctor_id": "DOC-1466",
+        "date": "2025-12-09T17:34:06",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 33.2
+    },
+    {
+        "id": "VISIT-1187",
+        "pet_id": "PET-1446",
+        "clinic_id": "CLINIC-1169",
+        "doctor_id": "DOC-1211",
+        "date": "2026-01-29T00:35:04",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 28.5
+    },
+    {
+        "id": "VISIT-1188",
+        "pet_id": "PET-1191",
+        "clinic_id": "CLINIC-1210",
+        "doctor_id": "DOC-1133",
+        "date": "2026-01-29T07:42:24",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 59.2
+    },
+    {
+        "id": "VISIT-1189",
+        "pet_id": "PET-1494",
+        "clinic_id": "CLINIC-1115",
+        "doctor_id": "DOC-1191",
+        "date": "2024-09-10T03:27:38",
+        "notes": "Patient presents with tachypnea and exercise intolerance. Thoracic radiographs show mild cardiomegaly and pulmonary edema.",
+        "weight_lbs": 65.5
+    },
+    {
+        "id": "VISIT-1190",
+        "pet_id": "PET-1052",
+        "clinic_id": "CLINIC-1404",
+        "doctor_id": "DOC-1069",
+        "date": "2026-01-21T23:07:00",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 46.5
+    },
+    {
+        "id": "VISIT-1191",
+        "pet_id": "PET-1172",
+        "clinic_id": "CLINIC-1284",
+        "doctor_id": "DOC-1070",
+        "date": "2025-11-09T18:16:00",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 65.5
+    },
+    {
+        "id": "VISIT-1192",
+        "pet_id": "PET-1368",
+        "clinic_id": "CLINIC-1358",
+        "doctor_id": "DOC-1308",
+        "date": "2026-08-01T17:09:54",
+        "notes": "Routine wellness exam. Auscultation reveals a grade 2/6 systolic heart murmur. Advise echocardiogram.",
+        "weight_lbs": 27.1
+    },
+    {
+        "id": "VISIT-1193",
+        "pet_id": "PET-1063",
+        "clinic_id": "CLINIC-1433",
+        "doctor_id": "DOC-1168",
+        "date": "2026-05-16T20:37:02",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 40.6
+    },
+    {
+        "id": "VISIT-1194",
+        "pet_id": "PET-1394",
+        "clinic_id": "CLINIC-1084",
+        "doctor_id": "DOC-1277",
+        "date": "2026-08-06T23:56:18",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 77.6
+    },
+    {
+        "id": "VISIT-1195",
+        "pet_id": "PET-1178",
+        "clinic_id": "CLINIC-1496",
+        "doctor_id": "DOC-1488",
+        "date": "2024-11-15T03:15:23",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 47.2
+    },
+    {
+        "id": "VISIT-1196",
+        "pet_id": "PET-1053",
+        "clinic_id": "CLINIC-1422",
+        "doctor_id": "DOC-1041",
+        "date": "2025-08-29T09:22:38",
+        "notes": "Dental prophylaxis performed under general anesthesia. Extracted two fractured premolars. Post-op recovery uneventful.",
+        "weight_lbs": 8.5
+    },
+    {
+        "id": "VISIT-1197",
+        "pet_id": "PET-1208",
+        "clinic_id": "CLINIC-1251",
+        "doctor_id": "DOC-1064",
+        "date": "2025-02-04T07:11:33",
+        "notes": "Patient presents with tachypnea and exercise intolerance. Thoracic radiographs show mild cardiomegaly and pulmonary edema.",
+        "weight_lbs": 16.7
+    },
+    {
+        "id": "VISIT-1198",
+        "pet_id": "PET-1354",
+        "clinic_id": "CLINIC-1140",
+        "doctor_id": "DOC-1220",
+        "date": "2025-09-10T06:04:36",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 45.1
+    },
+    {
+        "id": "VISIT-1199",
+        "pet_id": "PET-1165",
+        "clinic_id": "CLINIC-1113",
+        "doctor_id": "DOC-1360",
+        "date": "2024-08-26T00:09:28",
+        "notes": "Routine wellness exam. Auscultation reveals a grade 2/6 systolic heart murmur. Advise echocardiogram.",
+        "weight_lbs": 42.2
+    },
+    {
+        "id": "VISIT-1200",
+        "pet_id": "PET-1050",
+        "clinic_id": "CLINIC-1488",
+        "doctor_id": "DOC-1415",
+        "date": "2026-07-06T07:58:31",
+        "notes": "Patient presents with lethargy and anorexia. CBC/Chem panel shows elevated ALT and ALP. Recommended abdominal ultrasound.",
+        "weight_lbs": 69.6
+    },
+    {
+        "id": "VISIT-1201",
+        "pet_id": "PET-1122",
+        "clinic_id": "CLINIC-1319",
+        "doctor_id": "DOC-1495",
+        "date": "2024-08-15T01:21:22",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 12.3
+    },
+    {
+        "id": "VISIT-1202",
+        "pet_id": "PET-1228",
+        "clinic_id": "CLINIC-1272",
+        "doctor_id": "DOC-1341",
+        "date": "2026-05-11T00:06:23",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 76.1
+    },
+    {
+        "id": "VISIT-1203",
+        "pet_id": "PET-1331",
+        "clinic_id": "CLINIC-1326",
+        "doctor_id": "DOC-1325",
+        "date": "2024-12-14T12:30:39",
+        "notes": "Patient exhibits tenesmus and hematochezia. Rectal exam reveals enlarged, symmetrical prostate. Advised castration.",
+        "weight_lbs": 21.5
+    },
+    {
+        "id": "VISIT-1204",
+        "pet_id": "PET-1417",
+        "clinic_id": "CLINIC-1378",
+        "doctor_id": "DOC-1412",
+        "date": "2026-03-03T18:42:55",
+        "notes": "Routine wellness exam. Auscultation reveals a grade 2/6 systolic heart murmur. Advise echocardiogram.",
+        "weight_lbs": 69.0
+    },
+    {
+        "id": "VISIT-1205",
+        "pet_id": "PET-1350",
+        "clinic_id": "CLINIC-1010",
+        "doctor_id": "DOC-1466",
+        "date": "2025-04-30T09:11:46",
+        "notes": "Routine wellness exam. Auscultation reveals a grade 2/6 systolic heart murmur. Advise echocardiogram.",
+        "weight_lbs": 7.4
+    },
+    {
+        "id": "VISIT-1206",
+        "pet_id": "PET-1033",
+        "clinic_id": "CLINIC-1231",
+        "doctor_id": "DOC-1062",
+        "date": "2025-09-18T17:21:00",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 72.3
+    },
+    {
+        "id": "VISIT-1207",
+        "pet_id": "PET-1349",
+        "clinic_id": "CLINIC-1323",
+        "doctor_id": "DOC-1046",
+        "date": "2026-05-13T09:33:51",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 39.4
+    },
+    {
+        "id": "VISIT-1208",
+        "pet_id": "PET-1162",
+        "clinic_id": "CLINIC-1465",
+        "doctor_id": "DOC-1115",
+        "date": "2026-02-06T22:25:34",
+        "notes": "Orthopedic exam reveals crepitus and decreased range of motion in bilateral coxofemoral joints. Radiographs confirm osteoarthritis.",
+        "weight_lbs": 73.2
+    },
+    {
+        "id": "VISIT-1209",
+        "pet_id": "PET-1112",
+        "clinic_id": "CLINIC-1304",
+        "doctor_id": "DOC-1448",
+        "date": "2024-12-01T20:52:39",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 27.4
+    },
+    {
+        "id": "VISIT-1210",
+        "pet_id": "PET-1340",
+        "clinic_id": "CLINIC-1107",
+        "doctor_id": "DOC-1357",
+        "date": "2025-08-11T21:06:14",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 61.4
+    },
+    {
+        "id": "VISIT-1211",
+        "pet_id": "PET-1250",
+        "clinic_id": "CLINIC-1398",
+        "doctor_id": "DOC-1239",
+        "date": "2026-04-10T21:14:15",
+        "notes": "Patient presents with lethargy and anorexia. CBC/Chem panel shows elevated ALT and ALP. Recommended abdominal ultrasound.",
+        "weight_lbs": 73.4
+    },
+    {
+        "id": "VISIT-1212",
+        "pet_id": "PET-1215",
+        "clinic_id": "CLINIC-1059",
+        "doctor_id": "DOC-1429",
+        "date": "2024-12-27T13:45:50",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 15.4
+    },
+    {
+        "id": "VISIT-1213",
+        "pet_id": "PET-1025",
+        "clinic_id": "CLINIC-1405",
+        "doctor_id": "DOC-1380",
+        "date": "2024-08-22T17:57:51",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 22.5
+    },
+    {
+        "id": "VISIT-1214",
+        "pet_id": "PET-1043",
+        "clinic_id": "CLINIC-1317",
+        "doctor_id": "DOC-1196",
+        "date": "2024-12-28T12:47:59",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 60.2
+    },
+    {
+        "id": "VISIT-1215",
+        "pet_id": "PET-1322",
+        "clinic_id": "CLINIC-1268",
+        "doctor_id": "DOC-1447",
+        "date": "2026-08-08T16:07:21",
+        "notes": "Dental prophylaxis performed under general anesthesia. Extracted two fractured premolars. Post-op recovery uneventful.",
+        "weight_lbs": 40.4
+    },
+    {
+        "id": "VISIT-1216",
+        "pet_id": "PET-1173",
+        "clinic_id": "CLINIC-1025",
+        "doctor_id": "DOC-1214",
+        "date": "2024-09-19T04:02:15",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 69.3
+    },
+    {
+        "id": "VISIT-1217",
+        "pet_id": "PET-1361",
+        "clinic_id": "CLINIC-1494",
+        "doctor_id": "DOC-1391",
+        "date": "2025-04-28T18:46:52",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 47.2
+    },
+    {
+        "id": "VISIT-1218",
+        "pet_id": "PET-1060",
+        "clinic_id": "CLINIC-1228",
+        "doctor_id": "DOC-1323",
+        "date": "2025-10-29T02:38:44",
+        "notes": "Patient presents with tachypnea and exercise intolerance. Thoracic radiographs show mild cardiomegaly and pulmonary edema.",
+        "weight_lbs": 51.4
+    },
+    {
+        "id": "VISIT-1219",
+        "pet_id": "PET-1113",
+        "clinic_id": "CLINIC-1323",
+        "doctor_id": "DOC-1046",
+        "date": "2026-08-07T11:57:39",
+        "notes": "Dental prophylaxis performed under general anesthesia. Extracted two fractured premolars. Post-op recovery uneventful.",
+        "weight_lbs": 25.8
+    },
+    {
+        "id": "VISIT-1220",
+        "pet_id": "PET-1395",
+        "clinic_id": "CLINIC-1416",
+        "doctor_id": "DOC-1417",
+        "date": "2026-06-17T15:36:51",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 25.5
+    },
+    {
+        "id": "VISIT-1221",
+        "pet_id": "PET-1049",
+        "clinic_id": "CLINIC-1305",
+        "doctor_id": "DOC-1314",
+        "date": "2026-02-10T03:19:27",
+        "notes": "Patient presents with lethargy and anorexia. CBC/Chem panel shows elevated ALT and ALP. Recommended abdominal ultrasound.",
+        "weight_lbs": 7.2
+    },
+    {
+        "id": "VISIT-1222",
+        "pet_id": "PET-1367",
+        "clinic_id": "CLINIC-1206",
+        "doctor_id": "DOC-1451",
+        "date": "2026-01-16T02:20:11",
+        "notes": "Patient presents with tachypnea and exercise intolerance. Thoracic radiographs show mild cardiomegaly and pulmonary edema.",
+        "weight_lbs": 36.5
+    },
+    {
+        "id": "VISIT-1223",
+        "pet_id": "PET-1158",
+        "clinic_id": "CLINIC-1329",
+        "doctor_id": "DOC-1294",
+        "date": "2025-01-01T02:22:42",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 8.8
+    },
+    {
+        "id": "VISIT-1224",
+        "pet_id": "PET-1288",
+        "clinic_id": "CLINIC-1454",
+        "doctor_id": "DOC-1410",
+        "date": "2024-09-25T08:38:03",
+        "notes": "Patient presents with tachypnea and exercise intolerance. Thoracic radiographs show mild cardiomegaly and pulmonary edema.",
+        "weight_lbs": 45.6
+    },
+    {
+        "id": "VISIT-1225",
+        "pet_id": "PET-1443",
+        "clinic_id": "CLINIC-1311",
+        "doctor_id": "DOC-1039",
+        "date": "2024-08-27T10:09:30",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 38.7
+    },
+    {
+        "id": "VISIT-1226",
+        "pet_id": "PET-1087",
+        "clinic_id": "CLINIC-1265",
+        "doctor_id": "DOC-1149",
+        "date": "2025-12-11T20:33:40",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 42.2
+    },
+    {
+        "id": "VISIT-1227",
+        "pet_id": "PET-1248",
+        "clinic_id": "CLINIC-1156",
+        "doctor_id": "DOC-1199",
+        "date": "2026-03-06T18:36:30",
+        "notes": "Patient presents with tachypnea and exercise intolerance. Thoracic radiographs show mild cardiomegaly and pulmonary edema.",
+        "weight_lbs": 50.8
+    },
+    {
+        "id": "VISIT-1228",
+        "pet_id": "PET-1115",
+        "clinic_id": "CLINIC-1059",
+        "doctor_id": "DOC-1033",
+        "date": "2025-02-17T08:51:52",
+        "notes": "Dental prophylaxis performed under general anesthesia. Extracted two fractured premolars. Post-op recovery uneventful.",
+        "weight_lbs": 65.8
+    },
+    {
+        "id": "VISIT-1229",
+        "pet_id": "PET-1068",
+        "clinic_id": "CLINIC-1111",
+        "doctor_id": "DOC-1083",
+        "date": "2024-09-09T00:00:07",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 18.7
+    },
+    {
+        "id": "VISIT-1230",
+        "pet_id": "PET-1212",
+        "clinic_id": "CLINIC-1326",
+        "doctor_id": "DOC-1325",
+        "date": "2025-04-05T05:20:16",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 19.0
+    },
+    {
+        "id": "VISIT-1231",
+        "pet_id": "PET-1307",
+        "clinic_id": "CLINIC-1197",
+        "doctor_id": "DOC-1309",
+        "date": "2026-07-05T11:37:30",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 72.8
+    },
+    {
+        "id": "VISIT-1232",
+        "pet_id": "PET-1296",
+        "clinic_id": "CLINIC-1156",
+        "doctor_id": "DOC-1462",
+        "date": "2024-08-13T14:51:05",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 55.1
+    },
+    {
+        "id": "VISIT-1233",
+        "pet_id": "PET-1041",
+        "clinic_id": "CLINIC-1084",
+        "doctor_id": "DOC-1152",
+        "date": "2025-03-27T21:20:02",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 47.0
+    },
+    {
+        "id": "VISIT-1234",
+        "pet_id": "PET-1136",
+        "clinic_id": "CLINIC-1233",
+        "doctor_id": "DOC-1390",
+        "date": "2025-02-15T21:05:06",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 18.6
+    },
+    {
+        "id": "VISIT-1235",
+        "pet_id": "PET-1305",
+        "clinic_id": "CLINIC-1225",
+        "doctor_id": "DOC-1072",
+        "date": "2025-11-23T02:09:30",
+        "notes": "Dental prophylaxis performed under general anesthesia. Extracted two fractured premolars. Post-op recovery uneventful.",
+        "weight_lbs": 39.3
+    },
+    {
+        "id": "VISIT-1236",
+        "pet_id": "PET-1073",
+        "clinic_id": "CLINIC-1269",
+        "doctor_id": "DOC-1439",
+        "date": "2025-08-27T04:29:44",
+        "notes": "Patient exhibits tenesmus and hematochezia. Rectal exam reveals enlarged, symmetrical prostate. Advised castration.",
+        "weight_lbs": 52.9
+    },
+    {
+        "id": "VISIT-1237",
+        "pet_id": "PET-1370",
+        "clinic_id": "CLINIC-1013",
+        "doctor_id": "DOC-1470",
+        "date": "2026-02-21T17:08:34",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 44.8
+    },
+    {
+        "id": "VISIT-1238",
+        "pet_id": "PET-1421",
+        "clinic_id": "CLINIC-1145",
+        "doctor_id": "DOC-1296",
+        "date": "2026-03-23T23:37:12",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 10.8
+    },
+    {
+        "id": "VISIT-1239",
+        "pet_id": "PET-1309",
+        "clinic_id": "CLINIC-1212",
+        "doctor_id": "DOC-1305",
+        "date": "2024-08-26T04:15:59",
+        "notes": "Patient presents with tachypnea and exercise intolerance. Thoracic radiographs show mild cardiomegaly and pulmonary edema.",
+        "weight_lbs": 14.9
+    },
+    {
+        "id": "VISIT-1240",
+        "pet_id": "PET-1184",
+        "clinic_id": "CLINIC-1457",
+        "doctor_id": "DOC-1291",
+        "date": "2025-04-27T11:21:15",
+        "notes": "Ocular discharge and blepharospasm noted. Fluorescein stain positive for superficial corneal ulcer OS. Prescribed topical ophthalmic antibiotics.",
+        "weight_lbs": 71.4
+    },
+    {
+        "id": "VISIT-1241",
+        "pet_id": "PET-1377",
+        "clinic_id": "CLINIC-1219",
+        "doctor_id": "DOC-1370",
+        "date": "2024-11-07T23:13:44",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 53.0
+    },
+    {
+        "id": "VISIT-1242",
+        "pet_id": "PET-1235",
+        "clinic_id": "CLINIC-1151",
+        "doctor_id": "DOC-1329",
+        "date": "2025-12-25T06:15:10",
+        "notes": "Patient presents with tachypnea and exercise intolerance. Thoracic radiographs show mild cardiomegaly and pulmonary edema.",
+        "weight_lbs": 44.1
+    },
+    {
+        "id": "VISIT-1243",
+        "pet_id": "PET-1462",
+        "clinic_id": "CLINIC-1216",
+        "doctor_id": "DOC-1081",
+        "date": "2026-04-26T01:05:10",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 60.7
+    },
+    {
+        "id": "VISIT-1244",
+        "pet_id": "PET-1036",
+        "clinic_id": "CLINIC-1279",
+        "doctor_id": "DOC-1263",
+        "date": "2025-03-04T21:26:25",
+        "notes": "Orthopedic exam reveals crepitus and decreased range of motion in bilateral coxofemoral joints. Radiographs confirm osteoarthritis.",
+        "weight_lbs": 27.7
+    },
+    {
+        "id": "VISIT-1245",
+        "pet_id": "PET-1160",
+        "clinic_id": "CLINIC-1294",
+        "doctor_id": "DOC-1406",
+        "date": "2025-04-29T09:21:59",
+        "notes": "Generalized lymphadenopathy noted on physical exam. Fine needle aspirate of popliteal lymph node submitted for cytology.",
+        "weight_lbs": 20.7
+    },
+    {
+        "id": "VISIT-1246",
+        "pet_id": "PET-1010",
+        "clinic_id": "CLINIC-1043",
+        "doctor_id": "DOC-1100",
+        "date": "2025-06-27T08:34:00",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 28.0
+    },
+    {
+        "id": "VISIT-1247",
+        "pet_id": "PET-1216",
+        "clinic_id": "CLINIC-1469",
+        "doctor_id": "DOC-1307",
+        "date": "2026-08-04T19:28:18",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 45.3
+    },
+    {
+        "id": "VISIT-1248",
+        "pet_id": "PET-1497",
+        "clinic_id": "CLINIC-1182",
+        "doctor_id": "DOC-1061",
+        "date": "2026-01-22T09:34:02",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 14.1
+    },
+    {
+        "id": "VISIT-1249",
+        "pet_id": "PET-1343",
+        "clinic_id": "CLINIC-1418",
+        "doctor_id": "DOC-1359",
+        "date": "2026-03-13T19:53:42",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 29.4
+    },
+    {
+        "id": "VISIT-1250",
+        "pet_id": "PET-1421",
+        "clinic_id": "CLINIC-1366",
+        "doctor_id": "DOC-1397",
+        "date": "2026-07-31T21:02:25",
+        "notes": "Ocular discharge and blepharospasm noted. Fluorescein stain positive for superficial corneal ulcer OS. Prescribed topical ophthalmic antibiotics.",
+        "weight_lbs": 25.9
+    },
+    {
+        "id": "VISIT-1251",
+        "pet_id": "PET-1162",
+        "clinic_id": "CLINIC-1385",
+        "doctor_id": "DOC-1077",
+        "date": "2026-07-17T00:31:24",
+        "notes": "Patient presents with lethargy and anorexia. CBC/Chem panel shows elevated ALT and ALP. Recommended abdominal ultrasound.",
+        "weight_lbs": 44.8
+    },
+    {
+        "id": "VISIT-1252",
+        "pet_id": "PET-1060",
+        "clinic_id": "CLINIC-1058",
+        "doctor_id": "DOC-1173",
+        "date": "2025-06-25T08:36:25",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 39.1
+    },
+    {
+        "id": "VISIT-1253",
+        "pet_id": "PET-1427",
+        "clinic_id": "CLINIC-1214",
+        "doctor_id": "DOC-1433",
+        "date": "2024-08-18T03:49:03",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 8.3
+    },
+    {
+        "id": "VISIT-1254",
+        "pet_id": "PET-1418",
+        "clinic_id": "CLINIC-1403",
+        "doctor_id": "DOC-1432",
+        "date": "2025-07-02T05:12:02",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 33.8
+    },
+    {
+        "id": "VISIT-1255",
+        "pet_id": "PET-1234",
+        "clinic_id": "CLINIC-1184",
+        "doctor_id": "DOC-1240",
+        "date": "2025-03-01T15:32:53",
+        "notes": "Patient exhibits tenesmus and hematochezia. Rectal exam reveals enlarged, symmetrical prostate. Advised castration.",
+        "weight_lbs": 65.3
+    },
+    {
+        "id": "VISIT-1256",
+        "pet_id": "PET-1085",
+        "clinic_id": "CLINIC-1116",
+        "doctor_id": "DOC-1292",
+        "date": "2026-01-30T21:07:04",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 36.3
+    },
+    {
+        "id": "VISIT-1257",
+        "pet_id": "PET-1101",
+        "clinic_id": "CLINIC-1429",
+        "doctor_id": "DOC-1312",
+        "date": "2026-06-24T17:45:41",
+        "notes": "Patient presents with lethargy and anorexia. CBC/Chem panel shows elevated ALT and ALP. Recommended abdominal ultrasound.",
+        "weight_lbs": 23.2
+    },
+    {
+        "id": "VISIT-1258",
+        "pet_id": "PET-1141",
         "clinic_id": "CLINIC-1002",
+        "doctor_id": "DOC-1274",
+        "date": "2024-08-17T09:39:46",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 9.6
+    },
+    {
+        "id": "VISIT-1259",
+        "pet_id": "PET-1056",
+        "clinic_id": "CLINIC-1433",
+        "doctor_id": "DOC-1030",
+        "date": "2025-03-11T10:04:33",
+        "notes": "Patient presents with lethargy and anorexia. CBC/Chem panel shows elevated ALT and ALP. Recommended abdominal ultrasound.",
+        "weight_lbs": 39.6
+    },
+    {
+        "id": "VISIT-1260",
+        "pet_id": "PET-1464",
+        "clinic_id": "CLINIC-1492",
+        "doctor_id": "DOC-1392",
+        "date": "2026-05-28T13:13:41",
+        "notes": "Patient presents with tachypnea and exercise intolerance. Thoracic radiographs show mild cardiomegaly and pulmonary edema.",
+        "weight_lbs": 52.0
+    },
+    {
+        "id": "VISIT-1261",
+        "pet_id": "PET-1493",
+        "clinic_id": "CLINIC-1319",
+        "doctor_id": "DOC-1171",
+        "date": "2025-01-27T05:01:25",
+        "notes": "Ocular discharge and blepharospasm noted. Fluorescein stain positive for superficial corneal ulcer OS. Prescribed topical ophthalmic antibiotics.",
+        "weight_lbs": 14.7
+    },
+    {
+        "id": "VISIT-1262",
+        "pet_id": "PET-1401",
+        "clinic_id": "CLINIC-1263",
+        "doctor_id": "DOC-1154",
+        "date": "2025-11-08T07:31:05",
+        "notes": "Patient exhibits tenesmus and hematochezia. Rectal exam reveals enlarged, symmetrical prostate. Advised castration.",
+        "weight_lbs": 61.4
+    },
+    {
+        "id": "VISIT-1263",
+        "pet_id": "PET-1338",
+        "clinic_id": "CLINIC-1084",
+        "doctor_id": "DOC-1496",
+        "date": "2024-09-24T04:50:15",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 60.5
+    },
+    {
+        "id": "VISIT-1264",
+        "pet_id": "PET-1089",
+        "clinic_id": "CLINIC-1371",
+        "doctor_id": "DOC-1206",
+        "date": "2026-08-06T20:44:23",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 56.6
+    },
+    {
+        "id": "VISIT-1265",
+        "pet_id": "PET-1114",
+        "clinic_id": "CLINIC-1126",
+        "doctor_id": "DOC-1174",
+        "date": "2024-12-12T05:49:48",
+        "notes": "Patient presents with lethargy and anorexia. CBC/Chem panel shows elevated ALT and ALP. Recommended abdominal ultrasound.",
+        "weight_lbs": 53.8
+    },
+    {
+        "id": "VISIT-1266",
+        "pet_id": "PET-1267",
+        "clinic_id": "CLINIC-1398",
+        "doctor_id": "DOC-1113",
+        "date": "2025-12-05T00:05:37",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 76.6
+    },
+    {
+        "id": "VISIT-1267",
+        "pet_id": "PET-1218",
+        "clinic_id": "CLINIC-1261",
+        "doctor_id": "DOC-1216",
+        "date": "2026-08-04T08:34:57",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 66.2
+    },
+    {
+        "id": "VISIT-1268",
+        "pet_id": "PET-1436",
+        "clinic_id": "CLINIC-1113",
+        "doctor_id": "DOC-1111",
+        "date": "2026-05-15T07:47:42",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 71.9
+    },
+    {
+        "id": "VISIT-1269",
+        "pet_id": "PET-1278",
+        "clinic_id": "CLINIC-1154",
+        "doctor_id": "DOC-1327",
+        "date": "2025-10-12T18:57:50",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 53.4
+    },
+    {
+        "id": "VISIT-1270",
+        "pet_id": "PET-1387",
+        "clinic_id": "CLINIC-1261",
+        "doctor_id": "DOC-1050",
+        "date": "2025-05-04T19:31:24",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 58.4
+    },
+    {
+        "id": "VISIT-1271",
+        "pet_id": "PET-1171",
+        "clinic_id": "CLINIC-1279",
+        "doctor_id": "DOC-1263",
+        "date": "2024-12-23T04:19:21",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 35.4
+    },
+    {
+        "id": "VISIT-1272",
+        "pet_id": "PET-1185",
+        "clinic_id": "CLINIC-1294",
+        "doctor_id": "DOC-1001",
+        "date": "2026-05-20T20:28:08",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 14.1
+    },
+    {
+        "id": "VISIT-1273",
+        "pet_id": "PET-1319",
+        "clinic_id": "CLINIC-1045",
+        "doctor_id": "DOC-1261",
+        "date": "2026-01-30T18:21:20",
+        "notes": "Routine wellness exam. Auscultation reveals a grade 2/6 systolic heart murmur. Advise echocardiogram.",
+        "weight_lbs": 70.7
+    },
+    {
+        "id": "VISIT-1274",
+        "pet_id": "PET-1031",
+        "clinic_id": "CLINIC-1353",
+        "doctor_id": "DOC-1234",
+        "date": "2026-07-06T09:44:51",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 29.5
+    },
+    {
+        "id": "VISIT-1275",
+        "pet_id": "PET-1192",
+        "clinic_id": "CLINIC-1386",
+        "doctor_id": "DOC-1279",
+        "date": "2025-05-01T18:08:02",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 61.5
+    },
+    {
+        "id": "VISIT-1276",
+        "pet_id": "PET-1290",
+        "clinic_id": "CLINIC-1495",
+        "doctor_id": "DOC-1132",
+        "date": "2025-01-09T19:13:07",
+        "notes": "Dental prophylaxis performed under general anesthesia. Extracted two fractured premolars. Post-op recovery uneventful.",
+        "weight_lbs": 25.0
+    },
+    {
+        "id": "VISIT-1277",
+        "pet_id": "PET-1080",
+        "clinic_id": "CLINIC-1412",
+        "doctor_id": "DOC-1007",
+        "date": "2026-04-08T23:37:28",
+        "notes": "Routine wellness exam. Auscultation reveals a grade 2/6 systolic heart murmur. Advise echocardiogram.",
+        "weight_lbs": 78.2
+    },
+    {
+        "id": "VISIT-1278",
+        "pet_id": "PET-1242",
+        "clinic_id": "CLINIC-1449",
+        "doctor_id": "DOC-1117",
+        "date": "2026-04-21T20:34:47",
+        "notes": "Patient presents with lethargy and anorexia. CBC/Chem panel shows elevated ALT and ALP. Recommended abdominal ultrasound.",
+        "weight_lbs": 11.0
+    },
+    {
+        "id": "VISIT-1279",
+        "pet_id": "PET-1320",
+        "clinic_id": "CLINIC-1272",
+        "doctor_id": "DOC-1364",
+        "date": "2026-01-07T07:50:43",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 63.0
+    },
+    {
+        "id": "VISIT-1280",
+        "pet_id": "PET-1100",
+        "clinic_id": "CLINIC-1197",
+        "doctor_id": "DOC-1309",
+        "date": "2024-10-14T15:05:58",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 34.0
+    },
+    {
+        "id": "VISIT-1281",
+        "pet_id": "PET-1234",
+        "clinic_id": "CLINIC-1390",
         "doctor_id": "DOC-1002",
-        "date": "2026-05-22T00:19:12.488196",
-        "notes": "Routine checkup, everything looks good.",
+        "date": "2025-03-11T15:08:59",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 23.6
+    },
+    {
+        "id": "VISIT-1282",
+        "pet_id": "PET-1141",
+        "clinic_id": "CLINIC-1369",
+        "doctor_id": "DOC-1372",
+        "date": "2025-01-28T06:30:40",
+        "notes": "Patient exhibits tenesmus and hematochezia. Rectal exam reveals enlarged, symmetrical prostate. Advised castration.",
+        "weight_lbs": 53.4
+    },
+    {
+        "id": "VISIT-1283",
+        "pet_id": "PET-1238",
+        "clinic_id": "CLINIC-1470",
+        "doctor_id": "DOC-1122",
+        "date": "2026-04-18T05:54:10",
+        "notes": "Generalized lymphadenopathy noted on physical exam. Fine needle aspirate of popliteal lymph node submitted for cytology.",
+        "weight_lbs": 59.1
+    },
+    {
+        "id": "VISIT-1284",
+        "pet_id": "PET-1365",
+        "clinic_id": "CLINIC-1294",
+        "doctor_id": "DOC-1001",
+        "date": "2024-11-11T01:22:52",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 66.2
+    },
+    {
+        "id": "VISIT-1285",
+        "pet_id": "PET-1095",
+        "clinic_id": "CLINIC-1172",
+        "doctor_id": "DOC-1247",
+        "date": "2026-03-14T13:22:57",
+        "notes": "Routine wellness exam. Auscultation reveals a grade 2/6 systolic heart murmur. Advise echocardiogram.",
+        "weight_lbs": 35.5
+    },
+    {
+        "id": "VISIT-1286",
+        "pet_id": "PET-1415",
+        "clinic_id": "CLINIC-1107",
+        "doctor_id": "DOC-1189",
+        "date": "2026-08-04T02:48:42",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 73.1
+    },
+    {
+        "id": "VISIT-1287",
+        "pet_id": "PET-1281",
+        "clinic_id": "CLINIC-1369",
+        "doctor_id": "DOC-1074",
+        "date": "2026-02-20T11:47:32",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 67.7
+    },
+    {
+        "id": "VISIT-1288",
+        "pet_id": "PET-1261",
+        "clinic_id": "CLINIC-1100",
+        "doctor_id": "DOC-1121",
+        "date": "2025-01-20T23:14:57",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 15.3
+    },
+    {
+        "id": "VISIT-1289",
+        "pet_id": "PET-1417",
+        "clinic_id": "CLINIC-1378",
+        "doctor_id": "DOC-1412",
+        "date": "2025-03-28T09:14:05",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 42.9
+    },
+    {
+        "id": "VISIT-1290",
+        "pet_id": "PET-1174",
+        "clinic_id": "CLINIC-1385",
+        "doctor_id": "DOC-1077",
+        "date": "2026-05-12T16:03:21",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 6.6
+    },
+    {
+        "id": "VISIT-1291",
+        "pet_id": "PET-1072",
+        "clinic_id": "CLINIC-1102",
+        "doctor_id": "DOC-1107",
+        "date": "2024-09-08T12:26:48",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 66.3
+    },
+    {
+        "id": "VISIT-1292",
+        "pet_id": "PET-1228",
+        "clinic_id": "CLINIC-1278",
+        "doctor_id": "DOC-1087",
+        "date": "2025-06-17T16:40:44",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 50.9
+    },
+    {
+        "id": "VISIT-1293",
+        "pet_id": "PET-1254",
+        "clinic_id": "CLINIC-1423",
+        "doctor_id": "DOC-1444",
+        "date": "2026-02-03T12:57:11",
+        "notes": "Patient exhibits tenesmus and hematochezia. Rectal exam reveals enlarged, symmetrical prostate. Advised castration.",
+        "weight_lbs": 53.5
+    },
+    {
+        "id": "VISIT-1294",
+        "pet_id": "PET-1080",
+        "clinic_id": "CLINIC-1185",
+        "doctor_id": "DOC-1431",
+        "date": "2025-03-26T15:50:23",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 9.8
+    },
+    {
+        "id": "VISIT-1295",
+        "pet_id": "PET-1166",
+        "clinic_id": "CLINIC-1394",
+        "doctor_id": "DOC-1363",
+        "date": "2025-08-14T21:28:20",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 44.6
+    },
+    {
+        "id": "VISIT-1296",
+        "pet_id": "PET-1480",
+        "clinic_id": "CLINIC-1334",
+        "doctor_id": "DOC-1463",
+        "date": "2025-10-14T18:43:13",
+        "notes": "Ocular discharge and blepharospasm noted. Fluorescein stain positive for superficial corneal ulcer OS. Prescribed topical ophthalmic antibiotics.",
+        "weight_lbs": 7.3
+    },
+    {
+        "id": "VISIT-1297",
+        "pet_id": "PET-1396",
+        "clinic_id": "CLINIC-1049",
+        "doctor_id": "DOC-1066",
+        "date": "2025-11-28T06:47:36",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 79.3
+    },
+    {
+        "id": "VISIT-1298",
+        "pet_id": "PET-1155",
+        "clinic_id": "CLINIC-1496",
+        "doctor_id": "DOC-1488",
+        "date": "2026-08-02T21:25:51",
+        "notes": "Generalized lymphadenopathy noted on physical exam. Fine needle aspirate of popliteal lymph node submitted for cytology.",
+        "weight_lbs": 9.5
+    },
+    {
+        "id": "VISIT-1299",
+        "pet_id": "PET-1468",
+        "clinic_id": "CLINIC-1348",
+        "doctor_id": "DOC-1135",
+        "date": "2025-12-06T23:28:05",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 60.3
+    },
+    {
+        "id": "VISIT-1300",
+        "pet_id": "PET-1001",
+        "clinic_id": "CLINIC-1237",
+        "doctor_id": "DOC-1099",
+        "date": "2025-11-27T10:07:02",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 12.3
+    },
+    {
+        "id": "VISIT-1301",
+        "pet_id": "PET-1249",
+        "clinic_id": "CLINIC-1465",
+        "doctor_id": "DOC-1115",
+        "date": "2026-04-25T16:07:29",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 43.8
+    },
+    {
+        "id": "VISIT-1302",
+        "pet_id": "PET-1135",
+        "clinic_id": "CLINIC-1260",
+        "doctor_id": "DOC-1075",
+        "date": "2026-04-12T12:22:46",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 17.2
+    },
+    {
+        "id": "VISIT-1303",
+        "pet_id": "PET-1110",
+        "clinic_id": "CLINIC-1500",
+        "doctor_id": "DOC-1436",
+        "date": "2024-12-29T22:49:31",
+        "notes": "Patient presents with lethargy and anorexia. CBC/Chem panel shows elevated ALT and ALP. Recommended abdominal ultrasound.",
+        "weight_lbs": 23.8
+    },
+    {
+        "id": "VISIT-1304",
+        "pet_id": "PET-1135",
+        "clinic_id": "CLINIC-1329",
+        "doctor_id": "DOC-1294",
+        "date": "2026-05-02T00:41:23",
+        "notes": "Orthopedic exam reveals crepitus and decreased range of motion in bilateral coxofemoral joints. Radiographs confirm osteoarthritis.",
+        "weight_lbs": 76.7
+    },
+    {
+        "id": "VISIT-1305",
+        "pet_id": "PET-1171",
+        "clinic_id": "CLINIC-1294",
+        "doctor_id": "DOC-1001",
+        "date": "2025-09-21T20:20:37",
+        "notes": "Orthopedic exam reveals crepitus and decreased range of motion in bilateral coxofemoral joints. Radiographs confirm osteoarthritis.",
+        "weight_lbs": 29.8
+    },
+    {
+        "id": "VISIT-1306",
+        "pet_id": "PET-1079",
+        "clinic_id": "CLINIC-1227",
+        "doctor_id": "DOC-1144",
+        "date": "2026-02-12T00:08:31",
+        "notes": "Generalized lymphadenopathy noted on physical exam. Fine needle aspirate of popliteal lymph node submitted for cytology.",
+        "weight_lbs": 74.4
+    },
+    {
+        "id": "VISIT-1307",
+        "pet_id": "PET-1220",
+        "clinic_id": "CLINIC-1225",
+        "doctor_id": "DOC-1013",
+        "date": "2025-12-22T02:09:55",
+        "notes": "Patient presents with lethargy and anorexia. CBC/Chem panel shows elevated ALT and ALP. Recommended abdominal ultrasound.",
+        "weight_lbs": 74.2
+    },
+    {
+        "id": "VISIT-1308",
+        "pet_id": "PET-1176",
+        "clinic_id": "CLINIC-1394",
+        "doctor_id": "DOC-1363",
+        "date": "2024-11-10T23:38:03",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 19.8
+    },
+    {
+        "id": "VISIT-1309",
+        "pet_id": "PET-1293",
+        "clinic_id": "CLINIC-1236",
+        "doctor_id": "DOC-1407",
+        "date": "2025-07-08T19:57:08",
+        "notes": "Patient presents with lethargy and anorexia. CBC/Chem panel shows elevated ALT and ALP. Recommended abdominal ultrasound.",
+        "weight_lbs": 58.7
+    },
+    {
+        "id": "VISIT-1310",
+        "pet_id": "PET-1068",
+        "clinic_id": "CLINIC-1155",
+        "doctor_id": "DOC-1085",
+        "date": "2024-10-04T00:14:07",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 40.1
+    },
+    {
+        "id": "VISIT-1311",
+        "pet_id": "PET-1402",
+        "clinic_id": "CLINIC-1101",
+        "doctor_id": "DOC-1188",
+        "date": "2025-08-06T15:42:49",
+        "notes": "Orthopedic exam reveals crepitus and decreased range of motion in bilateral coxofemoral joints. Radiographs confirm osteoarthritis.",
+        "weight_lbs": 53.8
+    },
+    {
+        "id": "VISIT-1312",
+        "pet_id": "PET-1383",
+        "clinic_id": "CLINIC-1016",
+        "doctor_id": "DOC-1019",
+        "date": "2024-08-31T16:42:35",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 16.4
+    },
+    {
+        "id": "VISIT-1313",
+        "pet_id": "PET-1371",
+        "clinic_id": "CLINIC-1072",
+        "doctor_id": "DOC-1116",
+        "date": "2024-10-31T21:49:38",
+        "notes": "Generalized lymphadenopathy noted on physical exam. Fine needle aspirate of popliteal lymph node submitted for cytology.",
+        "weight_lbs": 37.7
+    },
+    {
+        "id": "VISIT-1314",
+        "pet_id": "PET-1106",
+        "clinic_id": "CLINIC-1080",
+        "doctor_id": "DOC-1027",
+        "date": "2025-04-07T22:32:19",
+        "notes": "Ocular discharge and blepharospasm noted. Fluorescein stain positive for superficial corneal ulcer OS. Prescribed topical ophthalmic antibiotics.",
+        "weight_lbs": 36.6
+    },
+    {
+        "id": "VISIT-1315",
+        "pet_id": "PET-1413",
+        "clinic_id": "CLINIC-1352",
+        "doctor_id": "DOC-1142",
+        "date": "2025-06-11T22:06:14",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 6.8
+    },
+    {
+        "id": "VISIT-1316",
+        "pet_id": "PET-1417",
+        "clinic_id": "CLINIC-1325",
+        "doctor_id": "DOC-1476",
+        "date": "2025-05-04T17:33:07",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 48.6
+    },
+    {
+        "id": "VISIT-1317",
+        "pet_id": "PET-1046",
+        "clinic_id": "CLINIC-1032",
+        "doctor_id": "DOC-1455",
+        "date": "2025-04-14T22:08:30",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 75.8
+    },
+    {
+        "id": "VISIT-1318",
+        "pet_id": "PET-1285",
+        "clinic_id": "CLINIC-1457",
+        "doctor_id": "DOC-1291",
+        "date": "2025-01-24T21:08:01",
+        "notes": "Patient presents with tachypnea and exercise intolerance. Thoracic radiographs show mild cardiomegaly and pulmonary edema.",
+        "weight_lbs": 13.0
+    },
+    {
+        "id": "VISIT-1319",
+        "pet_id": "PET-1349",
+        "clinic_id": "CLINIC-1199",
+        "doctor_id": "DOC-1252",
+        "date": "2024-10-29T18:03:02",
+        "notes": "Generalized lymphadenopathy noted on physical exam. Fine needle aspirate of popliteal lymph node submitted for cytology.",
+        "weight_lbs": 57.5
+    },
+    {
+        "id": "VISIT-1320",
+        "pet_id": "PET-1043",
+        "clinic_id": "CLINIC-1302",
+        "doctor_id": "DOC-1106",
+        "date": "2026-02-26T13:40:36",
+        "notes": "Generalized lymphadenopathy noted on physical exam. Fine needle aspirate of popliteal lymph node submitted for cytology.",
+        "weight_lbs": 72.9
+    },
+    {
+        "id": "VISIT-1321",
+        "pet_id": "PET-1300",
+        "clinic_id": "CLINIC-1115",
+        "doctor_id": "DOC-1191",
+        "date": "2026-04-25T09:14:44",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 43.3
+    },
+    {
+        "id": "VISIT-1322",
+        "pet_id": "PET-1254",
+        "clinic_id": "CLINIC-1420",
+        "doctor_id": "DOC-1368",
+        "date": "2026-03-15T17:56:15",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 60.5
+    },
+    {
+        "id": "VISIT-1323",
+        "pet_id": "PET-1235",
+        "clinic_id": "CLINIC-1103",
+        "doctor_id": "DOC-1223",
+        "date": "2025-01-04T05:13:51",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 24.7
+    },
+    {
+        "id": "VISIT-1324",
+        "pet_id": "PET-1150",
+        "clinic_id": "CLINIC-1131",
+        "doctor_id": "DOC-1350",
+        "date": "2025-10-18T10:55:10",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 76.6
+    },
+    {
+        "id": "VISIT-1325",
+        "pet_id": "PET-1327",
+        "clinic_id": "CLINIC-1327",
+        "doctor_id": "DOC-1474",
+        "date": "2025-02-24T03:15:48",
+        "notes": "Generalized lymphadenopathy noted on physical exam. Fine needle aspirate of popliteal lymph node submitted for cytology.",
+        "weight_lbs": 47.6
+    },
+    {
+        "id": "VISIT-1326",
+        "pet_id": "PET-1008",
+        "clinic_id": "CLINIC-1275",
+        "doctor_id": "DOC-1333",
+        "date": "2025-02-12T05:15:52",
+        "notes": "Dental prophylaxis performed under general anesthesia. Extracted two fractured premolars. Post-op recovery uneventful.",
+        "weight_lbs": 57.2
+    },
+    {
+        "id": "VISIT-1327",
+        "pet_id": "PET-1205",
+        "clinic_id": "CLINIC-1495",
+        "doctor_id": "DOC-1132",
+        "date": "2024-11-21T00:13:03",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 70.4
+    },
+    {
+        "id": "VISIT-1328",
+        "pet_id": "PET-1187",
+        "clinic_id": "CLINIC-1361",
+        "doctor_id": "DOC-1079",
+        "date": "2026-04-11T02:10:44",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 29.7
+    },
+    {
+        "id": "VISIT-1329",
+        "pet_id": "PET-1180",
+        "clinic_id": "CLINIC-1225",
+        "doctor_id": "DOC-1297",
+        "date": "2025-03-26T11:31:59",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 60.9
+    },
+    {
+        "id": "VISIT-1330",
+        "pet_id": "PET-1288",
+        "clinic_id": "CLINIC-1169",
+        "doctor_id": "DOC-1211",
+        "date": "2025-08-04T11:27:20",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 19.1
+    },
+    {
+        "id": "VISIT-1331",
+        "pet_id": "PET-1471",
+        "clinic_id": "CLINIC-1448",
+        "doctor_id": "DOC-1421",
+        "date": "2025-04-12T08:06:18",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 71.9
+    },
+    {
+        "id": "VISIT-1332",
+        "pet_id": "PET-1387",
+        "clinic_id": "CLINIC-1276",
+        "doctor_id": "DOC-1276",
+        "date": "2025-06-15T09:42:31",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 18.4
+    },
+    {
+        "id": "VISIT-1333",
+        "pet_id": "PET-1146",
+        "clinic_id": "CLINIC-1395",
+        "doctor_id": "DOC-1158",
+        "date": "2025-04-06T12:38:56",
+        "notes": "Routine wellness exam. Auscultation reveals a grade 2/6 systolic heart murmur. Advise echocardiogram.",
+        "weight_lbs": 46.0
+    },
+    {
+        "id": "VISIT-1334",
+        "pet_id": "PET-1292",
+        "clinic_id": "CLINIC-1014",
+        "doctor_id": "DOC-1248",
+        "date": "2025-04-16T18:35:47",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 62.9
+    },
+    {
+        "id": "VISIT-1335",
+        "pet_id": "PET-1448",
+        "clinic_id": "CLINIC-1225",
+        "doctor_id": "DOC-1297",
+        "date": "2026-03-21T12:56:23",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 16.9
+    },
+    {
+        "id": "VISIT-1336",
+        "pet_id": "PET-1224",
+        "clinic_id": "CLINIC-1272",
+        "doctor_id": "DOC-1469",
+        "date": "2025-05-02T21:28:38",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 62.4
+    },
+    {
+        "id": "VISIT-1337",
+        "pet_id": "PET-1137",
+        "clinic_id": "CLINIC-1465",
+        "doctor_id": "DOC-1115",
+        "date": "2025-05-07T01:34:49",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 51.4
+    },
+    {
+        "id": "VISIT-1338",
+        "pet_id": "PET-1098",
+        "clinic_id": "CLINIC-1364",
+        "doctor_id": "DOC-1103",
+        "date": "2025-09-23T06:22:46",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 54.6
+    },
+    {
+        "id": "VISIT-1339",
+        "pet_id": "PET-1027",
+        "clinic_id": "CLINIC-1371",
+        "doctor_id": "DOC-1206",
+        "date": "2024-12-02T08:26:01",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 53.5
+    },
+    {
+        "id": "VISIT-1340",
+        "pet_id": "PET-1383",
+        "clinic_id": "CLINIC-1168",
+        "doctor_id": "DOC-1388",
+        "date": "2025-10-31T20:25:40",
+        "notes": "Patient presents with tachypnea and exercise intolerance. Thoracic radiographs show mild cardiomegaly and pulmonary edema.",
+        "weight_lbs": 69.5
+    },
+    {
+        "id": "VISIT-1341",
+        "pet_id": "PET-1178",
+        "clinic_id": "CLINIC-1255",
+        "doctor_id": "DOC-1288",
+        "date": "2025-07-18T00:59:06",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 73.8
+    },
+    {
+        "id": "VISIT-1342",
+        "pet_id": "PET-1333",
+        "clinic_id": "CLINIC-1097",
+        "doctor_id": "DOC-1271",
+        "date": "2024-12-24T23:57:57",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 24.3
+    },
+    {
+        "id": "VISIT-1343",
+        "pet_id": "PET-1272",
+        "clinic_id": "CLINIC-1143",
+        "doctor_id": "DOC-1159",
+        "date": "2026-06-02T12:16:46",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 54.8
+    },
+    {
+        "id": "VISIT-1344",
+        "pet_id": "PET-1061",
+        "clinic_id": "CLINIC-1122",
+        "doctor_id": "DOC-1494",
+        "date": "2025-04-08T21:36:28",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 50.3
+    },
+    {
+        "id": "VISIT-1345",
+        "pet_id": "PET-1151",
+        "clinic_id": "CLINIC-1353",
+        "doctor_id": "DOC-1234",
+        "date": "2024-12-22T11:19:09",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 58.7
+    },
+    {
+        "id": "VISIT-1346",
+        "pet_id": "PET-1087",
+        "clinic_id": "CLINIC-1209",
+        "doctor_id": "DOC-1128",
+        "date": "2025-08-21T07:59:07",
+        "notes": "Routine wellness exam. Auscultation reveals a grade 2/6 systolic heart murmur. Advise echocardiogram.",
+        "weight_lbs": 61.8
+    },
+    {
+        "id": "VISIT-1347",
+        "pet_id": "PET-1076",
+        "clinic_id": "CLINIC-1216",
+        "doctor_id": "DOC-1081",
+        "date": "2026-04-01T01:04:42",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 68.0
+    },
+    {
+        "id": "VISIT-1348",
+        "pet_id": "PET-1016",
+        "clinic_id": "CLINIC-1490",
+        "doctor_id": "DOC-1482",
+        "date": "2024-12-26T21:35:24",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 33.6
+    },
+    {
+        "id": "VISIT-1349",
+        "pet_id": "PET-1249",
+        "clinic_id": "CLINIC-1097",
+        "doctor_id": "DOC-1086",
+        "date": "2025-12-13T18:42:55",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 19.5
+    },
+    {
+        "id": "VISIT-1350",
+        "pet_id": "PET-1035",
+        "clinic_id": "CLINIC-1474",
+        "doctor_id": "DOC-1056",
+        "date": "2025-03-18T21:32:27",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 11.9
+    },
+    {
+        "id": "VISIT-1351",
+        "pet_id": "PET-1114",
+        "clinic_id": "CLINIC-1261",
+        "doctor_id": "DOC-1484",
+        "date": "2024-09-12T13:05:10",
+        "notes": "Dental prophylaxis performed under general anesthesia. Extracted two fractured premolars. Post-op recovery uneventful.",
+        "weight_lbs": 67.9
+    },
+    {
+        "id": "VISIT-1352",
+        "pet_id": "PET-1117",
+        "clinic_id": "CLINIC-1309",
+        "doctor_id": "DOC-1381",
+        "date": "2026-01-27T16:44:35",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 36.7
+    },
+    {
+        "id": "VISIT-1353",
+        "pet_id": "PET-1129",
+        "clinic_id": "CLINIC-1203",
+        "doctor_id": "DOC-1093",
+        "date": "2025-10-07T23:41:05",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 10.9
+    },
+    {
+        "id": "VISIT-1354",
+        "pet_id": "PET-1468",
+        "clinic_id": "CLINIC-1032",
+        "doctor_id": "DOC-1207",
+        "date": "2026-05-27T00:10:21",
+        "notes": "Orthopedic exam reveals crepitus and decreased range of motion in bilateral coxofemoral joints. Radiographs confirm osteoarthritis.",
+        "weight_lbs": 20.2
+    },
+    {
+        "id": "VISIT-1355",
+        "pet_id": "PET-1460",
+        "clinic_id": "CLINIC-1275",
+        "doctor_id": "DOC-1333",
+        "date": "2025-02-15T22:42:53",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 59.7
+    },
+    {
+        "id": "VISIT-1356",
+        "pet_id": "PET-1309",
+        "clinic_id": "CLINIC-1101",
+        "doctor_id": "DOC-1188",
+        "date": "2024-09-03T15:35:10",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 66.3
+    },
+    {
+        "id": "VISIT-1357",
+        "pet_id": "PET-1287",
+        "clinic_id": "CLINIC-1244",
+        "doctor_id": "DOC-1123",
+        "date": "2024-11-10T03:50:01",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 63.6
+    },
+    {
+        "id": "VISIT-1358",
+        "pet_id": "PET-1325",
+        "clinic_id": "CLINIC-1164",
+        "doctor_id": "DOC-1238",
+        "date": "2025-03-22T11:03:48",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 45.9
+    },
+    {
+        "id": "VISIT-1359",
+        "pet_id": "PET-1311",
+        "clinic_id": "CLINIC-1352",
+        "doctor_id": "DOC-1142",
+        "date": "2026-02-14T03:41:16",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 6.8
+    },
+    {
+        "id": "VISIT-1360",
+        "pet_id": "PET-1015",
+        "clinic_id": "CLINIC-1002",
+        "doctor_id": "DOC-1274",
+        "date": "2025-04-30T01:44:18",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 35.7
+    },
+    {
+        "id": "VISIT-1361",
+        "pet_id": "PET-1476",
+        "clinic_id": "CLINIC-1368",
+        "doctor_id": "DOC-1138",
+        "date": "2025-01-16T01:25:50",
+        "notes": "Dental prophylaxis performed under general anesthesia. Extracted two fractured premolars. Post-op recovery uneventful.",
+        "weight_lbs": 38.3
+    },
+    {
+        "id": "VISIT-1362",
+        "pet_id": "PET-1302",
+        "clinic_id": "CLINIC-1143",
+        "doctor_id": "DOC-1382",
+        "date": "2026-02-27T20:01:24",
+        "notes": "Orthopedic exam reveals crepitus and decreased range of motion in bilateral coxofemoral joints. Radiographs confirm osteoarthritis.",
+        "weight_lbs": 67.5
+    },
+    {
+        "id": "VISIT-1363",
+        "pet_id": "PET-1219",
+        "clinic_id": "CLINIC-1244",
+        "doctor_id": "DOC-1473",
+        "date": "2024-10-04T06:26:13",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 22.8
+    },
+    {
+        "id": "VISIT-1364",
+        "pet_id": "PET-1159",
+        "clinic_id": "CLINIC-1088",
+        "doctor_id": "DOC-1367",
+        "date": "2026-04-12T01:13:51",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 73.9
+    },
+    {
+        "id": "VISIT-1365",
+        "pet_id": "PET-1123",
+        "clinic_id": "CLINIC-1044",
+        "doctor_id": "DOC-1097",
+        "date": "2024-11-23T16:49:40",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 74.6
+    },
+    {
+        "id": "VISIT-1366",
+        "pet_id": "PET-1465",
+        "clinic_id": "CLINIC-1080",
+        "doctor_id": "DOC-1027",
+        "date": "2026-01-24T09:49:56",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 32.3
+    },
+    {
+        "id": "VISIT-1367",
+        "pet_id": "PET-1324",
+        "clinic_id": "CLINIC-1145",
+        "doctor_id": "DOC-1296",
+        "date": "2025-09-01T23:58:04",
+        "notes": "Patient presents with tachypnea and exercise intolerance. Thoracic radiographs show mild cardiomegaly and pulmonary edema.",
+        "weight_lbs": 9.8
+    },
+    {
+        "id": "VISIT-1368",
+        "pet_id": "PET-1052",
+        "clinic_id": "CLINIC-1376",
+        "doctor_id": "DOC-1219",
+        "date": "2025-10-19T04:34:49",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 78.7
+    },
+    {
+        "id": "VISIT-1369",
+        "pet_id": "PET-1320",
+        "clinic_id": "CLINIC-1463",
+        "doctor_id": "DOC-1249",
+        "date": "2025-05-17T21:04:40",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 32.4
+    },
+    {
+        "id": "VISIT-1370",
+        "pet_id": "PET-1121",
+        "clinic_id": "CLINIC-1095",
+        "doctor_id": "DOC-1499",
+        "date": "2025-10-26T19:48:30",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 66.1
+    },
+    {
+        "id": "VISIT-1371",
+        "pet_id": "PET-1075",
+        "clinic_id": "CLINIC-1016",
+        "doctor_id": "DOC-1465",
+        "date": "2025-01-04T08:11:38",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 48.2
+    },
+    {
+        "id": "VISIT-1372",
+        "pet_id": "PET-1157",
+        "clinic_id": "CLINIC-1337",
+        "doctor_id": "DOC-1156",
+        "date": "2025-12-06T23:04:55",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 8.4
+    },
+    {
+        "id": "VISIT-1373",
+        "pet_id": "PET-1234",
+        "clinic_id": "CLINIC-1153",
+        "doctor_id": "DOC-1311",
+        "date": "2025-08-26T09:40:32",
+        "notes": "Ocular discharge and blepharospasm noted. Fluorescein stain positive for superficial corneal ulcer OS. Prescribed topical ophthalmic antibiotics.",
+        "weight_lbs": 41.6
+    },
+    {
+        "id": "VISIT-1374",
+        "pet_id": "PET-1108",
+        "clinic_id": "CLINIC-1222",
+        "doctor_id": "DOC-1193",
+        "date": "2025-05-05T19:44:56",
+        "notes": "Routine wellness exam. Auscultation reveals a grade 2/6 systolic heart murmur. Advise echocardiogram.",
+        "weight_lbs": 26.5
+    },
+    {
+        "id": "VISIT-1375",
+        "pet_id": "PET-1168",
+        "clinic_id": "CLINIC-1084",
+        "doctor_id": "DOC-1496",
+        "date": "2025-02-28T06:36:11",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 58.2
+    },
+    {
+        "id": "VISIT-1376",
+        "pet_id": "PET-1088",
+        "clinic_id": "CLINIC-1492",
+        "doctor_id": "DOC-1392",
+        "date": "2026-05-10T23:22:16",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 75.4
+    },
+    {
+        "id": "VISIT-1377",
+        "pet_id": "PET-1355",
+        "clinic_id": "CLINIC-1022",
+        "doctor_id": "DOC-1084",
+        "date": "2025-06-22T05:23:52",
+        "notes": "Patient presents with lethargy and anorexia. CBC/Chem panel shows elevated ALT and ALP. Recommended abdominal ultrasound.",
+        "weight_lbs": 56.0
+    },
+    {
+        "id": "VISIT-1378",
+        "pet_id": "PET-1430",
+        "clinic_id": "CLINIC-1092",
+        "doctor_id": "DOC-1231",
+        "date": "2025-04-29T09:39:52",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 45.2
+    },
+    {
+        "id": "VISIT-1379",
+        "pet_id": "PET-1224",
+        "clinic_id": "CLINIC-1025",
+        "doctor_id": "DOC-1266",
+        "date": "2026-06-09T06:25:15",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 49.4
+    },
+    {
+        "id": "VISIT-1380",
+        "pet_id": "PET-1311",
+        "clinic_id": "CLINIC-1403",
+        "doctor_id": "DOC-1306",
+        "date": "2025-09-03T21:19:05",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 22.2
+    },
+    {
+        "id": "VISIT-1381",
+        "pet_id": "PET-1317",
+        "clinic_id": "CLINIC-1122",
+        "doctor_id": "DOC-1500",
+        "date": "2026-01-13T21:57:09",
+        "notes": "Generalized lymphadenopathy noted on physical exam. Fine needle aspirate of popliteal lymph node submitted for cytology.",
+        "weight_lbs": 55.7
+    },
+    {
+        "id": "VISIT-1382",
+        "pet_id": "PET-1085",
+        "clinic_id": "CLINIC-1009",
+        "doctor_id": "DOC-1198",
+        "date": "2024-10-29T01:41:05",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 20.7
+    },
+    {
+        "id": "VISIT-1383",
+        "pet_id": "PET-1500",
+        "clinic_id": "CLINIC-1273",
+        "doctor_id": "DOC-1456",
+        "date": "2025-11-18T07:46:38",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 69.2
+    },
+    {
+        "id": "VISIT-1384",
+        "pet_id": "PET-1446",
+        "clinic_id": "CLINIC-1166",
+        "doctor_id": "DOC-1335",
+        "date": "2026-07-09T08:22:46",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 53.6
+    },
+    {
+        "id": "VISIT-1385",
+        "pet_id": "PET-1368",
+        "clinic_id": "CLINIC-1377",
+        "doctor_id": "DOC-1108",
+        "date": "2025-02-19T01:26:02",
+        "notes": "Patient exhibits tenesmus and hematochezia. Rectal exam reveals enlarged, symmetrical prostate. Advised castration.",
+        "weight_lbs": 19.5
+    },
+    {
+        "id": "VISIT-1386",
+        "pet_id": "PET-1072",
+        "clinic_id": "CLINIC-1366",
+        "doctor_id": "DOC-1397",
+        "date": "2025-03-06T21:16:49",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 13.3
+    },
+    {
+        "id": "VISIT-1387",
+        "pet_id": "PET-1001",
+        "clinic_id": "CLINIC-1500",
+        "doctor_id": "DOC-1251",
+        "date": "2026-04-08T17:54:56",
+        "notes": "Patient presents with tachypnea and exercise intolerance. Thoracic radiographs show mild cardiomegaly and pulmonary edema.",
+        "weight_lbs": 70.1
+    },
+    {
+        "id": "VISIT-1388",
+        "pet_id": "PET-1240",
+        "clinic_id": "CLINIC-1029",
+        "doctor_id": "DOC-1150",
+        "date": "2026-05-05T07:38:33",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 26.0
+    },
+    {
+        "id": "VISIT-1389",
+        "pet_id": "PET-1307",
+        "clinic_id": "CLINIC-1109",
+        "doctor_id": "DOC-1481",
+        "date": "2024-11-12T17:28:29",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 52.4
+    },
+    {
+        "id": "VISIT-1390",
+        "pet_id": "PET-1311",
+        "clinic_id": "CLINIC-1411",
+        "doctor_id": "DOC-1280",
+        "date": "2025-07-18T16:02:42",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 64.2
+    },
+    {
+        "id": "VISIT-1391",
+        "pet_id": "PET-1276",
+        "clinic_id": "CLINIC-1316",
+        "doctor_id": "DOC-1035",
+        "date": "2026-04-02T08:02:32",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 66.7
+    },
+    {
+        "id": "VISIT-1392",
+        "pet_id": "PET-1236",
+        "clinic_id": "CLINIC-1365",
+        "doctor_id": "DOC-1026",
+        "date": "2025-07-20T20:07:43",
+        "notes": "Ocular discharge and blepharospasm noted. Fluorescein stain positive for superficial corneal ulcer OS. Prescribed topical ophthalmic antibiotics.",
+        "weight_lbs": 63.2
+    },
+    {
+        "id": "VISIT-1393",
+        "pet_id": "PET-1166",
+        "clinic_id": "CLINIC-1121",
+        "doctor_id": "DOC-1337",
+        "date": "2025-11-30T00:42:48",
+        "notes": "Patient presents with lethargy and anorexia. CBC/Chem panel shows elevated ALT and ALP. Recommended abdominal ultrasound.",
+        "weight_lbs": 27.9
+    },
+    {
+        "id": "VISIT-1394",
+        "pet_id": "PET-1050",
+        "clinic_id": "CLINIC-1438",
+        "doctor_id": "DOC-1028",
+        "date": "2026-05-09T19:08:01",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 8.4
+    },
+    {
+        "id": "VISIT-1395",
+        "pet_id": "PET-1383",
+        "clinic_id": "CLINIC-1244",
+        "doctor_id": "DOC-1389",
+        "date": "2024-12-30T11:12:08",
+        "notes": "Patient exhibits tenesmus and hematochezia. Rectal exam reveals enlarged, symmetrical prostate. Advised castration.",
+        "weight_lbs": 65.1
+    },
+    {
+        "id": "VISIT-1396",
+        "pet_id": "PET-1212",
+        "clinic_id": "CLINIC-1202",
+        "doctor_id": "DOC-1049",
+        "date": "2025-01-29T07:14:08",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 13.5
+    },
+    {
+        "id": "VISIT-1397",
+        "pet_id": "PET-1368",
+        "clinic_id": "CLINIC-1210",
+        "doctor_id": "DOC-1053",
+        "date": "2025-02-13T03:37:01",
+        "notes": "Ocular discharge and blepharospasm noted. Fluorescein stain positive for superficial corneal ulcer OS. Prescribed topical ophthalmic antibiotics.",
+        "weight_lbs": 53.0
+    },
+    {
+        "id": "VISIT-1398",
+        "pet_id": "PET-1016",
+        "clinic_id": "CLINIC-1092",
+        "doctor_id": "DOC-1253",
+        "date": "2025-04-09T14:57:03",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 6.1
+    },
+    {
+        "id": "VISIT-1399",
+        "pet_id": "PET-1387",
+        "clinic_id": "CLINIC-1085",
+        "doctor_id": "DOC-1269",
+        "date": "2026-02-16T01:26:44",
+        "notes": "Patient presents with tachypnea and exercise intolerance. Thoracic radiographs show mild cardiomegaly and pulmonary edema.",
+        "weight_lbs": 9.7
+    },
+    {
+        "id": "VISIT-1400",
+        "pet_id": "PET-1181",
+        "clinic_id": "CLINIC-1451",
+        "doctor_id": "DOC-1048",
+        "date": "2024-08-13T00:02:36",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 54.9
+    },
+    {
+        "id": "VISIT-1401",
+        "pet_id": "PET-1043",
+        "clinic_id": "CLINIC-1219",
+        "doctor_id": "DOC-1370",
+        "date": "2026-05-28T22:19:00",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 23.4
+    },
+    {
+        "id": "VISIT-1402",
+        "pet_id": "PET-1003",
+        "clinic_id": "CLINIC-1337",
+        "doctor_id": "DOC-1156",
+        "date": "2024-12-28T04:04:49",
+        "notes": "Patient exhibits tenesmus and hematochezia. Rectal exam reveals enlarged, symmetrical prostate. Advised castration.",
+        "weight_lbs": 76.7
+    },
+    {
+        "id": "VISIT-1403",
+        "pet_id": "PET-1327",
+        "clinic_id": "CLINIC-1264",
+        "doctor_id": "DOC-1366",
+        "date": "2025-05-10T12:48:59",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 48.3
+    },
+    {
+        "id": "VISIT-1404",
+        "pet_id": "PET-1054",
+        "clinic_id": "CLINIC-1463",
+        "doctor_id": "DOC-1379",
+        "date": "2025-05-02T07:42:00",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 77.3
+    },
+    {
+        "id": "VISIT-1405",
+        "pet_id": "PET-1166",
+        "clinic_id": "CLINIC-1328",
+        "doctor_id": "DOC-1233",
+        "date": "2024-09-04T22:26:39",
+        "notes": "Patient presents with lethargy and anorexia. CBC/Chem panel shows elevated ALT and ALP. Recommended abdominal ultrasound.",
+        "weight_lbs": 54.7
+    },
+    {
+        "id": "VISIT-1406",
+        "pet_id": "PET-1054",
+        "clinic_id": "CLINIC-1412",
+        "doctor_id": "DOC-1007",
+        "date": "2024-12-15T00:00:15",
+        "notes": "Ocular discharge and blepharospasm noted. Fluorescein stain positive for superficial corneal ulcer OS. Prescribed topical ophthalmic antibiotics.",
+        "weight_lbs": 23.2
+    },
+    {
+        "id": "VISIT-1407",
+        "pet_id": "PET-1248",
+        "clinic_id": "CLINIC-1101",
+        "doctor_id": "DOC-1131",
+        "date": "2025-12-08T05:42:17",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 36.1
+    },
+    {
+        "id": "VISIT-1408",
+        "pet_id": "PET-1355",
+        "clinic_id": "CLINIC-1337",
+        "doctor_id": "DOC-1156",
+        "date": "2025-05-28T22:28:00",
+        "notes": "Patient exhibits tenesmus and hematochezia. Rectal exam reveals enlarged, symmetrical prostate. Advised castration.",
+        "weight_lbs": 44.9
+    },
+    {
+        "id": "VISIT-1409",
+        "pet_id": "PET-1487",
+        "clinic_id": "CLINIC-1497",
+        "doctor_id": "DOC-1332",
+        "date": "2024-12-11T07:11:41",
+        "notes": "Ocular discharge and blepharospasm noted. Fluorescein stain positive for superficial corneal ulcer OS. Prescribed topical ophthalmic antibiotics.",
+        "weight_lbs": 12.4
+    },
+    {
+        "id": "VISIT-1410",
+        "pet_id": "PET-1382",
+        "clinic_id": "CLINIC-1198",
+        "doctor_id": "DOC-1187",
+        "date": "2025-09-21T20:37:53",
+        "notes": "Generalized lymphadenopathy noted on physical exam. Fine needle aspirate of popliteal lymph node submitted for cytology.",
+        "weight_lbs": 62.9
+    },
+    {
+        "id": "VISIT-1411",
+        "pet_id": "PET-1055",
+        "clinic_id": "CLINIC-1102",
+        "doctor_id": "DOC-1264",
+        "date": "2025-04-16T01:15:53",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 31.2
+    },
+    {
+        "id": "VISIT-1412",
+        "pet_id": "PET-1002",
+        "clinic_id": "CLINIC-1262",
+        "doctor_id": "DOC-1023",
+        "date": "2026-05-14T19:19:54",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 64.4
+    },
+    {
+        "id": "VISIT-1413",
+        "pet_id": "PET-1120",
+        "clinic_id": "CLINIC-1398",
+        "doctor_id": "DOC-1405",
+        "date": "2026-06-14T03:39:36",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 34.0
+    },
+    {
+        "id": "VISIT-1414",
+        "pet_id": "PET-1057",
+        "clinic_id": "CLINIC-1315",
+        "doctor_id": "DOC-1176",
+        "date": "2024-10-28T19:56:04",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 45.5
+    },
+    {
+        "id": "VISIT-1415",
+        "pet_id": "PET-1139",
+        "clinic_id": "CLINIC-1290",
+        "doctor_id": "DOC-1170",
+        "date": "2026-01-31T18:44:10",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 47.6
+    },
+    {
+        "id": "VISIT-1416",
+        "pet_id": "PET-1067",
+        "clinic_id": "CLINIC-1449",
+        "doctor_id": "DOC-1236",
+        "date": "2024-10-10T21:12:50",
+        "notes": "Orthopedic exam reveals crepitus and decreased range of motion in bilateral coxofemoral joints. Radiographs confirm osteoarthritis.",
+        "weight_lbs": 26.1
+    },
+    {
+        "id": "VISIT-1417",
+        "pet_id": "PET-1061",
+        "clinic_id": "CLINIC-1121",
+        "doctor_id": "DOC-1051",
+        "date": "2025-05-14T01:08:09",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 45.3
+    },
+    {
+        "id": "VISIT-1418",
+        "pet_id": "PET-1056",
+        "clinic_id": "CLINIC-1403",
+        "doctor_id": "DOC-1432",
+        "date": "2026-07-20T16:11:33",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 47.6
+    },
+    {
+        "id": "VISIT-1419",
+        "pet_id": "PET-1219",
+        "clinic_id": "CLINIC-1084",
+        "doctor_id": "DOC-1277",
+        "date": "2024-08-23T18:42:46",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 38.5
+    },
+    {
+        "id": "VISIT-1420",
+        "pet_id": "PET-1104",
+        "clinic_id": "CLINIC-1059",
+        "doctor_id": "DOC-1330",
+        "date": "2026-01-26T23:08:15",
+        "notes": "Dental prophylaxis performed under general anesthesia. Extracted two fractured premolars. Post-op recovery uneventful.",
+        "weight_lbs": 73.6
+    },
+    {
+        "id": "VISIT-1421",
+        "pet_id": "PET-1280",
+        "clinic_id": "CLINIC-1182",
+        "doctor_id": "DOC-1061",
+        "date": "2025-04-03T12:52:58",
+        "notes": "Ocular discharge and blepharospasm noted. Fluorescein stain positive for superficial corneal ulcer OS. Prescribed topical ophthalmic antibiotics.",
+        "weight_lbs": 41.5
+    },
+    {
+        "id": "VISIT-1422",
+        "pet_id": "PET-1324",
+        "clinic_id": "CLINIC-1410",
+        "doctor_id": "DOC-1009",
+        "date": "2025-11-14T02:36:21",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 44.6
+    },
+    {
+        "id": "VISIT-1423",
+        "pet_id": "PET-1210",
+        "clinic_id": "CLINIC-1454",
+        "doctor_id": "DOC-1450",
+        "date": "2025-11-23T19:16:33",
+        "notes": "Patient exhibits tenesmus and hematochezia. Rectal exam reveals enlarged, symmetrical prostate. Advised castration.",
+        "weight_lbs": 36.4
+    },
+    {
+        "id": "VISIT-1424",
+        "pet_id": "PET-1130",
+        "clinic_id": "CLINIC-1233",
+        "doctor_id": "DOC-1390",
+        "date": "2026-05-31T13:14:22",
+        "notes": "Patient presents with tachypnea and exercise intolerance. Thoracic radiographs show mild cardiomegaly and pulmonary edema.",
+        "weight_lbs": 34.9
+    },
+    {
+        "id": "VISIT-1425",
+        "pet_id": "PET-1436",
+        "clinic_id": "CLINIC-1107",
+        "doctor_id": "DOC-1189",
+        "date": "2026-02-21T08:49:45",
+        "notes": "Ocular discharge and blepharospasm noted. Fluorescein stain positive for superficial corneal ulcer OS. Prescribed topical ophthalmic antibiotics.",
+        "weight_lbs": 18.8
+    },
+    {
+        "id": "VISIT-1426",
+        "pet_id": "PET-1045",
+        "clinic_id": "CLINIC-1225",
+        "doctor_id": "DOC-1297",
+        "date": "2025-01-27T15:19:31",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 58.9
+    },
+    {
+        "id": "VISIT-1427",
+        "pet_id": "PET-1260",
+        "clinic_id": "CLINIC-1029",
+        "doctor_id": "DOC-1024",
+        "date": "2026-06-11T14:41:44",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 12.2
+    },
+    {
+        "id": "VISIT-1428",
+        "pet_id": "PET-1358",
+        "clinic_id": "CLINIC-1500",
+        "doctor_id": "DOC-1251",
+        "date": "2024-10-13T03:06:49",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 45.2
+    },
+    {
+        "id": "VISIT-1429",
+        "pet_id": "PET-1219",
+        "clinic_id": "CLINIC-1263",
+        "doctor_id": "DOC-1040",
+        "date": "2025-04-10T14:00:35",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 15.5
+    },
+    {
+        "id": "VISIT-1430",
+        "pet_id": "PET-1190",
+        "clinic_id": "CLINIC-1368",
+        "doctor_id": "DOC-1138",
+        "date": "2025-10-17T02:12:43",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 44.6
+    },
+    {
+        "id": "VISIT-1431",
+        "pet_id": "PET-1188",
+        "clinic_id": "CLINIC-1113",
+        "doctor_id": "DOC-1344",
+        "date": "2025-04-22T04:17:01",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 14.9
+    },
+    {
+        "id": "VISIT-1432",
+        "pet_id": "PET-1390",
+        "clinic_id": "CLINIC-1269",
+        "doctor_id": "DOC-1439",
+        "date": "2026-04-24T04:07:07",
+        "notes": "Patient presents with tachypnea and exercise intolerance. Thoracic radiographs show mild cardiomegaly and pulmonary edema.",
+        "weight_lbs": 30.1
+    },
+    {
+        "id": "VISIT-1433",
+        "pet_id": "PET-1055",
+        "clinic_id": "CLINIC-1495",
+        "doctor_id": "DOC-1132",
+        "date": "2024-09-03T20:56:22",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 72.6
+    },
+    {
+        "id": "VISIT-1434",
+        "pet_id": "PET-1291",
+        "clinic_id": "CLINIC-1122",
+        "doctor_id": "DOC-1494",
+        "date": "2026-07-04T15:35:43",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 11.4
+    },
+    {
+        "id": "VISIT-1435",
+        "pet_id": "PET-1092",
+        "clinic_id": "CLINIC-1404",
+        "doctor_id": "DOC-1069",
+        "date": "2024-12-11T00:23:00",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 60.3
+    },
+    {
+        "id": "VISIT-1436",
+        "pet_id": "PET-1170",
+        "clinic_id": "CLINIC-1449",
+        "doctor_id": "DOC-1460",
+        "date": "2026-01-08T18:43:20",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 11.4
+    },
+    {
+        "id": "VISIT-1437",
+        "pet_id": "PET-1416",
+        "clinic_id": "CLINIC-1172",
+        "doctor_id": "DOC-1031",
+        "date": "2026-01-13T18:48:12",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 77.1
+    },
+    {
+        "id": "VISIT-1438",
+        "pet_id": "PET-1016",
+        "clinic_id": "CLINIC-1115",
+        "doctor_id": "DOC-1191",
+        "date": "2026-06-21T12:02:20",
+        "notes": "Generalized lymphadenopathy noted on physical exam. Fine needle aspirate of popliteal lymph node submitted for cytology.",
+        "weight_lbs": 59.1
+    },
+    {
+        "id": "VISIT-1439",
+        "pet_id": "PET-1253",
+        "clinic_id": "CLINIC-1366",
+        "doctor_id": "DOC-1397",
+        "date": "2026-05-27T20:47:27",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 51.5
+    },
+    {
+        "id": "VISIT-1440",
+        "pet_id": "PET-1298",
+        "clinic_id": "CLINIC-1154",
+        "doctor_id": "DOC-1327",
+        "date": "2025-05-13T09:59:22",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 57.7
+    },
+    {
+        "id": "VISIT-1441",
+        "pet_id": "PET-1085",
+        "clinic_id": "CLINIC-1010",
+        "doctor_id": "DOC-1466",
+        "date": "2025-12-14T08:39:28",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 22.7
+    },
+    {
+        "id": "VISIT-1442",
+        "pet_id": "PET-1146",
+        "clinic_id": "CLINIC-1405",
+        "doctor_id": "DOC-1380",
+        "date": "2024-09-03T19:16:21",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 79.3
+    },
+    {
+        "id": "VISIT-1443",
+        "pet_id": "PET-1329",
+        "clinic_id": "CLINIC-1177",
+        "doctor_id": "DOC-1065",
+        "date": "2025-03-04T03:45:18",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 61.7
+    },
+    {
+        "id": "VISIT-1444",
+        "pet_id": "PET-1286",
+        "clinic_id": "CLINIC-1089",
+        "doctor_id": "DOC-1361",
+        "date": "2026-03-11T01:29:05",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 24.3
+    },
+    {
+        "id": "VISIT-1445",
+        "pet_id": "PET-1224",
+        "clinic_id": "CLINIC-1361",
+        "doctor_id": "DOC-1079",
+        "date": "2024-08-28T07:55:05",
+        "notes": "Patient presents with tachypnea and exercise intolerance. Thoracic radiographs show mild cardiomegaly and pulmonary edema.",
+        "weight_lbs": 59.0
+    },
+    {
+        "id": "VISIT-1446",
+        "pet_id": "PET-1067",
+        "clinic_id": "CLINIC-1448",
+        "doctor_id": "DOC-1480",
+        "date": "2026-05-03T17:32:31",
+        "notes": "Orthopedic exam reveals crepitus and decreased range of motion in bilateral coxofemoral joints. Radiographs confirm osteoarthritis.",
+        "weight_lbs": 41.1
+    },
+    {
+        "id": "VISIT-1447",
+        "pet_id": "PET-1282",
+        "clinic_id": "CLINIC-1436",
+        "doctor_id": "DOC-1416",
+        "date": "2025-10-31T03:37:32",
+        "notes": "Dental prophylaxis performed under general anesthesia. Extracted two fractured premolars. Post-op recovery uneventful.",
+        "weight_lbs": 59.4
+    },
+    {
+        "id": "VISIT-1448",
+        "pet_id": "PET-1327",
+        "clinic_id": "CLINIC-1210",
+        "doctor_id": "DOC-1053",
+        "date": "2026-07-12T18:27:57",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 28.7
+    },
+    {
+        "id": "VISIT-1449",
+        "pet_id": "PET-1142",
+        "clinic_id": "CLINIC-1261",
+        "doctor_id": "DOC-1050",
+        "date": "2025-12-01T23:23:10",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 67.3
+    },
+    {
+        "id": "VISIT-1450",
+        "pet_id": "PET-1057",
+        "clinic_id": "CLINIC-1249",
+        "doctor_id": "DOC-1190",
+        "date": "2025-12-28T22:03:08",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 48.6
+    },
+    {
+        "id": "VISIT-1451",
+        "pet_id": "PET-1254",
+        "clinic_id": "CLINIC-1489",
+        "doctor_id": "DOC-1241",
+        "date": "2026-08-03T18:17:49",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 40.2
+    },
+    {
+        "id": "VISIT-1452",
+        "pet_id": "PET-1101",
+        "clinic_id": "CLINIC-1229",
+        "doctor_id": "DOC-1139",
+        "date": "2024-09-27T15:02:26",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 41.4
+    },
+    {
+        "id": "VISIT-1453",
+        "pet_id": "PET-1095",
+        "clinic_id": "CLINIC-1101",
+        "doctor_id": "DOC-1131",
+        "date": "2026-04-13T01:44:46",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 19.4
+    },
+    {
+        "id": "VISIT-1454",
+        "pet_id": "PET-1432",
+        "clinic_id": "CLINIC-1192",
+        "doctor_id": "DOC-1343",
+        "date": "2024-12-19T05:05:07",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 19.0
+    },
+    {
+        "id": "VISIT-1455",
+        "pet_id": "PET-1313",
+        "clinic_id": "CLINIC-1188",
+        "doctor_id": "DOC-1398",
+        "date": "2025-11-10T19:55:23",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 18.7
+    },
+    {
+        "id": "VISIT-1456",
+        "pet_id": "PET-1094",
+        "clinic_id": "CLINIC-1031",
+        "doctor_id": "DOC-1428",
+        "date": "2025-08-03T17:39:16",
+        "notes": "Dental prophylaxis performed under general anesthesia. Extracted two fractured premolars. Post-op recovery uneventful.",
         "weight_lbs": 62.1
+    },
+    {
+        "id": "VISIT-1457",
+        "pet_id": "PET-1416",
+        "clinic_id": "CLINIC-1278",
+        "doctor_id": "DOC-1408",
+        "date": "2026-01-26T02:58:49",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 15.6
+    },
+    {
+        "id": "VISIT-1458",
+        "pet_id": "PET-1067",
+        "clinic_id": "CLINIC-1451",
+        "doctor_id": "DOC-1048",
+        "date": "2026-05-07T10:35:38",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 21.6
+    },
+    {
+        "id": "VISIT-1459",
+        "pet_id": "PET-1392",
+        "clinic_id": "CLINIC-1167",
+        "doctor_id": "DOC-1165",
+        "date": "2024-11-21T13:29:52",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 31.6
+    },
+    {
+        "id": "VISIT-1460",
+        "pet_id": "PET-1483",
+        "clinic_id": "CLINIC-1266",
+        "doctor_id": "DOC-1396",
+        "date": "2025-08-07T14:17:14",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 17.3
+    },
+    {
+        "id": "VISIT-1461",
+        "pet_id": "PET-1155",
+        "clinic_id": "CLINIC-1404",
+        "doctor_id": "DOC-1069",
+        "date": "2025-12-16T00:11:59",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 68.8
+    },
+    {
+        "id": "VISIT-1462",
+        "pet_id": "PET-1168",
+        "clinic_id": "CLINIC-1392",
+        "doctor_id": "DOC-1184",
+        "date": "2025-10-15T10:07:19",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 33.9
+    },
+    {
+        "id": "VISIT-1463",
+        "pet_id": "PET-1350",
+        "clinic_id": "CLINIC-1016",
+        "doctor_id": "DOC-1465",
+        "date": "2025-02-22T15:50:26",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 77.2
+    },
+    {
+        "id": "VISIT-1464",
+        "pet_id": "PET-1002",
+        "clinic_id": "CLINIC-1183",
+        "doctor_id": "DOC-1006",
+        "date": "2025-07-30T08:45:31",
+        "notes": "Generalized lymphadenopathy noted on physical exam. Fine needle aspirate of popliteal lymph node submitted for cytology.",
+        "weight_lbs": 46.9
+    },
+    {
+        "id": "VISIT-1465",
+        "pet_id": "PET-1382",
+        "clinic_id": "CLINIC-1111",
+        "doctor_id": "DOC-1303",
+        "date": "2025-11-21T04:21:58",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 75.6
+    },
+    {
+        "id": "VISIT-1466",
+        "pet_id": "PET-1480",
+        "clinic_id": "CLINIC-1257",
+        "doctor_id": "DOC-1498",
+        "date": "2025-02-18T17:42:50",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 68.1
+    },
+    {
+        "id": "VISIT-1467",
+        "pet_id": "PET-1368",
+        "clinic_id": "CLINIC-1111",
+        "doctor_id": "DOC-1083",
+        "date": "2025-04-24T22:08:43",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 64.9
+    },
+    {
+        "id": "VISIT-1468",
+        "pet_id": "PET-1225",
+        "clinic_id": "CLINIC-1454",
+        "doctor_id": "DOC-1410",
+        "date": "2025-07-15T20:46:00",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 70.1
+    },
+    {
+        "id": "VISIT-1469",
+        "pet_id": "PET-1198",
+        "clinic_id": "CLINIC-1014",
+        "doctor_id": "DOC-1248",
+        "date": "2026-04-16T12:37:43",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 26.3
+    },
+    {
+        "id": "VISIT-1470",
+        "pet_id": "PET-1225",
+        "clinic_id": "CLINIC-1500",
+        "doctor_id": "DOC-1251",
+        "date": "2025-08-24T05:29:46",
+        "notes": "Owner reports intermittent seizures. Neurological exam normal between episodes. Recommended MRI and started on phenobarbital trial.",
+        "weight_lbs": 58.6
+    },
+    {
+        "id": "VISIT-1471",
+        "pet_id": "PET-1348",
+        "clinic_id": "CLINIC-1024",
+        "doctor_id": "DOC-1434",
+        "date": "2025-08-30T15:07:57",
+        "notes": "Routine check-up. Body condition score 7/9. Discussed weight management and calorie restriction plan with owner.",
+        "weight_lbs": 49.8
+    },
+    {
+        "id": "VISIT-1472",
+        "pet_id": "PET-1056",
+        "clinic_id": "CLINIC-1415",
+        "doctor_id": "DOC-1161",
+        "date": "2025-07-04T17:04:07",
+        "notes": "Owner reports halitosis and dysphagia. Oral exam reveals severe periodontal disease with gingival recession and furcation exposure.",
+        "weight_lbs": 37.0
+    },
+    {
+        "id": "VISIT-1473",
+        "pet_id": "PET-1179",
+        "clinic_id": "CLINIC-1395",
+        "doctor_id": "DOC-1158",
+        "date": "2026-05-30T00:07:59",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 66.9
+    },
+    {
+        "id": "VISIT-1474",
+        "pet_id": "PET-1237",
+        "clinic_id": "CLINIC-1167",
+        "doctor_id": "DOC-1165",
+        "date": "2026-04-25T05:01:07",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 56.1
+    },
+    {
+        "id": "VISIT-1475",
+        "pet_id": "PET-1224",
+        "clinic_id": "CLINIC-1157",
+        "doctor_id": "DOC-1181",
+        "date": "2024-12-07T10:56:08",
+        "notes": "Routine wellness exam. Auscultation reveals a grade 2/6 systolic heart murmur. Advise echocardiogram.",
+        "weight_lbs": 20.3
+    },
+    {
+        "id": "VISIT-1476",
+        "pet_id": "PET-1399",
+        "clinic_id": "CLINIC-1115",
+        "doctor_id": "DOC-1191",
+        "date": "2025-11-25T18:48:44",
+        "notes": "Patient presents with tachypnea and exercise intolerance. Thoracic radiographs show mild cardiomegaly and pulmonary edema.",
+        "weight_lbs": 61.6
+    },
+    {
+        "id": "VISIT-1477",
+        "pet_id": "PET-1446",
+        "clinic_id": "CLINIC-1012",
+        "doctor_id": "DOC-1186",
+        "date": "2025-09-24T02:37:14",
+        "notes": "Presented for lameness in the right hind limb. Positive cranial drawer sign indicates possible cranial cruciate ligament rupture.",
+        "weight_lbs": 38.9
+    },
+    {
+        "id": "VISIT-1478",
+        "pet_id": "PET-1197",
+        "clinic_id": "CLINIC-1492",
+        "doctor_id": "DOC-1392",
+        "date": "2025-12-15T09:26:26",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 29.3
+    },
+    {
+        "id": "VISIT-1479",
+        "pet_id": "PET-1310",
+        "clinic_id": "CLINIC-1155",
+        "doctor_id": "DOC-1461",
+        "date": "2026-04-08T17:31:31",
+        "notes": "Dental prophylaxis performed under general anesthesia. Extracted two fractured premolars. Post-op recovery uneventful.",
+        "weight_lbs": 51.9
+    },
+    {
+        "id": "VISIT-1480",
+        "pet_id": "PET-1350",
+        "clinic_id": "CLINIC-1121",
+        "doctor_id": "DOC-1051",
+        "date": "2025-05-31T04:09:45",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 65.9
+    },
+    {
+        "id": "VISIT-1481",
+        "pet_id": "PET-1195",
+        "clinic_id": "CLINIC-1177",
+        "doctor_id": "DOC-1091",
+        "date": "2025-07-16T23:58:07",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 26.9
+    },
+    {
+        "id": "VISIT-1482",
+        "pet_id": "PET-1146",
+        "clinic_id": "CLINIC-1364",
+        "doctor_id": "DOC-1103",
+        "date": "2025-02-04T05:16:08",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 48.0
+    },
+    {
+        "id": "VISIT-1483",
+        "pet_id": "PET-1041",
+        "clinic_id": "CLINIC-1416",
+        "doctor_id": "DOC-1417",
+        "date": "2024-11-18T03:42:59",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 20.8
+    },
+    {
+        "id": "VISIT-1484",
+        "pet_id": "PET-1190",
+        "clinic_id": "CLINIC-1111",
+        "doctor_id": "DOC-1083",
+        "date": "2025-06-14T20:55:32",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 68.4
+    },
+    {
+        "id": "VISIT-1485",
+        "pet_id": "PET-1190",
+        "clinic_id": "CLINIC-1316",
+        "doctor_id": "DOC-1401",
+        "date": "2025-01-16T19:48:39",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 59.3
+    },
+    {
+        "id": "VISIT-1486",
+        "pet_id": "PET-1187",
+        "clinic_id": "CLINIC-1369",
+        "doctor_id": "DOC-1180",
+        "date": "2026-03-26T16:20:28",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 22.2
+    },
+    {
+        "id": "VISIT-1487",
+        "pet_id": "PET-1167",
+        "clinic_id": "CLINIC-1006",
+        "doctor_id": "DOC-1021",
+        "date": "2024-11-16T13:12:21",
+        "notes": "Ocular discharge and blepharospasm noted. Fluorescein stain positive for superficial corneal ulcer OS. Prescribed topical ophthalmic antibiotics.",
+        "weight_lbs": 58.4
+    },
+    {
+        "id": "VISIT-1488",
+        "pet_id": "PET-1285",
+        "clinic_id": "CLINIC-1500",
+        "doctor_id": "DOC-1251",
+        "date": "2026-01-24T04:07:38",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 35.0
+    },
+    {
+        "id": "VISIT-1489",
+        "pet_id": "PET-1210",
+        "clinic_id": "CLINIC-1113",
+        "doctor_id": "DOC-1111",
+        "date": "2025-03-02T18:37:59",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 56.4
+    },
+    {
+        "id": "VISIT-1490",
+        "pet_id": "PET-1490",
+        "clinic_id": "CLINIC-1463",
+        "doctor_id": "DOC-1425",
+        "date": "2025-10-06T18:45:39",
+        "notes": "Ophthalmic exam reveals bilateral nuclear sclerosis, consistent with patient's age. No signs of cataracts or glaucoma.",
+        "weight_lbs": 14.6
+    },
+    {
+        "id": "VISIT-1491",
+        "pet_id": "PET-1178",
+        "clinic_id": "CLINIC-1325",
+        "doctor_id": "DOC-1218",
+        "date": "2026-04-07T13:46:45",
+        "notes": "Owner reports hematuria and stranguria. Urinalysis reveals struvite crystalluria and bacteriuria. Prescribed broad-spectrum antibiotics.",
+        "weight_lbs": 40.2
+    },
+    {
+        "id": "VISIT-1492",
+        "pet_id": "PET-1051",
+        "clinic_id": "CLINIC-1364",
+        "doctor_id": "DOC-1438",
+        "date": "2024-09-01T19:07:57",
+        "notes": "Patient exhibiting polyuria and polydipsia. Bloodwork indicates hyperglycemia and glucosuria. Suspect diabetes mellitus.",
+        "weight_lbs": 66.5
+    },
+    {
+        "id": "VISIT-1493",
+        "pet_id": "PET-1021",
+        "clinic_id": "CLINIC-1168",
+        "doctor_id": "DOC-1388",
+        "date": "2025-08-29T00:47:42",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 8.8
+    },
+    {
+        "id": "VISIT-1494",
+        "pet_id": "PET-1098",
+        "clinic_id": "CLINIC-1279",
+        "doctor_id": "DOC-1263",
+        "date": "2024-10-19T14:17:32",
+        "notes": "Patient exhibits tenesmus and hematochezia. Rectal exam reveals enlarged, symmetrical prostate. Advised castration.",
+        "weight_lbs": 46.9
+    },
+    {
+        "id": "VISIT-1495",
+        "pet_id": "PET-1348",
+        "clinic_id": "CLINIC-1085",
+        "doctor_id": "DOC-1269",
+        "date": "2025-04-25T02:23:45",
+        "notes": "Dermatologic exam shows erythema and lichenification on the ventral abdomen. Prescribed topical corticosteroids.",
+        "weight_lbs": 77.9
+    },
+    {
+        "id": "VISIT-1496",
+        "pet_id": "PET-1090",
+        "clinic_id": "CLINIC-1140",
+        "doctor_id": "DOC-1220",
+        "date": "2025-09-11T07:38:48",
+        "notes": "Otoscopic examination reveals erythema and dark exudate in the left ear canal. Cytology confirms Malassezia otitis.",
+        "weight_lbs": 27.2
+    },
+    {
+        "id": "VISIT-1497",
+        "pet_id": "PET-1018",
+        "clinic_id": "CLINIC-1368",
+        "doctor_id": "DOC-1138",
+        "date": "2025-02-09T07:11:53",
+        "notes": "Owner reports episodes of emesis and diarrhea. Abdominal palpation reveals mild cranial pain. Prescribed antiemetics and bland diet.",
+        "weight_lbs": 8.7
+    },
+    {
+        "id": "VISIT-1498",
+        "pet_id": "PET-1094",
+        "clinic_id": "CLINIC-1113",
+        "doctor_id": "DOC-1360",
+        "date": "2025-09-19T09:59:35",
+        "notes": "Patient presents with acute onset of ataxia and head tilt. Neurological exam localizes lesion to the peripheral vestibular system.",
+        "weight_lbs": 26.2
+    },
+    {
+        "id": "VISIT-1499",
+        "pet_id": "PET-1215",
+        "clinic_id": "CLINIC-1261",
+        "doctor_id": "DOC-1050",
+        "date": "2026-02-15T22:18:20",
+        "notes": "Patient presents with mild alopecia and pruritus in the lumbar region. Suspect flea allergy dermatitis.",
+        "weight_lbs": 62.9
+    },
+    {
+        "id": "VISIT-1500",
+        "pet_id": "PET-1068",
+        "clinic_id": "CLINIC-1298",
+        "doctor_id": "DOC-1265",
+        "date": "2025-07-04T23:42:02",
+        "notes": "Patient presents with lethargy and anorexia. CBC/Chem panel shows elevated ALT and ALP. Recommended abdominal ultrasound.",
+        "weight_lbs": 70.2
     }
 ]
