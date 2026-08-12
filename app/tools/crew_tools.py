@@ -87,6 +87,7 @@ def check_refill_eligibility(prescription_id: str) -> str:
 @tool("search_products")
 def search_products(query: str = None, category: str = None, max_price: float = None) -> str:
     """Searches for pet products based on query, category, and max price."""
+    print(f">>>> SEARCH PRODUCTS CALLED WITH query={query}, category={category}, max_price={max_price}")
     results = product_svc.search_products(query=query, category=category, max_price=max_price)
     if not results:
         return "No products found matching criteria."

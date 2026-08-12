@@ -136,12 +136,31 @@ class ProductService(JSONServiceBase):
         logger.info(f"search_products query: {query}, category: {category}, max_price: {max_price}")
           
         if category:
-            results = [p for p in results if p['category'].lower() == category.lower()]
+            # Check if there is an exact match for category, if not try substring, if not, ignore category
+            exact_match = [p for p in results if p['category'].lower() == category.lower()]
+            if exact_match:
+                results = exact_match
+            else:
+                sub_match = [p for p in results if category.lower() in p['category'].lower()]
+                if sub_match:
+                    results = sub_match
         if max_price:
             results = [p for p in results if p['price'] <= max_price]
         if query:
-            q = query.lower()
-            results = [p for p in results if q in p['name'].lower() or q in p['description'].lower()]
+            words = query.lower().split()
+            # Try to match products where any of the significant words match
+            def match_score(p):
+                text = (p['name'] + " " + p['description']).lower()
+                return sum(1 for w in words if w in text and len(w) > 3)
+            
+            # Sort results by match score
+            scored_results = [(p, match_score(p)) for p in results]
+            # Only keep results that have at least one significant word match
+            results = [p for p, score in scored_results if score > 0]
+            # Optionally sort them by score descending
+            results.sort(key=lambda x: match_score(x), reverse=True)
+            results = results[:5]
+
             
         return results
 

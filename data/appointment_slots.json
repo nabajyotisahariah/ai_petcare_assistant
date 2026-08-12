@@ -1,9 +1,9 @@
 [
     {
         "id": "SLOT-100",
-        "clinic_id": "CLINIC-1144",
+        "clinic_id": "CLINIC-1001",
         "doctor_id": "DOC-1148",
-        "datetime": "2026-08-18T08:45:00",
+        "datetime": "2026-08-12T08:45:00",
         "is_available": true
     },
     {
@@ -165,7 +165,7 @@
         "clinic_id": "CLINIC-1470",
         "doctor_id": "DOC-1122",
         "datetime": "2026-09-09T13:00:00",
-        "is_available": true
+        "is_available": false
     },
     {
         "id": "SLOT-124",
