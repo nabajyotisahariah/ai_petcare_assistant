@@ -6,10 +6,10 @@ from app.tools.crew_tools import (
     get_available_slots, get_pet_profile, get_latest_prescription,
     check_refill_eligibility, search_products
 )
-from app.config import settings
+from app.config import settings, BASE_DIR
 
 def load_prompt(filename: str) -> str:
-    path = Path(settings.BASE_DIR) / "app" / "prompts" / filename
+    path = Path(BASE_DIR) / "app" / "prompts" / filename
     with open(path, "r", encoding="utf-8") as f:
         return f.read()
 

@@ -1,4 +1,4 @@
-from crewai_tools import tool
+from crewai.tools import tool
 from typing import List, Dict, Any
 from app.services.services import ClinicService, AppointmentService, PetService, PrescriptionService, ProductService
 

@@ -72,7 +72,7 @@ async def chat_endpoint(request: ChatRequest):
     try:
         # Build and run the crew
         crew = build_assistant_crew(request.message, context_str)
-        result = crew.kickoff()
+        result = await crew.kickoff_async()
         response_text = result.raw if hasattr(result, 'raw') else str(result)
         
         # 3. Post-process Crew response to detect if we need to enter confirmation state

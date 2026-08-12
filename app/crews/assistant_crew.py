@@ -28,7 +28,7 @@ def build_assistant_crew(user_message: str, conversation_context: str) -> Crew:
     )
     
     crew = Crew(
-        agents=[orchestrator, clinic_agent, appointment_agent, pet_agent, prescription_agent, commerce_agent],
+        agents=[clinic_agent, appointment_agent, pet_agent, prescription_agent, commerce_agent],
         tasks=[task_analyze_and_respond],
         process=Process.hierarchical,
         manager_agent=orchestrator, # Use orchestrator as manager in hierarchical process

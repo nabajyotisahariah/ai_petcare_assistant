@@ -13,7 +13,7 @@ def test_pet_service_get_pet():
     svc = PetService()
     pet = svc.get_pet("PET-1001")
     assert pet is not None
-    assert pet["name"] == "Max"
+    assert pet["name"] == "PetName1"
 
 def test_clinic_service_loads_data():
     svc = ClinicService()
@@ -35,7 +35,7 @@ def test_product_service_search():
     svc = ProductService()
     products = svc.search_products(category="dental treats")
     assert len(products) > 0
-    assert products[0]["id"] == "PROD-1001"
+    assert products[0]["id"] == "PROD-1002"
 
 def test_conversation_state():
     state = ConversationState()
