@@ -1,0 +1,12 @@
+[
+    {
+        "id": "RX-1001",
+        "pet_id": "PET-1001",
+        "doctor_id": "DOC-1001",
+        "medication": "Apoquel 16mg",
+        "dosage": "1 tablet daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-07-01T09:00:00"
+    }
+]

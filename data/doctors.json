@@ -1,0 +1,14 @@
+[
+    {
+        "id": "DOC-1001",
+        "clinic_id": "CLINIC-1001",
+        "name": "Dr. Sarah Jenkins",
+        "specialties": ["General Practice", "Surgery"]
+    },
+    {
+        "id": "DOC-1002",
+        "clinic_id": "CLINIC-1001",
+        "name": "Dr. Michael Chen",
+        "specialties": ["Dental", "Dermatology"]
+    }
+]

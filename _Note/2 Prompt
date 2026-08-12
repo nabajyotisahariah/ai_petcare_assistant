@@ -1,0 +1,1437 @@
+You are a Principal AI Architect and Senior Python Engineer specializing in:
+- Multi-agent systems
+- CrewAI
+- Python
+- FastAPI
+- RAG
+- LLM orchestration
+- Enterprise API integration
+- Veterinary / healthcare-adjacent workflows
+- E-commerce recommendation systems
+- Production-grade software architecture
+
+I am building a Petco Summer Hackathon 2026 project called:
+
+"AI PetCare Assistant"
+
+The goal is to build a production-oriented multi-agent conversational AI that allows a pet parent to manage the complete pet-care journey from a single chat interface.
+
+============================================================
+1. PRODUCT VISION
+============================================================
+
+Build an AI PetCare Assistant that understands natural-language requests and routes them to specialized agents.
+
+The chatbot should support:
+
+1. Find hospital/clinic near me
+2. Check whether a hospital/clinic is open
+3. Show doctors/providers in a clinic
+4. Find and book VOB/veterinary appointments
+5. Show a pet's recent visit/update
+6. Show the pet's latest prescription
+7. Provide customized pet recommendations
+8. Search pet products
+9. Answer hospital/clinic FAQs using RAG
+10. Request prescription refills through an RX service
+
+The system should behave like an AI Assistant rather than a simple FAQ chatbot.
+
+Example:
+
+User:
+"Find a vet near me and book the earliest appointment for Max."
+
+The system should:
+
+1. Identify the pet "Max"
+2. Resolve the user's intent
+3. Find nearby clinics
+4. Check clinic availability
+5. Find doctors
+6. Query appointment availability
+7. Recommend available slots
+8. Ask the user for confirmation
+9. Call the booking API only after confirmation
+10. Return the booking confirmation
+
+============================================================
+2. IMPORTANT ARCHITECTURE PRINCIPLE
+============================================================
+
+DO NOT make every operation an LLM operation.
+
+Use LLMs/agents for:
+
+- Intent understanding
+- Entity extraction
+- Natural language reasoning
+- Agent routing
+- Conversation management
+- RAG
+- Summarization
+- Personalized recommendations
+- Natural language responses
+
+Use deterministic Python services/tools for:
+
+- Clinic search
+- Distance calculation
+- Clinic hours
+- Doctor availability
+- Appointment availability
+- Appointment creation
+- Appointment cancellation
+- Prescription retrieval
+- Prescription refill
+- Product inventory
+- Product pricing
+- Product search
+- Order creation
+
+The LLM must NEVER directly mutate transactional systems.
+
+All mutations must happen through explicit tools/services.
+
+For example:
+
+LLM:
+"User wants to book appointment"
+
+Agent:
+calls get_available_slots()
+
+User:
+"Yes, book 10:30 AM"
+
+Agent:
+calls book_appointment()
+
+============================================================
+3. TECHNOLOGY STACK
+============================================================
+
+Use:
+
+Python 3.12+
+
+CrewAI
+CrewAI Tools
+FastAPI
+Pydantic
+SQLAlchemy
+PostgreSQL
+Redis
+OpenAI-compatible LLM
+OpenAI embeddings
+Pinecone OR FAISS for vector search
+
+Use environment variables through .env.
+
+Recommended libraries:
+
+crewai
+crewai-tools
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+sqlalchemy
+psycopg
+redis
+openai
+python-dotenv
+httpx
+tenacity
+pytest
+pytest-asyncio
+
+Use typing throughout the project.
+
+Use async where appropriate.
+
+============================================================
+4. MULTI-AGENT DESIGN
+============================================================
+
+Create the following agents.
+
+------------------------------------------------------------
+4.1 MASTER ORCHESTRATOR AGENT
+------------------------------------------------------------
+
+Role:
+
+"AI PetCare Assistant Orchestrator"
+
+Responsibilities:
+
+- Understand user intent
+- Extract entities
+- Identify required domain
+- Determine which agent should handle the request
+- Maintain conversation context
+- Coordinate multiple agents when required
+- Never directly execute business mutations
+
+Supported intents:
+
+CLINIC_SEARCH
+CLINIC_HOURS
+DOCTOR_SEARCH
+APPOINTMENT_SEARCH
+APPOINTMENT_BOOKING
+PET_RECENT_VISIT
+PET_PRESCRIPTION
+PET_RECOMMENDATION
+PRODUCT_SEARCH
+CLINIC_FAQ
+RX_REFILL
+GENERAL
+
+The orchestrator must support multi-agent workflows.
+
+Example:
+
+"Find a clinic near me and book the earliest appointment for Max."
+
+Required agents:
+
+Pet Agent
++
+Clinic Agent
++
+Appointment Agent
+
+------------------------------------------------------------
+4.2 PET AGENT
+------------------------------------------------------------
+
+Responsibilities:
+
+- Resolve pet identity
+- Retrieve pet profile
+- Retrieve recent visits
+- Retrieve vaccinations
+- Retrieve treatments
+- Retrieve prescriptions
+- Provide pet context to other agents
+
+Tools:
+
+get_pet()
+get_pet_profile()
+get_recent_visits()
+get_pet_prescriptions()
+get_pet_vaccinations()
+
+------------------------------------------------------------
+4.3 CLINIC AGENT
+------------------------------------------------------------
+
+Responsibilities:
+
+- Find clinics
+- Find nearby clinics
+- Check clinic status
+- Check clinic hours
+- Find clinic services
+- Find doctors/providers
+
+Tools:
+
+find_nearby_clinics()
+get_clinic()
+get_clinic_hours()
+is_clinic_open()
+get_clinic_doctors()
+get_clinic_services()
+
+------------------------------------------------------------
+4.4 APPOINTMENT AGENT
+------------------------------------------------------------
+
+Responsibilities:
+
+- Search appointment slots
+- Find providers
+- Find earliest appointment
+- Handle appointment booking
+- Handle appointment cancellation
+- Handle appointment rescheduling
+
+Tools:
+
+get_available_slots()
+find_earliest_slot()
+book_appointment()
+cancel_appointment()
+reschedule_appointment()
+
+IMPORTANT:
+
+Booking must require explicit user confirmation.
+
+Never automatically book an appointment merely because the user asked for available appointments.
+
+------------------------------------------------------------
+4.5 PRESCRIPTION AGENT
+------------------------------------------------------------
+
+Responsibilities:
+
+- Retrieve latest prescription
+- Retrieve prescription history
+- Explain prescription information based ONLY on stored data
+- Determine whether a prescription may be eligible for refill
+
+Tools:
+
+get_latest_prescription()
+get_prescription_history()
+check_refill_eligibility()
+
+The agent must not provide new medical instructions or invent dosage information.
+
+------------------------------------------------------------
+4.6 RX REFILL AGENT
+------------------------------------------------------------
+
+Responsibilities:
+
+- Validate prescription
+- Check refill eligibility
+- Request refill
+- Track refill request
+
+Tools:
+
+check_refill_eligibility()
+request_rx_refill()
+get_refill_status()
+
+IMPORTANT:
+
+Requesting a refill is a transactional operation.
+
+Require explicit confirmation before:
+
+request_rx_refill()
+
+Example:
+
+AI:
+"Max's prescription has 2 refills remaining. Would you like me to request one?"
+
+User:
+"Yes."
+
+Only then:
+
+request_rx_refill()
+
+------------------------------------------------------------
+4.7 RECOMMENDATION AGENT
+------------------------------------------------------------
+
+Responsibilities:
+
+Generate personalized recommendations based on:
+
+- Pet species
+- Breed
+- Age
+- Preferences
+- Recent visit history
+- Relevant non-sensitive pet profile attributes
+- Previous purchases
+- Product preferences
+- Product availability
+
+The recommendation agent should NOT independently make veterinary diagnoses.
+
+Example:
+
+User:
+"What should I buy for Max?"
+
+The system should gather:
+
+Pet context
++
+Commerce context
++
+Product catalog
+
+Then rank suitable products.
+
+------------------------------------------------------------
+4.8 COMMERCE AGENT
+------------------------------------------------------------
+
+Responsibilities:
+
+- Search pet products
+- Filter products
+- Sort products
+- Rank products
+- Return product details
+- Check inventory
+- Provide product recommendations
+
+Tools:
+
+search_products()
+get_product()
+check_inventory()
+get_product_categories()
+
+Example:
+
+"Find dental treats for Max under $30."
+
+Extract:
+
+pet = Max
+category = dental treats
+max_price = 30
+
+Then search products.
+
+------------------------------------------------------------
+4.9 FAQ / RAG AGENT
+------------------------------------------------------------
+
+Responsibilities:
+
+Answer clinic-specific FAQs.
+
+Knowledge sources:
+
+- Clinic FAQ
+- Clinic policies
+- Cancellation policy
+- Payment policy
+- Parking information
+- Services
+- Walk-in policy
+- Operating hours
+- Emergency information
+
+RAG pipeline:
+
+Documents
+→ Chunking
+→ Embeddings
+→ Vector DB
+→ Retriever
+→ FAQ Agent
+→ Grounded response
+
+Use citations/source metadata internally.
+
+If information cannot be found:
+
+"I could not find that information in the clinic knowledge base."
+
+Never hallucinate clinic policy.
+
+============================================================
+5. PET CONTEXT MEMORY
+============================================================
+
+Implement a Pet Context layer.
+
+Example:
+
+Pet:
+
+Max
+Species: Dog
+Breed: Labrador
+Age: 7
+Pet ID: PET-1001
+
+Context:
+
+- Recent visits
+- Prescriptions
+- Vaccinations
+- Previous purchases
+- Product preferences
+
+The orchestrator should be able to resolve:
+
+"Book a visit for Max."
+
+without requiring the user to repeatedly provide the pet ID.
+
+Create a context object such as:
+
+PetContext
+
+with:
+
+user_id
+pet_id
+pet_name
+species
+breed
+age
+recent_visits
+latest_prescription
+preferences
+
+Do not expose unnecessary internal data to the user.
+
+============================================================
+6. MOCK ENTERPRISE SERVICES
+============================================================
+
+Because real Petco APIs may not be available during the hackathon, create mock services.
+
+Create:
+
+ClinicService
+PetService
+AppointmentService
+PrescriptionService
+RXService
+ProductService
+FAQService
+
+These should initially use mock JSON/database data.
+
+Example:
+
+data/
+    clinics.json
+    doctors.json
+    pets.json
+    visits.json
+    prescriptions.json
+    products.json
+    appointments.json
+    faq/
+
+But design the interfaces so they can later be replaced with real REST APIs.
+
+Use service interfaces / dependency injection where appropriate.
+
+For example:
+
+ClinicService.find_nearby_clinics()
+
+should later be replaceable with:
+
+GET /api/clinics/nearby
+
+without modifying the agent.
+
+============================================================
+7. DATABASE DESIGN
+============================================================
+
+Create SQLAlchemy models for:
+
+User
+Pet
+Clinic
+Doctor
+Visit
+Prescription
+Appointment
+Product
+Order
+FAQDocument
+
+Relationships:
+
+User
+ └── Pets
+
+Pet
+ ├── Visits
+ ├── Prescriptions
+ └── Appointments
+
+Clinic
+ ├── Doctors
+ ├── Appointments
+ └── FAQs
+
+User
+ └── Orders
+
+Use PostgreSQL.
+
+For the initial hackathon implementation, provide a seed script.
+
+Example:
+
+python scripts/seed_db.py
+
+============================================================
+8. FASTAPI API
+============================================================
+
+Create REST endpoints:
+
+POST /api/v1/chat
+
+Request:
+
+{
+    "user_id": "USER-1001",
+    "message": "Find a vet near me for Max"
+}
+
+Response:
+
+{
+    "conversation_id": "...",
+    "message": "...",
+    "intent": "CLINIC_SEARCH",
+    "agents_used": [
+        "orchestrator",
+        "clinic_agent"
+    ],
+    "requires_confirmation": false
+}
+
+Create:
+
+GET /api/v1/health
+
+GET /api/v1/pets/{pet_id}
+
+GET /api/v1/clinics/nearby
+
+GET /api/v1/clinics/{clinic_id}
+
+GET /api/v1/clinics/{clinic_id}/doctors
+
+GET /api/v1/appointments/slots
+
+POST /api/v1/appointments
+
+GET /api/v1/prescriptions/{pet_id}
+
+POST /api/v1/prescriptions/{prescription_id}/refill
+
+GET /api/v1/products/search
+
+============================================================
+9. CONVERSATION STATE
+============================================================
+
+Implement conversation state.
+
+Use Redis for:
+
+- conversation ID
+- selected user
+- selected pet
+- selected clinic
+- selected doctor
+- selected appointment slot
+- pending confirmation
+- recent intents
+
+Example:
+
+User:
+"Find a clinic for Max."
+
+System stores:
+
+pet_id = PET-1001
+
+Then:
+
+User:
+"Book the earliest one."
+
+The system should understand that "the earliest one" refers to the previously retrieved appointment option.
+
+============================================================
+10. CONFIRMATION FRAMEWORK
+============================================================
+
+Create a reusable confirmation mechanism.
+
+Actions requiring confirmation:
+
+BOOK_APPOINTMENT
+CANCEL_APPOINTMENT
+RESCHEDULE_APPOINTMENT
+RX_REFILL
+ORDER_PRODUCT
+
+Example state:
+
+{
+    "pending_action": "BOOK_APPOINTMENT",
+    "parameters": {
+        "pet_id": "PET-1001",
+        "clinic_id": "CLINIC-1001",
+        "doctor_id": "DOC-1001",
+        "slot_id": "SLOT-123"
+    },
+    "expires_at": "..."
+}
+
+When the user confirms:
+
+"yes"
+
+the system executes the pending action.
+
+============================================================
+11. CREWAI DESIGN
+============================================================
+
+Use CrewAI Agent and Task abstractions.
+
+Create separate files:
+
+agents/
+    orchestrator_agent.py
+    clinic_agent.py
+    pet_agent.py
+    appointment_agent.py
+    prescription_agent.py
+    rx_agent.py
+    recommendation_agent.py
+    commerce_agent.py
+    faq_agent.py
+
+crews/
+
+    Assistant_crew.py
+    booking_crew.py
+    healthcare_crew.py
+    commerce_crew.py
+
+tools/
+
+    clinic_tools.py
+    pet_tools.py
+    appointment_tools.py
+    prescription_tools.py
+    rx_tools.py
+    commerce_tools.py
+    faq_tools.py
+
+Do not create one huge CrewAI class.
+
+Keep agents modular.
+
+============================================================
+12. WORKFLOW DESIGN
+============================================================
+
+Implement workflow examples.
+
+WORKFLOW 1:
+
+Clinic Search
+
+User
+→ Orchestrator
+→ Clinic Agent
+→ Clinic Tool
+→ Response
+
+WORKFLOW 2:
+
+Appointment Booking
+
+User
+→ Orchestrator
+→ Pet Agent
+→ Clinic Agent
+→ Appointment Agent
+→ Available Slots
+→ User Confirmation
+→ Booking Tool
+→ Confirmation
+
+WORKFLOW 3:
+
+Prescription Refill
+
+User
+→ Orchestrator
+→ Prescription Agent
+→ RX Agent
+→ Eligibility
+→ Confirmation
+→ RX Refill Tool
+
+WORKFLOW 4:
+
+Personalized Product Recommendation
+
+User
+→ Orchestrator
+→ Pet Agent
+→ Recommendation Agent
+→ Commerce Agent
+→ Product Search
+→ Ranking
+→ Response
+
+WORKFLOW 5:
+
+Clinic FAQ
+
+User
+→ Orchestrator
+→ FAQ Agent
+→ Vector Search
+→ Grounded Response
+
+============================================================
+13. RAG IMPLEMENTATION
+============================================================
+
+Implement a real RAG pipeline.
+
+Create:
+
+rag/
+    ingestion.py
+    embeddings.py
+    retriever.py
+    vector_store.py
+
+Support:
+
+PDF
+TXT
+Markdown
+JSON
+
+Use:
+
+OpenAI embeddings
+
+Vector store:
+
+FAISS for local development.
+
+Structure the code so Pinecone can be enabled through configuration.
+
+Environment:
+
+VECTOR_STORE=faiss
+
+or
+
+VECTOR_STORE=pinecone
+
+Create:
+
+python scripts/ingest_faq.py
+
+============================================================
+14. PROMPTS
+============================================================
+
+Create centralized prompts:
+
+prompts/
+    orchestrator.txt
+    clinic_agent.txt
+    pet_agent.txt
+    appointment_agent.txt
+    prescription_agent.txt
+    rx_agent.txt
+    recommendation_agent.txt
+    commerce_agent.txt
+    faq_agent.txt
+
+Important system rules:
+
+1. Never hallucinate.
+2. Use tools for factual enterprise data.
+3. Never invent pet records.
+4. Never invent clinic information.
+5. Never invent prescriptions.
+6. Never invent appointment availability.
+7. Never execute transactional operations without required confirmation.
+8. Never expose internal IDs unless necessary.
+9. Do not provide medical diagnosis.
+10. For unavailable information, clearly state that it is unavailable.
+
+============================================================
+15. ERROR HANDLING
+============================================================
+
+Implement:
+
+- API timeout handling
+- Retry mechanism
+- Tool failure handling
+- Invalid pet ID
+- Invalid clinic ID
+- No appointment slots
+- Prescription not found
+- Refill unavailable
+- Product unavailable
+- Vector search failure
+- LLM failure
+
+Use:
+
+tenacity
+
+for retries where appropriate.
+
+Never allow an agent exception to crash the entire API.
+
+Return graceful responses.
+
+============================================================
+16. LOGGING AND OBSERVABILITY
+============================================================
+
+Implement structured logging.
+
+Log:
+
+conversation_id
+user_id
+intent
+agent
+tool
+duration
+success/failure
+error
+
+Do NOT log sensitive information unnecessarily.
+
+Example:
+
+{
+    "conversation_id": "...",
+    "agent": "clinic_agent",
+    "tool": "find_nearby_clinics",
+    "duration_ms": 120,
+    "status": "success"
+}
+
+============================================================
+17. TESTING
+============================================================
+
+Create pytest tests.
+
+Tests must cover:
+
+test_clinic_search
+test_clinic_hours
+test_doctor_search
+test_pet_lookup
+test_recent_visit
+test_latest_prescription
+test_product_search
+test_faq_rag
+test_appointment_availability
+test_booking_requires_confirmation
+test_rx_refill_requires_confirmation
+test_invalid_pet
+test_no_available_slots
+test_tool_failure
+
+Also create end-to-end tests:
+
+test_book_appointment_flow
+test_rx_refill_flow
+test_product_recommendation_flow
+
+============================================================
+18. SECURITY
+============================================================
+
+Implement basic security architecture.
+
+Use:
+
+- API authentication placeholder
+- user ID validation
+- authorization checks
+- input validation
+- tool-level permissions
+- transaction confirmation
+- rate limiting placeholder
+- secret management through environment variables
+
+Never hardcode:
+
+API keys
+LLM keys
+database passwords
+tokens
+
+============================================================
+19. DOCKER
+============================================================
+
+Create:
+
+Dockerfile
+docker-compose.yml
+
+Services:
+
+api
+postgres
+redis
+
+Optional:
+
+qdrant / vector DB
+
+The application should run using:
+
+docker compose up
+
+============================================================
+20. PROJECT STRUCTURE
+============================================================
+
+Generate this structure:
+
+ai_petcare_Assistant/
+│
+├── app/
+│   ├── main.py
+│   ├── config.py
+│   ├── dependencies.py
+│   │
+│   ├── api/
+│   │   ├── chat.py
+│   │   ├── pets.py
+│   │   ├── clinics.py
+│   │   ├── appointments.py
+│   │   ├── prescriptions.py
+│   │   └── products.py
+│   │
+│   ├── agents/
+│   │   ├── orchestrator_agent.py
+│   │   ├── clinic_agent.py
+│   │   ├── pet_agent.py
+│   │   ├── appointment_agent.py
+│   │   ├── prescription_agent.py
+│   │   ├── rx_agent.py
+│   │   ├── recommendation_agent.py
+│   │   ├── commerce_agent.py
+│   │   └── faq_agent.py
+│   │
+│   ├── crews/
+│   │   ├── Assistant_crew.py
+│   │   ├── booking_crew.py
+│   │   ├── healthcare_crew.py
+│   │   └── commerce_crew.py
+│   │
+│   ├── tools/
+│   │   ├── clinic_tools.py
+│   │   ├── pet_tools.py
+│   │   ├── appointment_tools.py
+│   │   ├── prescription_tools.py
+│   │   ├── rx_tools.py
+│   │   ├── commerce_tools.py
+│   │   └── faq_tools.py
+│   │
+│   ├── services/
+│   │   ├── clinic_service.py
+│   │   ├── pet_service.py
+│   │   ├── appointment_service.py
+│   │   ├── prescription_service.py
+│   │   ├── rx_service.py
+│   │   ├── product_service.py
+│   │   └── faq_service.py
+│   │
+│   ├── workflows/
+│   │   ├── booking_workflow.py
+│   │   ├── refill_workflow.py
+│   │   └── recommendation_workflow.py
+│   │
+│   ├── rag/
+│   │   ├── ingestion.py
+│   │   ├── embeddings.py
+│   │   ├── retriever.py
+│   │   └── vector_store.py
+│   │
+│   ├── models/
+│   │   ├── user.py
+│   │   ├── pet.py
+│   │   ├── clinic.py
+│   │   ├── doctor.py
+│   │   ├── visit.py
+│   │   ├── prescription.py
+│   │   ├── appointment.py
+│   │   └── product.py
+│   │
+│   ├── schemas/
+│   │   ├── chat.py
+│   │   ├── pet.py
+│   │   ├── clinic.py
+│   │   ├── appointment.py
+│   │   ├── prescription.py
+│   │   └── product.py
+│   │
+│   ├── prompts/
+│   │   ├── orchestrator.txt
+│   │   ├── clinic_agent.txt
+│   │   ├── pet_agent.txt
+│   │   ├── appointment_agent.txt
+│   │   ├── prescription_agent.txt
+│   │   ├── rx_agent.txt
+│   │   ├── recommendation_agent.txt
+│   │   ├── commerce_agent.txt
+│   │   └── faq_agent.txt
+│   │
+│   └── utils/
+│       ├── logging.py
+│       ├── errors.py
+│       └── security.py
+│
+├── data/
+│   ├── clinics.json
+│   ├── doctors.json
+│   ├── pets.json
+│   ├── visits.json
+│   ├── prescriptions.json
+│   ├── appointments.json
+│   ├── products.json
+│   └── faq/
+│
+├── scripts/
+│   ├── seed_db.py
+│   └── ingest_faq.py
+│
+├── tests/
+│
+├── Dockerfile
+├── docker-compose.yml
+├── requirements.txt
+├── .env.example
+├── pyproject.toml
+├── README.md
+└── Makefile
+
+============================================================
+21. MOCK DATA
+============================================================
+
+Generate realistic demo data.
+
+Create at least:
+
+10 clinics
+20 doctors
+10 users
+20 pets
+50 visits
+30 prescriptions
+100 appointments/slots
+100 products
+30 FAQ documents
+
+Include realistic relationships.
+
+Example pet:
+
+Max
+Dog
+Labrador
+7 years
+
+Example user:
+
+USER-1001
+
+Example clinic:
+
+CLINIC-1001
+
+Example doctor:
+
+DOC-1001
+
+Make data internally consistent.
+
+============================================================
+22. DEMO SCENARIOS
+============================================================
+
+The README must include demo commands/conversations.
+
+Scenario 1:
+
+User:
+"Find a vet near me for Max."
+
+Scenario 2:
+
+User:
+"Is the nearest clinic open?"
+
+Scenario 3:
+
+User:
+"Who are the doctors there?"
+
+Scenario 4:
+
+User:
+"Find the earliest appointment tomorrow."
+
+Scenario 5:
+
+User:
+"Book the 10:30 AM slot."
+
+The system must ask for confirmation before booking.
+
+Scenario 6:
+
+User:
+"What happened during Max's last visit?"
+
+Scenario 7:
+
+User:
+"What was Max's latest prescription?"
+
+Scenario 8:
+
+User:
+"Can I refill it?"
+
+The system must ask for confirmation.
+
+Scenario 9:
+
+User:
+"Find dental treats for Max under $30."
+
+Scenario 10:
+
+User:
+"Does this clinic accept walk-ins?"
+
+The FAQ agent should use RAG.
+
+============================================================
+23. CODE QUALITY
+============================================================
+
+Write clean production-style code.
+
+Requirements:
+
+- Type hints
+- Pydantic schemas
+- Dependency injection
+- Small functions
+- SOLID principles
+- Clear interfaces
+- No giant files
+- No duplicated logic
+- No hardcoded credentials
+- Proper error handling
+- Unit tests
+- Integration tests
+- Documentation
+- Logging
+
+Avoid overly complex abstractions.
+
+Prefer readable code over clever code.
+
+============================================================
+24. IMPORTANT CREWAI REQUIREMENT
+============================================================
+
+Use current CrewAI APIs and avoid deprecated APIs.
+
+Before generating code, verify the current CrewAI API patterns if you have web access.
+
+Do not blindly use old examples.
+
+Use:
+
+Agent
+Task
+Crew
+Process
+Tool
+
+where appropriate.
+
+If CrewAI Flows are more appropriate for deterministic workflows, use CrewAI Flows for workflow orchestration and CrewAI Agents for reasoning tasks.
+
+In particular:
+
+Transactional workflows should be deterministic.
+
+LLM reasoning should be isolated to agents.
+
+============================================================
+25. OUTPUT FORMAT
+============================================================
+
+Generate the complete project.
+
+Do NOT only provide pseudo-code.
+
+For every important file provide actual runnable Python code.
+
+Start with:
+
+1. Architecture overview
+2. Project structure
+3. requirements.txt
+4. .env.example
+5. Configuration
+6. Database models
+7. Pydantic schemas
+8. Mock services
+9. CrewAI tools
+10. CrewAI agents
+11. Crews / workflows
+12. RAG implementation
+13. FastAPI endpoints
+14. Redis conversation state
+15. Confirmation mechanism
+16. Seed data
+17. Tests
+18. Docker
+19. README
+20. Example API requests
+21. Example conversations
+
+============================================================
+26. VERY IMPORTANT: GENERATE IN PHASES
+============================================================
+
+Do not dump 50 files without explanation.
+
+Generate in phases.
+
+PHASE 1:
+Architecture + project structure + requirements
+
+PHASE 2:
+Models + schemas + mock data/services
+
+PHASE 3:
+CrewAI tools
+
+PHASE 4:
+CrewAI agents + prompts
+
+PHASE 5:
+Orchestrator + workflows
+
+PHASE 6:
+RAG
+
+PHASE 7:
+FastAPI
+
+PHASE 8:
+Redis conversation memory + confirmation framework
+
+PHASE 9:
+Tests
+
+PHASE 10:
+Docker + README
+
+After each phase, make sure imports and interfaces are consistent with previous phases.
+
+When a file is created, show:
+
+FILE:
+app/agents/clinic_agent.py
+
+```python
+<complete code>
+````
+
+Do not omit important implementation details with comments such as:
+
+# implement this
+
+# TODO
+
+# add logic here
+
+Every generated file must be runnable or clearly marked as an intentionally abstract interface.
+
+============================================================
+27. FINAL REQUIREMENT
+=====================
+
+At the end, provide:
+
+A. How to install
+B. How to configure .env
+C. How to seed the database
+D. How to ingest FAQ documents
+E. How to start FastAPI
+F. How to run tests
+G. How to run Docker
+H. Swagger URL
+I. Example curl requests
+J. Example chatbot conversations
+K. Architecture explanation
+L. How to replace mock services with real Petco APIs
+M. Production hardening checklist
+
+The final implementation should be suitable as a Petco hackathon MVP and structured so that the mock APIs can later be replaced with actual Petco enterprise services without rewriting the agent layer.
+
+````
+
+### One change I'd strongly recommend
+
+When you give this to Claude, ask it to **build the project phase-by-phase rather than generating the entire repository in one response**. For a project of this size, that will produce much more consistent imports, CrewAI interfaces, tools, and workflows.
+
+The most important architecture for your hackathon is:
+
+```text
+                    User
+                     │
+                     ▼
+             ┌─────────────────┐
+             │   Orchestrator  │
+             │      Agent      │
+             └────────┬────────┘
+                      │
+       ┌──────────────┼──────────────┐
+       ▼              ▼              ▼
+   Pet Agent      Clinic Agent    Commerce Agent
+       │              │              │
+       ▼              ▼              ▼
+   Pet APIs       Clinic APIs    Product APIs
+       │              │
+       └───────┬──────┘
+               ▼
+       Appointment Agent
+               │
+               ▼
+        Scheduling API
+               │
+               ▼
+        Confirmation
+               │
+               ▼
+          Booking API
+
+
+Generate codebase for the shared above prompt where all the data needs to be hard coded which will be available /data folder

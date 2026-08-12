@@ -1,0 +1,18 @@
+[
+    {
+        "id": "PET-1001",
+        "user_id": "USER-1001",
+        "name": "Max",
+        "species": "Dog",
+        "breed": "Labrador Retriever",
+        "age": 7
+    },
+    {
+        "id": "PET-1002",
+        "user_id": "USER-1002",
+        "name": "Bella",
+        "species": "Cat",
+        "breed": "Siamese",
+        "age": 3
+    }
+]

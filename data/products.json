@@ -1,0 +1,18 @@
+[
+    {
+        "id": "PROD-1001",
+        "name": "Greenies Dental Treats for Large Dogs",
+        "category": "dental treats",
+        "price": 25.99,
+        "inventory_count": 50,
+        "description": "Daily dental chews for dogs."
+    },
+    {
+        "id": "PROD-1002",
+        "name": "Purina Pro Plan Adult Dog Food",
+        "category": "food",
+        "price": 45.00,
+        "inventory_count": 20,
+        "description": "High protein dry dog food."
+    }
+]

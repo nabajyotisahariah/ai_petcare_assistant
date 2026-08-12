@@ -1,0 +1,36 @@
+[
+    {
+        "id": "CLINIC-1001",
+        "name": "Downtown Pet Hospital",
+        "address": "123 Main St, Cityville",
+        "phone": "555-0100",
+        "is_open_now": true,
+        "hours": {
+            "Monday": "8am - 6pm",
+            "Tuesday": "8am - 6pm",
+            "Wednesday": "8am - 6pm",
+            "Thursday": "8am - 6pm",
+            "Friday": "8am - 6pm",
+            "Saturday": "9am - 1pm",
+            "Sunday": "Closed"
+        },
+        "services": ["General Checkup", "Vaccinations", "Dental", "Surgery"]
+    },
+    {
+        "id": "CLINIC-1002",
+        "name": "Westside Vet Clinic",
+        "address": "456 Oak Rd, Cityville",
+        "phone": "555-0200",
+        "is_open_now": true,
+        "hours": {
+            "Monday": "9am - 5pm",
+            "Tuesday": "9am - 5pm",
+            "Wednesday": "9am - 5pm",
+            "Thursday": "9am - 5pm",
+            "Friday": "9am - 5pm",
+            "Saturday": "Closed",
+            "Sunday": "Closed"
+        },
+        "services": ["General Checkup", "Vaccinations"]
+    }
+]
