@@ -1,18 +1,162 @@
 [
     {
         "id": "PET-1001",
-        "user_id": "USER-1001",
-        "name": "Max",
+        "user_id": "USER-1005",
+        "name": "PetName1",
         "species": "Dog",
-        "breed": "Labrador Retriever",
-        "age": 7
+        "breed": "Labrador",
+        "age": 4
     },
     {
         "id": "PET-1002",
         "user_id": "USER-1002",
-        "name": "Bella",
+        "name": "PetName2",
+        "species": "Dog",
+        "breed": "Golden Retriever",
+        "age": 11
+    },
+    {
+        "id": "PET-1003",
+        "user_id": "USER-1007",
+        "name": "PetName3",
+        "species": "Dog",
+        "breed": "Beagle",
+        "age": 1
+    },
+    {
+        "id": "PET-1004",
+        "user_id": "USER-1004",
+        "name": "PetName4",
+        "species": "Dog",
+        "breed": "Labrador",
+        "age": 4
+    },
+    {
+        "id": "PET-1005",
+        "user_id": "USER-1004",
+        "name": "PetName5",
+        "species": "Dog",
+        "breed": "Beagle",
+        "age": 12
+    },
+    {
+        "id": "PET-1006",
+        "user_id": "USER-1008",
+        "name": "PetName6",
+        "species": "Cat",
+        "breed": "Persian",
+        "age": 10
+    },
+    {
+        "id": "PET-1007",
+        "user_id": "USER-1003",
+        "name": "PetName7",
         "species": "Cat",
         "breed": "Siamese",
+        "age": 12
+    },
+    {
+        "id": "PET-1008",
+        "user_id": "USER-1005",
+        "name": "PetName8",
+        "species": "Cat",
+        "breed": "Maine Coon",
         "age": 3
+    },
+    {
+        "id": "PET-1009",
+        "user_id": "USER-1002",
+        "name": "PetName9",
+        "species": "Dog",
+        "breed": "Bulldog",
+        "age": 2
+    },
+    {
+        "id": "PET-1010",
+        "user_id": "USER-1006",
+        "name": "PetName10",
+        "species": "Cat",
+        "breed": "Siamese",
+        "age": 14
+    },
+    {
+        "id": "PET-1011",
+        "user_id": "USER-1005",
+        "name": "PetName11",
+        "species": "Cat",
+        "breed": "Sphynx",
+        "age": 13
+    },
+    {
+        "id": "PET-1012",
+        "user_id": "USER-1008",
+        "name": "PetName12",
+        "species": "Dog",
+        "breed": "German Shepherd",
+        "age": 9
+    },
+    {
+        "id": "PET-1013",
+        "user_id": "USER-1002",
+        "name": "PetName13",
+        "species": "Dog",
+        "breed": "Poodle",
+        "age": 9
+    },
+    {
+        "id": "PET-1014",
+        "user_id": "USER-1010",
+        "name": "PetName14",
+        "species": "Cat",
+        "breed": "Ragdoll",
+        "age": 15
+    },
+    {
+        "id": "PET-1015",
+        "user_id": "USER-1004",
+        "name": "PetName15",
+        "species": "Cat",
+        "breed": "Sphynx",
+        "age": 12
+    },
+    {
+        "id": "PET-1016",
+        "user_id": "USER-1004",
+        "name": "PetName16",
+        "species": "Dog",
+        "breed": "Labrador",
+        "age": 13
+    },
+    {
+        "id": "PET-1017",
+        "user_id": "USER-1004",
+        "name": "PetName17",
+        "species": "Cat",
+        "breed": "Siamese",
+        "age": 14
+    },
+    {
+        "id": "PET-1018",
+        "user_id": "USER-1005",
+        "name": "PetName18",
+        "species": "Dog",
+        "breed": "Poodle",
+        "age": 8
+    },
+    {
+        "id": "PET-1019",
+        "user_id": "USER-1006",
+        "name": "PetName19",
+        "species": "Cat",
+        "breed": "Persian",
+        "age": 6
+    },
+    {
+        "id": "PET-1020",
+        "user_id": "USER-1005",
+        "name": "PetName20",
+        "species": "Dog",
+        "breed": "German Shepherd",
+        "age": 12
     }
 ]

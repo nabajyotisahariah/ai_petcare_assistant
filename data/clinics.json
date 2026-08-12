@@ -1,9 +1,9 @@
 [
     {
         "id": "CLINIC-1001",
-        "name": "Downtown Pet Hospital",
-        "address": "123 Main St, Cityville",
-        "phone": "555-0100",
+        "name": "PetCare Clinic 1",
+        "address": "799 Main St, Cityville",
+        "phone": "555-0101",
         "is_open_now": true,
         "hours": {
             "Monday": "8am - 6pm",
@@ -14,23 +14,209 @@
             "Saturday": "9am - 1pm",
             "Sunday": "Closed"
         },
-        "services": ["General Checkup", "Vaccinations", "Dental", "Surgery"]
+        "services": [
+            "General Checkup",
+            "Vaccinations",
+            "Dental",
+            "Surgery"
+        ]
     },
     {
         "id": "CLINIC-1002",
-        "name": "Westside Vet Clinic",
-        "address": "456 Oak Rd, Cityville",
-        "phone": "555-0200",
+        "name": "PetCare Clinic 2",
+        "address": "763 Main St, Cityville",
+        "phone": "555-0102",
         "is_open_now": true,
         "hours": {
-            "Monday": "9am - 5pm",
-            "Tuesday": "9am - 5pm",
-            "Wednesday": "9am - 5pm",
-            "Thursday": "9am - 5pm",
-            "Friday": "9am - 5pm",
-            "Saturday": "Closed",
+            "Monday": "8am - 6pm",
+            "Tuesday": "8am - 6pm",
+            "Wednesday": "8am - 6pm",
+            "Thursday": "8am - 6pm",
+            "Friday": "8am - 6pm",
+            "Saturday": "9am - 1pm",
             "Sunday": "Closed"
         },
-        "services": ["General Checkup", "Vaccinations"]
+        "services": [
+            "General Checkup",
+            "Vaccinations",
+            "Dental",
+            "Surgery"
+        ]
+    },
+    {
+        "id": "CLINIC-1003",
+        "name": "PetCare Clinic 3",
+        "address": "173 Main St, Cityville",
+        "phone": "555-0103",
+        "is_open_now": true,
+        "hours": {
+            "Monday": "8am - 6pm",
+            "Tuesday": "8am - 6pm",
+            "Wednesday": "8am - 6pm",
+            "Thursday": "8am - 6pm",
+            "Friday": "8am - 6pm",
+            "Saturday": "9am - 1pm",
+            "Sunday": "Closed"
+        },
+        "services": [
+            "General Checkup",
+            "Vaccinations",
+            "Dental",
+            "Surgery"
+        ]
+    },
+    {
+        "id": "CLINIC-1004",
+        "name": "PetCare Clinic 4",
+        "address": "723 Main St, Cityville",
+        "phone": "555-0104",
+        "is_open_now": true,
+        "hours": {
+            "Monday": "8am - 6pm",
+            "Tuesday": "8am - 6pm",
+            "Wednesday": "8am - 6pm",
+            "Thursday": "8am - 6pm",
+            "Friday": "8am - 6pm",
+            "Saturday": "9am - 1pm",
+            "Sunday": "Closed"
+        },
+        "services": [
+            "General Checkup",
+            "Vaccinations",
+            "Dental",
+            "Surgery"
+        ]
+    },
+    {
+        "id": "CLINIC-1005",
+        "name": "PetCare Clinic 5",
+        "address": "750 Main St, Cityville",
+        "phone": "555-0105",
+        "is_open_now": true,
+        "hours": {
+            "Monday": "8am - 6pm",
+            "Tuesday": "8am - 6pm",
+            "Wednesday": "8am - 6pm",
+            "Thursday": "8am - 6pm",
+            "Friday": "8am - 6pm",
+            "Saturday": "9am - 1pm",
+            "Sunday": "Closed"
+        },
+        "services": [
+            "General Checkup",
+            "Vaccinations",
+            "Dental",
+            "Surgery"
+        ]
+    },
+    {
+        "id": "CLINIC-1006",
+        "name": "PetCare Clinic 6",
+        "address": "275 Main St, Cityville",
+        "phone": "555-0106",
+        "is_open_now": true,
+        "hours": {
+            "Monday": "8am - 6pm",
+            "Tuesday": "8am - 6pm",
+            "Wednesday": "8am - 6pm",
+            "Thursday": "8am - 6pm",
+            "Friday": "8am - 6pm",
+            "Saturday": "9am - 1pm",
+            "Sunday": "Closed"
+        },
+        "services": [
+            "General Checkup",
+            "Vaccinations",
+            "Dental",
+            "Surgery"
+        ]
+    },
+    {
+        "id": "CLINIC-1007",
+        "name": "PetCare Clinic 7",
+        "address": "646 Main St, Cityville",
+        "phone": "555-0107",
+        "is_open_now": true,
+        "hours": {
+            "Monday": "8am - 6pm",
+            "Tuesday": "8am - 6pm",
+            "Wednesday": "8am - 6pm",
+            "Thursday": "8am - 6pm",
+            "Friday": "8am - 6pm",
+            "Saturday": "9am - 1pm",
+            "Sunday": "Closed"
+        },
+        "services": [
+            "General Checkup",
+            "Vaccinations",
+            "Dental",
+            "Surgery"
+        ]
+    },
+    {
+        "id": "CLINIC-1008",
+        "name": "PetCare Clinic 8",
+        "address": "846 Main St, Cityville",
+        "phone": "555-0108",
+        "is_open_now": true,
+        "hours": {
+            "Monday": "8am - 6pm",
+            "Tuesday": "8am - 6pm",
+            "Wednesday": "8am - 6pm",
+            "Thursday": "8am - 6pm",
+            "Friday": "8am - 6pm",
+            "Saturday": "9am - 1pm",
+            "Sunday": "Closed"
+        },
+        "services": [
+            "General Checkup",
+            "Vaccinations",
+            "Dental",
+            "Surgery"
+        ]
+    },
+    {
+        "id": "CLINIC-1009",
+        "name": "PetCare Clinic 9",
+        "address": "350 Main St, Cityville",
+        "phone": "555-0109",
+        "is_open_now": true,
+        "hours": {
+            "Monday": "8am - 6pm",
+            "Tuesday": "8am - 6pm",
+            "Wednesday": "8am - 6pm",
+            "Thursday": "8am - 6pm",
+            "Friday": "8am - 6pm",
+            "Saturday": "9am - 1pm",
+            "Sunday": "Closed"
+        },
+        "services": [
+            "General Checkup",
+            "Vaccinations",
+            "Dental",
+            "Surgery"
+        ]
+    },
+    {
+        "id": "CLINIC-1010",
+        "name": "PetCare Clinic 10",
+        "address": "267 Main St, Cityville",
+        "phone": "555-0110",
+        "is_open_now": true,
+        "hours": {
+            "Monday": "8am - 6pm",
+            "Tuesday": "8am - 6pm",
+            "Wednesday": "8am - 6pm",
+            "Thursday": "8am - 6pm",
+            "Friday": "8am - 6pm",
+            "Saturday": "9am - 1pm",
+            "Sunday": "Closed"
+        },
+        "services": [
+            "General Checkup",
+            "Vaccinations",
+            "Dental",
+            "Surgery"
+        ]
     }
 ]

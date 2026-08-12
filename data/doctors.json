@@ -2,13 +2,172 @@
     {
         "id": "DOC-1001",
         "clinic_id": "CLINIC-1001",
-        "name": "Dr. Sarah Jenkins",
-        "specialties": ["General Practice", "Surgery"]
+        "name": "Dr. Vet 1",
+        "specialties": [
+            "Dermatology",
+            "Dental"
+        ]
     },
     {
         "id": "DOC-1002",
+        "clinic_id": "CLINIC-1002",
+        "name": "Dr. Vet 2",
+        "specialties": [
+            "Dental"
+        ]
+    },
+    {
+        "id": "DOC-1003",
+        "clinic_id": "CLINIC-1003",
+        "name": "Dr. Vet 3",
+        "specialties": [
+            "Surgery"
+        ]
+    },
+    {
+        "id": "DOC-1004",
+        "clinic_id": "CLINIC-1004",
+        "name": "Dr. Vet 4",
+        "specialties": [
+            "Dental"
+        ]
+    },
+    {
+        "id": "DOC-1005",
+        "clinic_id": "CLINIC-1005",
+        "name": "Dr. Vet 5",
+        "specialties": [
+            "Dental",
+            "General Practice"
+        ]
+    },
+    {
+        "id": "DOC-1006",
+        "clinic_id": "CLINIC-1006",
+        "name": "Dr. Vet 6",
+        "specialties": [
+            "Cardiology"
+        ]
+    },
+    {
+        "id": "DOC-1007",
+        "clinic_id": "CLINIC-1007",
+        "name": "Dr. Vet 7",
+        "specialties": [
+            "Surgery",
+            "Dermatology"
+        ]
+    },
+    {
+        "id": "DOC-1008",
+        "clinic_id": "CLINIC-1008",
+        "name": "Dr. Vet 8",
+        "specialties": [
+            "Dermatology",
+            "Surgery"
+        ]
+    },
+    {
+        "id": "DOC-1009",
+        "clinic_id": "CLINIC-1009",
+        "name": "Dr. Vet 9",
+        "specialties": [
+            "Surgery",
+            "Cardiology"
+        ]
+    },
+    {
+        "id": "DOC-1010",
+        "clinic_id": "CLINIC-1010",
+        "name": "Dr. Vet 10",
+        "specialties": [
+            "Cardiology",
+            "Dermatology"
+        ]
+    },
+    {
+        "id": "DOC-1011",
         "clinic_id": "CLINIC-1001",
-        "name": "Dr. Michael Chen",
-        "specialties": ["Dental", "Dermatology"]
+        "name": "Dr. Vet 11",
+        "specialties": [
+            "Dental",
+            "Surgery"
+        ]
+    },
+    {
+        "id": "DOC-1012",
+        "clinic_id": "CLINIC-1002",
+        "name": "Dr. Vet 12",
+        "specialties": [
+            "Cardiology"
+        ]
+    },
+    {
+        "id": "DOC-1013",
+        "clinic_id": "CLINIC-1003",
+        "name": "Dr. Vet 13",
+        "specialties": [
+            "General Practice",
+            "Cardiology"
+        ]
+    },
+    {
+        "id": "DOC-1014",
+        "clinic_id": "CLINIC-1004",
+        "name": "Dr. Vet 14",
+        "specialties": [
+            "Surgery"
+        ]
+    },
+    {
+        "id": "DOC-1015",
+        "clinic_id": "CLINIC-1005",
+        "name": "Dr. Vet 15",
+        "specialties": [
+            "Dermatology"
+        ]
+    },
+    {
+        "id": "DOC-1016",
+        "clinic_id": "CLINIC-1006",
+        "name": "Dr. Vet 16",
+        "specialties": [
+            "Dermatology"
+        ]
+    },
+    {
+        "id": "DOC-1017",
+        "clinic_id": "CLINIC-1007",
+        "name": "Dr. Vet 17",
+        "specialties": [
+            "Cardiology",
+            "Dermatology"
+        ]
+    },
+    {
+        "id": "DOC-1018",
+        "clinic_id": "CLINIC-1008",
+        "name": "Dr. Vet 18",
+        "specialties": [
+            "Cardiology",
+            "General Practice"
+        ]
+    },
+    {
+        "id": "DOC-1019",
+        "clinic_id": "CLINIC-1009",
+        "name": "Dr. Vet 19",
+        "specialties": [
+            "Cardiology"
+        ]
+    },
+    {
+        "id": "DOC-1020",
+        "clinic_id": "CLINIC-1010",
+        "name": "Dr. Vet 20",
+        "specialties": [
+            "Dental",
+            "General Practice"
+        ]
     }
 ]

@@ -1,12 +1,302 @@
 [
     {
         "id": "RX-1001",
-        "pet_id": "PET-1001",
-        "doctor_id": "DOC-1001",
-        "medication": "Apoquel 16mg",
-        "dosage": "1 tablet daily",
+        "pet_id": "PET-1009",
+        "doctor_id": "DOC-1004",
+        "medication": "Amoxicillin",
+        "dosage": "1 tablet(s) daily",
         "instructions": "Give with food",
         "refills_remaining": 2,
-        "issue_date": "2026-07-01T09:00:00"
+        "issue_date": "2026-07-20T00:19:12.488196"
+    },
+    {
+        "id": "RX-1002",
+        "pet_id": "PET-1010",
+        "doctor_id": "DOC-1020",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-07-07T00:19:12.488196"
+    },
+    {
+        "id": "RX-1003",
+        "pet_id": "PET-1009",
+        "doctor_id": "DOC-1017",
+        "medication": "Heartgard Plus",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-06-01T00:19:12.488196"
+    },
+    {
+        "id": "RX-1004",
+        "pet_id": "PET-1014",
+        "doctor_id": "DOC-1009",
+        "medication": "Apoquel 16mg",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-07-28T00:19:12.488196"
+    },
+    {
+        "id": "RX-1005",
+        "pet_id": "PET-1009",
+        "doctor_id": "DOC-1006",
+        "medication": "Carprofen",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-06-07T00:19:12.488196"
+    },
+    {
+        "id": "RX-1006",
+        "pet_id": "PET-1004",
+        "doctor_id": "DOC-1003",
+        "medication": "Bravecto 16mg",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-05-06T00:19:12.488196"
+    },
+    {
+        "id": "RX-1007",
+        "pet_id": "PET-1019",
+        "doctor_id": "DOC-1018",
+        "medication": "NexGard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-07-15T00:19:12.488196"
+    },
+    {
+        "id": "RX-1008",
+        "pet_id": "PET-1010",
+        "doctor_id": "DOC-1012",
+        "medication": "Heartgard Plus",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-07-28T00:19:12.488196"
+    },
+    {
+        "id": "RX-1009",
+        "pet_id": "PET-1004",
+        "doctor_id": "DOC-1012",
+        "medication": "Metacam",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-05-23T00:19:12.488196"
+    },
+    {
+        "id": "RX-1010",
+        "pet_id": "PET-1008",
+        "doctor_id": "DOC-1006",
+        "medication": "NexGard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-07-11T00:19:12.488196"
+    },
+    {
+        "id": "RX-1011",
+        "pet_id": "PET-1011",
+        "doctor_id": "DOC-1014",
+        "medication": "Metacam",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-05-09T00:19:12.488196"
+    },
+    {
+        "id": "RX-1012",
+        "pet_id": "PET-1006",
+        "doctor_id": "DOC-1004",
+        "medication": "Metacam",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-06-15T00:19:12.488196"
+    },
+    {
+        "id": "RX-1013",
+        "pet_id": "PET-1008",
+        "doctor_id": "DOC-1007",
+        "medication": "Heartgard Plus",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-06-05T00:19:12.488196"
+    },
+    {
+        "id": "RX-1014",
+        "pet_id": "PET-1008",
+        "doctor_id": "DOC-1001",
+        "medication": "Bravecto 16mg",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-05-10T00:19:12.488196"
+    },
+    {
+        "id": "RX-1015",
+        "pet_id": "PET-1009",
+        "doctor_id": "DOC-1003",
+        "medication": "Heartgard Plus",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-06-28T00:19:12.488196"
+    },
+    {
+        "id": "RX-1016",
+        "pet_id": "PET-1001",
+        "doctor_id": "DOC-1004",
+        "medication": "Bravecto 16mg",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-06-30T00:19:12.488196"
+    },
+    {
+        "id": "RX-1017",
+        "pet_id": "PET-1004",
+        "doctor_id": "DOC-1020",
+        "medication": "Heartgard Plus",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-06-08T00:19:12.488196"
+    },
+    {
+        "id": "RX-1018",
+        "pet_id": "PET-1020",
+        "doctor_id": "DOC-1017",
+        "medication": "NexGard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-07-19T00:19:12.488196"
+    },
+    {
+        "id": "RX-1019",
+        "pet_id": "PET-1002",
+        "doctor_id": "DOC-1014",
+        "medication": "Carprofen",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-08-02T00:19:12.488196"
+    },
+    {
+        "id": "RX-1020",
+        "pet_id": "PET-1014",
+        "doctor_id": "DOC-1003",
+        "medication": "Heartgard Plus",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-05-09T00:19:12.488196"
+    },
+    {
+        "id": "RX-1021",
+        "pet_id": "PET-1010",
+        "doctor_id": "DOC-1017",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 2,
+        "issue_date": "2026-06-24T00:19:12.488196"
+    },
+    {
+        "id": "RX-1022",
+        "pet_id": "PET-1013",
+        "doctor_id": "DOC-1010",
+        "medication": "Bravecto 16mg",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-05-24T00:19:12.488196"
+    },
+    {
+        "id": "RX-1023",
+        "pet_id": "PET-1013",
+        "doctor_id": "DOC-1006",
+        "medication": "Carprofen",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-05-16T00:19:12.488196"
+    },
+    {
+        "id": "RX-1024",
+        "pet_id": "PET-1018",
+        "doctor_id": "DOC-1001",
+        "medication": "Heartgard Plus",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-06-25T00:19:12.488196"
+    },
+    {
+        "id": "RX-1025",
+        "pet_id": "PET-1019",
+        "doctor_id": "DOC-1020",
+        "medication": "Heartgard Plus",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-05-11T00:19:12.488196"
+    },
+    {
+        "id": "RX-1026",
+        "pet_id": "PET-1015",
+        "doctor_id": "DOC-1007",
+        "medication": "NexGard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-05-29T00:19:12.488196"
+    },
+    {
+        "id": "RX-1027",
+        "pet_id": "PET-1010",
+        "doctor_id": "DOC-1017",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 0,
+        "issue_date": "2026-05-10T00:19:12.488196"
+    },
+    {
+        "id": "RX-1028",
+        "pet_id": "PET-1008",
+        "doctor_id": "DOC-1010",
+        "medication": "Metacam",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 1,
+        "issue_date": "2026-07-05T00:19:12.488196"
+    },
+    {
+        "id": "RX-1029",
+        "pet_id": "PET-1001",
+        "doctor_id": "DOC-1002",
+        "medication": "NexGard",
+        "dosage": "1 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-07-02T00:19:12.488196"
+    },
+    {
+        "id": "RX-1030",
+        "pet_id": "PET-1014",
+        "doctor_id": "DOC-1019",
+        "medication": "Amoxicillin",
+        "dosage": "2 tablet(s) daily",
+        "instructions": "Give with food",
+        "refills_remaining": 3,
+        "issue_date": "2026-07-09T00:19:12.488196"
     }
 ]

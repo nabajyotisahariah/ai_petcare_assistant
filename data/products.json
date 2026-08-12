@@ -1,18 +1,802 @@
 [
     {
         "id": "PROD-1001",
-        "name": "Greenies Dental Treats for Large Dogs",
-        "category": "dental treats",
-        "price": 25.99,
-        "inventory_count": 50,
-        "description": "Daily dental chews for dogs."
+        "name": "Premium Pet Supplements 1",
+        "category": "supplements",
+        "price": 23.3,
+        "inventory_count": 83,
+        "description": "High quality supplements for your pet."
     },
     {
         "id": "PROD-1002",
-        "name": "Purina Pro Plan Adult Dog Food",
+        "name": "Premium Pet Dental Treats 2",
+        "category": "dental treats",
+        "price": 71.95,
+        "inventory_count": 98,
+        "description": "High quality dental treats for your pet."
+    },
+    {
+        "id": "PROD-1003",
+        "name": "Premium Pet Dental Treats 3",
+        "category": "dental treats",
+        "price": 63.38,
+        "inventory_count": 28,
+        "description": "High quality dental treats for your pet."
+    },
+    {
+        "id": "PROD-1004",
+        "name": "Premium Pet Food 4",
         "category": "food",
-        "price": 45.00,
+        "price": 65.31,
+        "inventory_count": 89,
+        "description": "High quality food for your pet."
+    },
+    {
+        "id": "PROD-1005",
+        "name": "Premium Pet Grooming 5",
+        "category": "grooming",
+        "price": 39.84,
+        "inventory_count": 71,
+        "description": "High quality grooming for your pet."
+    },
+    {
+        "id": "PROD-1006",
+        "name": "Premium Pet Food 6",
+        "category": "food",
+        "price": 73.81,
+        "inventory_count": 15,
+        "description": "High quality food for your pet."
+    },
+    {
+        "id": "PROD-1007",
+        "name": "Premium Pet Supplements 7",
+        "category": "supplements",
+        "price": 15.0,
+        "inventory_count": 59,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1008",
+        "name": "Premium Pet Grooming 8",
+        "category": "grooming",
+        "price": 79.09,
+        "inventory_count": 76,
+        "description": "High quality grooming for your pet."
+    },
+    {
+        "id": "PROD-1009",
+        "name": "Premium Pet Toys 9",
+        "category": "toys",
+        "price": 76.25,
+        "inventory_count": 56,
+        "description": "High quality toys for your pet."
+    },
+    {
+        "id": "PROD-1010",
+        "name": "Premium Pet Grooming 10",
+        "category": "grooming",
+        "price": 66.13,
+        "inventory_count": 64,
+        "description": "High quality grooming for your pet."
+    },
+    {
+        "id": "PROD-1011",
+        "name": "Premium Pet Supplements 11",
+        "category": "supplements",
+        "price": 67.29,
+        "inventory_count": 70,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1012",
+        "name": "Premium Pet Supplements 12",
+        "category": "supplements",
+        "price": 72.29,
+        "inventory_count": 95,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1013",
+        "name": "Premium Pet Supplements 13",
+        "category": "supplements",
+        "price": 38.76,
+        "inventory_count": 96,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1014",
+        "name": "Premium Pet Food 14",
+        "category": "food",
+        "price": 67.99,
+        "inventory_count": 35,
+        "description": "High quality food for your pet."
+    },
+    {
+        "id": "PROD-1015",
+        "name": "Premium Pet Grooming 15",
+        "category": "grooming",
+        "price": 41.34,
+        "inventory_count": 30,
+        "description": "High quality grooming for your pet."
+    },
+    {
+        "id": "PROD-1016",
+        "name": "Premium Pet Toys 16",
+        "category": "toys",
+        "price": 37.99,
+        "inventory_count": 91,
+        "description": "High quality toys for your pet."
+    },
+    {
+        "id": "PROD-1017",
+        "name": "Premium Pet Toys 17",
+        "category": "toys",
+        "price": 22.59,
+        "inventory_count": 42,
+        "description": "High quality toys for your pet."
+    },
+    {
+        "id": "PROD-1018",
+        "name": "Premium Pet Toys 18",
+        "category": "toys",
+        "price": 71.98,
+        "inventory_count": 10,
+        "description": "High quality toys for your pet."
+    },
+    {
+        "id": "PROD-1019",
+        "name": "Premium Pet Food 19",
+        "category": "food",
+        "price": 16.31,
+        "inventory_count": 49,
+        "description": "High quality food for your pet."
+    },
+    {
+        "id": "PROD-1020",
+        "name": "Premium Pet Food 20",
+        "category": "food",
+        "price": 57.98,
+        "inventory_count": 8,
+        "description": "High quality food for your pet."
+    },
+    {
+        "id": "PROD-1021",
+        "name": "Premium Pet Supplements 21",
+        "category": "supplements",
+        "price": 35.57,
+        "inventory_count": 69,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1022",
+        "name": "Premium Pet Supplements 22",
+        "category": "supplements",
+        "price": 36.18,
+        "inventory_count": 26,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1023",
+        "name": "Premium Pet Supplements 23",
+        "category": "supplements",
+        "price": 34.21,
+        "inventory_count": 98,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1024",
+        "name": "Premium Pet Grooming 24",
+        "category": "grooming",
+        "price": 75.95,
+        "inventory_count": 2,
+        "description": "High quality grooming for your pet."
+    },
+    {
+        "id": "PROD-1025",
+        "name": "Premium Pet Grooming 25",
+        "category": "grooming",
+        "price": 33.53,
+        "inventory_count": 0,
+        "description": "High quality grooming for your pet."
+    },
+    {
+        "id": "PROD-1026",
+        "name": "Premium Pet Toys 26",
+        "category": "toys",
+        "price": 27.4,
+        "inventory_count": 49,
+        "description": "High quality toys for your pet."
+    },
+    {
+        "id": "PROD-1027",
+        "name": "Premium Pet Supplements 27",
+        "category": "supplements",
+        "price": 45.37,
+        "inventory_count": 94,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1028",
+        "name": "Premium Pet Grooming 28",
+        "category": "grooming",
+        "price": 64.99,
+        "inventory_count": 28,
+        "description": "High quality grooming for your pet."
+    },
+    {
+        "id": "PROD-1029",
+        "name": "Premium Pet Supplements 29",
+        "category": "supplements",
+        "price": 21.46,
+        "inventory_count": 55,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1030",
+        "name": "Premium Pet Supplements 30",
+        "category": "supplements",
+        "price": 7.18,
+        "inventory_count": 43,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1031",
+        "name": "Premium Pet Supplements 31",
+        "category": "supplements",
+        "price": 59.31,
+        "inventory_count": 59,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1032",
+        "name": "Premium Pet Food 32",
+        "category": "food",
+        "price": 78.55,
+        "inventory_count": 68,
+        "description": "High quality food for your pet."
+    },
+    {
+        "id": "PROD-1033",
+        "name": "Premium Pet Dental Treats 33",
+        "category": "dental treats",
+        "price": 73.02,
+        "inventory_count": 75,
+        "description": "High quality dental treats for your pet."
+    },
+    {
+        "id": "PROD-1034",
+        "name": "Premium Pet Grooming 34",
+        "category": "grooming",
+        "price": 54.72,
+        "inventory_count": 10,
+        "description": "High quality grooming for your pet."
+    },
+    {
+        "id": "PROD-1035",
+        "name": "Premium Pet Supplements 35",
+        "category": "supplements",
+        "price": 15.18,
+        "inventory_count": 59,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1036",
+        "name": "Premium Pet Food 36",
+        "category": "food",
+        "price": 8.77,
+        "inventory_count": 48,
+        "description": "High quality food for your pet."
+    },
+    {
+        "id": "PROD-1037",
+        "name": "Premium Pet Toys 37",
+        "category": "toys",
+        "price": 20.87,
+        "inventory_count": 41,
+        "description": "High quality toys for your pet."
+    },
+    {
+        "id": "PROD-1038",
+        "name": "Premium Pet Toys 38",
+        "category": "toys",
+        "price": 62.09,
+        "inventory_count": 48,
+        "description": "High quality toys for your pet."
+    },
+    {
+        "id": "PROD-1039",
+        "name": "Premium Pet Toys 39",
+        "category": "toys",
+        "price": 61.4,
+        "inventory_count": 53,
+        "description": "High quality toys for your pet."
+    },
+    {
+        "id": "PROD-1040",
+        "name": "Premium Pet Toys 40",
+        "category": "toys",
+        "price": 67.62,
+        "inventory_count": 60,
+        "description": "High quality toys for your pet."
+    },
+    {
+        "id": "PROD-1041",
+        "name": "Premium Pet Dental Treats 41",
+        "category": "dental treats",
+        "price": 61.18,
+        "inventory_count": 6,
+        "description": "High quality dental treats for your pet."
+    },
+    {
+        "id": "PROD-1042",
+        "name": "Premium Pet Toys 42",
+        "category": "toys",
+        "price": 21.82,
+        "inventory_count": 8,
+        "description": "High quality toys for your pet."
+    },
+    {
+        "id": "PROD-1043",
+        "name": "Premium Pet Dental Treats 43",
+        "category": "dental treats",
+        "price": 61.57,
+        "inventory_count": 31,
+        "description": "High quality dental treats for your pet."
+    },
+    {
+        "id": "PROD-1044",
+        "name": "Premium Pet Food 44",
+        "category": "food",
+        "price": 67.94,
+        "inventory_count": 79,
+        "description": "High quality food for your pet."
+    },
+    {
+        "id": "PROD-1045",
+        "name": "Premium Pet Food 45",
+        "category": "food",
+        "price": 22.89,
+        "inventory_count": 60,
+        "description": "High quality food for your pet."
+    },
+    {
+        "id": "PROD-1046",
+        "name": "Premium Pet Dental Treats 46",
+        "category": "dental treats",
+        "price": 47.3,
+        "inventory_count": 27,
+        "description": "High quality dental treats for your pet."
+    },
+    {
+        "id": "PROD-1047",
+        "name": "Premium Pet Supplements 47",
+        "category": "supplements",
+        "price": 57.46,
+        "inventory_count": 98,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1048",
+        "name": "Premium Pet Toys 48",
+        "category": "toys",
+        "price": 17.58,
+        "inventory_count": 77,
+        "description": "High quality toys for your pet."
+    },
+    {
+        "id": "PROD-1049",
+        "name": "Premium Pet Dental Treats 49",
+        "category": "dental treats",
+        "price": 63.33,
         "inventory_count": 20,
-        "description": "High protein dry dog food."
+        "description": "High quality dental treats for your pet."
+    },
+    {
+        "id": "PROD-1050",
+        "name": "Premium Pet Toys 50",
+        "category": "toys",
+        "price": 13.11,
+        "inventory_count": 3,
+        "description": "High quality toys for your pet."
+    },
+    {
+        "id": "PROD-1051",
+        "name": "Premium Pet Toys 51",
+        "category": "toys",
+        "price": 48.18,
+        "inventory_count": 48,
+        "description": "High quality toys for your pet."
+    },
+    {
+        "id": "PROD-1052",
+        "name": "Premium Pet Supplements 52",
+        "category": "supplements",
+        "price": 75.61,
+        "inventory_count": 25,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1053",
+        "name": "Premium Pet Dental Treats 53",
+        "category": "dental treats",
+        "price": 49.41,
+        "inventory_count": 80,
+        "description": "High quality dental treats for your pet."
+    },
+    {
+        "id": "PROD-1054",
+        "name": "Premium Pet Food 54",
+        "category": "food",
+        "price": 12.64,
+        "inventory_count": 98,
+        "description": "High quality food for your pet."
+    },
+    {
+        "id": "PROD-1055",
+        "name": "Premium Pet Toys 55",
+        "category": "toys",
+        "price": 68.77,
+        "inventory_count": 76,
+        "description": "High quality toys for your pet."
+    },
+    {
+        "id": "PROD-1056",
+        "name": "Premium Pet Dental Treats 56",
+        "category": "dental treats",
+        "price": 64.72,
+        "inventory_count": 72,
+        "description": "High quality dental treats for your pet."
+    },
+    {
+        "id": "PROD-1057",
+        "name": "Premium Pet Dental Treats 57",
+        "category": "dental treats",
+        "price": 31.04,
+        "inventory_count": 54,
+        "description": "High quality dental treats for your pet."
+    },
+    {
+        "id": "PROD-1058",
+        "name": "Premium Pet Toys 58",
+        "category": "toys",
+        "price": 10.17,
+        "inventory_count": 82,
+        "description": "High quality toys for your pet."
+    },
+    {
+        "id": "PROD-1059",
+        "name": "Premium Pet Toys 59",
+        "category": "toys",
+        "price": 5.95,
+        "inventory_count": 53,
+        "description": "High quality toys for your pet."
+    },
+    {
+        "id": "PROD-1060",
+        "name": "Premium Pet Supplements 60",
+        "category": "supplements",
+        "price": 12.92,
+        "inventory_count": 46,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1061",
+        "name": "Premium Pet Supplements 61",
+        "category": "supplements",
+        "price": 58.05,
+        "inventory_count": 55,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1062",
+        "name": "Premium Pet Food 62",
+        "category": "food",
+        "price": 60.03,
+        "inventory_count": 83,
+        "description": "High quality food for your pet."
+    },
+    {
+        "id": "PROD-1063",
+        "name": "Premium Pet Toys 63",
+        "category": "toys",
+        "price": 51.19,
+        "inventory_count": 68,
+        "description": "High quality toys for your pet."
+    },
+    {
+        "id": "PROD-1064",
+        "name": "Premium Pet Supplements 64",
+        "category": "supplements",
+        "price": 39.87,
+        "inventory_count": 93,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1065",
+        "name": "Premium Pet Grooming 65",
+        "category": "grooming",
+        "price": 25.13,
+        "inventory_count": 31,
+        "description": "High quality grooming for your pet."
+    },
+    {
+        "id": "PROD-1066",
+        "name": "Premium Pet Dental Treats 66",
+        "category": "dental treats",
+        "price": 25.92,
+        "inventory_count": 57,
+        "description": "High quality dental treats for your pet."
+    },
+    {
+        "id": "PROD-1067",
+        "name": "Premium Pet Food 67",
+        "category": "food",
+        "price": 61.29,
+        "inventory_count": 72,
+        "description": "High quality food for your pet."
+    },
+    {
+        "id": "PROD-1068",
+        "name": "Premium Pet Grooming 68",
+        "category": "grooming",
+        "price": 55.11,
+        "inventory_count": 43,
+        "description": "High quality grooming for your pet."
+    },
+    {
+        "id": "PROD-1069",
+        "name": "Premium Pet Dental Treats 69",
+        "category": "dental treats",
+        "price": 42.07,
+        "inventory_count": 41,
+        "description": "High quality dental treats for your pet."
+    },
+    {
+        "id": "PROD-1070",
+        "name": "Premium Pet Food 70",
+        "category": "food",
+        "price": 41.57,
+        "inventory_count": 45,
+        "description": "High quality food for your pet."
+    },
+    {
+        "id": "PROD-1071",
+        "name": "Premium Pet Toys 71",
+        "category": "toys",
+        "price": 30.53,
+        "inventory_count": 76,
+        "description": "High quality toys for your pet."
+    },
+    {
+        "id": "PROD-1072",
+        "name": "Premium Pet Toys 72",
+        "category": "toys",
+        "price": 46.68,
+        "inventory_count": 66,
+        "description": "High quality toys for your pet."
+    },
+    {
+        "id": "PROD-1073",
+        "name": "Premium Pet Food 73",
+        "category": "food",
+        "price": 11.42,
+        "inventory_count": 92,
+        "description": "High quality food for your pet."
+    },
+    {
+        "id": "PROD-1074",
+        "name": "Premium Pet Supplements 74",
+        "category": "supplements",
+        "price": 41.64,
+        "inventory_count": 97,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1075",
+        "name": "Premium Pet Food 75",
+        "category": "food",
+        "price": 56.8,
+        "inventory_count": 82,
+        "description": "High quality food for your pet."
+    },
+    {
+        "id": "PROD-1076",
+        "name": "Premium Pet Supplements 76",
+        "category": "supplements",
+        "price": 38.61,
+        "inventory_count": 2,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1077",
+        "name": "Premium Pet Dental Treats 77",
+        "category": "dental treats",
+        "price": 27.07,
+        "inventory_count": 51,
+        "description": "High quality dental treats for your pet."
+    },
+    {
+        "id": "PROD-1078",
+        "name": "Premium Pet Food 78",
+        "category": "food",
+        "price": 27.97,
+        "inventory_count": 74,
+        "description": "High quality food for your pet."
+    },
+    {
+        "id": "PROD-1079",
+        "name": "Premium Pet Toys 79",
+        "category": "toys",
+        "price": 40.49,
+        "inventory_count": 67,
+        "description": "High quality toys for your pet."
+    },
+    {
+        "id": "PROD-1080",
+        "name": "Premium Pet Toys 80",
+        "category": "toys",
+        "price": 36.91,
+        "inventory_count": 95,
+        "description": "High quality toys for your pet."
+    },
+    {
+        "id": "PROD-1081",
+        "name": "Premium Pet Grooming 81",
+        "category": "grooming",
+        "price": 29.81,
+        "inventory_count": 89,
+        "description": "High quality grooming for your pet."
+    },
+    {
+        "id": "PROD-1082",
+        "name": "Premium Pet Supplements 82",
+        "category": "supplements",
+        "price": 25.32,
+        "inventory_count": 32,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1083",
+        "name": "Premium Pet Food 83",
+        "category": "food",
+        "price": 14.05,
+        "inventory_count": 24,
+        "description": "High quality food for your pet."
+    },
+    {
+        "id": "PROD-1084",
+        "name": "Premium Pet Toys 84",
+        "category": "toys",
+        "price": 13.97,
+        "inventory_count": 68,
+        "description": "High quality toys for your pet."
+    },
+    {
+        "id": "PROD-1085",
+        "name": "Premium Pet Food 85",
+        "category": "food",
+        "price": 19.37,
+        "inventory_count": 94,
+        "description": "High quality food for your pet."
+    },
+    {
+        "id": "PROD-1086",
+        "name": "Premium Pet Supplements 86",
+        "category": "supplements",
+        "price": 25.74,
+        "inventory_count": 75,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1087",
+        "name": "Premium Pet Grooming 87",
+        "category": "grooming",
+        "price": 49.76,
+        "inventory_count": 12,
+        "description": "High quality grooming for your pet."
+    },
+    {
+        "id": "PROD-1088",
+        "name": "Premium Pet Food 88",
+        "category": "food",
+        "price": 27.22,
+        "inventory_count": 46,
+        "description": "High quality food for your pet."
+    },
+    {
+        "id": "PROD-1089",
+        "name": "Premium Pet Food 89",
+        "category": "food",
+        "price": 27.67,
+        "inventory_count": 90,
+        "description": "High quality food for your pet."
+    },
+    {
+        "id": "PROD-1090",
+        "name": "Premium Pet Grooming 90",
+        "category": "grooming",
+        "price": 14.49,
+        "inventory_count": 5,
+        "description": "High quality grooming for your pet."
+    },
+    {
+        "id": "PROD-1091",
+        "name": "Premium Pet Dental Treats 91",
+        "category": "dental treats",
+        "price": 46.5,
+        "inventory_count": 89,
+        "description": "High quality dental treats for your pet."
+    },
+    {
+        "id": "PROD-1092",
+        "name": "Premium Pet Food 92",
+        "category": "food",
+        "price": 52.84,
+        "inventory_count": 96,
+        "description": "High quality food for your pet."
+    },
+    {
+        "id": "PROD-1093",
+        "name": "Premium Pet Supplements 93",
+        "category": "supplements",
+        "price": 12.69,
+        "inventory_count": 1,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1094",
+        "name": "Premium Pet Grooming 94",
+        "category": "grooming",
+        "price": 26.33,
+        "inventory_count": 61,
+        "description": "High quality grooming for your pet."
+    },
+    {
+        "id": "PROD-1095",
+        "name": "Premium Pet Supplements 95",
+        "category": "supplements",
+        "price": 30.55,
+        "inventory_count": 6,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1096",
+        "name": "Premium Pet Toys 96",
+        "category": "toys",
+        "price": 75.58,
+        "inventory_count": 61,
+        "description": "High quality toys for your pet."
+    },
+    {
+        "id": "PROD-1097",
+        "name": "Premium Pet Dental Treats 97",
+        "category": "dental treats",
+        "price": 66.66,
+        "inventory_count": 51,
+        "description": "High quality dental treats for your pet."
+    },
+    {
+        "id": "PROD-1098",
+        "name": "Premium Pet Supplements 98",
+        "category": "supplements",
+        "price": 10.56,
+        "inventory_count": 80,
+        "description": "High quality supplements for your pet."
+    },
+    {
+        "id": "PROD-1099",
+        "name": "Premium Pet Dental Treats 99",
+        "category": "dental treats",
+        "price": 16.38,
+        "inventory_count": 72,
+        "description": "High quality dental treats for your pet."
+    },
+    {
+        "id": "PROD-1100",
+        "name": "Premium Pet Toys 100",
+        "category": "toys",
+        "price": 11.39,
+        "inventory_count": 31,
+        "description": "High quality toys for your pet."
     }
 ]

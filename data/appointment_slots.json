@@ -1,23 +1,702 @@
 [
     {
-        "id": "SLOT-123",
+        "id": "SLOT-100",
         "clinic_id": "CLINIC-1001",
         "doctor_id": "DOC-1001",
-        "datetime": "2026-08-15T10:30:00",
+        "datetime": "2026-08-13T13:00:00",
         "is_available": true
     },
     {
-        "id": "SLOT-124",
+        "id": "SLOT-101",
         "clinic_id": "CLINIC-1001",
         "doctor_id": "DOC-1001",
+        "datetime": "2026-08-14T11:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-102",
+        "clinic_id": "CLINIC-1001",
+        "doctor_id": "DOC-1001",
+        "datetime": "2026-08-15T09:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-103",
+        "clinic_id": "CLINIC-1001",
+        "doctor_id": "DOC-1001",
+        "datetime": "2026-08-16T13:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-104",
+        "clinic_id": "CLINIC-1001",
+        "doctor_id": "DOC-1001",
+        "datetime": "2026-08-17T11:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-105",
+        "clinic_id": "CLINIC-1002",
+        "doctor_id": "DOC-1002",
+        "datetime": "2026-08-13T10:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-106",
+        "clinic_id": "CLINIC-1002",
+        "doctor_id": "DOC-1002",
+        "datetime": "2026-08-14T13:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-107",
+        "clinic_id": "CLINIC-1002",
+        "doctor_id": "DOC-1002",
+        "datetime": "2026-08-15T12:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-108",
+        "clinic_id": "CLINIC-1002",
+        "doctor_id": "DOC-1002",
+        "datetime": "2026-08-16T14:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-109",
+        "clinic_id": "CLINIC-1002",
+        "doctor_id": "DOC-1002",
+        "datetime": "2026-08-17T09:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-110",
+        "clinic_id": "CLINIC-1003",
+        "doctor_id": "DOC-1003",
+        "datetime": "2026-08-13T14:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-111",
+        "clinic_id": "CLINIC-1003",
+        "doctor_id": "DOC-1003",
+        "datetime": "2026-08-14T09:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-112",
+        "clinic_id": "CLINIC-1003",
+        "doctor_id": "DOC-1003",
+        "datetime": "2026-08-15T14:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-113",
+        "clinic_id": "CLINIC-1003",
+        "doctor_id": "DOC-1003",
+        "datetime": "2026-08-16T12:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-114",
+        "clinic_id": "CLINIC-1003",
+        "doctor_id": "DOC-1003",
+        "datetime": "2026-08-17T12:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-115",
+        "clinic_id": "CLINIC-1004",
+        "doctor_id": "DOC-1004",
+        "datetime": "2026-08-13T10:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-116",
+        "clinic_id": "CLINIC-1004",
+        "doctor_id": "DOC-1004",
+        "datetime": "2026-08-14T16:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-117",
+        "clinic_id": "CLINIC-1004",
+        "doctor_id": "DOC-1004",
         "datetime": "2026-08-15T11:00:00",
         "is_available": true
     },
     {
-        "id": "SLOT-125",
-        "clinic_id": "CLINIC-1002",
-        "doctor_id": "DOC-1002",
+        "id": "SLOT-118",
+        "clinic_id": "CLINIC-1004",
+        "doctor_id": "DOC-1004",
+        "datetime": "2026-08-16T16:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-119",
+        "clinic_id": "CLINIC-1004",
+        "doctor_id": "DOC-1004",
+        "datetime": "2026-08-17T11:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-120",
+        "clinic_id": "CLINIC-1005",
+        "doctor_id": "DOC-1005",
+        "datetime": "2026-08-13T15:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-121",
+        "clinic_id": "CLINIC-1005",
+        "doctor_id": "DOC-1005",
+        "datetime": "2026-08-14T12:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-122",
+        "clinic_id": "CLINIC-1005",
+        "doctor_id": "DOC-1005",
+        "datetime": "2026-08-15T13:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-123",
+        "clinic_id": "CLINIC-1005",
+        "doctor_id": "DOC-1005",
         "datetime": "2026-08-16T14:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-124",
+        "clinic_id": "CLINIC-1005",
+        "doctor_id": "DOC-1005",
+        "datetime": "2026-08-17T16:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-125",
+        "clinic_id": "CLINIC-1006",
+        "doctor_id": "DOC-1006",
+        "datetime": "2026-08-13T12:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-126",
+        "clinic_id": "CLINIC-1006",
+        "doctor_id": "DOC-1006",
+        "datetime": "2026-08-14T10:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-127",
+        "clinic_id": "CLINIC-1006",
+        "doctor_id": "DOC-1006",
+        "datetime": "2026-08-15T09:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-128",
+        "clinic_id": "CLINIC-1006",
+        "doctor_id": "DOC-1006",
+        "datetime": "2026-08-16T12:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-129",
+        "clinic_id": "CLINIC-1006",
+        "doctor_id": "DOC-1006",
+        "datetime": "2026-08-17T12:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-130",
+        "clinic_id": "CLINIC-1007",
+        "doctor_id": "DOC-1007",
+        "datetime": "2026-08-13T10:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-131",
+        "clinic_id": "CLINIC-1007",
+        "doctor_id": "DOC-1007",
+        "datetime": "2026-08-14T09:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-132",
+        "clinic_id": "CLINIC-1007",
+        "doctor_id": "DOC-1007",
+        "datetime": "2026-08-15T10:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-133",
+        "clinic_id": "CLINIC-1007",
+        "doctor_id": "DOC-1007",
+        "datetime": "2026-08-16T14:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-134",
+        "clinic_id": "CLINIC-1007",
+        "doctor_id": "DOC-1007",
+        "datetime": "2026-08-17T12:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-135",
+        "clinic_id": "CLINIC-1008",
+        "doctor_id": "DOC-1008",
+        "datetime": "2026-08-13T16:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-136",
+        "clinic_id": "CLINIC-1008",
+        "doctor_id": "DOC-1008",
+        "datetime": "2026-08-14T11:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-137",
+        "clinic_id": "CLINIC-1008",
+        "doctor_id": "DOC-1008",
+        "datetime": "2026-08-15T16:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-138",
+        "clinic_id": "CLINIC-1008",
+        "doctor_id": "DOC-1008",
+        "datetime": "2026-08-16T16:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-139",
+        "clinic_id": "CLINIC-1008",
+        "doctor_id": "DOC-1008",
+        "datetime": "2026-08-17T12:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-140",
+        "clinic_id": "CLINIC-1009",
+        "doctor_id": "DOC-1009",
+        "datetime": "2026-08-13T10:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-141",
+        "clinic_id": "CLINIC-1009",
+        "doctor_id": "DOC-1009",
+        "datetime": "2026-08-14T15:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-142",
+        "clinic_id": "CLINIC-1009",
+        "doctor_id": "DOC-1009",
+        "datetime": "2026-08-15T15:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-143",
+        "clinic_id": "CLINIC-1009",
+        "doctor_id": "DOC-1009",
+        "datetime": "2026-08-16T16:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-144",
+        "clinic_id": "CLINIC-1009",
+        "doctor_id": "DOC-1009",
+        "datetime": "2026-08-17T09:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-145",
+        "clinic_id": "CLINIC-1010",
+        "doctor_id": "DOC-1010",
+        "datetime": "2026-08-13T10:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-146",
+        "clinic_id": "CLINIC-1010",
+        "doctor_id": "DOC-1010",
+        "datetime": "2026-08-14T15:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-147",
+        "clinic_id": "CLINIC-1010",
+        "doctor_id": "DOC-1010",
+        "datetime": "2026-08-15T14:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-148",
+        "clinic_id": "CLINIC-1010",
+        "doctor_id": "DOC-1010",
+        "datetime": "2026-08-16T12:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-149",
+        "clinic_id": "CLINIC-1010",
+        "doctor_id": "DOC-1010",
+        "datetime": "2026-08-17T12:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-150",
+        "clinic_id": "CLINIC-1001",
+        "doctor_id": "DOC-1011",
+        "datetime": "2026-08-13T16:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-151",
+        "clinic_id": "CLINIC-1001",
+        "doctor_id": "DOC-1011",
+        "datetime": "2026-08-14T15:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-152",
+        "clinic_id": "CLINIC-1001",
+        "doctor_id": "DOC-1011",
+        "datetime": "2026-08-15T13:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-153",
+        "clinic_id": "CLINIC-1001",
+        "doctor_id": "DOC-1011",
+        "datetime": "2026-08-16T12:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-154",
+        "clinic_id": "CLINIC-1001",
+        "doctor_id": "DOC-1011",
+        "datetime": "2026-08-17T16:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-155",
+        "clinic_id": "CLINIC-1002",
+        "doctor_id": "DOC-1012",
+        "datetime": "2026-08-13T10:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-156",
+        "clinic_id": "CLINIC-1002",
+        "doctor_id": "DOC-1012",
+        "datetime": "2026-08-14T09:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-157",
+        "clinic_id": "CLINIC-1002",
+        "doctor_id": "DOC-1012",
+        "datetime": "2026-08-15T12:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-158",
+        "clinic_id": "CLINIC-1002",
+        "doctor_id": "DOC-1012",
+        "datetime": "2026-08-16T15:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-159",
+        "clinic_id": "CLINIC-1002",
+        "doctor_id": "DOC-1012",
+        "datetime": "2026-08-17T16:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-160",
+        "clinic_id": "CLINIC-1003",
+        "doctor_id": "DOC-1013",
+        "datetime": "2026-08-13T15:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-161",
+        "clinic_id": "CLINIC-1003",
+        "doctor_id": "DOC-1013",
+        "datetime": "2026-08-14T11:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-162",
+        "clinic_id": "CLINIC-1003",
+        "doctor_id": "DOC-1013",
+        "datetime": "2026-08-15T09:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-163",
+        "clinic_id": "CLINIC-1003",
+        "doctor_id": "DOC-1013",
+        "datetime": "2026-08-16T13:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-164",
+        "clinic_id": "CLINIC-1003",
+        "doctor_id": "DOC-1013",
+        "datetime": "2026-08-17T13:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-165",
+        "clinic_id": "CLINIC-1004",
+        "doctor_id": "DOC-1014",
+        "datetime": "2026-08-13T16:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-166",
+        "clinic_id": "CLINIC-1004",
+        "doctor_id": "DOC-1014",
+        "datetime": "2026-08-14T12:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-167",
+        "clinic_id": "CLINIC-1004",
+        "doctor_id": "DOC-1014",
+        "datetime": "2026-08-15T12:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-168",
+        "clinic_id": "CLINIC-1004",
+        "doctor_id": "DOC-1014",
+        "datetime": "2026-08-16T09:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-169",
+        "clinic_id": "CLINIC-1004",
+        "doctor_id": "DOC-1014",
+        "datetime": "2026-08-17T14:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-170",
+        "clinic_id": "CLINIC-1005",
+        "doctor_id": "DOC-1015",
+        "datetime": "2026-08-13T09:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-171",
+        "clinic_id": "CLINIC-1005",
+        "doctor_id": "DOC-1015",
+        "datetime": "2026-08-14T16:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-172",
+        "clinic_id": "CLINIC-1005",
+        "doctor_id": "DOC-1015",
+        "datetime": "2026-08-15T11:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-173",
+        "clinic_id": "CLINIC-1005",
+        "doctor_id": "DOC-1015",
+        "datetime": "2026-08-16T10:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-174",
+        "clinic_id": "CLINIC-1005",
+        "doctor_id": "DOC-1015",
+        "datetime": "2026-08-17T10:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-175",
+        "clinic_id": "CLINIC-1006",
+        "doctor_id": "DOC-1016",
+        "datetime": "2026-08-13T10:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-176",
+        "clinic_id": "CLINIC-1006",
+        "doctor_id": "DOC-1016",
+        "datetime": "2026-08-14T12:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-177",
+        "clinic_id": "CLINIC-1006",
+        "doctor_id": "DOC-1016",
+        "datetime": "2026-08-15T10:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-178",
+        "clinic_id": "CLINIC-1006",
+        "doctor_id": "DOC-1016",
+        "datetime": "2026-08-16T12:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-179",
+        "clinic_id": "CLINIC-1006",
+        "doctor_id": "DOC-1016",
+        "datetime": "2026-08-17T09:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-180",
+        "clinic_id": "CLINIC-1007",
+        "doctor_id": "DOC-1017",
+        "datetime": "2026-08-13T10:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-181",
+        "clinic_id": "CLINIC-1007",
+        "doctor_id": "DOC-1017",
+        "datetime": "2026-08-14T14:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-182",
+        "clinic_id": "CLINIC-1007",
+        "doctor_id": "DOC-1017",
+        "datetime": "2026-08-15T12:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-183",
+        "clinic_id": "CLINIC-1007",
+        "doctor_id": "DOC-1017",
+        "datetime": "2026-08-16T14:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-184",
+        "clinic_id": "CLINIC-1007",
+        "doctor_id": "DOC-1017",
+        "datetime": "2026-08-17T13:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-185",
+        "clinic_id": "CLINIC-1008",
+        "doctor_id": "DOC-1018",
+        "datetime": "2026-08-13T11:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-186",
+        "clinic_id": "CLINIC-1008",
+        "doctor_id": "DOC-1018",
+        "datetime": "2026-08-14T13:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-187",
+        "clinic_id": "CLINIC-1008",
+        "doctor_id": "DOC-1018",
+        "datetime": "2026-08-15T14:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-188",
+        "clinic_id": "CLINIC-1008",
+        "doctor_id": "DOC-1018",
+        "datetime": "2026-08-16T09:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-189",
+        "clinic_id": "CLINIC-1008",
+        "doctor_id": "DOC-1018",
+        "datetime": "2026-08-17T10:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-190",
+        "clinic_id": "CLINIC-1009",
+        "doctor_id": "DOC-1019",
+        "datetime": "2026-08-13T12:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-191",
+        "clinic_id": "CLINIC-1009",
+        "doctor_id": "DOC-1019",
+        "datetime": "2026-08-14T13:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-192",
+        "clinic_id": "CLINIC-1009",
+        "doctor_id": "DOC-1019",
+        "datetime": "2026-08-15T14:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-193",
+        "clinic_id": "CLINIC-1009",
+        "doctor_id": "DOC-1019",
+        "datetime": "2026-08-16T12:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-194",
+        "clinic_id": "CLINIC-1009",
+        "doctor_id": "DOC-1019",
+        "datetime": "2026-08-17T13:00:00",
+        "is_available": true
+    },
+    {
+        "id": "SLOT-195",
+        "clinic_id": "CLINIC-1010",
+        "doctor_id": "DOC-1020",
+        "datetime": "2026-08-13T16:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-196",
+        "clinic_id": "CLINIC-1010",
+        "doctor_id": "DOC-1020",
+        "datetime": "2026-08-14T13:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-197",
+        "clinic_id": "CLINIC-1010",
+        "doctor_id": "DOC-1020",
+        "datetime": "2026-08-15T09:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-198",
+        "clinic_id": "CLINIC-1010",
+        "doctor_id": "DOC-1020",
+        "datetime": "2026-08-16T13:00:00",
+        "is_available": false
+    },
+    {
+        "id": "SLOT-199",
+        "clinic_id": "CLINIC-1010",
+        "doctor_id": "DOC-1020",
+        "datetime": "2026-08-17T10:00:00",
         "is_available": true
     }
 ]

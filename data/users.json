@@ -1,12 +1,52 @@
 [
     {
         "id": "USER-1001",
-        "name": "Alice Smith",
-        "email": "alice@example.com"
+        "name": "User 1",
+        "email": "user1@example.com"
     },
     {
         "id": "USER-1002",
-        "name": "Bob Jones",
-        "email": "bob@example.com"
+        "name": "User 2",
+        "email": "user2@example.com"
+    },
+    {
+        "id": "USER-1003",
+        "name": "User 3",
+        "email": "user3@example.com"
+    },
+    {
+        "id": "USER-1004",
+        "name": "User 4",
+        "email": "user4@example.com"
+    },
+    {
+        "id": "USER-1005",
+        "name": "User 5",
+        "email": "user5@example.com"
+    },
+    {
+        "id": "USER-1006",
+        "name": "User 6",
+        "email": "user6@example.com"
+    },
+    {
+        "id": "USER-1007",
+        "name": "User 7",
+        "email": "user7@example.com"
+    },
+    {
+        "id": "USER-1008",
+        "name": "User 8",
+        "email": "user8@example.com"
+    },
+    {
+        "id": "USER-1009",
+        "name": "User 9",
+        "email": "user9@example.com"
+    },
+    {
+        "id": "USER-1010",
+        "name": "User 10",
+        "email": "user10@example.com"
     }
 ]
