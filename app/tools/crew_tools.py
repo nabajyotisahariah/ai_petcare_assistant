@@ -1,12 +1,14 @@
 from crewai.tools import tool
 from typing import List, Dict, Any
-from app.services.services import ClinicService, AppointmentService, PetService, PrescriptionService, ProductService
+from app.services.services import ClinicService, AppointmentService, PetService, PrescriptionService, ProductService, VisitService
 
 clinic_svc = ClinicService()
 appointment_svc = AppointmentService()
 pet_svc = PetService()
 prescription_svc = PrescriptionService()
 product_svc = ProductService()
+visit_svc = VisitService()
+
 
 # --- Clinic Tools ---
 @tool("find_nearby_clinics")
@@ -52,6 +54,16 @@ def get_pet_profile(pet_id: str) -> str:
     if not pet:
         return f"Pet {pet_id} not found."
     return str(pet)
+
+@tool("get_pet_visits")
+def get_pet_visits(pet_id: str) -> str:
+    """Retrieves the visit history for a specific pet."""
+    if isinstance(pet_id, dict) and 'pet_id' in pet_id:
+        pet_id = pet_id['pet_id']
+    visits = visit_svc.get_pet_visits(pet_id)
+    if not visits:
+        return f"No visits found for pet {pet_id}."
+    return str(visits)
 
 # --- Prescription Tools ---
 @tool("get_latest_prescription")

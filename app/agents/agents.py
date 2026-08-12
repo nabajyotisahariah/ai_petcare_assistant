@@ -3,7 +3,7 @@ from pathlib import Path
 from crewai import Agent
 from app.tools.crew_tools import (
     find_nearby_clinics, is_clinic_open, get_clinic_doctors,
-    get_available_slots, get_pet_profile, get_latest_prescription,
+    get_available_slots, get_pet_profile, get_pet_visits, get_latest_prescription,
     check_refill_eligibility, search_products
 )
 from app.config import settings, BASE_DIR
@@ -22,7 +22,7 @@ def create_orchestrator_agent() -> Agent:
         backstory=load_prompt("orchestrator.txt"),
         tools=[
             find_nearby_clinics, is_clinic_open, get_clinic_doctors,
-            get_available_slots, get_pet_profile, get_latest_prescription,
+            get_available_slots, get_pet_profile, get_pet_visits, get_latest_prescription,
             check_refill_eligibility, search_products
         ],
         allow_delegation=False,
@@ -60,9 +60,9 @@ def create_pet_agent() -> Agent:
         role="Pet Agent",
         goal="Retrieve accurate profile and context information about the user's pet.",
         backstory=load_prompt("pet_agent.txt"),
-        tools=[get_pet_profile],
+        tools=[get_pet_profile, get_pet_visits],
         allow_delegation=False,
-        max_iter=2,
+        max_iter=3,
         verbose=True
     )
 

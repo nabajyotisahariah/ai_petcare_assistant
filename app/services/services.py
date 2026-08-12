@@ -142,3 +142,11 @@ class ProductService(JSONServiceBase):
             results = [p for p in results if q in p['name'].lower() or q in p['description'].lower()]
             
         return results
+
+class VisitService(JSONServiceBase):
+    def __init__(self):
+        super().__init__("visits.json")
+
+    def get_pet_visits(self, pet_id: str) -> List[Dict]:
+        visits = self._load_data()
+        return [v for v in visits if v['pet_id'] == pet_id]
