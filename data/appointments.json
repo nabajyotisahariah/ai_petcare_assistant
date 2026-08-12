@@ -1,0 +1,10 @@
+[
+    {
+        "id": "APP-1001",
+        "pet_id": "PET-1001",
+        "clinic_id": "CLINIC-1001",
+        "doctor_id": "DOC-1001",
+        "datetime": "2026-08-16T14:00:00",
+        "status": "SCHEDULED"
+    }
+]

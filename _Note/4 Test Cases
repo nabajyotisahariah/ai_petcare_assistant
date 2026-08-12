@@ -1,0 +1,85 @@
+Here is a comprehensive list of curl commands covering all the core use cases built into the AI PetCare Assistant. You can use these to validate the functionality of the different AI agents and system states.
+
+(Note: If you are running these in the Windows Command Prompt (CMD), you may need to replace the outer single quotes (') with double quotes (") and escape the inner double quotes (\"). If you are using Git Bash, WSL, Mac, or Linux, you can copy and paste these exactly as they are).
+
+1. System Health Check
+Validates that the API is up and running.
+
+curl -X GET http://localhost:8000/api/v1/health
+
+2. Pet Information (Pet Agent)
+Validates retrieving pet profile details from the database context.
+
+
+curl -X POST http://localhost:8000/api/v1/chat \
+  -H "Content-Type: application/json" \
+  -d '{
+    "user_id": "USER-1001",
+    "message": "Can you tell me the profile details for my pet with ID PET-1001?"
+  }'
+  
+3. Clinic & Doctor Search (Clinic Agent)
+Validates finding nearby clinics, checking if they are currently open, and listing doctors.
+
+
+curl -X POST http://localhost:8000/api/v1/chat \
+  -H "Content-Type: application/json" \
+  -d '{
+    "user_id": "USER-1002",
+    "message": "Are there any clinics nearby? Please tell me if they are open right now and who the doctors are."
+  }'
+4. Commerce & Products (Commerce Agent)
+Validates searching for pet products filtered by categories and prices.
+
+
+curl -X POST http://localhost:8000/api/v1/chat \
+  -H "Content-Type: application/json" \
+  -d '{
+    "user_id": "USER-1003",
+    "message": "Can you find me some dental treats for my dog under $25?"
+  }'
+5. Prescriptions (Prescription Agent)
+Validates pulling prescription history and checking if a script has remaining refills.
+
+
+curl -X POST http://localhost:8000/api/v1/chat \
+  -H "Content-Type: application/json" \
+  -d '{
+    "user_id": "USER-1004",
+    "message": "What is the latest prescription for PET-1001? Is it eligible for a refill?"
+  }'
+6. Two-Step Appointment Booking (Appointment Agent & State Manager)
+Because booking is a transactional action, the Orchestrator will pause and ask for confirmation before modifying the database.
+
+Step A: Initiate the Booking Validates intent recognition and fetching available slots.
+
+
+curl -X POST http://localhost:8000/api/v1/chat \
+  -H "Content-Type: application/json" \
+  -d '{
+    "user_id": "BOOKING-USER",
+    "message": "I need to book an appointment for my dog at clinic CLINIC-1001. What slots are available?"
+  }'
+You should see "requires_confirmation": true in the JSON response payload.
+
+Step B: Confirm the Booking Validates the deterministic state manager completing the requested action.
+
+
+curl -X POST http://localhost:8000/api/v1/chat \
+  -H "Content-Type: application/json" \
+  -d '{
+    "user_id": "BOOKING-USER",
+    "message": "Yes, please book it."
+  }'
+(Alternative) Step B: Cancel the Booking Validates canceling a pending action and wiping the session state.
+
+
+curl -X POST http://localhost:8000/api/v1/chat \
+  -H "Content-Type: application/json" \
+  -d '{
+    "user_id": "BOOKING-USER",
+    "message": "No, cancel that."
+  }'
+Tips for testing:
+Context matters: Make sure to reuse the same "user_id" value when you want to test conversational state (like the Confirmation step for the appointment).
+OpenAI Key: As a reminder, the chat endpoint requires a valid OPENAI_API_KEY mapped in your .env file since it coordinates the CrewAI autonomous agents!

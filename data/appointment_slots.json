@@ -165,7 +165,7 @@
         "clinic_id": "CLINIC-1005",
         "doctor_id": "DOC-1005",
         "datetime": "2026-08-16T14:00:00",
-        "is_available": true
+        "is_available": false
     },
     {
         "id": "SLOT-124",
