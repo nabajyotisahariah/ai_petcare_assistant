@@ -2,8 +2,14 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.api import chat
 from dotenv import load_dotenv
+from app.utils.logger import setup_logging
+import logging
 
 load_dotenv()
+
+# Setup structured logging
+setup_logging()
+logger = logging.getLogger(__name__)
 
 app = FastAPI(
     title="AI PetCare Assistant API",
@@ -20,9 +26,12 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+logger.info("Initializing API routes.")
+
 # Include Routers
 app.include_router(chat.router, prefix="/api/v1", tags=["Chat"])
 
 @app.get("/api/v1/health", summary="Health Check", description="Returns the current health status of the API.", tags=["System"])
 def health_check():
     return {"status": "ok"}
+

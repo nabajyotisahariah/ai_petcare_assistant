@@ -1,3 +1,4 @@
+import logging
 from fastapi import APIRouter, HTTPException, Depends
 from typing import Dict, Any
 import uuid
@@ -5,6 +6,8 @@ from app.schemas.schemas import ChatRequest, ChatResponse
 from app.crews.assistant_crew import build_assistant_crew
 from app.utils.state import state_manager
 from app.services.services import AppointmentService
+
+logger = logging.getLogger(__name__)
 
 router = APIRouter()
 appointment_svc = AppointmentService()
@@ -74,14 +77,14 @@ async def chat_endpoint(request: ChatRequest):
     # 2. Not a confirmation, so route to CrewAI
     intent = simple_intent_parser(request.message)
     context_str = str(current_state)
-    print(" session_id ",session_id," intent ",intent, " context_str ",context_str)
+    logger.info(f"session_id: {session_id}, intent: {intent}, context_str: {context_str}")
     
     try:
         # Build and run the crew
         crew = build_assistant_crew(request.message, context_str)
         result = await crew.kickoff_async()
         response_text = result.raw if hasattr(result, 'raw') else str(result)
-        print("response_text ",response_text)
+        #logger.info(f"response_text: {response_text}")
         
         # 3. Post-process Crew response to detect if we need to enter confirmation state
         # (This is a simplified mock. A real system would use Structured Tool Outputs from the Orchestrator)

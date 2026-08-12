@@ -1,7 +1,10 @@
 import json
 import redis
+import logging
 from typing import Optional, Dict, Any
 from app.config import settings
+
+logger = logging.getLogger(__name__)
 
 class ConversationState:
     def __init__(self):
@@ -13,7 +16,7 @@ class ConversationState:
             self.use_redis = True
         except (redis.ConnectionError, redis.TimeoutError):
             self.use_redis = False
-            print("WARNING: Could not connect to Redis. Falling back to in-memory state store for MVP.")
+            logger.warning("Could not connect to Redis. Falling back to in-memory state store for MVP.")
 
     def get_state(self, session_id: str) -> Dict[str, Any]:
         if self.use_redis:
