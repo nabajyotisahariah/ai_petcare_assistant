@@ -132,7 +132,9 @@ class ProductService(JSONServiceBase):
     def search_products(self, query: str = None, category: str = None, max_price: float = None) -> List[Dict]:
         products = self._load_data()
         results = products
-        
+
+        logger.info(f"search_products query: {query}, category: {category}, max_price: {max_price}")
+          
         if category:
             results = [p for p in results if p['category'].lower() == category.lower()]
         if max_price:

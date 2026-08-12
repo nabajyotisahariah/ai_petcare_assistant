@@ -1,6 +1,9 @@
+import logging
 from crewai.tools import tool
 from typing import List, Dict, Any
 from app.services.services import ClinicService, AppointmentService, PetService, PrescriptionService, ProductService, VisitService
+
+logger = logging.getLogger(__name__)
 
 clinic_svc = ClinicService()
 appointment_svc = AppointmentService()
