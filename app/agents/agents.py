@@ -27,13 +27,8 @@ def create_orchestrator_agent() -> Agent:
         role="AI PetCare Assistant Orchestrator",
         goal="Understand user intent, manage context, and coordinate other agents to fulfill pet care requests.",
         backstory=load_prompt("orchestrator.txt"),
-        tools=[
-            find_nearby_clinics, is_clinic_open, get_clinic_doctors,
-            get_available_slots, get_pet_profile, get_pet_visits, get_latest_prescription,
-            check_refill_eligibility, search_products
-        ],
         llm=llm,
-        allow_delegation=False,
+        allow_delegation=True,
         max_iter=4,
         verbose=True
     )

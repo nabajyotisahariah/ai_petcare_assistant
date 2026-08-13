@@ -1,32 +1,52 @@
 from crewai import Crew, Task, Process
-from app.agents.agents import (create_orchestrator_agent)
+from app.agents.agents import (
+    create_orchestrator_agent,
+    create_clinic_agent,
+    create_appointment_agent,
+    create_pet_agent,
+    create_prescription_agent,
+    create_commerce_agent
+)
 
 def build_assistant_crew(user_message: str, conversation_context: str) -> Crew:
     orchestrator = create_orchestrator_agent()
     
-    # Task 1: The orchestrator analyzes the message and responds
+    clinic_agent = create_clinic_agent()
+    appointment_agent = create_appointment_agent()
+    pet_agent = create_pet_agent()
+    prescription_agent = create_prescription_agent()
+    commerce_agent = create_commerce_agent()
+    
+    # Task 1: The orchestrator analyzes the message and delegates to other agents
     task_analyze_and_respond = Task(
         description=f"""
         User Message: '{user_message}'
         Conversation Context: '{conversation_context}'
         
         1. Analyze the user message to determine what information is needed.
-        2. Use your available tools to retrieve the specific facts requested.
-        3. Compile the facts into a helpful, natural language response.
+        2. Delegate tasks to your specialized co-worker agents to retrieve the specific facts requested. Do NOT try to use tools directly yourself, always delegate to the specialized agents.
+        3. Compile the facts returned by your co-workers into a helpful, natural language response.
         4. If the user wants to BOOK an appointment or REFILL a prescription, explain the options found, and ask for explicit confirmation (e.g., 'Would you like me to book the 10:30 AM slot?'). DO NOT book it yourself.
         """,
-        expected_output="A natural language response answering the user's request with facts retrieved from tools.",
-        agent=orchestrator
+        expected_output="A natural language response answering the user's request with facts retrieved by delegating to specialized agents."
     )
     
     crew = Crew(
-        agents=[orchestrator],
+        agents=[
+            clinic_agent, 
+            appointment_agent, 
+            pet_agent, 
+            prescription_agent, 
+            commerce_agent
+        ],
         tasks=[task_analyze_and_respond],
-        process=Process.sequential,
+        manager_agent=orchestrator,
+        process=Process.hierarchical,
         verbose=True
     )
     
     return crew
+
 
 
 
