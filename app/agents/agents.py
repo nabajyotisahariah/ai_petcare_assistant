@@ -1,13 +1,17 @@
 import os
 import logging
 from pathlib import Path
-from crewai import Agent
+from crewai import Agent, LLM
 from app.tools.crew_tools import (
     find_nearby_clinics, is_clinic_open, get_clinic_doctors,
     get_available_slots, get_pet_profile, get_pet_visits, get_latest_prescription,
     check_refill_eligibility, search_products
 )
 from app.config import settings, BASE_DIR
+
+llm = LLM(
+    model="openai/gpt-5-mini"
+)
 
 logger = logging.getLogger(__name__)
 
@@ -28,6 +32,7 @@ def create_orchestrator_agent() -> Agent:
             get_available_slots, get_pet_profile, get_pet_visits, get_latest_prescription,
             check_refill_eligibility, search_products
         ],
+        llm=llm,
         allow_delegation=False,
         max_iter=4,
         verbose=True
@@ -40,6 +45,7 @@ def create_clinic_agent() -> Agent:
         goal="Provide accurate information about clinics, their hours, and doctors.",
         backstory=load_prompt("clinic_agent.txt"),
         tools=[find_nearby_clinics, is_clinic_open, get_clinic_doctors],
+        llm=llm,
         allow_delegation=False,
         max_iter=4,
         verbose=True
@@ -52,6 +58,7 @@ def create_appointment_agent() -> Agent:
         goal="Find available appointment slots for users.",
         backstory=load_prompt("appointment_agent.txt"),
         tools=[get_available_slots],
+        llm=llm,
         allow_delegation=False,
         max_iter=2,
         verbose=True
@@ -64,6 +71,7 @@ def create_pet_agent() -> Agent:
         goal="Retrieve accurate profile and context information about the user's pet.",
         backstory=load_prompt("pet_agent.txt"),
         tools=[get_pet_profile, get_pet_visits],
+        llm=llm,
         allow_delegation=False,
         max_iter=3,
         verbose=True
@@ -76,6 +84,7 @@ def create_prescription_agent() -> Agent:
         goal="Retrieve prescription history and check refill eligibility.",
         backstory=load_prompt("prescription_agent.txt"),
         tools=[get_latest_prescription, check_refill_eligibility],
+        llm=llm,
         allow_delegation=False,
         max_iter=4,
         verbose=True
@@ -88,6 +97,7 @@ def create_commerce_agent() -> Agent:
         goal="Find and recommend pet products based on constraints.",
         backstory=load_prompt("commerce_agent.txt"),
         tools=[search_products],
+        llm=llm,
         allow_delegation=False,
         max_iter=2,
         verbose=True

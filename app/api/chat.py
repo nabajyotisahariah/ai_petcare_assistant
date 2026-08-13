@@ -34,6 +34,7 @@ async def chat_endpoint(request: ChatRequest):
     current_state = state_manager.get_state(session_id)
     
     user_msg_lower = request.message.lower()
+    logger.info(f"chat_endpoint session_id: {session_id}, current_state: {current_state}, user_msg_lower: {user_msg_lower}")
     
     # 1. Check if we are waiting for a confirmation
     if current_state.get("requires_confirmation"):
@@ -77,7 +78,7 @@ async def chat_endpoint(request: ChatRequest):
     # 2. Not a confirmation, so route to CrewAI
     intent = simple_intent_parser(request.message)
     context_str = str(current_state)
-    logger.info(f"session_id: {session_id}, intent: {intent}, context_str: {context_str}")
+    logger.info(f"chat_endpoint session_id: {session_id}, current_state: {current_state},  intent: {intent}")
     
     try:
         # Build and run the crew
