@@ -42,7 +42,7 @@ def create_clinic_agent() -> Agent:
         tools=[find_nearby_clinics, is_clinic_open, get_clinic_doctors],
         llm=llm,
         allow_delegation=False,
-        max_iter=4,
+        max_iter=3,
         verbose=True
     )
 
@@ -55,7 +55,7 @@ def create_appointment_agent() -> Agent:
         tools=[get_available_slots],
         llm=llm,
         allow_delegation=False,
-        max_iter=2,
+        max_iter=1,
         verbose=True
     )
 
@@ -68,7 +68,7 @@ def create_pet_agent() -> Agent:
         tools=[get_pet_profile, get_pet_visits],
         llm=llm,
         allow_delegation=False,
-        max_iter=3,
+        max_iter=2,
         verbose=True
     )
 
@@ -81,7 +81,7 @@ def create_prescription_agent() -> Agent:
         tools=[get_latest_prescription, check_refill_eligibility],
         llm=llm,
         allow_delegation=False,
-        max_iter=4,
+        max_iter=2,
         verbose=True
     )
 
@@ -94,6 +94,6 @@ def create_commerce_agent() -> Agent:
         tools=[search_products],
         llm=llm,
         allow_delegation=False,
-        max_iter=2,
+        max_iter=1,
         verbose=True
     )

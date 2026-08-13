@@ -28,7 +28,7 @@ def build_assistant_crew(user_message: str, conversation_context: str) -> Crew:
         3. Compile the facts returned by your co-workers into a helpful, natural language response.
         4. If the user wants to BOOK an appointment or REFILL a prescription, explain the options found, and ask for explicit confirmation (e.g., 'Would you like me to book the 10:30 AM slot?'). DO NOT book it yourself.
         """,
-        expected_output="A natural language response answering the user's request with facts retrieved by delegating to specialized agents."
+        expected_output="A natural language response answering the user's request in 100 words with facts retrieved by delegating to specialized agents."
     )
     
     crew = Crew(
