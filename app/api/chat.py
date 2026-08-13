@@ -6,6 +6,8 @@ from app.schemas.schemas import ChatRequest, ChatResponse
 from app.crews.assistant_crew import build_assistant_crew
 from app.utils.state import state_manager
 from app.services.services import AppointmentService
+from app.config import settings
+from openai import OpenAI
 
 logger = logging.getLogger(__name__)
 
@@ -14,12 +16,49 @@ appointment_svc = AppointmentService()
 
 # In a real app, this would be an LLM call to classify intent strictly.
 def simple_intent_parser(message: str) -> str:
-    msg = message.lower()
-    if "book" in msg or "appointment" in msg:
-        return "APPOINTMENT_BOOKING"
-    if "refill" in msg or "prescription" in msg:
-        return "RX_REFILL"
-    return "GENERAL"
+    try:
+        client = OpenAI(api_key=settings.openai_api_key)
+        prompt = f"""
+You are an intent classification system for a Pet Care Assistant.
+Based on the user's message, classify their intent into exactly ONE of the following categories. 
+Respond ONLY with the category name, nothing else.
+
+Categories:
+1. CLINIC: The user wants information about clinics, locations, hours, or doctors.
+2. APPOINTMENT_BOOKING: The user wants to book, reschedule, or find available appointment slots.
+3. PET: The user wants information about their pet's profile, history, or past visits.
+4. RX_REFILL: The user wants to check prescriptions or request a refill.
+5. COMMERCE: The user wants to find, buy, or get recommendations for pet products.
+6. GENERAL: The user has a general question or greeting that doesn't fit the above.
+
+User Message: "{message}"
+Intent Category:"""
+
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {"role": "system", "content": "You are a precise intent classification AI. Return only the exact category name."},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0,
+            max_tokens=20
+        )
+        intent = response.choices[0].message.content.strip()
+        
+        valid_intents = ["CLINIC", "APPOINTMENT_BOOKING", "PET", "RX_REFILL", "COMMERCE", "GENERAL"]
+        for valid in valid_intents:
+            if valid in intent:
+                return valid
+        return "GENERAL"
+    except Exception as e:
+        logger.error(f"Error in LLM intent parsing: {e}")
+        # Fallback to simple parser
+        msg = message.lower()
+        if "book" in msg or "appointment" in msg:
+            return "APPOINTMENT_BOOKING"
+        if "refill" in msg or "prescription" in msg:
+            return "RX_REFILL"
+        return "GENERAL"
 
 @router.post(
     "/chat",
