@@ -1,0 +1,20 @@
+I have successfully implemented the `simple_intent_parser` function to use an LLM (using the existing `openai` library and configurations available in the project) to dynamically classify the user's intent.
+
+Here's a breakdown of the changes made to `ai_petcare_Assistant/app/api/chat.py`:
+
+1. __Integrated OpenAI__: Imported the `OpenAI` client and the app's `settings` module to establish a connection with the LLM using the provided `openai_api_key`.
+
+2. __Dynamic Intent Parsing__: Modified `simple_intent_parser` to construct a precise system prompt that passes the user message to the LLM (model: `gpt-4o-mini`) and asks it to categorize the intent into one of the following exact categories which seamlessly align with your CrewAI Agents:
+
+   - `CLINIC` -> Maps to the `create_clinic_agent` domain.
+   - `APPOINTMENT_BOOKING` -> Maps to the `create_appointment_agent` domain.
+   - `PET` -> Maps to the `create_pet_agent` domain.
+   - `RX_REFILL` -> Maps to the `create_prescription_agent` domain.
+   - `COMMERCE` -> Maps to the `create_commerce_agent` domain.
+   - `GENERAL` -> Fallback for everything else.
+
+3. __Robust Fallbacks__: Set up an exception handler in case the LLM API fails or times out. In those cases, the system falls back seamlessly to the previous basic keyword-matching logic, ensuring your chat application never fails catastrophically just because of a brief network issue.
+
+I verified the code by running several inputs through `simple_intent_parser`, successfully outputting the exact matching intent (e.g. `find nearby clinics` correctly categorized as `CLINIC`, `refill my pet meds` categorized as `RX_REFILL`, etc.) and making sure all unit tests passed.
+
+Please let me know if you need any adjustments or if you'd like to extend this directly into the Orchestrator logic!
