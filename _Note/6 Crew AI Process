@@ -1,0 +1,233 @@
+CrewAI provides **two main process types** for executing tasks: **Sequential** and **Hierarchical**. There is also a third process type in newer CrewAI versions that is useful for more advanced flows, depending on the version you're using.
+
+### 1. Sequential Process
+
+Tasks execute **one after another in a predefined order**.
+
+```text
+Task 1
+  ↓
+Task 2
+  ↓
+Task 3
+  ↓
+Final Result
+```
+
+Example for your PetCare system:
+
+```python
+crew = Crew(
+    agents=[
+        clinic_agent,
+        appointment_agent,
+        pet_agent
+    ],
+    tasks=[
+        find_clinic_task,
+        check_slots_task,
+        get_pet_task
+    ],
+    process=Process.sequential,
+    verbose=True
+)
+```
+
+Use this when the workflow is predictable.
+
+For example:
+
+```text
+Get Pet
+   ↓
+Find Clinic
+   ↓
+Get Available Slots
+   ↓
+Return Recommendation
+```
+
+**Best for:** deterministic workflows, pipelines, ETL-like processing.
+
+---
+
+## 2. Hierarchical Process
+
+A **manager agent** coordinates the other agents dynamically.
+
+```text
+                 Manager
+                    │
+        ┌───────────┼───────────┐
+        ↓           ↓           ↓
+     Clinic       Pet      Prescription
+     Agent       Agent         Agent
+        │           │             │
+        └───────────┼─────────────┘
+                    ↓
+                 Manager
+                    ↓
+                 Result
+```
+
+Example:
+
+```python
+crew = Crew(
+    agents=[
+        clinic_agent,
+        appointment_agent,
+        pet_agent,
+        prescription_agent
+    ],
+    tasks=[petcare_task],
+    process=Process.hierarchical,
+    manager_agent=manager_agent,
+    verbose=True
+)
+```
+
+The manager decides which agent should handle each part.
+
+For example:
+
+> "Check Max's latest visit, find a nearby vet, and see whether an appointment is available."
+
+The manager could decide:
+
+```text
+Manager
+   │
+   ├──→ Pet Agent
+   │       └── Get Max's visit
+   │
+   ├──→ Clinic Agent
+   │       └── Find nearby vets
+   │
+   └──→ Appointment Agent
+           └── Check availability
+```
+
+**Best for:** dynamic multi-agent systems.
+
+For your **AI PetCare Concierge**, this is probably the most interesting option for a hackathon.
+
+---
+
+## 3. Consensual Process
+
+Some CrewAI versions/documentation also discuss a **consensual** style of multi-agent collaboration, where agents work toward agreement rather than having a single manager make all decisions.
+
+Conceptually:
+
+```text
+              User Request
+                   │
+        ┌──────────┼──────────┐
+        ↓          ↓          ↓
+     Agent A    Agent B    Agent C
+        │          │          │
+        └──────────┼──────────┘
+                   ↓
+              Consensus
+                   ↓
+                Result
+```
+
+This is useful when you want multiple agents to independently evaluate something and arrive at a shared answer.
+
+However, **don't design your application around `Process.consensual` without checking your installed CrewAI version**, because CrewAI's supported process APIs have evolved over time.
+
+---
+
+# Sequential vs Hierarchical
+
+For your project, the key difference is:
+
+| Feature               | Sequential          | Hierarchical                   |
+| --------------------- | ------------------- | ------------------------------ |
+| Execution             | Fixed order         | Dynamic                        |
+| Manager               | Not required        | Required                       |
+| Delegation            | Usually unnecessary | Core concept                   |
+| Agent decision-making | Limited             | High                           |
+| Workflow              | Predictable         | Adaptive                       |
+| Complexity            | Low                 | Higher                         |
+| Debugging             | Easier              | More complex                   |
+| PetCare Concierge     | Good                | **Better**                     |
+| Production workflows  | Good                | **Good for complex workflows** |
+
+### Your PetCare example
+
+**Sequential:**
+
+```text
+User
+ ↓
+Pet Agent
+ ↓
+Clinic Agent
+ ↓
+Appointment Agent
+ ↓
+Response
+```
+
+You decide the workflow beforehand.
+
+**Hierarchical:**
+
+```text
+                    User
+                     ↓
+              PetCare Manager
+                     │
+       ┌─────────────┼─────────────┐
+       ↓             ↓             ↓
+   Pet Agent    Clinic Agent   Prescription
+       │             │             │
+       └─────────────┼─────────────┘
+                     ↓
+              Manager Response
+```
+
+The manager decides what is needed.
+
+### My recommendation for your project
+
+Since your agents are:
+
+```text
+Clinic Agent
+Appointment Agent
+Pet Agent
+Prescription Agent
+Commerce Agent
+```
+
+I'd use:
+
+```python
+Process.hierarchical
+```
+
+with:
+
+```python
+manager_agent=orchestrator_agent
+```
+
+**instead of creating a separate Manager Agent and Orchestrator Agent.**
+
+Your architecture would then be:
+
+```text
+                 AI PetCare Manager
+                  (Orchestrator)
+                         │
+       ┌─────────┬───────┼────────┬──────────┐
+       ↓         ↓       ↓        ↓          ↓
+    Clinic   Appointment Pet   Prescription Commerce
+    Agent       Agent    Agent      Agent      Agent
+```
+
+That gives you a much cleaner **true multi-agent architecture** for the hackathon.
