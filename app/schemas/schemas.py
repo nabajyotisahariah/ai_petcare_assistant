@@ -24,7 +24,10 @@ class ChatResponse(BaseModel):
     requires_confirmation: bool = Field(False, description="Whether the system needs user confirmation to proceed with a pending action.")
     pending_action: Optional[str] = Field(None, description="The type of action waiting for confirmation (e.g., 'BOOK_APPOINTMENT').")
     action_parameters: Optional[Dict[str, Any]] = Field(None, description="Parameters related to the pending action.")
-
+    data: Optional[Dict[str, Any]] = Field(
+    None,
+    description="Structured data returned by the agent."
+)
 # --- Pet Schemas ---
 class PetBase(BaseModel):
     name: str

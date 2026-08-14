@@ -8,6 +8,7 @@ from app.utils.state import state_manager
 from app.services.services import AppointmentService
 from app.config import settings
 from openai import OpenAI
+import json
 
 logger = logging.getLogger(__name__)
 
@@ -124,7 +125,7 @@ async def chat_endpoint(request: ChatRequest):
     
     try:
         # Build and run the crew
-        crew = build_assistant_crew(request.message, context_str)
+        crew = build_assistant_crew(request.message, context_str, intent)
         result = await crew.kickoff_async()
         response_text = result.raw if hasattr(result, 'raw') else str(result)
         #logger.info(f"response_text: {response_text}")
@@ -143,7 +144,8 @@ async def chat_endpoint(request: ChatRequest):
             intent=intent,
             agents_used=["orchestrator"], # Simplified
             requires_confirmation=requires_confirm,
-            pending_action="BOOK_APPOINTMENT" if requires_confirm else None
+            pending_action="BOOK_APPOINTMENT" if requires_confirm else None,
+            #data=json.loads(response_text)
         )
         
     except Exception as e:

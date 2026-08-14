@@ -1,3 +1,4 @@
+import logging
 from crewai import Crew, Task, Process
 from app.agents.agents import (
     create_orchestrator_agent,
@@ -7,6 +8,8 @@ from app.agents.agents import (
     create_prescription_agent,
     create_commerce_agent
 )
+
+logger = logging.getLogger(__name__)
 
 def build_assistant_crew(user_message: str, conversation_context: str, intent: str = "GENERAL") -> Crew:
 
@@ -103,9 +106,11 @@ def build_assistant_crew(user_message: str, conversation_context: str, intent: s
         tasks_list = [pet_task]
 
     # Always append the orchestrator to synthesize the final response
-    agents_list.append(orchestrator)
-    tasks_list.append(task_analyze_and_respond)
+    #agents_list.append(orchestrator)
+    #tasks_list.append(task_analyze_and_respond)
+    logger.info(f"build_assistant_crew agents_list: {agents_list}, tasks_list: {tasks_list} intent {intent}")
 
+            
     crew = Crew(
         agents=agents_list,
         tasks=tasks_list,
