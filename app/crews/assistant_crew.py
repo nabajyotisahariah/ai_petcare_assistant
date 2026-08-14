@@ -62,7 +62,7 @@ def build_assistant_crew(user_message: str, conversation_context: str, intent: s
         2. Compile the relevant facts into a helpful, natural language response.
         3. If the user wants to BOOK an appointment or REFILL a prescription, explain the options found, and ask for explicit confirmation (e.g., 'Would you like me to book the 10:30 AM slot?'). DO NOT book it yourself.
         """,
-        expected_output="A natural language response answering the user's request in 100 words with facts retrieved by the specialized agents.",
+        expected_output="A JSON format response containing the requested information according to the prompt instructions.",
         agent=orchestrator
     )
 
@@ -106,10 +106,9 @@ def build_assistant_crew(user_message: str, conversation_context: str, intent: s
         tasks_list = [pet_task]
 
     # Always append the orchestrator to synthesize the final response
-    #agents_list.append(orchestrator)
-    #tasks_list.append(task_analyze_and_respond)
-    logger.info(f"build_assistant_crew agents_list: {agents_list}, tasks_list: {tasks_list} intent {intent}")
-
+    agents_list.append(orchestrator)
+    tasks_list.append(task_analyze_and_respond)
+    #logger.info(f"build_assistant_crew agents_list: {agents_list}, tasks_list: {tasks_list} intent {intent}")
             
     crew = Crew(
         agents=agents_list,

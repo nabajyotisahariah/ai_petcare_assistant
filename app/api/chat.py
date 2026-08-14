@@ -138,14 +138,32 @@ async def chat_endpoint(request: ChatRequest):
         #     state_manager.set_pending_action(session_id, "BOOK_APPOINTMENT", {"slot_id": "SLOT-123"})
         #     requires_confirm = True
 
+        try:
+            parsed_data = json.loads(response_text)
+            final_message = parsed_data.get("message", response_text) if isinstance(parsed_data, dict) else response_text
+        except json.JSONDecodeError:
+            # Fallback for plain text response
+            parsed_data = None
+            final_message = response_text
+            
+            # Try to extract JSON if it was wrapped in markdown
+            import re
+            match = re.search(r'```(?:json)?(.*?)```', response_text, re.DOTALL)
+            if match:
+                try:
+                    parsed_data = json.loads(match.group(1).strip())
+                    final_message = parsed_data.get("message", final_message) if isinstance(parsed_data, dict) else final_message
+                except json.JSONDecodeError:
+                    pass
+
         return ChatResponse(
             conversation_id=session_id,
-            message=response_text,
+            data=parsed_data,
+            message=final_message,
             intent=intent,
             agents_used=["orchestrator"], # Simplified
             requires_confirmation=requires_confirm,
             pending_action="BOOK_APPOINTMENT" if requires_confirm else None,
-            #data=json.loads(response_text)
         )
         
     except Exception as e:

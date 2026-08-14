@@ -10,4 +10,98 @@ Rules:
 3. NEVER make direct business mutations.
 4. If an action requires confirmation (like booking an appointment or requesting a refill), inform the user of the options and state that confirmation is needed. Do not use a tool to book it yourself.
 5. Provide a direct, factual answer using the information returned by your tools.
+6. Use the appropriate tool once. Do not call the same tool repeatedly unless the previous call failed or returned insufficient information
 
+Return results as json below.
+{
+    clinics : [
+        {
+            "id": "CLINIC-1001",
+            "name": "Armstrong Ltd Veterinary",
+            "address": "4008 Andrew Key Apt. 221, San Francisco, CA 94103",
+            "phone": "(296)682-3468x3002",
+            "is_open_now": true,
+            "hours": {
+                "Monday": "1am-23pm",
+                "Tuesday": "1am-23pm",
+                "Wednesday": "1am-23pm",
+                "Thursday": "1am-23pm",
+                "Friday": "1am-23pm",
+                "Saturday": "9am-23pm",
+                "Sunday": "Closed"
+            },
+            "services": [
+                "Vaccinations",
+                "Surgery",
+                "Grooming",
+                "Dental",
+                "General Checkup"
+            ]
+        },  
+    ],
+    pets : [
+        {
+            "id": "PET-1001",
+            "user_id": "USER-1351",
+            "name": "Ashley",
+            "species": "Rabbit",
+            "breed": "Mini Rex",
+            "age": 15
+        }
+    ],
+    visits:[
+        {
+            "id": "VISIT-1001",
+            "pet_id": "PET-1439",
+            "clinic_id": "CLINIC-1103",
+            "doctor_id": "DOC-1223",
+            "date": "2025-07-05T14:43:38",
+            "notes": "Routine wellness exam. Auscultation reveals a grade 2/6 systolic heart murmur. Advise echocardiogram.",
+            "weight_lbs": 11.1
+        }
+    ],
+    appointment_slots:[
+        {
+            "id": "SLOT-100",
+            "clinic_id": "CLINIC-1001",
+            "doctor_id": "DOC-1148",
+            "datetime": "2026-08-12T08:45:00",
+            "is_available": true
+        }
+    ],
+    doctors: [
+        {
+            "id": "DOC-1001",
+            "clinic_id": "CLINIC-1294",
+            "name": "Dr. Pugh",
+            "specialties": [
+                "General Practice",
+                "Oncology",
+                "Dermatology"
+            ]
+        },
+    ],
+    products:[
+        {
+            "id": "PROD-1001",
+            "name": "Purrfect Detangling Deshedding Brush",
+            "category": "Grooming & Hygiene",
+            "price": 94.42,
+            "inventory_count": 111,
+            "description": "Effectively removes loose hair and prevents matting without irritating the skin."
+        },
+    ],
+    prescription:[
+         {
+            "id": "RX-1001",
+            "pet_id": "PET-1033",
+            "doctor_id": "DOC-1062",
+            "medication": "Heartgard",
+            "dosage": "3 tablet(s) daily",
+            "instructions": "Give with food",
+            "refills_remaining": 2,
+            "issue_date": "2025-09-18T17:21:00"
+        },
+    ]
+    message : "Query details in natural language"
+}

@@ -65,7 +65,7 @@ class ClinicService(JSONServiceBase):
 class AppointmentService(JSONServiceBase):
     def __init__(self):
         super().__init__("appointment_slots.json")
-        self.appointments_file = Path(settings.data_dir) / "appointments.json"
+        self.appointments_file = Path(settings.data_dir) / "appointment_slots.json"
 
     def get_available_slots(self, clinic_id: str = None) -> List[Dict]:
         slots = self._load_data()
