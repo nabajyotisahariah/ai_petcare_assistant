@@ -7,7 +7,7 @@ from app.crews.assistant_crew import build_assistant_crew
 from app.utils.state import state_manager
 from app.services.services import AppointmentService
 from app.config import settings
-from openai import OpenAI
+from openai import AsyncOpenAI
 import json
 
 logger = logging.getLogger(__name__)
@@ -16,9 +16,9 @@ router = APIRouter()
 appointment_svc = AppointmentService()
 
 # In a real app, this would be an LLM call to classify intent strictly.
-def simple_intent_parser(message: str) -> str:
+async def simple_intent_parser(message: str) -> str:
     try:
-        client = OpenAI(api_key=settings.openai_api_key)
+        client = AsyncOpenAI(api_key=settings.openai_api_key)
         prompt = f"""
 You are an intent classification system for a Pet Care Assistant.
 Based on the user's message, classify their intent into exactly ONE of the following categories. 
@@ -35,7 +35,7 @@ Categories:
 User Message: "{message}"
 Intent Category:"""
 
-        response = client.chat.completions.create(
+        response = await client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[
                 {"role": "system", "content": "You are a precise intent classification AI. Return only the exact category name."},
@@ -119,7 +119,7 @@ async def chat_endpoint(request: ChatRequest):
     #         )
 
     # 2. Not a confirmation, so route to CrewAI
-    intent = simple_intent_parser(request.message)
+    intent = await simple_intent_parser(request.message)
     context_str = str(current_state)
     logger.info(f"chat_endpoint session_id: {session_id}, current_state: {current_state},  intent: {intent}")
     

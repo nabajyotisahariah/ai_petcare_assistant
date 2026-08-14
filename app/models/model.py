@@ -1,5 +1,6 @@
 from crewai import LLM
 
 llm = LLM(
-    model="openai/gpt-5-mini"
+    model="openai/gpt-4o-mini",
+    temperature=0.0
 )
