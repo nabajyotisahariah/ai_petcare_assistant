@@ -15,11 +15,18 @@ visit_svc = VisitService()
 
 # --- Clinic Tools ---
 @tool("find_nearby_clinics")
-def find_nearby_clinics() -> str:
-    """Finds and returns a list of nearby clinics."""
-    clinics = clinic_svc.find_nearby_clinics()
+def find_nearby_clinics(location: str = None) -> str:
+    """Finds and returns a list of nearby clinics.
+    Optionally pass a location (like city, state, or pin/zip code) extracted from the user's prompt to filter results.
+    If no specific location is mentioned in the prompt, pass None.
+    """
+    print(f">>>> FIND NEARBY CLINICS CALLED WITH location={location}")
+    clinics = clinic_svc.find_nearby_clinics(location)
     if not clinics:
-        return "No nearby clinics found."
+        return f"No nearby clinics found for location: {location}." if location else "No nearby clinics found."
+    # Limit returned clinics to top 10 if too many, to avoid overwhelming the context
+    if len(clinics) > 10:
+        clinics = clinics[:10]
     return str([{"id": c["id"], "name": c["name"], "address": c["address"], "phone": c["phone"], "is_open_now": c["is_open_now"]} for c in clinics])
 
 @tool("is_clinic_open")

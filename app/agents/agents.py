@@ -31,7 +31,7 @@ def create_orchestrator_agent() -> Agent:
         llm=llm,
         allow_delegation=True,
         max_iter=1,
-        verbose=True
+        verbose=False
     )
 
 def create_clinic_agent() -> Agent:
@@ -44,7 +44,7 @@ def create_clinic_agent() -> Agent:
         llm=llm,
         allow_delegation=False,
         max_iter=1,
-        verbose=True
+        verbose=False
     )
 
 def create_appointment_agent() -> Agent:
@@ -57,7 +57,7 @@ def create_appointment_agent() -> Agent:
         llm=llm,
         allow_delegation=False,
         max_iter=1,
-        verbose=True
+        verbose=False
     )
 
 def create_pet_agent() -> Agent:
@@ -70,7 +70,7 @@ def create_pet_agent() -> Agent:
         llm=llm,
         allow_delegation=False,
         max_iter=1,
-        verbose=True
+        verbose=False
     )
 
 def create_prescription_agent() -> Agent:
@@ -83,7 +83,7 @@ def create_prescription_agent() -> Agent:
         llm=llm,
         allow_delegation=False,
         max_iter=1,
-        verbose=True
+        verbose=False
     )
 
 def create_commerce_agent() -> Agent:
@@ -96,5 +96,5 @@ def create_commerce_agent() -> Agent:
         llm=llm,
         allow_delegation=False,
         max_iter=1,
-        verbose=True
+        verbose=False
     )

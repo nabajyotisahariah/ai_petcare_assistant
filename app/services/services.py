@@ -45,9 +45,14 @@ class ClinicService(JSONServiceBase):
     def get_all_clinics(self) -> List[Dict]:
         return self._load_data()
 
-    def find_nearby_clinics(self) -> List[Dict]:
-        # For mock, just return all as "nearby"
-        return self.get_all_clinics()
+    def find_nearby_clinics(self, location: str = None) -> List[Dict]:
+        clinics = self.get_all_clinics()
+        if location:
+            location_lower = location.lower().strip()
+            # If the user says "near me" and the LLM passes "near me" as location
+            if location_lower not in ["near me", "here", "me", "nearby"]:
+                clinics = [c for c in clinics if location_lower in c['address'].lower()]
+        return clinics
 
     def get_clinic(self, clinic_id: str) -> Optional[Dict]:
         clinics = self._load_data()
