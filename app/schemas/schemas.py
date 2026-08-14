@@ -18,7 +18,7 @@ class ChatRequest(BaseModel):
 
 class ChatResponse(BaseModel):
     conversation_id: str = Field(..., description="The ID of the current conversation/session.")
-    message: str = Field(..., description="The response message from the AI assistant.")
+    message: Optional[str] = Field(None, description="The response message from the AI assistant.")
     intent: Optional[str] = Field(None, description="The detected intent of the user's message.")
     agents_used: List[str] = Field([], description="A list of specialized AI agents utilized to fulfill the request.")
     requires_confirmation: bool = Field(False, description="Whether the system needs user confirmation to proceed with a pending action.")

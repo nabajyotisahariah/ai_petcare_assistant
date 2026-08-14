@@ -5,7 +5,7 @@ from crewai import Agent, LLM
 from app.tools.crew_tools import (
     find_nearby_clinics, is_clinic_open, get_clinic_doctors,
     get_available_slots, get_pet_profile, get_pet_visits, get_latest_prescription,
-    check_refill_eligibility, search_products
+    check_refill_eligibility, search_products, search_faq
 )
 from app.config import settings, BASE_DIR
 from app.models.model import llm
@@ -30,7 +30,7 @@ def create_orchestrator_agent() -> Agent:
         backstory=load_prompt("orchestrator.txt"),
         llm=llm,
         allow_delegation=True,
-        max_iter=1,
+        max_iter=3,
         verbose=False
     )
 
@@ -80,6 +80,19 @@ def create_prescription_agent() -> Agent:
         goal="Retrieve prescription history and check refill eligibility.",
         backstory=load_prompt("prescription_agent.txt"),
         tools=[get_latest_prescription, check_refill_eligibility],
+        llm=llm,
+        allow_delegation=False,
+        max_iter=1,
+        verbose=False
+    )
+
+def create_faq_agent() -> Agent:
+    logger.debug("create_faq_agent...")
+    return Agent(
+        role="FAQ Agent",
+        goal="Answer general clinic and policy questions using the FAQ knowledge base.",
+        backstory=load_prompt("faq_agent.txt"),
+        tools=[search_faq],
         llm=llm,
         allow_delegation=False,
         max_iter=1,

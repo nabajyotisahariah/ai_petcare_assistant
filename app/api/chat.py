@@ -30,6 +30,7 @@ Categories:
 3. PET: The user wants information about their pet's profile, history, or past visits.
 4. RX_REFILL: The user wants to check prescriptions or request a refill.
 5. COMMERCE: The user wants to find, buy, or get recommendations for pet products.
+7. CLINIC_FAQ: The user wants to ask about clinic policies, terms and conditions, cancellations, walk-ins, or other general rules.
 6. GENERAL: The user has a general question or greeting that doesn't fit the above.
 
 User Message: "{message}"
@@ -49,7 +50,7 @@ Intent Category:"""
         logger.info(f"simple_intent_parser llm.intent: {intent}, message: {message}")
             
         
-        valid_intents = ["CLINIC", "APPOINTMENT_BOOKING", "PET", "RX_REFILL", "COMMERCE", "GENERAL"]
+        valid_intents = ["CLINIC_FAQ", "CLINIC", "APPOINTMENT_BOOKING", "PET", "RX_REFILL", "COMMERCE", "GENERAL"]
         for valid in valid_intents:
             if valid in intent:
                 return valid
@@ -140,7 +141,13 @@ async def chat_endpoint(request: ChatRequest):
 
         try:
             parsed_data = json.loads(response_text)
-            final_message = parsed_data.get("message", response_text) if isinstance(parsed_data, dict) else response_text
+            if isinstance(parsed_data, dict):
+                final_message = parsed_data.get("message")
+                if not final_message:
+                    # Fallback if the LLM puts message in a nested structure or omits it
+                    final_message = str(parsed_data.get("response", "Here is the information you requested."))
+            else:
+                final_message = str(response_text)
         except json.JSONDecodeError:
             # Fallback for plain text response
             parsed_data = None

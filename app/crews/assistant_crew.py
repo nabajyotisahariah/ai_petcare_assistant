@@ -6,7 +6,8 @@ from app.agents.agents import (
     create_appointment_agent,
     create_pet_agent,
     create_prescription_agent,
-    create_commerce_agent
+    create_commerce_agent,
+    create_faq_agent
 )
 
 logger = logging.getLogger(__name__)
@@ -19,6 +20,7 @@ def build_assistant_crew(user_message: str, conversation_context: str, intent: s
     appointment_agent = create_appointment_agent()
     pet_agent = create_pet_agent()
     prescription_agent = create_prescription_agent()
+    faq_agent = create_faq_agent()
     commerce_agent = create_commerce_agent()
     
     # Define tasks for specialized agents
@@ -56,6 +58,13 @@ def build_assistant_crew(user_message: str, conversation_context: str, intent: s
         agent=commerce_agent,
         async_execution=True
     )
+    faq_task = Task(
+        description=f"Analyze the User Message: '{user_message}' and Context: '{conversation_context}'. If the user is asking about clinic policies, rules, cancellations, or general FAQs, use your tools to search the knowledge base. If not, indicate it is not applicable.",
+        expected_output="FAQ and policy details if requested. Otherwise, indicate no FAQ info was needed.",
+        agent=faq_agent,
+        async_execution=True
+    )
+
 
     # Conditionally include agents and tasks based on intent to reduce execution time
     agents_list = []
@@ -77,6 +86,9 @@ def build_assistant_crew(user_message: str, conversation_context: str, intent: s
     elif intent == "COMMERCE":
         agents_list = [commerce_agent]
         tasks_list = [commerce_task]
+    elif intent == "CLINIC_FAQ":
+        agents_list = [faq_agent]
+        tasks_list = [faq_task]
     else: # GENERAL
         agents_list = [pet_agent]
         tasks_list = [pet_task]

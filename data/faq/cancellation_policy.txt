@@ -1,2 +1,67 @@
-Cancellation Policy
-We require at least 24 hours notice for any appointment cancellations. Cancellations made with less than 24 hours notice may be subject to a $50 cancellation fee.
+Effective Date: January 1, 2026
+Document Type: Veterinary Clinic Cancellation Policy
+Applies To: Veterinary appointments booked through participating Petco veterinary clinics
+
+1. Appointment Cancellation
+
+Pet parents may cancel or reschedule a veterinary appointment through the online appointment system or by contacting the clinic directly.
+
+For the best availability, cancellations should be made at least 24 hours before the scheduled appointment time.
+
+2. Late Cancellations
+
+A cancellation made less than 24 hours before the scheduled appointment may be considered a late cancellation.
+
+Repeated late cancellations may result in restrictions on future appointment scheduling.
+
+3. No-Show Appointments
+
+An appointment is considered a no-show when the pet parent does not arrive for the appointment and does not contact the clinic.
+
+Repeated no-shows may result in additional scheduling restrictions.
+
+4. Cancellation Fees
+
+A cancellation or no-show fee may apply depending on the clinic and appointment type.
+
+If a fee applies, the pet parent will be informed during the appointment booking process or by the clinic.
+
+5. Rescheduling
+
+Pet parents may request to reschedule an appointment, subject to appointment availability.
+
+When possible, the clinic will offer alternative dates and times.
+
+6. Clinic-Initiated Cancellation
+
+If a clinic needs to cancel an appointment because of provider availability, operational issues, or other circumstances, the clinic will attempt to notify the pet parent and provide alternative appointment options.
+
+7. Emergency Situations
+
+For urgent or emergency veterinary situations, pet parents should contact the veterinary clinic directly or seek appropriate emergency veterinary care.
+
+Appointment cancellation procedures should not delay emergency veterinary treatment.
+
+8. Questions About Cancellation
+
+For questions regarding cancellation fees, appointment-specific policies, or clinic requirements, contact the veterinary clinic directly.
+
+FAQ examples for your RAG Agent
+
+Q: How far in advance should I cancel my appointment?
+A: Appointments should ideally be cancelled at least 24 hours before the scheduled appointment.
+
+Q: Will I be charged for cancelling an appointment?
+A: A cancellation fee may apply depending on the clinic and appointment type.
+
+Q: What happens if I don't show up?
+A: The appointment may be classified as a no-show. Repeated no-shows may result in scheduling restrictions.
+
+Q: Can I reschedule my appointment?
+A: Yes. Rescheduling is possible subject to appointment availability.
+
+Q: What if the clinic cancels my appointment?
+A: The clinic will attempt to notify you and provide alternative appointment options.
+
+Q: Does this policy apply to emergencies?
+A: Emergency situations should be handled by contacting the clinic directly or seeking appropriate emergency veterinary care. Cancellation procedures should not delay emergency treatment.

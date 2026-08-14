@@ -1,0 +1,170 @@
+If you're adding **dummy Terms & Conditions (T&C)** to your Petco AI PetCare Assistant demo/hackathon data, you can use the following clearly labeled fictional content:
+
+# Petco.com — Dummy Terms & Conditions
+
+> **Demo Data Notice:** The following Terms & Conditions are fictional sample content created for an AI PetCare Assistant / hackathon demonstration. They are **not the actual Petco.com Terms & Conditions** and should not be used as legal guidance.
+
+**Effective Date:** January 1, 2026
+**Last Updated:** January 1, 2026
+
+## 1. Acceptance of Terms
+
+By accessing or using Petco.com, its mobile applications, online services, or related services (collectively, the "Services"), you agree to comply with these Terms & Conditions.
+
+If you do not agree with these terms, please do not use the Services.
+
+## 2. Account Registration
+
+Certain features may require you to create an account. You are responsible for:
+
+* Providing accurate account information.
+* Maintaining the confidentiality of your login credentials.
+* Updating your information when necessary.
+* All activity performed through your account.
+
+Petco may suspend or terminate accounts that violate these Terms.
+
+## 3. Pet Profiles
+
+Users may create and maintain profiles for their pets.
+
+Pet profile information may include:
+
+* Pet name
+* Species
+* Breed
+* Age
+* Vaccination information
+* Medical visit history
+* Prescription information
+* Care preferences
+
+Users are responsible for ensuring that information they provide is accurate and up to date.
+
+## 4. Veterinary Services
+
+Information provided through the Services is intended to help users manage pet care and veterinary services.
+
+The Services do not replace professional veterinary advice.
+
+For medical emergencies, users should immediately contact a qualified veterinary professional or emergency veterinary facility.
+
+Petco and its affiliated service providers are not responsible for medical decisions made solely based on information displayed through the Services.
+
+## 5. Appointment Scheduling
+
+Users may be able to search for veterinary hospitals, view available services, and request or schedule appointments.
+
+Appointment availability may change at any time.
+
+An appointment is considered confirmed only after the applicable veterinary provider confirms the appointment.
+
+Users should contact the veterinary provider directly regarding cancellations, rescheduling, or appointment-specific requirements.
+
+## 6. Walk-In Services
+
+Some participating veterinary locations may accept walk-in visits.
+
+Walk-in availability is subject to:
+
+* Hospital operating hours.
+* Current patient volume.
+* Veterinary staff availability.
+* Medical urgency.
+* Local hospital policies.
+
+A walk-in request does not guarantee that a pet will be seen immediately.
+
+## 7. Prescription Refills
+
+Prescription refill requests may be submitted through supported services.
+
+A refill request does not guarantee approval.
+
+Prescription approval, dosage, availability, and dispensing decisions remain with the prescribing veterinarian and applicable pharmacy or veterinary provider.
+
+## 8. Products and Purchases
+
+Product descriptions, availability, prices, promotions, and estimated delivery dates may change without notice.
+
+Petco may limit quantities, cancel orders, or refuse transactions where permitted by applicable law.
+
+## 9. Product Recommendations
+
+The Services may provide personalized product recommendations based on information supplied by the user.
+
+Recommendations are intended for informational purposes only and do not constitute veterinary, medical, or professional advice.
+
+Users should consider their pet's individual needs before purchasing or using any product.
+
+## 10. Privacy and Pet Information
+
+Petco may collect information necessary to provide requested Services, including account, pet, order, appointment, and service information.
+
+Users should review the applicable privacy policy for information about how personal information is collected, used, stored, and shared.
+
+## 11. User Responsibilities
+
+Users agree not to:
+
+* Provide intentionally false information.
+* Attempt to access another user's account.
+* Misuse veterinary or prescription services.
+* Interfere with the operation of the Services.
+* Use automated systems to abuse or overload the Services.
+* Use the Services for unlawful purposes.
+
+## 12. AI Assistant
+
+The AI PetCare Assistant may help users:
+
+* Find veterinary hospitals.
+* Check hospital information.
+* Search for doctors.
+* Find appointment availability.
+* Review pet visit information.
+* Retrieve prescription information.
+* Submit prescription refill requests.
+* Find pet products.
+* Provide general pet-care recommendations.
+* Answer frequently asked questions.
+
+AI-generated responses may contain errors or incomplete information. Users should verify important information with the applicable veterinary professional, hospital, or Petco representative.
+
+## 13. Third-Party Services
+
+Certain Services may rely on third-party providers, including veterinary hospitals, pharmacies, delivery providers, payment processors, and technology providers.
+
+Third-party services may have separate terms and conditions.
+
+## 14. Limitation of Liability
+
+To the extent permitted by applicable law, Petco and its service providers will not be responsible for indirect, incidental, special, or consequential damages arising from use of the Services.
+
+Nothing in these Terms is intended to limit rights that cannot legally be limited.
+
+## 15. Changes to Terms
+
+These Terms may be updated periodically.
+
+Continued use of the Services after updated Terms become effective constitutes acceptance of the revised Terms, where permitted by applicable law.
+
+## 16. Contact and Support
+
+For questions regarding these Terms or the Services, users may contact Petco customer support through the applicable official support channels.
+
+---
+
+### AI Assistant Demo Rules
+
+For the hackathon implementation, the AI assistant should follow these rules when answering T&C questions:
+
+1. Use only the available T&C knowledge base.
+2. Do not invent policies that are not present in the knowledge base.
+3. Clearly state when information is unavailable.
+4. Do not provide legal advice.
+5. For veterinary medical questions, recommend contacting a qualified veterinarian when appropriate.
+6. For appointment, prescription, pricing, or availability information, use the appropriate backend/service rather than relying solely on the T&C document.
+7. If the user asks whether a policy is **official**, clearly distinguish this dummy/demo document from actual Petco policies.
+
+For your **PetCare Assistant**, I'd store this as a separate `clinic_faq` / `terms_conditions` knowledge document so the `CLINIC_FAQ` intent can retrieve it through RAG.

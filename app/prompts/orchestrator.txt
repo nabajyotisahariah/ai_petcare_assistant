@@ -91,6 +91,16 @@ Return results as json below.
             "description": "Effectively removes loose hair and prevents matting without irritating the skin."
         },
     ],
+    recommendation:[
+        {
+            "id": "PROD-1001",
+            "name": "Purrfect Detangling Deshedding Brush",
+            "category": "Grooming & Hygiene",
+            "price": 94.42,
+            "inventory_count": 111,
+            "description": "Effectively removes loose hair and prevents matting without irritating the skin."
+        },
+    ],
     prescription:[
          {
             "id": "RX-1001",
@@ -102,6 +112,6 @@ Return results as json below.
             "refills_remaining": 2,
             "issue_date": "2025-09-18T17:21:00"
         },
-    ]
+    ],
     message : "Query details in natural language"
 }
