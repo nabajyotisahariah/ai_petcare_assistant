@@ -1,6 +1,6 @@
 from crewai import Crew, Task, Process
 from app.agents.agents import (
-    #create_orchestrator_agent,
+    create_orchestrator_agent,
     create_clinic_agent,
     create_appointment_agent,
     create_pet_agent,
@@ -8,9 +8,9 @@ from app.agents.agents import (
     create_commerce_agent
 )
 
-def build_assistant_crew(user_message: str, conversation_context: str) -> Crew:
+def build_assistant_crew(user_message: str, conversation_context: str, intent: str = "GENERAL") -> Crew:
 
-    #orchestrator = create_orchestrator_agent()
+    orchestrator = create_orchestrator_agent()
     
     clinic_agent = create_clinic_agent()
     appointment_agent = create_appointment_agent()
@@ -50,18 +50,18 @@ def build_assistant_crew(user_message: str, conversation_context: str) -> Crew:
     )
 
     # Task: The orchestrator synthesizes the results
-    # task_analyze_and_respond = Task(
-    #     description=f"""
-    #     User Message: '{user_message}'
-    #     Conversation Context: '{conversation_context}'
+    task_analyze_and_respond = Task(
+        description=f"""
+        User Message: '{user_message}'
+        Conversation Context: '{conversation_context}'
         
-    #     1. Review the information retrieved by the specialized agents (clinic, appointment, pet, prescription, commerce).
-    #     2. Compile the relevant facts into a helpful, natural language response.
-    #     3. If the user wants to BOOK an appointment or REFILL a prescription, explain the options found, and ask for explicit confirmation (e.g., 'Would you like me to book the 10:30 AM slot?'). DO NOT book it yourself.
-    #     """,
-    #     expected_output="A natural language response answering the user's request in 100 words with facts retrieved by the specialized agents.",
-    #     agent=orchestrator
-    # )
+        1. Review the information retrieved by the specialized agents.
+        2. Compile the relevant facts into a helpful, natural language response.
+        3. If the user wants to BOOK an appointment or REFILL a prescription, explain the options found, and ask for explicit confirmation (e.g., 'Would you like me to book the 10:30 AM slot?'). DO NOT book it yourself.
+        """,
+        expected_output="A natural language response answering the user's request in 100 words with facts retrieved by the specialized agents.",
+        agent=orchestrator
+    )
 
     #Process.hierarchical, Dynamic Execution
     # crew = Crew(
@@ -78,24 +78,37 @@ def build_assistant_crew(user_message: str, conversation_context: str) -> Crew:
     #     verbose=True
     # )
 
-    #Process.hierarchical, Sequential Execution
+    # Conditionally include agents and tasks based on intent to reduce execution time
+    agents_list = []
+    tasks_list = []
+
+    if intent == "CLINIC":
+        agents_list = [clinic_agent]
+        tasks_list = [clinic_task]
+    elif intent == "APPOINTMENT_BOOKING":
+        # Often booking requires finding the clinic first, and pet info for context
+        agents_list = [clinic_agent, appointment_agent, pet_agent]
+        tasks_list = [clinic_task, appointment_task, pet_task]
+    elif intent == "PET":
+        agents_list = [pet_agent]
+        tasks_list = [pet_task]
+    elif intent == "RX_REFILL":
+        agents_list = [pet_agent, prescription_agent]
+        tasks_list = [pet_task, prescription_task]
+    elif intent == "COMMERCE":
+        agents_list = [commerce_agent]
+        tasks_list = [commerce_task]
+    else: # GENERAL
+        agents_list = [pet_agent]
+        tasks_list = [pet_task]
+
+    # Always append the orchestrator to synthesize the final response
+    agents_list.append(orchestrator)
+    tasks_list.append(task_analyze_and_respond)
+
     crew = Crew(
-        agents=[
-            clinic_agent,
-            appointment_agent,
-            pet_agent,
-            prescription_agent,
-            commerce_agent,
-            #orchestrator
-        ],
-        tasks=[
-            clinic_task,
-            appointment_task,
-            pet_task,
-            prescription_task,
-            commerce_task,
-            #task_analyze_and_respond
-        ],
+        agents=agents_list,
+        tasks=tasks_list,
         process=Process.sequential,
         verbose=True
     )

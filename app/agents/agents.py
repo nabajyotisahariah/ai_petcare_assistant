@@ -8,10 +8,11 @@ from app.tools.crew_tools import (
     check_refill_eligibility, search_products
 )
 from app.config import settings, BASE_DIR
+from app.models.model import llm
 
-llm = LLM(
-    model="openai/gpt-5-mini"
-)
+# llm = LLM(
+#     model="openai/gpt-5-mini"
+# )
 
 logger = logging.getLogger(__name__)
 
