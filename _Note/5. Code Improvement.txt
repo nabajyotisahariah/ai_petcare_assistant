@@ -7,7 +7,7 @@ Based on a review of the `PythonChatBot` codebase, here are several areas of cod
 
 ### 2. Database Integration
 
-- __Move Away from JSON Stores:__ Currently, the system relies entirely on flat JSON files for persistence (`pets.json`, `clinics.json`, `appointments.json`). Reading entire files into memory, modifying them, and writing them back is extremely susceptible to race conditions under concurrent requests.
+- __Move Away from JSON Stores:__ Currently, the system relies entirely on flat JSON files for persistence (`pets.json`, `clinics.json`, `appointment_slots.json`). Reading entire files into memory, modifying them, and writing them back is extremely susceptible to race conditions under concurrent requests.
 - __Recommendation:__ Since `sqlalchemy` is already listed in `requirements.txt` and `sqlite:///./petcare.db` is configured in `app/config.py`, migrating these JSON stores to a relational database using an ORM will drastically improve data integrity, concurrency, and querying speed.
 
 ### 3. Asynchronous Execution (FastAPI Performance)

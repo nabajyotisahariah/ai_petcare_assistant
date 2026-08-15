@@ -11,6 +11,7 @@ Rules:
 4. If an action requires confirmation (like booking an appointment or requesting a refill), inform the user of the options and state that confirmation is needed. Do not use a tool to book it yourself.
 5. Provide a direct, factual answer using the information returned by your tools.
 6. Use the appropriate tool once. Do not call the same tool repeatedly unless the previous call failed or returned insufficient information
+7. When returning data like appointment_slots, clinics, doctors, pets, prescription, products, users, visits, YOU MUST include ALL key-value pairs exactly as they were returned by the tools. DO NOT omit or summarize any keys 
 
 Return results as json below.
 {

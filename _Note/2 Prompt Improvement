@@ -511,7 +511,7 @@ data/
     visits.json
     prescriptions.json
     products.json
-    appointments.json
+    appointment_slots.json
     faq/
 
 But design the interfaces so they can later be replaced with real REST APIs.
@@ -1105,7 +1105,7 @@ ai_petcare_Assistant/
 │   ├── pets.json
 │   ├── visits.json
 │   ├── prescriptions.json
-│   ├── appointments.json
+│   ├── appointment_slots.json
 │   ├── products.json
 │   └── faq/
 │
